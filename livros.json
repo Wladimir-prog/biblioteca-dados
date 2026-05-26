@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "capa_url": "https://images-na.ssl-images-amazon.com/images/I/817VnclwGcL.jpg",
+    "sinopse": "Uma das obras-primas da nossa literatura, que narra a história de Bentinho e a misteriosa Capitu sob os olhos do ciúme.",
+    "arquivo_url": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/main/livros-txt/dom_casmurro.txt"
+  },
+  {
+    "id": 2,
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "ano_publicacao": 1890,
+    "sinopse": "Uma obra-prima do naturalismo brasileiro que retrata a vida dos moradores de uma habitação coletiva no Rio de Janeiro, onde as condições sociais moldam o caráter humano.",
+    "capa_url": "https://api.suabiblioteca.com/capas/o-cortico.jpg",
+    "arquivo_url": "https://api.suabiblioteca.com/e-books/o-cortico.epub",
+    "tamanho_kb": 410,
+    "total_paginas_estimado": 312
+  }
+]
