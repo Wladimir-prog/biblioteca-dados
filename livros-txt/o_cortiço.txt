@@ -1,34 +1,11 @@
+
+INÍCIO
+
 O CORTIÇO
 
 Aluísio Azevedo
 
-INDICE
-
-CAPITULO I
-CAPITULO II
-CAPITULO III
-CAPITULO IV
-CAPITULO V
-CAPITULO VI
-CAPITULO VII
-CAPITULO VIII
-CAPITULO IX
-CAPITULO X
-CAPITULO XI
-CAPITULO XII
-CAPITULO XIII
-CAPITULO XIV
-CAPITULO XV
-CAPITULO XVI
-CAPITULO XVII
-CAPITULO XVIII
-CAPITULO XIX
-CAPITULO XX
-CAPITULO XXI
-CAPITULO XXII
-CAPITULO XXIII
-
----
+Publicado em 1890, *O Cortiço*, de Aluísio Azevedo, consolidou-se como a obra-prima do Naturalismo brasileiro. Mais do que registrar a realidade das classes marginalizadas do Rio de Janeiro do século XIX, o romance inova ao transformar o próprio espaço coletivo — a estalagem de João Romão — no verdadeiro protagonista da narrativa. Sob a ótica determinista da época, Azevedo conduz uma análise social crua, onde o meio, a raça e o momento histórico atuam como forças implacáveis que moldam, transformam e, frequentemente, degradam o comportamento humano. Introduzir esta obra na atualidade exige compreender como o autor utilizou o zoomorfismo e a metáfora do "formigueiro" humano para expor as tensões sociais, a exploração capitalista e o choque cultural de um Brasil em transição, tornando-a um espelho contundente e ainda relevante das nossas contradições estruturais.
 
 CAPITULO I
 
@@ -248,7 +225,7 @@ E aquillo se foi constituindo n'uma grande lavanderia, agitada e barulhenta, com
 
 E n'aquella terra encharcada e fumegante, n'aquella humidade quente e lodosa, começou a minhocar, a esfervilhar, a crescer, um mundo, uma coisa viva, uma geração, que parecia brotar espontanea, ali mesmo, d'aquelle lameiro, e multiplicar-se como larvas no esterco.
 
-#### CAPITULO II
+ CAPITULO II
 
 E durante dous annos o cortiço prosperou de dia para dia, ganhando forças, socando-se de gente. E ao lado o Miranda assustava-se, inquieto com aquella exhuberancia brutal de vida, aterrado defronte d'aquella floresta implacavel que lhe crescia junto da casa, por debaixo das janellas, e cujas raizes, peiores e mais grossas do que serpentes, minavam por toda parte, ameaçando rebentar o chão em torno d'ella, rachando o solo e abalando tudo.
 
@@ -368,7 +345,7 @@ E acarinhou-o tão vivamente d'esta vez, que o estudante, fugindo-lhe das mãos,
 
 —Olha! Espera! Vem cá! Você é desconfiado!...
 
-#### CAPITULO III
+ CAPITULO III
 
 Eram cinco horas da manhã e o cortiço acordava, abrindo, não os olhos, mas a sua infinidade de portas e janellas alinhadas.
 
@@ -560,7 +537,7 @@ E assentou-se a uma das mezinhas, vindo logo o caixeiro cantar-lhe a lista dos p
 
 —Venha o verde; mas anda com isso, filho, que já não vem sem tempo!
 
-CAPITULO IV
+ CAPITULO IV
 
 Meia hora depois, quando João Romão se vio menos occupado, foi ter com o sujeito que o procurava e assentou-se defronte d'elle, cahindo de fadiga, mas sem se queixar, nem se lhe trahir na physionomia o menor symptoma de cansaço.
 
@@ -755,7 +732,7 @@ E, aligeirando o passo, penetraram na estrada do capinzal com direcção ao fund
 
 E o vendeiro empurrou a porta do fundo da estalagem, d'onde escapou, como de uma panella fervendo que se destapa, uma baforada quente, vozeria tresandante á fermentação de suores e roupa ensaboada seccando ao sol.
 
-#### CAPITULO V
+ CAPITULO V
 
 No dia seguinte, com effeito, ali pelas sete da manhã, quando o cortiço fervia já na costumada labutação, Jeronymo apresentou-se junto com a mulher, para tomarem conta da casinha alugada na vespera.
 
@@ -831,7 +808,7 @@ Depois, até ás horas de dormir, que nunca passavam das nove, elle tomava a sua
 
 E o canto d'aquella guitarra estrangeira era um lamento choroso e dolorido, eram vozes magoadas, mais tristes do que uma oração em alto mar, quando a tempestade agita as negras azas homicidas, e as gaivotas doidejam assanhadas, cortando a treva com os seus gemidos presagos, tontas como se estivessem fechadas dentro de uma abobada de chumbo.
 
-#### CAPITULO VI
+ CAPITULO VI
 
 Amanhecera um domingo alegre no cortiço, um bom dia de abril. Muita luz e pouco calor.
 
@@ -963,7 +940,7 @@ E depois que Pombinha escreveu, accrescentou:
 
 E a menina escrevia tudo, tudo, apenas interrompendo o seu trabalho para fitar, com a mão no queixo, o cavouqueiro, á espera de nova phrase.
 
-#### CAPITULO VII
+ CAPITULO VII
 
 E assim ia correndo o domingo no cortiço até ás tres da tarde, hora em que chegou mestre Firmo, acompanhado pelo seu amigo Porfiro, trazendo aquele o violão e o outro o cavaquinho.
 
@@ -1211,7 +1188,7 @@ Mas Jeronymo nada mais sentia, nem ouvia, do que aquela musica embalsamada de ba
 
 E, erguendo a cabeça, notou no mesmo céo, que elle nunca vira senão depois de sete horas de somno, que era já quasi occasião de entrar para o seu serviço, e resolveu não dormir, porque valia a pena esperar de pé.
 
-#### CAPITULO VIII
+ CAPITULO VIII
 
 No dia seguinte, Jeronymo largou o trabalho á hora de almoçar e, em vez de comer lá mesmo na pedreira com os companheiros, foi para casa. Mal tocou no que a mulher lhe apresentou á mesa e metteu-se logo depois na cama, ordenando-lhe que fosse ter com João Romão e lhe dissesse que elle estava incommodado e ficava de descanço aquelle dia.
 
@@ -1579,7 +1556,7 @@ Depois, deu um pulo ao quarto, mudou a saia molhada, atirou nos hombroso seu cha
 
 E as duas sahiram, ambas sacudidas, deixando atraz de si suspensa a curiosidade do cortiço inteiro.
 
-#### CAPITULO IX
+ CAPITULO IX
 
 Passaram-se semanas. Jeronymo tomava agora, todas as manhãs, umachicara de café bem grosso, á moda da Ritinha, e tragava dois dedos de paraty «pr'a cortar a friagem. »
 
@@ -2035,7 +2012,7 @@ E, para deixar bem patente as suas preferencias, virou o pé do lado e bateu com
 
 —Olha o bruto!... queixou-se esta, levando a mão ao logar da pancada. Sempre ha de mostrar que é gallego!
 
-#### CAPITULO X
+ CAPITULO X
 
 No outro dia a casa do Miranda estava em preparos de festa. Lia-se no «Jornal do Commercio» que S. Ex. fôra agraciado pelo governoportuguez como titulo de Barão do Freixal; e como os seus amigos se achassem prevenidos para ir comprimental-o no domingo, o negociantedispunha-se a recebel-os condignamente.
 
