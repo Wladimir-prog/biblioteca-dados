@@ -6,7 +6,7 @@
     "sinopse": "Obra máxima do Naturalismo brasileiro...",
     "capaUrl": "https://images-na.ssl-images-amazon.com/images/I/71MvE599g8L.jpg",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
-    "categorias": ["Literatura", "Naturalismo", "ENEM / Vestibulares", "Rodízio Literário"]
+"categorias": ["Literatura", "Literatura Brasileira", "Naturalismo", "Didático"] 
   },
   {
     "id": 2,
@@ -15,6 +15,17 @@
     "sinopse": "As memórias de Bento Santiago...",
     "capaUrl": "https://images-na.ssl-images-amazon.com/images/I/8177V9p9pGL.jpg",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro.txt",
-    "categorias": ["Literatura", "Realismo", "ENEM / Vestibulares", "Rodízio Literário"]
+    "categorias": ["Literatura", "Literatura Brasileira", "Realismo", "Didático"]
   }
+
+{
+    "id": 2,
+    "titulo": "História do Brasil Independente",
+    "autor": "Doutores em História",
+    "sinopse": "Análise analítica dos ciclos econômicos...",
+    "capaUrl": "",
+    "arquivoUrl": "https://...",
+    "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
+  }
+  
 ]
