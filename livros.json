@@ -32,7 +32,7 @@
     "autor": "Corpo Docente Pedagógico",
     "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
+ "arquivoUrl": "https://",
     "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
   },
   {
@@ -41,7 +41,7 @@
     "autor": "José de Alencar",
     "sinopse": "A virgem dos lábios de mel é a representação poética do mito de fundação do Brasil através do encontro entre a cultura indígena e europeia.",
     "capaUrl": "https://m.media-amazon.com/images/I/61G7h9I11rL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.txt",
+     "arquivoUrl": "https://",
     "categorias": ["Literatura", "Literatura Brasileira", "Romantismo", "Rodízio de Títulos"]
   },
   {
@@ -50,7 +50,7 @@
     "autor": "José de Alencar",
     "sinopse": "Romance histórico que exalta a figura mítica do índio Peri como o herói nacional idealizado durante a consolidação do Romantismo.",
     "capaUrl": "https://m.media-amazon.com/images/I/810-nZ4mRQL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani.txt",
+ "arquivoUrl": "https://",    
     "categorias": ["Literatura", "Literatura Brasileira", "Romantismo", "Exames e Vestibulares"]
   },
   {
@@ -59,8 +59,8 @@
     "autor": "Coelho Neto",
     "sinopse": "Uma obra densa que retrata o ambiente intelectual da virada do século XX, flertando com transições estilísticas marcantes da nossa história.",
     "capaUrl": "https://m.media-amazon.com/images/I/51Agh1-bQDL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge.txt",
-    "categorias": ["Literatura", "Literatura Brasileira", "Modernismo", "Rodízio de Títulos"]
+ "arquivoUrl": "https://",
+        "categorias": ["Literatura", "Literatura Brasileira", "Modernismo", "Rodízio de Títulos"]
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "autor": "Platão",
     "sinopse": "O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal e a célebre alegoria da caverna.",
     "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_republica.txt",
-    "categorias": ["Filosofia", "Filosofia Clássica"]
+ "arquivoUrl": "https://",
+        "categorias": ["Filosofia", "Filosofia Clássica"]
   },
   {
     "id": 9,
@@ -77,8 +77,8 @@
     "autor": "René Descartes",
     "sinopse": "A busca pelo fundamento seguro do conhecimento racional. Obra de onde surge a quebra metodológica do pensamento ocidental moderno.",
     "capaUrl": "https://m.media-amazon.com/images/I/71u96q6OmdL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/meditacoes_descartes.txt",
-    "categorias": ["Filosofia", "Filosofia Moderna"]
+ "arquivoUrl": "https://",
+        "categorias": ["Filosofia", "Filosofia Moderna"]
   },
   {
     "id": 10,
@@ -86,7 +86,7 @@
     "autor": "Núcleo de Apoio ao Estudante",
     "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
+ "arquivoUrl": "https://",
     "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
   },
   {
@@ -95,7 +95,7 @@
     "autor": "Suporte de Estudos e Instrução",
     "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
+ "arquivoUrl": "https://",
     "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "Geografia"]
   },
   {
@@ -104,8 +104,8 @@
     "autor": "Estudos Complementares",
     "sinopse": "Introdução teórica aos princípios da estruturação lógica do pensamento formal, silogismos e identificação de falácias retóricas.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
-    "categorias": ["Filosofia", "Filosofia Clássica", "Didático", "Ensino e Instrução"]
+ "arquivoUrl": "https://",
+        "categorias": ["Filosofia", "Filosofia Clássica", "Didático", "Ensino e Instrução"]
   },
   {
     "id": 13,
@@ -113,7 +113,7 @@
     "autor": "Suporte de Gramática e Texto",
     "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
+ "arquivoUrl": "https://",
     "categorias": ["Didático", "Ensino e Instrução", "Português", "Exames e Vestibulares"]
   },
   {
@@ -122,7 +122,7 @@
     "autor": "Círculos de Leitura Integrada",
     "sinopse": "Resumo cronológico contextualizando a transição do pensamento mítico para a razão grega, focando nos pensadores pré-socráticos.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
+ "arquivoUrl": "https://",
     "categorias": ["Filosofia", "Filosofia Clássica", "História"]
   },
   {
@@ -131,7 +131,7 @@
     "autor": "Estudos Modernos",
     "sinopse": "Abordagem didática simplificada sobre os limites da percepção sensível e o desenvolvimento das teorias do conhecimento racional.",
     "capaUrl": "",
-    "arquivoUrl": "Vazio",
-    "categorias": ["Filosofia", "Filosofia Moderna"]
+ "arquivoUrl": "https://",
+        "categorias": ["Filosofia", "Filosofia Moderna"]
   }
 ]
