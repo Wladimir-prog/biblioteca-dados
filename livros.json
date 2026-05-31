@@ -3,29 +3,135 @@
     "id": 1,
     "titulo": "O Cortiço",
     "autor": "Aluísio Azevedo",
-    "sinopse": "Obra máxima do Naturalismo brasileiro...",
+    "sinopse": "Obra máxima do Naturalismo brasileiro, onde a própria estalagem atua como personagem viva e transformadora dos indivíduos ao seu redor.",
     "capaUrl": "https://images-na.ssl-images-amazon.com/images/I/71MvE599g8L.jpg",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
-"categorias": ["Literatura", "Literatura Brasileira", "Naturalismo", "Didático"] 
+    "categorias": ["Literatura", "Literatura Brasileira", "Naturalismo", "Rodízio de Títulos"]
   },
   {
     "id": 2,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
-    "sinopse": "As memórias de Bento Santiago...",
+    "sinopse": "O clássico absoluto da nossa literatura. As memórias psicológicas de Bento Santiago e a ambiguidade do olhar de Capitu.",
     "capaUrl": "https://images-na.ssl-images-amazon.com/images/I/8177V9p9pGL.jpg",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro.txt",
-    "categorias": ["Literatura", "Literatura Brasileira", "Realismo", "Didático"]
-  }
-
-{
-    "id": 2,
-    "titulo": "História do Brasil Independente",
-    "autor": "Doutores em História",
-    "sinopse": "Análise analítica dos ciclos econômicos...",
+    "categorias": ["Literatura", "Literatura Brasileira", "Realismo", "Exames e Vestibulares"]
+  },
+  {
+    "id": 3,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "sinopse": "Um defunto autor narra suas memórias com ironia implacável, inaugurando oficialmente o Realismo no cenário literário brasileiro.",
+    "capaUrl": "https://m.media-amazon.com/images/I/71p-g8S2XhL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/memorias_bras_cubas.txt",
+    "categorias": ["Literatura", "Literatura Brasileira", "Realismo", "Exames e Vestibulares"]
+  },
+  {
+    "id": 4,
+    "titulo": "Guia de Orientação Escolar",
+    "autor": "Corpo Docente Pedagógico",
+    "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar.",
     "capaUrl": "",
-    "arquivoUrl": "https://...",
+    "arquivoUrl": "Vazio",
     "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
+  },
+  {
+    "id": 5,
+    "titulo": "Iracema",
+    "autor": "José de Alencar",
+    "sinopse": "A virgem dos lábios de mel é a representação poética do mito de fundação do Brasil através do encontro entre a cultura indígena e europeia.",
+    "capaUrl": "https://m.media-amazon.com/images/I/61G7h9I11rL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.txt",
+    "categorias": ["Literatura", "Literatura Brasileira", "Romantismo", "Rodízio de Títulos"]
+  },
+  {
+    "id": 6,
+    "titulo": "O Guarani",
+    "autor": "José de Alencar",
+    "sinopse": "Romance histórico que exalta a figura mítica do índio Peri como o herói nacional idealizado durante a consolidação do Romantismo.",
+    "capaUrl": "https://m.media-amazon.com/images/I/810-nZ4mRQL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani.txt",
+    "categorias": ["Literatura", "Literatura Brasileira", "Romantismo", "Exames e Vestibulares"]
+  },
+  {
+    "id": 7,
+    "titulo": "A Esfinge",
+    "autor": "Coelho Neto",
+    "sinopse": "Uma obra densa que retrata o ambiente intelectual da virada do século XX, flertando com transições estilísticas marcantes da nossa história.",
+    "capaUrl": "https://m.media-amazon.com/images/I/51Agh1-bQDL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge.txt",
+    "categorias": ["Literatura", "Literatura Brasileira", "Modernismo", "Rodízio de Títulos"]
+  },
+  {
+    "id": 8,
+    "titulo": "A República",
+    "autor": "Platão",
+    "sinopse": "O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal e a célebre alegoria da caverna.",
+    "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_republica.txt",
+    "categorias": ["Filosofia", "Filosofia Clássica"]
+  },
+  {
+    "id": 9,
+    "titulo": "Meditações Metafísicas",
+    "autor": "René Descartes",
+    "sinopse": "A busca pelo fundamento seguro do conhecimento racional. Obra de onde surge a quebra metodológica do pensamento ocidental moderno.",
+    "capaUrl": "https://m.media-amazon.com/images/I/71u96q6OmdL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/meditacoes_descartes.txt",
+    "categorias": ["Filosofia", "Filosofia Moderna"]
+  },
+  {
+    "id": 10,
+    "titulo": "Compêndio de História do Brasil",
+    "autor": "Núcleo de Apoio ao Estudante",
+    "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana.",
+    "capaUrl": "",
+    "arquivoUrl": "Vazio",
+    "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
+  },
+  {
+    "id": 11,
+    "titulo": "Elementos de Geografia e Clima",
+    "autor": "Suporte de Estudos e Instrução",
+    "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico.",
+    "capaUrl": "",
+    "arquivoUrl": "Vazio",
+    "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "Geografia"]
+  },
+  {
+    "id": 12,
+    "titulo": "Lógica Elementar e Argumentação",
+    "autor": "Estudos Complementares",
+    "sinopse": "Introdução teórica aos princípios da estruturação lógica do pensamento formal, silogismos e identificação de falácias retóricas.",
+    "capaUrl": "",
+    "arquivoUrl": "Vazio",
+    "categorias": ["Filosofia", "Filosofia Clássica", "Didático", "Ensino e Instrução"]
+  },
+  {
+    "id": 13,
+    "titulo": "Práticas Essenciais da Língua Portuguesa",
+    "autor": "Suporte de Gramática e Texto",
+    "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais.",
+    "capaUrl": "",
+    "arquivoUrl": "Vazio",
+    "categorias": ["Didático", "Ensino e Instrução", "Português", "Exames e Vestibulares"]
+  },
+  {
+    "id": 14,
+    "titulo": "Fundamentos Históricos da Filosofia",
+    "autor": "Círculos de Leitura Integrada",
+    "sinopse": "Resumo cronológico contextualizando a transição do pensamento mítico para a razão grega, focando nos pensadores pré-socráticos.",
+    "capaUrl": "",
+    "arquivoUrl": "Vazio",
+    "categorias": ["Filosofia", "Filosofia Clássica", "História"]
+  },
+  {
+    "id": 15,
+    "titulo": "Tratado Elementar da Razão Humana",
+    "autor": "Estudos Modernos",
+    "sinopse": "Abordagem didática simplificada sobre os limites da percepção sensível e o desenvolvimento das teorias do conhecimento racional.",
+    "capaUrl": "",
+    "arquivoUrl": "Vazio",
+    "categorias": ["Filosofia", "Filosofia Moderna"]
   }
-  
 ]
