@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Literatura e Poesia",
+    "tag": "Literatura",
+    "icone": "menu_book_rounded"
+  },
+  {
+    "titulo": "Filosofia e Religião",
+    "tag": "Filosofia",
+    "icone": "psychology_rounded"
+  },
+  {
+    "titulo": "Ensino e Instrução",
+    "tag": "Didático",
+    "icone": "assignment_rounded"
+  },
+  {
+    "titulo": "Institucional e Manuais da Empresa",
+    "tag": "Institucional",
+    "icone": "shield_rounded"
+  }
+]
