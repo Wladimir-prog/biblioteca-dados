@@ -7,7 +7,7 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico_capa.png",
     
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
-    "categorias": ["Literatura", "Literatura Brasileira", "Naturalismo", "Rodízio de Títulos"]
+    "categorias": ["Literatura"]
   },
   {
     "id": 2,
@@ -16,7 +16,7 @@
     "sinopse": "O clássico absoluto da nossa literatura. As memórias psicológicas de Bento Santiago e a ambiguidade do olhar de Capitu.",
     "capaUrl": "https://images-na.ssl-images-amazon.com/images/I/8177V9p9pGL.jpg",
    "arquivoUrl": "https://",
-    "categorias": ["Literatura", "Literatura Brasileira", "Realismo", "Exames e Vestibulares"]
+    "categorias": ["Literatura"]
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "sinopse": "Um defunto autor narra suas memórias com ironia implacável, inaugurando oficialmente o Realismo no cenário literário brasileiro.",
     "capaUrl": "https://m.media-amazon.com/images/I/71p-g8S2XhL._AC_UF1000,1000_QL80_.jpg",
     "arquivoUrl": "https://",
-    "categorias": ["Literatura", "Literatura Brasileira", "Realismo", "Exames e Vestibulares"]
+    "categorias": ["Literatura"]
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-    "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
+    "categorias": ["Didático"]
   },
   {
     "id": 5,
@@ -43,7 +43,7 @@
     "sinopse": "A virgem dos lábios de mel é a representação poética do mito de fundação do Brasil através do encontro entre a cultura indígena e europeia.",
     "capaUrl": "https://m.media-amazon.com/images/I/61G7h9I11rL._AC_UF1000,1000_QL80_.jpg",
      "arquivoUrl": "https://",
-    "categorias": ["Literatura", "Literatura Brasileira", "Romantismo", "Rodízio de Títulos"]
+    "categorias": ["Literatura"]
   },
   {
     "id": 6,
@@ -52,7 +52,7 @@
     "sinopse": "Romance histórico que exalta a figura mítica do índio Peri como o herói nacional idealizado durante a consolidação do Romantismo.",
     "capaUrl": "https://m.media-amazon.com/images/I/810-nZ4mRQL._AC_UF1000,1000_QL80_.jpg",
  "arquivoUrl": "https://",    
-    "categorias": ["Literatura", "Literatura Brasileira", "Romantismo", "Exames e Vestibulares"]
+    "categorias": ["Literatura"]
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "sinopse": "Uma obra densa que retrata o ambiente intelectual da virada do século XX, flertando com transições estilísticas marcantes da nossa história.",
     "capaUrl": "https://m.media-amazon.com/images/I/51Agh1-bQDL._AC_UF1000,1000_QL80_.jpg",
  "arquivoUrl": "https://",
-        "categorias": ["Literatura", "Literatura Brasileira", "Modernismo", "Rodízio de Títulos"]
+        "categorias": ["Literatura"]
   },
   {
     "id": 8,
@@ -70,7 +70,7 @@
     "sinopse": "O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal e a célebre alegoria da caverna.",
     "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
  "arquivoUrl": "https://",
-        "categorias": ["Filosofia", "Filosofia Clássica"]
+        "categorias": ["Filosofia"]
   },
   {
     "id": 9,
@@ -79,7 +79,7 @@
     "sinopse": "A busca pelo fundamento seguro do conhecimento racional. Obra de onde surge a quebra metodológica do pensamento ocidental moderno.",
     "capaUrl": "https://m.media-amazon.com/images/I/71u96q6OmdL._AC_UF1000,1000_QL80_.jpg",
  "arquivoUrl": "https://",
-        "categorias": ["Filosofia", "Filosofia Moderna"]
+        "categorias": ["Filosofia"]
   },
   {
     "id": 10,
@@ -88,7 +88,7 @@
     "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-    "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "História"]
+    "categorias": ["Didático"]
   },
   {
     "id": 11,
@@ -97,7 +97,7 @@
     "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-    "categorias": ["Didático", "Ensino e Instrução", "Ciências Sociais", "Geografia"]
+    "categorias": ["Didático"]
   },
   {
     "id": 12,
@@ -106,7 +106,7 @@
     "sinopse": "Introdução teórica aos princípios da estruturação lógica do pensamento formal, silogismos e identificação de falácias retóricas.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-        "categorias": ["Filosofia", "Filosofia Clássica", "Didático", "Ensino e Instrução"]
+        "categorias": ["Filosofia"]
   },
   {
     "id": 13,
@@ -115,7 +115,7 @@
     "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-    "categorias": ["Didático", "Ensino e Instrução", "Português", "Exames e Vestibulares"]
+    "categorias": ["Didático"]
   },
   {
     "id": 14,
@@ -124,7 +124,7 @@
     "sinopse": "Resumo cronológico contextualizando a transição do pensamento mítico para a razão grega, focando nos pensadores pré-socráticos.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-    "categorias": ["Filosofia", "Filosofia Clássica", "História"]
+    "categorias": ["Filosofia"]
   },
   {
     "id": 15,
@@ -133,6 +133,15 @@
     "sinopse": "Abordagem didática simplificada sobre os limites da percepção sensível e o desenvolvimento das teorias do conhecimento racional.",
     "capaUrl": "",
  "arquivoUrl": "https://",
-        "categorias": ["Filosofia", "Filosofia Moderna"]
+        "categorias": ["Filosofia"]
   }
+  {
+  "id": 2,
+  "titulo": "As Confissões",
+  "autor": "Santo Agostinho",
+  "sinopse": "Uma das maiores obras-primas da literatura ocidental, que une memórias, filosofia e teologia em uma jornada profunda de reflexão espiritual e busca pela verdade.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes.txt",
+  "categorias": ["Filosofia"]
+}
 ]
