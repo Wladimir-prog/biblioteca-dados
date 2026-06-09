@@ -136,12 +136,12 @@
         "categorias": ["Filosofia"]
   }
   {
-  "id": 2,
+  "id": 16,
   "titulo": "As Confissões",
   "autor": "Santo Agostinho",
   "sinopse": "Uma das maiores obras-primas da literatura ocidental, que une memórias, filosofia e teologia em uma jornada profunda de reflexão espiritual e busca pela verdade.",
   "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes_capa.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes.txt",
+  "arquivoUrl": "https://",
   "categorias": ["Filosofia"]
 }
 ]
