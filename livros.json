@@ -1,4 +1,14 @@
 [
+   {
+    "id": 1,
+    "titulo": "A Viuvinha",
+    "autor": "José de Alencar",
+    "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade para resgatar sua honra e recuperar o amor de sua vida.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
+    "categorias": ["Literatura"]
+  },
+
   {
     "id": 2,
     "titulo": "O Cortiço",
@@ -8,16 +18,7 @@
     "arquivoUrl": "",
     "categorias": ["Literatura"]
   },
-  {
-    "id": 1,
-    "titulo": "A Viuvinha",
-    "autor": "José de Alencar",
-    "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade para resgatar sua honra e recuperar o amor de sua vida.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
-    "categorias": ["Literatura"]
-  },
-  {
+   {
     "id": 3,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
