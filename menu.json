@@ -1,22 +1,19 @@
 [
   {
     "titulo": "Literatura e Poesia",
-    "tag": "Literatura",
-    "icone": "menu_book_rounded"
-  },
-  {
-    "titulo": "Filosofia e Religião",
-    "tag": "Filosofia",
-    "icone": "psychology_rounded"
+    "icone": "menu_book_rounded",
+    "submenus": [
+      {"titulo": "Literatura Brasileira", "tag": "Literatura_BR"},
+      {"titulo": "Literatura Estrangeira", "tag": "Literatura_EST"}
+    ]
   },
   {
     "titulo": "Ensino e Instrução",
-    "tag": "Didático",
-    "icone": "assignment_rounded"
-  },
-  {
-    "titulo": "Institucional e Manuais da Empresa",
-    "tag": "Institucional",
-    "icone": "shield_rounded"
+    "icone": "assignment_rounded",
+    "submenus": [
+      {"titulo": "Línguas e Humanas", "tag": "Didatico_Humanas"},
+      {"titulo": "Matemática e Exatas", "tag": "Didatico_Exatas"},
+      {"titulo": "Ciências da Natureza", "tag": "Didatico_Natureza"}
+    ]
   }
 ]
