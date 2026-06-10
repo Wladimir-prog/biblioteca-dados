@@ -151,5 +151,14 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes_capa.png",
     "arquivoUrl": "",
     "categorias": ["Filosofia"]
+  ,
+  {
+    "id": 18,
+    "titulo": "A República",
+    "autor": "Platão",
+    "sinopse": "O diálogo socrático fundamental escrito por volta de 380 a.C. que debate os conceitos de justiça, a organização política ideal de uma sociedade e apresenta a célebre alegoria da caverna, ensinando a importância da busca pela verdade e do conhecimento racional.",
+    "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
+    "categorias": ["Filosofia"]
   }
 ]
