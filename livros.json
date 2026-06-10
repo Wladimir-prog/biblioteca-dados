@@ -170,4 +170,13 @@
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.txt",
     "categorias": ["Didático"]
   }
+  {
+    "id": 20,
+    "titulo": "Regulamento de Convivência e Civismo",
+    "autor": "Corpo Docente e Direção",
+    "sinopse": "Manual prático contendo as normas de conduta, deveres, ritos institucionais e diretrizes éticas para os estudantes das escolas cívico-militares, promovendo a disciplina e o respeito mútuo.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.txt",
+    "categorias": ["Institucional"]
+  }
 ]
