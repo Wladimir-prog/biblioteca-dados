@@ -9,8 +9,19 @@
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
     "categorias": ["Literatura"]
   },
+  
   {
     "id": 2,
+    "titulo": "A Viuvinha",
+    "autor": "José de Alencar",
+    "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade para resgatar sua honra e recuperar o amor de sua vida.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
+    "categorias": ["Literatura"]
+  }
+
+  {
+    "id": 3,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
     "sinopse": "O clássico absoluto da nossa literatura. As memórias psicológicas de Bento Santiago e a ambiguidade do olhar de Capitu.",
@@ -19,7 +30,7 @@
     "categorias": ["Literatura"]
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Memórias Póstumas de Brás Cubas",
     "autor": "Machado de Assis",
     "sinopse": "Um defunto autor narra suas memórias com ironia implacável, inaugurando oficialmente o Realismo no cenário literário brasileiro.",
@@ -28,7 +39,7 @@
     "categorias": ["Literatura"]
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Guia de Orientação Escolar",
     "autor": "Corpo Docente Pedagógico",
     "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar.",
@@ -37,7 +48,7 @@
     "categorias": ["Institucional"]
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Iracema",
     "autor": "José de Alencar",
     "sinopse": "A virgem dos lábios de mel é a representação poética do mito de fundação do Brasil através do encontro entre a cultura indígena e europeia.",
@@ -46,7 +57,7 @@
     "categorias": ["Literatura"]
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "O Guarani",
     "autor": "José de Alencar",
     "sinopse": "Romance histórico que exalta a figura mítica do índio Peri como o herói nacional idealizado durante a consolidação do Romantismo.",
@@ -55,7 +66,7 @@
     "categorias": ["Literatura"]
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "A Esfinge",
     "autor": "Coelho Neto",
     "sinopse": "Uma obra densa que retrata o ambiente intelectual da virada do século XX, flertando com transições estilísticas marcantes da nossa história.",
@@ -64,7 +75,7 @@
         "categorias": ["Literatura"]
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "A República",
     "autor": "Platão",
     "sinopse": "O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal e a célebre alegoria da caverna.",
@@ -73,7 +84,7 @@
         "categorias": ["Filosofia"]
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "Meditações Metafísicas",
     "autor": "René Descartes",
     "sinopse": "A busca pelo fundamento seguro do conhecimento racional. Obra de onde surge a quebra metodológica do pensamento ocidental moderno.",
@@ -82,7 +93,7 @@
         "categorias": ["Filosofia"]
   },
   {
-    "id": 10,
+    "id": 11,
     "titulo": "Compêndio de História do Brasil",
     "autor": "Núcleo de Apoio ao Estudante",
     "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana.",
@@ -91,7 +102,7 @@
     "categorias": ["Didático"]
   },
   {
-    "id": 11,
+    "id": 12,
     "titulo": "Elementos de Geografia e Clima",
     "autor": "Suporte de Estudos e Instrução",
     "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico.",
@@ -100,7 +111,7 @@
     "categorias": ["Didático"]
   },
   {
-    "id": 12,
+    "id": 13,
     "titulo": "Lógica Elementar e Argumentação",
     "autor": "Estudos Complementares",
     "sinopse": "Introdução teórica aos princípios da estruturação lógica do pensamento formal, silogismos e identificação de falácias retóricas.",
@@ -109,7 +120,7 @@
         "categorias": ["Filosofia"]
   },
   {
-    "id": 13,
+    "id": 14,
     "titulo": "Práticas Essenciais da Língua Portuguesa",
     "autor": "Suporte de Gramática e Texto",
     "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais.",
@@ -118,7 +129,7 @@
     "categorias": ["Didático"]
   },
   {
-    "id": 14,
+    "id": 15,
     "titulo": "Fundamentos Históricos da Filosofia",
     "autor": "Círculos de Leitura Integrada",
     "sinopse": "Resumo cronológico contextualizando a transição do pensamento mítico para a razão grega, focando nos pensadores pré-socráticos.",
@@ -127,7 +138,7 @@
     "categorias": ["Filosofia"]
   },
   {
-    "id": 15,
+    "id": 16,
     "titulo": "Tratado Elementar da Razão Humana",
     "autor": "Estudos Modernos",
     "sinopse": "Abordagem didática simplificada sobre os limites da percepção sensível e o desenvolvimento das teorias do conhecimento racional.",
@@ -136,7 +147,7 @@
         "categorias": ["Filosofia"]
   },
   {
-  "id": 16,
+  "id": 17,
   "titulo": "As Confissões",
   "autor": "Santo Agostinho",
   "sinopse": "Uma das maiores obras-primas da literatura ocidental, que une memórias, filosofia e teologia em uma jornada profunda de reflexão espiritual e busca pela verdade.",
