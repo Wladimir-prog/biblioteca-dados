@@ -161,13 +161,13 @@
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
     "categorias": ["Filosofia"]
   },
-  { () – Esta é a obra que inventou a própria noção de tempo histórico da humanidade. Antes de Heródoto (484 a.C. – 425 a.C.)
+  { 
     "id": 19,
     "titulo": "Histórias (Livro I: Clio)",
     "autor": "Heródoto de Halicarnasso",
     "sinopse": "Esta é a obra que inventou a própria noção de tempo histórico da humanidade. Antes de Heródoto (484 a.C. – 425 a.C.).",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.txt",
-    "categorias": ["Filosofia"]
+    "categorias": ["Didático"]
   }
 ]
