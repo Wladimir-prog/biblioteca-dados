@@ -1,14 +1,13 @@
 [
-   {
+  {
     "id": 1,
     "titulo": "A Viuvinha",
     "autor": "José de Alencar",
     "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade para resgatar sua honra e recuperar o amor de sua vida.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
-    "categorias": ["Literatura"]
+    "categorias": ["Literatura_BR"]
   },
-
   {
     "id": 2,
     "titulo": "O Cortiço",
@@ -16,16 +15,16 @@
     "sinopse": "Obra máxima do Naturalismo brasileiro, onde a própria estalagem atua como personagem viva e transformadora dos indivíduos ao seu redor.",
     "capaUrl": "",
     "arquivoUrl": "",
-    "categorias": ["Literatura"]
+    "categorias": ["Literatura_BR"]
   },
-   {
+  {
     "id": 3,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
     "sinopse": "O clássico absoluto da nossa literatura. As memórias psicológicas de Bento Santiago e a ambiguidade do olhar de Capitu.",
     "capaUrl": "",
     "arquivoUrl": "",
-    "categorias": ["Literatura"]
+    "categorias": ["Literatura_BR"]
   },
   {
     "id": 4,
@@ -34,7 +33,7 @@
     "sinopse": "Um defunto autor narra suas memórias com ironia implacável, inaugurando oficialmente o Realismo no cenário literário brasileiro.",
     "capaUrl": "https://m.media-amazon.com/images/I/71p-g8S2XhL._AC_UF1000,1000_QL80_.jpg",
     "arquivoUrl": "",
-    "categorias": ["Literature"]
+    "categorias": ["Literatura_BR"]
   },
   {
     "id": 5,
@@ -43,7 +42,7 @@
     "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar.",
     "capaUrl": "",
     "arquivoUrl": "",
-    "categorias": ["Institucional"]
+    "categorias": ["Inst_Guias"]
   },
   {
     "id": 6,
@@ -52,7 +51,7 @@
     "sinopse": "A virgem dos lábios de mel é a representação poética do mito de fundação do Brasil através do encontro entre a cultura indígena e europeia.",
     "capaUrl": "https://m.media-amazon.com/images/I/61G7h9I11rL._AC_UF1000,1000_QL80_.jpg",
     "arquivoUrl": "",
-    "categorias": ["Literatura"]
+    "categorias": ["Literatura_BR"]
   },
   {
     "id": 7,
@@ -61,7 +60,7 @@
     "sinopse": "Romance histórico que exalta a figura mítica do índio Peri como o herói nacional idealizado durante a consolidação do Romantismo.",
     "capaUrl": "https://m.media-amazon.com/images/I/810-nZ4mRQL._AC_UF1000,1000_QL80_.jpg",
     "arquivoUrl": "",
-    "categorias": ["Literatura"]
+    "categorias": ["Literatura_BR"]
   },
   {
     "id": 8,
@@ -70,7 +69,7 @@
     "sinopse": "Uma obra densa que retrata o ambiente intelectual da virada do século XX, flertando com transições estilísticas marcantes da nossa história.",
     "capaUrl": "https://m.media-amazon.com/images/I/51Agh1-bQDL._AC_UF1000,1000_QL80_.jpg",
     "arquivoUrl": "",
-    "categorias": ["Literatura"]
+    "categorias": ["Literatura_BR"]
   },
   {
     "id": 9,
@@ -97,7 +96,7 @@
     "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana.",
     "capaUrl": "",
     "arquivoUrl": "",
-    "categorias": ["Didático"]
+    "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 12,
@@ -106,7 +105,7 @@
     "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico.",
     "capaUrl": "",
     "arquivoUrl": "",
-    "categorias": ["Didático"]
+    "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 13,
@@ -124,7 +123,7 @@
     "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais.",
     "capaUrl": "",
     "arquivoUrl": "",
-    "categorias": ["Didático"]
+    "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 15,
@@ -162,14 +161,14 @@
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
     "categorias": ["Filosofia"]
   },
-  { 
+  {
     "id": 19,
     "titulo": "Histórias (Livro I: Clio)",
     "autor": "Heródoto de Halicarnasso",
     "sinopse": "Esta é a obra que inventou a própria noção de tempo histórico da humanidade. Antes de Heródoto (484 a.C. – 425 a.C.).",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.txt",
-    "categorias": ["Didático"]
+    "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 20,
@@ -178,6 +177,6 @@
     "sinopse": "Manual prático contendo as normas de conduta, deveres, ritos institucionais e diretrizes éticas para os estudantes das escolas cívico-militares, promovendo a disciplina e o respeito mútuo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.txt",
-    "categorias": ["Institucional"]
+    "categorias": ["Inst_Normas"]
   }
 ]
