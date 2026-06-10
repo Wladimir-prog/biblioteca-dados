@@ -151,7 +151,7 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes_capa.png",
     "arquivoUrl": "",
     "categorias": ["Filosofia"]
-  ,
+  },
   {
     "id": 18,
     "titulo": "A República",
@@ -159,6 +159,15 @@
     "sinopse": "O diálogo socrático fundamental escrito por volta de 380 a.C. que debate os conceitos de justiça, a organização política ideal de uma sociedade e apresenta a célebre alegoria da caverna, ensinando a importância da busca pela verdade e do conhecimento racional.",
     "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
+    "categorias": ["Filosofia"]
+  },
+  { () – Esta é a obra que inventou a própria noção de tempo histórico da humanidade. Antes de Heródoto (484 a.C. – 425 a.C.)
+    "id": 19,
+    "titulo": "Histórias (Livro I: Clio)",
+    "autor": "Heródoto de Halicarnasso",
+    "sinopse": "Esta é a obra que inventou a própria noção de tempo histórico da humanidade. Antes de Heródoto (484 a.C. – 425 a.C.).",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.txt",
     "categorias": ["Filosofia"]
   }
 ]
