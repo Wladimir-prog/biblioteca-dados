@@ -1,15 +1,15 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "titulo": "O Cortiço",
     "autor": "Aluísio Azevedo",
     "sinopse": "Obra máxima do Naturalismo brasileiro, onde a própria estalagem atua como personagem viva e transformadora dos indivíduos ao seu redor.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
+    "capaUrl": "",
+    "arquivoUrl": "",
     "categorias": ["Literatura"]
   },
   {
-    "id": 2,
+    "id": 1,
     "titulo": "A Viuvinha",
     "autor": "José de Alencar",
     "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade para resgatar sua honra e recuperar o amor de sua vida.",
@@ -22,7 +22,7 @@
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
     "sinopse": "O clássico absoluto da nossa literatura. As memórias psicológicas de Bento Santiago e a ambiguidade do olhar de Capitu.",
-    "capaUrl": "https://images-na.ssl-images-amazon.com/images/I/8177V9p9pGL.jpg",
+    "capaUrl": "",
     "arquivoUrl": "",
     "categorias": ["Literatura"]
   },
