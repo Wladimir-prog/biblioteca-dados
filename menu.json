@@ -8,12 +8,27 @@
     ]
   },
   {
+    "titulo": "Filosofia e Religião",
+    "icone": "psychology_rounded",
+    "submenus": [
+      {"titulo": "Filosofia Geral", "tag": "Filosofia"}
+    ]
+  },
+  {
     "titulo": "Ensino e Instrução",
     "icone": "assignment_rounded",
     "submenus": [
       {"titulo": "Línguas e Humanas", "tag": "Didatico_Humanas"},
       {"titulo": "Matemática e Exatas", "tag": "Didatico_Exatas"},
       {"titulo": "Ciências da Natureza", "tag": "Didatico_Natureza"}
+    ]
+  },
+  {
+    "titulo": "Institucional e Manuais",
+    "icone": "shield_rounded",
+    "submenus": [
+      {"titulo": "Comunicados e Normas", "tag": "Inst_Normas"},
+      {"titulo": "Guias e Manuais", "tag": "Inst_Guias"}
     ]
   }
 ]
