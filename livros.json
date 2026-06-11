@@ -3,8 +3,8 @@
     "id": 1,
     "titulo": "A Viuvinha",
     "autor": "José de Alencar",
-    "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade para resgatar sua honra e recuperar o amor de sua vida.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
+    "sinopse": "Publicado em 1857, este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha arduamente sob nova identidade.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
     "categorias": ["Literatura_BR"]
   },
@@ -12,161 +12,161 @@
     "id": 2,
     "titulo": "O Cortiço",
     "autor": "Aluísio Azevedo",
-    "sinopse": "Obra máxima do Naturalismo brasileiro, onde a própria estalagem atua como personagem viva e transformadora dos indivíduos ao seu redor.",
-    "capaUrl": "",
-    "arquivoUrl": "",
+    "sinopse": "Obra máxima do Naturalismo brasileiro de 1890, onde a própria estalagem fluminense atua como um personagem vivo e implacável, moldando, transformando e degradando os indivíduos e os instintos humanos ao seu redor.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
     "categorias": ["Literatura_BR"]
   },
   {
     "id": 3,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
-    "sinopse": "O clássico absoluto da nossa literatura. As memórias psicológicas de Bento Santiago e a ambiguidade do olhar de Capitu.",
-    "capaUrl": "",
-    "arquivoUrl": "",
+    "sinopse": "O clássico absoluto da nossa literatura lançado em 1899. As memórias psicológicas do idoso Bento Santiago que reconstrói sua juventude, atormentado pela dúvida eterna sobre a fidelidade de Capitu e os mistérios de seus olhos de ressaca.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa3.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/domcasmurro.txt",
     "categorias": ["Literatura_BR"]
   },
   {
     "id": 4,
     "titulo": "Memórias Póstumas de Brás Cubas",
     "autor": "Machado de Assis",
-    "sinopse": "Um defunto autor narra suas memórias com ironia implacável, inaugurando oficialmente o Realismo no cenário literário brasileiro.",
-    "capaUrl": "https://m.media-amazon.com/images/I/71p-g8S2XhL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "",
+    "sinopse": "Um defunto autor que, já no além-túmulo, decide narrar suas memórias com uma ironia implacável e pessimista, criticando a elite carioca da época e inaugurando oficialmente o Realismo no cenário literário brasileiro em 1881.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa4.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/brascubas.txt",
     "categorias": ["Literatura_BR"]
   },
   {
     "id": 5,
     "titulo": "Guia de Orientação Escolar",
     "autor": "Corpo Docente Pedagógico",
-    "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar.",
-    "capaUrl": "",
-    "arquivoUrl": "",
+    "sinopse": "Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar, servindo como um manual de apoio ético e institucional diário.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa5.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/guia_orientacao.txt",
     "categorias": ["Inst_Guias"]
   },
   {
     "id": 6,
     "titulo": "Iracema",
     "autor": "José de Alencar",
-    "sinopse": "A virgem dos lábios de mel é a representação poética do mito de fundação do Brasil através do encontro entre a cultura indígena e europeia.",
-    "capaUrl": "https://m.media-amazon.com/images/I/61G7h9I11rL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "",
+    "sinopse": "Publicado em 1865, a virgem dos lábios de mel é a representação poética e mítica da fundação da identidade brasileira através do encontro trágico entre a cultura indígena nativa e o colonizador europeu Martim.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa6.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.txt",
     "categorias": ["Literatura_BR"]
   },
   {
     "id": 7,
     "titulo": "O Guarani",
     "autor": "José de Alencar",
-    "sinopse": "Romance histórico que exalta a figura mítica do índio Peri como o herói nacional idealizado durante a consolidação do Romantismo.",
-    "capaUrl": "https://m.media-amazon.com/images/I/810-nZ4mRQL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "",
+    "sinopse": "Romance histórico lançado em 1857 que exalta a figura mítica do índio Peri como o autêntico herói nacional idealizado. Ambientado nas florestas coloniais, retrata o amor irredutível do guerreiro pela jovem Ceci.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa7.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/oguarani.txt",
     "categorias": ["Literatura_BR"]
   },
   {
     "id": 8,
     "titulo": "A Esfinge",
     "autor": "Coelho Neto",
-    "sinopse": "Uma obra densa que retrata o ambiente intelectual da virada do século XX, flertando com transições estilísticas marcantes da nossa história.",
-    "capaUrl": "https://m.media-amazon.com/images/I/51Agh1-bQDL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "",
+    "sinopse": "Uma narrativa densa e sofisticada de 1908 que retrata o ambiente acadêmico, intelectual e as transformações dos costumes urbanos na virada do século XX, flertando com debates sobre a modernidade nacional.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa8.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aesfinge.txt",
     "categorias": ["Literatura_BR"]
   },
   {
     "id": 9,
     "titulo": "A República",
     "autor": "Platão",
-    "sinopse": "O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal e a célebre alegoria da caverna.",
-    "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "",
-    "categorias": ["Filosofia"]
+    "sinopse": "c. 380 a.C. O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal de uma sociedade e apresenta a célebre alegoria da caverna, ensinando a importância da busca pelo saber.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa9.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 10,
     "titulo": "Meditações Metafísicas",
     "autor": "René Descartes",
-    "sinopse": "A busca pelo fundamento seguro do conhecimento racional. Obra de onde surge a quebra metodológica do pensamento ocidental moderno.",
-    "capaUrl": "https://m.media-amazon.com/images/I/71u96q6OmdL._AC_UF1000,1000_QL80_.jpg",
-    "arquivoUrl": "",
-    "categorias": ["Filosofia"]
+    "sinopse": "1641. A busca pelo fundamento seguro do conhecimento racional. Obra de onde surge a quebra metodológica do pensamento ocidental moderno, instituindo a dúvida como rito de validação científica.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa10.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/meditacoes.txt",
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 11,
     "titulo": "Compêndio de História do Brasil",
     "autor": "Núcleo de Apoio ao Estudante",
-    "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana.",
-    "capaUrl": "",
-    "arquivoUrl": "",
+    "sinopse": "Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana. Focado na preparação de exames e roteiros de estudos nacionais.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/compendio_historia.txt",
     "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 12,
     "titulo": "Elementos de Geografia e Clima",
     "autor": "Suporte de Estudos e Instrução",
-    "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico.",
-    "capaUrl": "",
-    "arquivoUrl": "",
+    "sinopse": "Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico, oferecendo mapas conceituais de rápida fixação.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/geografia_clima.txt",
     "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 13,
     "titulo": "Lógica Elementar e Argumentação",
     "autor": "Estudos Complementares",
-    "sinopse": "Introdução teórica aos princípios da estruturação lógica do pensamento formal, silogismos e identificação de falácias retóricas.",
-    "capaUrl": "",
-    "arquivoUrl": "",
-    "categorias": ["Filosofia"]
+    "sinopse": "Introdução teórica e prática aos princípios da estruturação lógica do pensamento formal, silogismos aristotélicos e identificação de falácias e manobras retóricas cotidianas.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa3.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/logica_argumentacao.txt",
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 14,
     "titulo": "Práticas Essenciais da Língua Portuguesa",
     "autor": "Suporte de Gramática e Texto",
-    "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais.",
-    "capaUrl": "",
-    "arquivoUrl": "",
+    "sinopse": "Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais, com exemplos resolvidos de forma didática.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa4.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/praticas_lingua.txt",
     "categorias": ["Didatico_Humanas"]
   },
   {
     "id": 15,
     "titulo": "Fundamentos Históricos da Filosofia",
     "autor": "Círculos de Leitura Integrada",
-    "sinopse": "Resumo cronológico contextualizando a transição do pensamento mítico para a razão grega, focando nos pensadores pré-socráticos.",
-    "capaUrl": "",
-    "arquivoUrl": "",
-    "categorias": ["Filosofia"]
+    "sinopse": "Resumo cronológico de base conceitual contextualizando a transição do pensamento mítico para a razão grega, focando nas primeiras escolas cosmológicas pré-socráticas.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa5.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/fundamentos_filosofia.txt",
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 16,
     "titulo": "Tratado Elementar da Razão Humana",
     "autor": "Estudos Modernos",
-    "sinopse": "Abordagem didática simplificada sobre os limites da percepção sensível e o desenvolvimento das teorias do conhecimento racional.",
-    "capaUrl": "",
-    "arquivoUrl": "",
-    "categorias": ["Filosofia"]
+    "sinopse": "Abordagem didática simplificada sobre os limites da percepção sensível, as engrenagens intelectuais e o desenvolvimento das teorias modernas do conhecimento racional.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa6.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/tratado_razao.txt",
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 17,
     "titulo": "As Confissões",
     "autor": "Santo Agostinho",
-    "sinopse": "Uma das maiores obras-primas da literatura ocidental, que une memórias, filosofia e teologia em uma jornada profunda de reflexão espiritual e busca pela verdade.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes_capa.png",
-    "arquivoUrl": "",
-    "categorias": ["Filosofia"]
+    "sinopse": "c. 397 d.C. Uma das maiores obras-primas da literatura ocidental, que une memórias pessoais, filosofia e teologia em uma jornada profunda de reflexão espiritual e busca pela verdade.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa7.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes.txt",
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 18,
-    "titulo": "A República",
+    "titulo": "A República (Edição Integral)",
     "autor": "Platão",
-    "sinopse": "O diálogo socrático fundamental escrito por volta de 380 a.C. que debate os conceitos de justiça, a organização política ideal de uma sociedade e apresenta a célebre alegoria da caverna, ensinando a importância da busca pela verdade e do conhecimento racional.",
-    "capaUrl": "https://m.media-amazon.com/images/I/81T6876RkXL._AC_UF1000,1000_QL80_.jpg",
+    "sinopse": "c. 380 a.C. O diálogo socrático fundamental que debate os conceitos de justiça, a organização política ideal de uma sociedade e apresenta a célebre alegoria da caverna, ensinando o conhecimento racional.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa8.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
-    "categorias": ["Filosofia"]
+    "categorias": ["Filosofia_Classica"]
   },
   {
     "id": 19,
     "titulo": "Histórias (Livro I: Clio)",
     "autor": "Heródoto de Halicarnasso",
-    "sinopse": "Esta é a obra que inventou a própria noção de tempo histórico da humanidade. Antes de Heródoto (484 a.C. – 425 a.C.).",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias_capa.png",
+    "sinopse": "c. 440 a.C. Esta é a obra pioneira que fundou a própria noção de investigação e tempo histórico da humanidade, organizando memórias coletivas e as relações geográficas das civilizações antigas.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa9.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.txt",
     "categorias": ["Didatico_Humanas"]
   },
@@ -174,8 +174,8 @@
     "id": 20,
     "titulo": "Regulamento de Convivência e Civismo",
     "autor": "Corpo Docente e Direção",
-    "sinopse": "Manual prático contendo as normas de conduta, deveres, ritos institucionais e diretrizes éticas para os estudantes das escolas cívico-militares, promovendo a disciplina e o respeito mútuo.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento_capa.png",
+    "sinopse": "Manual prático contendo as normas de conduta, deveres, ritos institucionais e diretrizes éticas para os estudantes, promovendo o exercício maduro da disciplina e o respeito mútuo.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa10.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.txt",
     "categorias": ["Inst_Normas"]
   }
