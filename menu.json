@@ -13,16 +13,15 @@
         },
         {
           "tag": "Literatura_EST",
-          "titulo": "Literatura Extrangeira",
+          "titulo": "Literatura Estrangeira",
           "icone": "public",
           "descricao": "Obras e clássicos da literatura mundial traduzidos."
         }
       ]
     },
-	
     {
       "tag_macro": "Filosofia",
-      "titulo_macro": "Filosofia",
+      "titulo_macro": "Filosofia e Religião",
       "icone_macro": "psychology",
       "subcategorias": [
         {
@@ -34,7 +33,7 @@
         {
           "tag": "Filosofia_Medieval",
           "titulo": "Filosofia Medieval",
-          "icone": "church",
+          "icone": "gavel",
           "descricao": "Do séc. V ao séc. XV. A fusão histórica entre a razão e a fé cristã."
         },
         {
@@ -48,6 +47,12 @@
           "titulo": "Filosofia Contemporânea",
           "icone": "gavel",
           "descricao": "Do séc. XIX aos dias atuais. Críticas à razão, linguagem e sociedade."
+        },
+        {
+          "tag": "Religiao_Teologia",
+          "titulo": "Religião e Teologia",
+          "icone": "church",
+          "descricao": "Estudos teológicos, obras de espiritualidade e grandes tradições de fé."
         }
       ]
     },
