@@ -11,9 +11,11 @@
     "titulo": "Filosofia e Religião",
     "icone": "psychology_rounded",
     "submenus": [
-      {"titulo": "Filosofia Geral", "tag": "Filosofia"}
+      {"titulo": "Clássica e Moderna", "tag": "Filosofia_Classica"},
+      {"titulo": "Filosofia Contemporânea", "tag": "Filosofia_Contemporanea"}
     ]
   },
+ 
   {
     "titulo": "Ensino e Instrução",
     "icone": "assignment_rounded",
