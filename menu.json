@@ -1,35 +1,99 @@
-[
-  {
-    "titulo": "Literatura e Poesia",
-    "icone": "menu_book_rounded",
-    "submenus": [
-      {"titulo": "Literatura Brasileira", "tag": "Literatura_BR"},
-      {"titulo": "Literatura Estrangeira", "tag": "Literatura_EST"}
-    ]
-  },
-  {
-    "titulo": "Filosofia e Religião",
-    "icone": "psychology_rounded",
-    "submenus": [
-      {"titulo": "Clássica e Moderna", "tag": "Filosofia_Classica"},
-      {"titulo": "Filosofia Contemporânea", "tag": "Filosofia_Contemporanea"}
-    ]
-  },
-  {
-    "titulo": "Ensino e Instrução",
-    "icone": "assignment_rounded",
-    "submenus": [
-      {"titulo": "Línguas e Humanas", "tag": "Didatico_Humanas"},
-      {"titulo": "Matemática e Exatas", "tag": "Didatico_Exatas"},
-      {"titulo": "Ciências da Natureza", "tag": "Didatico_Natureza"}
-    ]
-  },
-  {
-    "titulo": "Institucional e Manuais",
-    "icone": "shield_rounded",
-    "submenus": [
-      {"titulo": "Comunicados e Normas", "tag": "Inst_Normas"},
-      {"titulo": "Guias e Manuais", "tag": "Inst_Guias"}
-    ]
-  }
-]
+{
+  "categorias_menu": [
+    {
+      "tag_macro": "Literatura",
+      "titulo_macro": "Literatura",
+      "icone_macro": "auto_stories",
+      "subcategorias": [
+        {
+          "tag": "Literatura_BR",
+          "titulo": "Literatura Brasileira",
+          "icone": "menu_book",
+          "descricao": "Clássicos do cenário literário e romancistas nacionais."
+        },
+        {
+          "tag": "Literatura_EST",
+          "titulo": "Literatura Extrangeira",
+          "icone": "public",
+          "descricao": "Obras e clássicos da literatura mundial traduzidos."
+        }
+      ]
+    },
+	
+    {
+      "tag_macro": "Filosofia",
+      "titulo_macro": "Filosofia",
+      "icone_macro": "psychology",
+      "subcategorias": [
+        {
+          "tag": "Filosofia_Antiga",
+          "titulo": "Filosofia Antiga",
+          "icone": "gavel",
+          "descricao": "Do séc. VI a.C. ao séc. V d.C. Foco na origem do pensamento racional."
+        },
+        {
+          "tag": "Filosofia_Medieval",
+          "titulo": "Filosofia Medieval",
+          "icone": "church",
+          "descricao": "Do séc. V ao séc. XV. A fusão histórica entre a razão e a fé cristã."
+        },
+        {
+          "tag": "Filosofia_Moderna",
+          "titulo": "Filosofia Moderna",
+          "icone": "wb_sunny",
+          "descricao": "Do séc. XVI ao séc. XVIII. Nascimento da ciência, Racionalismo e Empirismo."
+        },
+        {
+          "tag": "Filosofia_Contemporanea",
+          "titulo": "Filosofia Contemporânea",
+          "icone": "gavel",
+          "descricao": "Do séc. XIX aos dias atuais. Críticas à razão, linguagem e sociedade."
+        }
+      ]
+    },
+    {
+      "tag_macro": "Didaticos",
+      "titulo_macro": "Livros Didáticos",
+      "icone_macro": "school",
+      "subcategorias": [
+        {
+          "tag": "Didatico_Humanas",
+          "titulo": "Línguas e Humanas",
+          "icone": "history_edu",
+          "descricao": "Conteúdos didáticos de História, Geografia e Língua Portuguesa."
+        },
+        {
+          "tag": "Didatico_Exatas",
+          "titulo": "Matemática e Exatas",
+          "icone": "functions",
+          "descricao": "Livros de apoio, fórmulas e conceitos de ciências exatas."
+        },
+        {
+          "tag": "Didatico_Natureza",
+          "titulo": "Ciências da Natureza",
+          "icone": "biotech",
+          "descricao": "Estudos de Biologia, Física e Química Geral."
+        }
+      ]
+    },
+    {
+      "tag_macro": "Institucional",
+      "titulo_macro": "Institucional",
+      "icone_macro": "business",
+      "subcategorias": [
+        {
+          "tag": "Inst_Normas",
+          "titulo": "Comunicados e Normas",
+          "icone": "assignment_late",
+          "descricao": "Regulamentos vigentes e regimentos internos institucionais."
+        },
+        {
+          "tag": "Inst_Guias",
+          "titulo": "Guias e Manuais",
+          "icone": "help_center",
+          "descricao": "Manuais práticos de apoio e orientação estudantil diária."
+        }
+      ]
+    }
+  ]
+}
