@@ -169,5 +169,14 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.txt",
     "categorias": ["Inst_Normas"]
+  },
+   {
+    "id": 20,
+    "titulo": "Evangelio de Lucas",
+    "autor": "Evangelho Segundo Lucas",
+    "sinopse": "O Evangelho de Lucas narra a história de Jesus Cristo com rigor histórico e sensibilidade humana, apresentando-o como o Salvador de toda a humanidade.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/Lucas.txt",
+    "categorias": ["Religiao_Teologia"]
   }
 ]
