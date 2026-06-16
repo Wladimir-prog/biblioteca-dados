@@ -49,7 +49,7 @@
     "titulo": "Iracema",
     "autor": "José de Alencar",
     "sinopse": "1865. A virgem dos lábios de mel é a representação poética e mítica da fundação da identidade brasileira. Retrata o encontro trágico entre a cultura indígena nativa e o colonizador europeu Martim.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.txt",
     "categorias": ["Literatura_BR"]
   },
