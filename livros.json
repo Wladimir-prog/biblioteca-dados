@@ -67,8 +67,8 @@
     "titulo": "A Esfinge",
     "autor": "Coelho Neto",
     "sinopse": "1908. Uma narrativa densa e sofisticada que retrata o ambiente acadêmico, intelectual e as transformações dos costumes urbanos na virada do século XX, flertando com debates sobre a modernidade nacional.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aesfinge.txt",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge.txt",
     "categorias": ["Literatura_BR"]
   },
   {
