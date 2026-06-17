@@ -178,5 +178,14 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/saolucas_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/Evangelho_Lucas.txt",
     "categorias": ["Religiao_Teologia"]
-  }
+  },
+  {
+  "id": 21,
+  "titulo": "Vidas Secas",
+  "autor": "Desconhecido",
+  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa9.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
+  "categories": ["Literatura_BR"]
+}
 ]
