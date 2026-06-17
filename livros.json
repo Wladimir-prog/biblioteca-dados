@@ -214,6 +214,15 @@
   "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias_capa.png",
   "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias.txt",
   "categorias": ["Literatura_BR"]
+},
+  {
+  "id": 25,
+  "titulo": "Urupês",
+  "autor": "Monteiro Lobato",
+  "sinopse": "1914. O conto que chocou o cenário literário nacional ao inaugurar a figura do Jeca Tatu, criticando com ironia e crueza o abandono do caboclo do interior e desmistificando a visão romântica da vida no campo.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes.txt",
+  "categorias": ["Literatura_BR"]
 }
   
 ]
