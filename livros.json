@@ -205,6 +205,15 @@
   "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.png",
   "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.txt",
   "categorias": ["Literatura_BR"]
+},
+  {
+  "id": 24,
+  "titulo": "Memórias de um Sargento de Milícias",
+  "autor": "Manuel Antônio de Almeida",
+  "sinopse": "1852. Romance que foge ao idealismo romântico tradicional para retratar o cotidiano das classes populares e malandros do Rio de Janeiro colonial, acompanhando as traquinagens e a evolução do anti-herói Leonardo.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias.txt",
+  "categorias": ["Literatura_BR"]
 }
   
 ]
