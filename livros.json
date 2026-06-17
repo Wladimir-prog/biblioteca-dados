@@ -196,6 +196,15 @@
   "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma_capa.png",
   "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma.txt",
   "categorias": ["Literatura_BR"]
+},
+  {
+  "id": 23,
+  "titulo": "O Ateneu",
+  "autor": "Raul Pompéia",
+  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.txt",
+  "categories": ["Literatura_BR"]
 }
   
 ]
