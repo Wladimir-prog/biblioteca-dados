@@ -40,7 +40,7 @@
   "titulo": "Vidas Secas",
   "autor": "Graciliano Ramos",
   "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa9.png",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas_capas.png",
   "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
   "categorias": ["Literatura_BR"]
 },
