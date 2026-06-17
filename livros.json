@@ -187,6 +187,15 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/saolucas_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/Evangelho_Lucas.txt",
     "categorias": ["Religiao_Teologia"]
-  }
+  },
+  {
+  "id": 22,
+  "titulo": "Policarpo Quaresma",
+  "autor": "Desconhecido",
+  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma.txt",
+  "categories": ["Literatura_BR"]
+}
   
 ]
