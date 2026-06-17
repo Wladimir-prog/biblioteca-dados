@@ -36,7 +36,16 @@
     "categorias": ["Literatura_BR"]
   },
   {
-    "id": 5,
+  "id": 5,
+  "titulo": "Vidas Secas",
+  "autor": "Graciliano Ramos",
+  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa9.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
+  "categorias": ["Literatura_BR"]
+},
+  {
+    "id": 6,
     "titulo": "Guia de Orientação Escolar",
     "autor": "Corpo Docente Pedagógico",
     "sinopse": "Século XXI. Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar, servindo como um manual de apoio ético e institucional diário.",
@@ -45,7 +54,7 @@
     "categorias": ["Inst_Guias"]
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Iracema",
     "autor": "José de Alencar",
     "sinopse": "1865. A virgem dos lábios de mel é a representação poética e mítica da fundação da identidade brasileira. Retrata o encontro trágico entre a cultura indígena nativa e o colonizador europeu Martim.",
@@ -54,7 +63,7 @@
     "categorias": ["Literatura_BR"]
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "O Guarani",
     "autor": "José de Alencar",
     "sinopse": "1857. Romance histórico que exalta a figura mítica do índio Peri como o autêntico herói nacional idealizado. Ambientado nas florestas coloniais, retrata o amor irredutível do guerreiro pela jovem Ceci.",
@@ -63,7 +72,7 @@
     "categorias": ["Literatura_BR"]
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "A Esfinge",
     "autor": "Coelho Neto",
     "sinopse": "1908. Uma narrativa densa e sofisticada que retrata o ambiente acadêmico, intelectual e as transformações dos costumes urbanos na virada do século XX, flertando com debates sobre a modernidade nacional.",
@@ -72,7 +81,7 @@
     "categorias": ["Literatura_BR"]
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "A República",
     "autor": "Platão",
     "sinopse": "c. 380 a.C. Filosofia Clássica: Foco na origem do pensamento racional, englobando Platão e Sócrates neste diálogo fundamental que debate a justiça, a organização política ideal e apresenta a célebre alegoria da caverna.",
@@ -81,7 +90,7 @@
     "categorias": ["Filosofia_Classica"]
   },
   {
-    "id": 10,
+    "id": 11,
     "titulo": "Meditações Metafísicas",
     "autor": "René Descartes",
     "sinopse": "1641. Filosofia Moderna: O nascimento da ciência moderna focado na razão humana e no Racionalismo. A obra institui a dúvida metódica como rito rigoroso para a validação do conhecimento seguro.",
@@ -90,7 +99,7 @@
     "categorias": ["Filosofia_Moderna"]
   },
   {
-    "id": 11,
+    "id": 12,
     "titulo": "Compêndio de História do Brasil",
     "autor": "Núcleo de Apoio ao Estudante",
     "sinopse": "Século XXI. Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana. Focado na preparação de exames e roteiros de estudos nacionais.",
@@ -99,7 +108,7 @@
     "categorias": ["Didatico_Humanas"]
   },
   {
-    "id": 12,
+    "id": 13,
     "titulo": "Elementos de Geografia e Clima",
     "autor": "Suporte de Estudos e Instrução",
     "sinopse": "Século XXI. Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico, oferecendo mapas conceituais de rápida fixação.",
@@ -108,7 +117,7 @@
     "categorias": ["Didatico_Humanas"]
   },
   {
-    "id": 13,
+    "id": 14,
     "titulo": "Lógica Elementar e Argumentação",
     "autor": "Estudos Complementares",
     "sinopse": "Século VI a.C. Filosofia Clássica: Foco na origem do pensamento racional. Uma introdução teórica e prática aos princípios da estruturação silogística aristotélica e identificação de falácias cotidianas.",
@@ -117,7 +126,7 @@
     "categorias": ["Filosofia_Classica"]
   },
   {
-    "id": 14,
+    "id": 15,
     "titulo": "Práticas Essenciais da Língua Portuguesa",
     "autor": "Suporte de Gramática e Texto",
     "sinopse": "Século XXI. Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais, com exemplos resolvidos de forma didática.",
@@ -126,7 +135,7 @@
     "categorias": ["Didatico_Humanas"]
   },
   {
-    "id": 15,
+    "id": 16,
     "titulo": "Fundamentos Históricos da Filosofia",
     "autor": "Círculos de Leitura Integrada",
     "sinopse": "Século VI a.C. Filosofia Clássica: Investigação sobre a transição do pensamento mítico para a razão grega (Logos), destacando a busca pelo princípio fundamental do cosmos nas escolas pré-socráticas.",
@@ -135,7 +144,7 @@
     "categorias": ["Filosofia_Classica"]
   },
   {
-    "id": 16,
+    "id": 17,
     "titulo": "Tratado Elementar da Razão Humana",
     "autor": "Estudos Modernos",
     "sinopse": "Século XVII. Filosofia Moderna: Foco na experiência e na razão humana. Abordagem didática simplificada sobre as engrenagens intelectuais que compõem o desenvolvimento das teorias do conhecimento moderno.",
@@ -144,7 +153,7 @@
     "categorias": ["Filosofia_Moderna"]
   },
   {
-    "id": 17,
+    "id": 18,
     "titulo": "As Confissões",
     "autor": "Santo Agostinho",
     "sinopse": "c. 397 d.C. Religião e Teologia: Fusão marcante entre a razão e a fé cristã. Uma jornada profunda que une memórias pessoais, reflexão espiritual e busca sobre a natureza do tempo e a verdade de Deus.",
@@ -153,7 +162,7 @@
     "categorias": ["Religiao_Teologia", "Filosofia_Medieval"]
   },
   {
-    "id": 18,
+    "id": 19,
     "titulo": "Histórias (Livro I: Clio)",
     "autor": "Heródoto de Halicarnasso",
     "sinopse": "c. 440 a.C. Esta é a obra pioneira que fundou a própria noção de investigação e tempo histórico da humanidade, organizando memórias coletivas e as relações geográficas das civilizações antigas.",
@@ -162,7 +171,7 @@
     "categorias": ["Didatico_Humanas"]
   },
   {
-    "id": 19,
+    "id": 20,
     "titulo": "Regulamento de Convivência e Civismo",
     "autor": "Corpo Docente e Direção",
     "sinopse": "Século XXI. Manual prático contendo as normas de conduta, deveres, ritos institucionais e diretrizes éticas para os estudantes, promovendo o exercício maduro da disciplina e o respeito mútuo.",
@@ -171,21 +180,13 @@
     "categorias": ["Inst_Normas"]
   },
    {
-    "id": 20,
+    "id": 21,
     "titulo": "Evangelho de Lucas",
     "autor": "Evangelho Segundo Lucas",
     "sinopse": "O Evangelho de Lucas narra a história de Jesus Cristo com rigor histórico e sensibilidade humana, apresentando-o como o Salvador de toda a humanidade.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/saolucas_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/Evangelho_Lucas.txt",
     "categorias": ["Religiao_Teologia"]
-  },
-  {
-  "id": 21,
-  "titulo": "Vidas Secas",
-  "autor": "Graciliano Ramos",
-  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa9.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
-  "categorias": ["Literatura_BR"]
-}
+  }
+  
 ]
