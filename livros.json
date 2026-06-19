@@ -223,6 +223,14 @@
   "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes_capa.png",
   "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes.txt",
   "categorias": ["Literatura_BR"]
+},
+  {
+  "id": 26,
+  "titulo": "Noite na Taverna",
+  "autor": "Álvares de Azevedo",
+  "sinopse": "1855. Publicado postumamente, este livro reúne contos góticos e românticos narrados por jovens boêmios em uma taverna. As histórias exploram temas como amor, morte, loucura e o sobrenatural, refletindo o ultrarromantismo brasileiro.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.txt",
+  "categorias": ["Literatura_BR"]
 }
-  
 ]
