@@ -1,0 +1,29 @@
+{
+  "categorias_menu": [
+    {
+      "tag_macro": "Literatura_BR",
+      "titulo_macro": "Literatura Brasileira",
+      "icone_macro": "menu_book",
+      "subcategorias": [
+        {"titulo": "Barroco e Origens", "tag": "Barroco_BR", "icone": "history_edu"},
+        {"titulo": "Romantismo", "tag": "Romantismo", "icone": "auto_stories"},
+        {"titulo": "Realismo e Parnasianismo", "tag": "Realismo", "icone": "psychology"},
+        {"titulo": "Naturalismo", "tag": "Naturalismo", "icone": "gavel"},
+        {"titulo": "Modernismo", "tag": "Modernismo", "icone": "palette"},
+        {"titulo": "Contemporânea", "tag": "Contemporanea_BR", "icone": "deck"}
+      ]
+    },
+    {
+      "tag_macro": "Literatura_EST",
+      "titulo_macro": "Literatura Estrangeira",
+      "icone_macro": "public",
+      "subcategorias": [
+        {"titulo": "Anglo-Americana", "tag": "ANG_EST", "icone": "flag"},
+        {"titulo": "Literatura Russa", "tag": "RUS_EST", "icone": "ac_unit"},
+        {"titulo": "Francesa e Ocidental", "tag": "EU_OC_EST", "icone": "euro"},
+        {"titulo": "Hispano-Portuguesa", "tag": "HISP_PT_EST", "icone": "language"},
+        {"titulo": "Oriental e Africana", "tag": "OUTRAS_EST", "icone": "terrain"}
+      ]
+    }
+  ]
+}
