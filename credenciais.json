@@ -1,7 +1,7 @@
 {
   "tokens_autorizados": [
     {
-      "chave": "SENSEI2026",
+      "chave": "JUDOCA2026",
       "perfil": "aluno",
       "ativo": true,
       "descricao": "Acesso padrão para os alunos do Judô"
