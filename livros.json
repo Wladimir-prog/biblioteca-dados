@@ -232,5 +232,41 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.txt",
     "categorias": ["Literatura_BR", "Romantismo"]
+  },
+  {
+    "id": 27,
+    "titulo": "Noites Brancas",
+    "autor": "Fiódor Dostoiévski",
+    "sinopse": "1848. Um jovem sonhador e solitário vaga pelas noites de São Petersburgo até encontrar Nástenka. Ao longo de quatro noites, estabelece-se um sensível e doloroso debate sobre a solidão, o amor idealizado e as ilusões da juventude.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noitesbrancas.txt",
+    "categorias": ["Literatura_EST", "RUS_EST"]
+  },
+  {
+    "id": 28,
+    "titulo": "O Corvo",
+    "autor": "Edgar Allan Poe",
+    "sinopse": "1845. Obra-prima da poesia gótica e fantástica. Em uma noite sombria, um amante tomado pelo luto e pela melancolia recebe a visita de um corvo misterioso, cujas respostas repetitivas o conduzem ao limiar da loucura.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocorvo.txt",
+    "categorias": ["Literatura_EST", "ANG_EST"]
+  },
+  {
+    "id": 29,
+    "titulo": "Hamlet",
+    "autor": "William Shakespeare",
+    "sinopse": "c. 1601. A tragédia definitiva da literatura ocidental. O príncipe da Dinamarca busca vingar a morte de seu pai, o rei, enfrentando dilemas existenciais profundos sobre a vida, a morte, a traição e a loucura simulada.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/hamlet.txt",
+    "categorias": ["Literatura_EST", "ANG_EST"]
+  },
+  {
+    "id": 30,
+    "titulo": "O Capote",
+    "autor": "Nikolai Gogol",
+    "sinopse": "1842. Obra fundadora do Realismo russo. A narrativa acompanha a história de Akaki Akakievitch, um modesto copista de repartição pública que economiza obsessivamente para comprar um novo capote, expondo a frieza da burocracia social.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocapote.txt",
+    "categorias": ["Literatura_EST", "RUS_EST"]
   }
 ]
