@@ -1,7 +1,7 @@
 {
   "tokens_autorizados": [
     {
-      "chave": "JUDOCAS2026",
+      "chave": "JUDOCAS_MAISQUEVENCEDORES",
       "perfil": "aluno",
       "ativo": true,
       "descricao": "Acesso padrão para os alunos do Judô"
