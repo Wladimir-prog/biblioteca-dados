@@ -6,7 +6,7 @@
     "sinopse": "1857. Este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha sob nova identidade.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
     "id": 2,
@@ -15,16 +15,16 @@
     "sinopse": "1890. Obra máxima do Naturalismo brasileiro, onde a própria estalagem fluminense atua como um personagem vivo e implacável. O ambiente molda, transforma e degrada os indivíduos e os instintos humanos ao seu redor.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_cortico_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_cortico.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Naturalismo"]
   },
   {
     "id": 3,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
-    "sinopse": "1899. O clássico absoluto da nossa literatura. Apresenta as memórias psicológicas do idoso Bento Santiago que reconstrói sua juventude, atormentado pela dúvida eterna sobre a fidelidade de Capitu e seus olhos de ressaca.",
+    "sinopse": "1899. O clássico absoluto da nossa literature. Apresenta as memórias psychological de Bento Santiago que reconstrói sua juventude, atormentado pela dúvida eterna sobre a fidelidade de Capitu.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Realismo"]
   },
   {
     "id": 4,
@@ -33,17 +33,17 @@
     "sinopse": "1881. Um defunto autor que, já no além-túmulo, decide narrar suas memórias com uma ironia implacável e pessimista. A obra critica a elite carioca da época e inaugura oficialmente o Realismo no cenário nacional.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/brascubas_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/brascubas.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Realismo"]
   },
   {
-  "id": 5,
-  "titulo": "Vidas Secas",
-  "autor": "Graciliano Ramos",
-  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas_capas.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
-  "categorias": ["Literatura_BR"]
-},
+    "id": 5,
+    "titulo": "Vidas Secas",
+    "autor": "Graciliano Ramos",
+    "sinopse": "1938. Romance fundamental da Geração de 30 do Modernismo. Retrata a fuga dolorosa de Fabiano, Sinhá Vitória, os meninos e a cachorra Baleia contra a seca impiedosa do sertão nordestino.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas_capas.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
+    "categorias": ["Literatura_BR", "Modernismo"]
+  },
   {
     "id": 6,
     "titulo": "Guia de Orientação Escolar",
@@ -60,7 +60,7 @@
     "sinopse": "1865. A virgem dos lábios de mel é a representação poética e mítica da fundação da identidade brasileira. Retrata o encontro trágico entre a cultura indígena nativa e o colonizador europeu Martim.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "sinopse": "1857. Romance histórico que exalta a figura mítica do índio Peri como o autêntico herói nacional idealizado. Ambientado nas florestas coloniais, retrata o amor irredutível do guerreiro pela jovem Ceci.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "sinopse": "1908. Uma narrativa densa e sofisticada que retrata o ambiente acadêmico, intelectual e as transformações dos costumes urbanos na virada do século XX, flertando com debates sobre a modernidade nacional.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge.txt",
-    "categorias": ["Literatura_BR"]
+    "categorias": ["Literatura_BR", "Modernismo"]
   },
   {
     "id": 10,
@@ -120,7 +120,7 @@
     "id": 14,
     "titulo": "Lógica Elementar e Argumentação",
     "autor": "Estudos Complementares",
-    "sinopse": "Século VI a.C. Filosofia Clássica: Foco na origem do pensamento racional. Uma introdução teórica e prática aos princípios da estruturação silogística aristotélica e identificação de falácias cotidianas.",
+    "sinopse": "Século VI a.C. Filosofia Clássica: Foco na origem do pensamento racional. Uma introdução teórica e prática aos princípios da estruturação silogística aristotélica e identification de falácias cotidianas.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/logicaargumentacao.txt",
     "categorias": ["Filosofia_Classica"]
@@ -179,7 +179,7 @@
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.txt",
     "categorias": ["Inst_Normas"]
   },
-   {
+  {
     "id": 21,
     "titulo": "Evangelho de Lucas",
     "autor": "Evangelho Segundo Lucas",
@@ -189,48 +189,48 @@
     "categorias": ["Religiao_Teologia"]
   },
   {
-  "id": 22,
-  "titulo": "Policarpo Quaresma",
-  "autor": "Lima Barreto",
-  "sinopse": "**1911.** O romance narra a saga de Policarpo Quaresma, patriota idealista que propõe a oficialização do tupi-guarani. Diante da burocracia e da tirania militar, ele ruma para um fim trágico que expõe o autoritarismo e o colapso de seus sonhos na nova República.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma_capa.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma.txt",
-  "categorias": ["Literatura_BR"]
-},
+    "id": 22,
+    "titulo": "Policarpo Quaresma",
+    "autor": "Lima Barreto",
+    "sinopse": "1911. O romance narra a saga de Policarpo Quaresma, patriota idealista que propõe a oficialização do tupi-guarani. Diante da burocracia e da tirania militar, ele ruma para um fim trágico que expõe o autoritarismo.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma.txt",
+    "categorias": ["Literatura_BR", "Modernismo"]
+  },
   {
-  "id": 23,
-  "titulo": "O Ateneu",
-  "autor": "Raul Pompéia",
-  "sinopse": "Obra literária processada de forma automatizada para o catálogo.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.txt",
-  "categorias": ["Literatura_BR"]
-},
+    "id": 23,
+    "titulo": "O Ateneu",
+    "autor": "Raul Pompéia",
+    "sinopse": "1888. Obra-prima do Impressionismo e Realismo brasileiro. Uma crítica feroz e psicológica aos ritos internos e corrupções morais de um colégio interno sob a direção do severo Aristarco.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.txt",
+    "categorias": ["Literatura_BR", "Realismo"]
+  },
   {
-  "id": 24,
-  "titulo": "Memórias de um Sargento de Milícias",
-  "autor": "Manuel Antônio de Almeida",
-  "sinopse": "1852. Romance que foge ao idealismo romântico tradicional para retratar o cotidiano das classes populares e malandros do Rio de Janeiro colonial, acompanhando as traquinagens e a evolução do anti-herói Leonardo.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias_capa.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias.txt",
-  "categorias": ["Literatura_BR"]
-},
+    "id": 24,
+    "titulo": "Memórias de um Sargento de Milícias",
+    "autor": "Manuel Antônio de Almeida",
+    "sinopse": "1852. Romance que foge ao idealismo romântico tradicional para retratar o cotidiano das classes populares e malandros do Rio de Janeiro colonial, acompanhando as traquinagens e a evolução do anti-herói Leonardo.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias.txt",
+    "categorias": ["Literatura_BR", "Romantismo"]
+  },
   {
-  "id": 25,
-  "titulo": "Urupês",
-  "autor": "Monteiro Lobato",
-  "sinopse": "1914. O conto que chocou o cenário literário nacional ao inaugurar a figura do Jeca Tatu, criticando com ironia e crueza o abandono do caboclo do interior e desmistificando a visão romântica da vida no campo.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes_capa.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes.txt",
-  "categorias": ["Literatura_BR"]
-},
+    "id": 25,
+    "titulo": "Urupês",
+    "autor": "Monteiro Lobato",
+    "sinopse": "1914. O conto que chocou o cenário literário nacional ao inaugurar a figura do Jeca Tatu, criticando com ironia e crueza o abandono do caboclo do interior e desmistificando a visão romântica da vida no campo.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes.txt",
+    "categorias": ["Literatura_BR", "Modernismo"]
+  },
   {
-"id": 26,
+    "id": 26,
     "titulo": "Noite na Taverna",
     "autor": "Álvares de Azevedo",
     "sinopse": "1855. Publicado postumamente, este livro reúne contos góticos e românticos narrados por jovens boêmios em uma taverna. As histórias exploram temas como amor, morte, loucura e o sobrenatural, refletindo o ultrarromantismo brasileiro.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna_organizado.txt",
-    "categorias": ["Literatura_BR"]
-}
+    "categorias": ["Literatura_BR", "Romantismo"]
+  }
 ]
