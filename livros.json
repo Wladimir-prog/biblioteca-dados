@@ -247,8 +247,8 @@
     "titulo": "O Corvo",
     "autor": "Edgar Allan Poe",
     "sinopse": "1845. Obra-prima da poesia gótica e fantástica. Em uma noite sombria, um amante tomado pelo luto e pela melancolia recebe a visita de um corvo misterioso, cujas respostas repetitivas o conduzem ao limiar da loucura.",
-    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocorvo.txt",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_corvo_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_corvo.txt",
     "categorias": ["Literatura_EST", "ANG_EST"]
   },
   {
