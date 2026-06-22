@@ -239,7 +239,7 @@
     "autor": "Fiódor Dostoiévski",
     "sinopse": "1848. Um jovem sonhador e solitário vaga pelas noites de São Petersburgo até encontrar Nástenka. Ao longo de quatro noites, estabelece-se um sensível e doloroso debate sobre a solidão, o amor idealizado e as ilusões da juventude.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noites_brancas_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noitesbrancas.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noites_brancas.txt",
     "categorias": ["Literatura_EST", "RUS_EST"]
   },
   {
