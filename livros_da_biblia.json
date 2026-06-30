@@ -1,0 +1,732 @@
+[
+  {
+    "id": "01",
+    "titulo": "Gênesis",
+    "autor": "Moisés",
+    "sinopse": "O livro das origens. Narra a criação do mundo, a queda do homem, o dilúvio e a história dos patriarcas Abraão, Isaac, Jacob e José.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/01_genesis.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/01_genesis.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Pentateuco"
+  },
+  {
+    "id": "02",
+    "titulo": "Êxodo",
+    "autor": "Moisés",
+    "sinopse": "A saída do Egito. Narra a opressão de Israel, o chamado de Moisés, as pragas, a passagem pelo Mar Vermelho e a entrega dos Dez Mandamentos no Sinai.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/02_exodo.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/02_exodo.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Pentateuco"
+  },
+  {
+    "id": "03",
+    "titulo": "Levítico",
+    "autor": "Moisés",
+    "sinopse": "O livro das leis ritualísticas e do culto. Trata dos sacrifícios, da consagração dos sacerdotes e das leis de santidade e pureza para o povo de Israel.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/03_levitico.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/03_levitico.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Pentateuco"
+  },
+  {
+    "id": "04",
+    "titulo": "Números",
+    "autor": "Moisés",
+    "sinopse": "O censo e a caminhada no deserto. Narra a contagem do povo, a organização das tribos e os quarenta anos de peregrinação em direção à Terra Prometida.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/04_numeros.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/04_numeros.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Pentateuco"
+  },
+  {
+    "id": "05",
+    "titulo": "Deuteronômio",
+    "autor": "Moisés",
+    "sinopse": "A segunda Lei. Moisés recapitula os mandamentos, exorta o povo à fidelidade a Deus antes de entrar na Terra Prometida e se despede antes de sua morte.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/05_deuteronomio.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/05_deuteronomio.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Pentateuco"
+  },
+  {
+    "id": "06",
+    "titulo": "Josué",
+    "autor": "Josué",
+    "sinopse": "A conquista de Canaã. Sob a liderança de Josué, o povo cruza o Jordão, derruba as muralhas de Jericó e divide as terras conquistadas entre as doze tribos.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/06_josue.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/06_josue.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "07",
+    "titulo": "Juízes",
+    "autor": "Samuel",
+    "sinopse": "O período dos libertadores. Narra os ciclos de desobediência, opressão estrangeira e a libertação de Israel por líderes levantados por Deus, como Gideão e Sansão.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/07_juizes.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/07_juizes.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "08",
+    "titulo": "Rute",
+    "autor": "Samuel",
+    "sinopse": "Uma bela história de fidelidade e redenção. A moabita Rute decide seguir sua sogra Noemi e se torna, por providência divina, bisavó do Rei David.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/08_rute.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/08_rute.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "09",
+    "titulo": "1 Samuel",
+    "autor": "Samuel / Gad / Natã",
+    "sinopse": "Também conhecido como 1 Reis. A transição para a monarquia em Israel, o chamado do profeta Samuel, o reinado de Saul e a unção do jovem David.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/09_1samuel.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/09_1samuel.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "10",
+    "titulo": "2 Samuel",
+    "autor": "Gad / Natã",
+    "sinopse": "Também conhecido como 2 Reis. O reinado de David sobre todo o Israel, suas vitórias militares, o estabelecimento de Jerusalém e suas provações familiares.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/10_2samuel.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/10_2samuel.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "11",
+    "titulo": "1 Reis",
+    "autor": "Jeremias",
+    "sinopse": "Também conhecido como 3 Reis. O glorioso reinado de Salomão, a construção do Templo, a subsequente divisão do reino em Israel e Judá, e o ministério de Elias.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/11_1reis.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/11_1reis.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "12",
+    "titulo": "2 Reis",
+    "autor": "Jeremias",
+    "sinopse": "Também conhecido como 4 Reis. O ministério de Eliseu, a história dos reis de Israel e Judá, a decadência espiritual e a queda de Samaria e Jerusalém nos cativeiros.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/12_2reis.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/12_2reis.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "13",
+    "titulo": "1 Crônicas",
+    "autor": "Esdras",
+    "sinopse": "Também conhecido como 1 Paralipômenos. Inicia com as genealogias desde Adão e foca na consolidação do trono de David e nos preparativos para o Templo.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/13_1cronicas.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/13_1cronicas.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "14",
+    "titulo": "2 Crônicas",
+    "autor": "Esdras",
+    "sinopse": "Também conhecido como 2 Paralipômenos. Narra a sabedoria e as obras de Salomão, a história dos reis de Judá, as reformas religiosas e o decreto de Ciro.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/14_2cronicas.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/14_2cronicas.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "15",
+    "titulo": "Esdras",
+    "autor": "Esdras",
+    "sinopse": "O retorno do exílio na Babilônia. Narra a reconstrução do Templo sob Zorobabel e as reformas religiosas e morais lideradas pelo escriba Esdras.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/15_esdras.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/15_esdras.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "16",
+    "titulo": "Neemias",
+    "autor": "Neemias",
+    "sinopse": "A reconstrução de Jerusalém. Nomeado governador, Neemias lidera o povo na heróica reconstrução das muralhas da cidade sob forte oposição estrangeira.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/16_neemias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/16_neemias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "17",
+    "titulo": "Tobias",
+    "autor": "Tobias",
+    "sinopse": "Narra a história de Tobit, sua fidelidade a Deus na provação, e a formidável jornada de seu filho Tobias guiado pelo Arcanjo Rafael.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/17_tobias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/17_tobias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "18",
+    "titulo": "Judite",
+    "autor": "Desconhecido",
+    "sinopse": "A história da corajosa viúva israelita que, com sua fé inabalável em Deus, salva sua cidade sitiada ao decapitar o general inimigo Holofernes.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/18_judite.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/18_judite.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "19",
+    "titulo": "Ester",
+    "autor": "Mardoqueu",
+    "sinopse": "A providência divina no império persa. A jovem judia Ester torna-se rainha e arrisca sua própria vida para salvar seu povo do extermínio tramado por Aman.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/19_ester.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/19_ester.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Historicos"
+  },
+  {
+    "id": "20",
+    "titulo": "Jó",
+    "autor": "Desconhecido",
+    "sinopse": "O mistério do sofrimento do justo. Jó perde seus bens e filhos, enfrenta dores terríveis, mas mantém sua integridade e debate a justiça divina.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/20_jo.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/20_jo.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "21",
+    "titulo": "Salmos",
+    "autor": "David e outros",
+    "sinopse": "O hinário e livro de orações de Israel. Coleção de 150 cânticos espirituais de louvor, súplica, penitência, ação de graças e profecias messiânicas.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/21_salmos.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/21_salmos.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "22",
+    "titulo": "Provérbios",
+    "autor": "Salomão e outros",
+    "sinopse": "Coleção de máximas morais e espirituais destinadas a ensinar a sabedoria prática, a justiça, o temor a Deus e a prudência no viver diário.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/22_proverbios.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/22_proverbios.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "23",
+    "titulo": "Eclesiastes",
+    "autor": "Salomão",
+    "sinopse": "Reflexões profundas sobre a vaidade das coisas humanas apartadas de Deus, concluindo que o dever do homem é temer ao Criador e guardar Seus mandamentos.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/23_eclesiastes.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/23_eclesiastes.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "24",
+    "titulo": "Cântico dos Cânticos",
+    "autor": "Salomão",
+    "sinopse": "Um poema lírico que exalta o amor conjugal, interpretado tradicionalmente como a união mística entre Deus e Seu povo, e de Cristo com Sua Igreja.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/24_canticos.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/24_canticos.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "25",
+    "titulo": "Sabedoria",
+    "autor": "Salomão",
+    "sinopse": "Elogio e exaltação da Sabedoria divina, destacando sua importância para a justiça, o governo dos reis e o destino imortal das almas.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/25_sabedoria.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/25_sabedoria.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "26",
+    "titulo": "Eclesiástico",
+    "autor": "Jesus, filho de Sirach",
+    "sinopse": "Também conhecido como Sirácida. Reúne conselhos práticos e máximas de sabedoria sobre a vida familiar, social, o temor a Deus e a verdadeira amizade.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/26_eclesiastico.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/26_eclesiastico.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Sapienciais"
+  },
+  {
+    "id": "27",
+    "titulo": "Isaías",
+    "autor": "Isaías",
+    "sinopse": "O evangelista do Antigo Testamento. Profetiza o juízo sobre as nações, a restauração de Israel e traz revelações vívidas sobre o Messias sofredor.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/27_isaias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/27_isaias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "28",
+    "titulo": "Jeremias",
+    "autor": "Jeremias",
+    "sinopse": "O profeta chorão. Adverte Judá sobre a iminente destruição babilônica, clama pelo arrependimento e profetiza o estabelecimento de uma Nova Aliança.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/28_jeremias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/28_jeremias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "29",
+    "titulo": "Lamentações",
+    "autor": "Jeremias",
+    "sinopse": "Cânticos fúnebres que expressam a profunda dor e luto do profeta pela destruição de Jerusalém e do Templo, mantendo a esperança na misericórdia de Deus.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/29_lamentacoes.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/29_lamentacoes.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "30",
+    "titulo": "Baruc",
+    "autor": "Baruc",
+    "sinopse": "Escrito pelo secretário do profeta Jeremias. Contém orações de penitência dos exilados, um hino à sabedoria divina e mensagens de consolação para Jerusalém.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/30_baruc.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/30_baruc.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "31",
+    "titulo": "Ezequiel",
+    "autor": "Ezequiel",
+    "sinopse": "Visões apocalípticas no exílio. Profetiza a queda e a glória futura de Israel, a ressurreição dos ossos secos e traz a visão detalhada do Novo Templo.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/31_ezequiel.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/31_ezequiel.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "32",
+    "titulo": "Daniel",
+    "autor": "Daniel",
+    "sinopse": "Fidelidade na corte pagã e visões proféticas. Narra a cova dos leões, a fornalha ardente e revela as sucessões dos impérios mundiais até o Reino de Deus.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/32_daniel.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/32_daniel.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "33",
+    "titulo": "Oseias",
+    "autor": "Oseias",
+    "sinopse": "O amor fiel de Deus. Através de seu trágico casamento, o profeta ilustra a infidelidade espiritual de Israel e a incansável misericórdia divina.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/33_oseias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/33_oseias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "34",
+    "titulo": "Joel",
+    "autor": "Joel",
+    "sinopse": "O Dia do Senhor. A partir de uma praga de gafanhotos, o profeta adverte sobre o juízo final e profetiza o derramamento do Espírito Santo sobre toda a carne.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/34_joel.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/34_joel.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "35",
+    "titulo": "Amós",
+    "autor": "Amós",
+    "sinopse": "O clamor por justiça social. O pastor de Tecoa denuncia rigorosamente a opressão dos pobres, a hipocrisia religiosa e a imoralidade das nações.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/35_amos.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/35_amos.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "36",
+    "titulo": "Abdias",
+    "autor": "Abdias",
+    "sinopse": "O julgamento de Edom. O livro mais curto do Antigo Testamento profetiza a queda da orgulhosa nação edomita por ter se alegrado com a ruína de Judá.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/36_abdias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/36_abdias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "37",
+    "titulo": "Jonas",
+    "autor": "Jonas",
+    "sinopse": "O profeta fujão. Engolido por um grande peixe após tentar fugir de Deus, Jonas cumpre sua missão em Nínive e testemunha o perdão divino aos pagãos.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/37_jonas.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/37_jonas.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "38",
+    "titulo": "Miqueias",
+    "autor": "Miqueias",
+    "sinopse": "Defesa dos oprimidos e anúncio messiânico. Denuncia a corrupção dos líderes de Israel e profetiza com precisão que o Messias nasceria em Belém.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/38_miqueias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/38_miqueias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "39",
+    "titulo": "Naum",
+    "autor": "Naum",
+    "sinopse": "A queda de Nínive. Profetiza a destruição definitiva e o julgamento da cruel capital assíria, trazendo alívio e consolação ao povo de Judá.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/39_naum.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/39_naum.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "40",
+    "titulo": "Habacuque",
+    "autor": "Habacuque",
+    "sinopse": "O diálogo da fé. O profeta questiona a Deus sobre o triunfo da maldade e recebe a resposta eterna: 'o justo viverá pela sua fé'.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/40_habacuque.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/40_habacuque.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "41",
+    "titulo": "Sofonias",
+    "autor": "Sofonias",
+    "sinopse": "Anúncio do juízo iminente e promessa de restauração. Adverte Judá sobre a necessidade de buscar a humildade antes do terrível Dia do Senhor.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/41_sofonias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/41_sofonias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "42",
+    "titulo": "Ageu",
+    "autor": "Ageu",
+    "sinopse": "Exortação à reconstrução. O profeta repreende o povo retornado do exílio por priorizarem suas próprias casas enquanto o Templo de Deus jazia em ruínas.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/42_ageu.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/42_ageu.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "43",
+    "titulo": "Zacarias",
+    "autor": "Zacarias",
+    "sinopse": "Visões messiânicas e encorajamento. Clama pela reconstrução do Templo e traz ricas profecias sobre a entrada triunfal de Cristo montado em um jumento.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/43_zacarias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/43_zacarias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "44",
+    "titulo": "Malaquias",
+    "autor": "Malaquias",
+    "sinopse": "O último dos profetas menores. Repreende a negligência dos sacerdotes, a quebra das alianças familiares e anuncia a vinda do mensageiro precursor.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/44_malaquias.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/44_malaquias.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "45",
+    "titulo": "1 Macabeus",
+    "autor": "Desconhecido",
+    "sinopse": "As crônicas da heróica resistência judaica liderada por Matatias e seus filhos contra a tirania síria e em defesa das tradições e do Templo sagrado.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/45_1macabeus.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/45_1macabeus.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "46",
+    "titulo": "2 Macabeus",
+    "autor": "Desconhecido",
+    "sinopse": "Foca na revolta sob a perspectiva teológica. Destaca o martírio dos sete irmãos e a afirmação clara das doutrinas da ressurreição dos mortos e intercessão pelos falecidos.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/46_2macabeus.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/46_2macabeus.png",
+    "testamento": "Velho_Testamento",
+    "categoria": "Profeticos_e_Macabeus"
+  },
+  {
+    "id": "47",
+    "titulo": "São Mateus",
+    "autor": "São Mateus",
+    "sinopse": "O Evangelho dirigido primariamente aos judeus. Apresenta Jesus como o Messias prometido nas Escrituras, o Rei dos Reis, destacando o Sermão da Montanha.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/47_mateus.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/47_mateus.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Evangelhos"
+  },
+  {
+    "id": "48",
+    "titulo": "São Marcos",
+    "autor": "São Marcos",
+    "sinopse": "O Evangelho da ação. Escrito de forma dinâmica e focado nos milagres e no poder de Jesus Cristo como o Servo Sofredor e Filho de Deus.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/48_marcos.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/48_marcos.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Evangelhos"
+  },
+  {
+    "id": "49",
+    "titulo": "São Lucas",
+    "autor": "São Lucas",
+    "sinopse": "O relato detalhado da vida, ensinamentos, milagres e a ressurreição de Jesus Cristo, escrito com precisão histórica e teológica, enfatizando a misericórdia universal.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/49_lucas.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/49_lucas.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Evangelhos"
+  },
+  {
+    "id": "50",
+    "titulo": "São João",
+    "autor": "São João",
+    "sinopse": "O Evangelho teológico e místico. Destaca a divindade de Jesus como o Verbo Encarnado que existia desde o princípio e os profundos discursos sobre a vida eterna.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/50_joao.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/50_joao.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Evangelhos"
+  },
+  {
+    "id": "51",
+    "titulo": "Atos dos Apóstolos",
+    "autor": "São Lucas",
+    "sinopse": "A crônica da Igreja Primitiva. Narra a vinda do Espírito Santo no Pentecostes e a expansão do Evangelho através das missões de São Pedro e São Paulo.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/51_atos.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/51_atos.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Historico_NT"
+  },
+  {
+    "id": "52",
+    "titulo": "Romanos",
+    "autor": "São Paulo",
+    "sinopse": "A monumental exposição teológica de São Paulo aos cristãos de Roma, versando sobre a justificação pela fé, a graça, a salvação e a soberania divina.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/52_romanos.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/52_romanos.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "53",
+    "titulo": "1 Coríntios",
+    "autor": "São Paulo",
+    "sinopse": "Orientações práticas para uma igreja em crise. Trata sobre divisões, imoralidade, liturgia, os dons espirituais e traz o magnífico hino ao amor caridoso.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/53_1corintios.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/53_1corintios.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "54",
+    "titulo": "2 Coríntios",
+    "autor": "São Paulo",
+    "sinopse": "A defesa do ministério apostólico. Paulo expressa seu alívio pelo arrependimento da comunidade, discorre sobre a reconciliação e defende sua autoridade.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/54_2corintios.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/54_2corintios.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "55",
+    "titulo": "Gálatas",
+    "autor": "São Paulo",
+    "sinopse": "A carta da liberdade cristã. Defesa veemente da salvação estritamente pela fé em Cristo contra as imposições legalistas e judaizantes da lei antiga.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/55_galatas.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/55_galatas.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "56",
+    "titulo": "Efésios",
+    "autor": "São Paulo",
+    "sinopse": "O mistério da Igreja como Corpo de Cristo. Trata do plano eterno da salvação, da unidade entre judeus e pagãos e exorta à armadura espiritual.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/56_efesios.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/56_efesios.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "57",
+    "titulo": "Filipenses",
+    "autor": "São Paulo",
+    "sinopse": "A epístola da alegria. Escrita na prisão, transborda gratidão, exorta à humildade a exemplo de Cristo e convida ao contentamento em qualquer situação.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/57_filipenses.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/57_filipenses.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "58",
+    "titulo": "Colossenses",
+    "autor": "São Paulo",
+    "sinopse": "A supremacia absoluta de Cristo. Paulo combate heresias gnósticas e místicas reafirmando que em Cristo habita corporalmente toda a plenitude da divindade.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/58_colossenses.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/58_colossenses.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "59",
+    "titulo": "1 Tessalonicenses",
+    "autor": "São Paulo",
+    "sinopse": "Consolação e vigilância. Paulo elogia a fé da jovem comunidade e traz ensinamentos profundos sobre a ressurreição dos mortos e a segunda vinda de Cristo.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/59_1tessalonicenses.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/59_1tessalonicenses.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "60",
+    "titulo": "2 Tessalonicenses",
+    "autor": "São Paulo",
+    "sinopse": "Esclarecimentos sobre o Dia do Senhor. Corrige mal-entendidos sobre o fim dos tempos, adverte contra a ociosidade e fala sobre a manifestação do iníquo.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/60_2tessalonicenses.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/60_2tessalonicenses.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "61",
+    "titulo": "1 Timóteo",
+    "autor": "São Paulo",
+    "sinopse": "Instruções pastorais para a liderança. Orientações sobre a sã doutrina, o culto público e os requisitos para a escolha de bispos e diáconos da Igreja.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/61_1timoteo.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/61_1timoteo.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "62",
+    "titulo": "2 Timóteo",
+    "autor": "São Paulo",
+    "sinopse": "O testamento espiritual de Paulo. Próximo de seu martírio, o apóstolo encoraja seu filho na fé a combater o bom combate e a guardar firmemente o depósito da fé.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/62_2timoteo.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/62_2timoteo.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "63",
+    "titulo": "Tito",
+    "autor": "São Paulo",
+    "sinopse": "Organização da igreja em Creta. Orientações pastorais sobre o bom comportamento dos fiéis de todas as idades e a importância das boas obras na comunidade.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/63_tito.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/63_tito.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "64",
+    "titulo": "Filêmon",
+    "autor": "São Paulo",
+    "sinopse": "Um apelo à fraternidade cristã. Paulo intercede junto ao senhor Filêmon pelo escravo fugitivo Onésimo, pedindo que o receba não mais como servo, mas como irmão.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/64_filemon.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/64_filemon.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "65",
+    "titulo": "Hebreus",
+    "autor": "São Paulo / Atribuído",
+    "sinopse": "A superioridade da Nova Aliança. Apresenta Jesus Cristo como o Sumo Sacerdote perfeito, superior aos anjos, a Moisés e ao antigo culto levítico.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/65_hebreus.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/65_hebreus.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "66",
+    "titulo": "São Tiago",
+    "autor": "São Tiago",
+    "sinopse": "A fé manifesta em obras. Carta prática que exorta ao controle da língua, à paciência nas provações e afirma com vigor que a fé sem obras é morta.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/66_tiago.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/66_tiago.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "67",
+    "titulo": "1 São Pedro",
+    "autor": "São Pedro",
+    "sinopse": "Esperança em meio à perseguição. O primeiro Papa exorta os cristãos dispersos a manterem a santidade, a paciência no sofrimento e a firmeza na fé.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/67_1pedro.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/67_1pedro.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "68",
+    "titulo": "2 São Pedro",
+    "autor": "São Pedro",
+    "sinopse": "Alerta contra falsos mestres e o fim dos tempos. Adverte contra heresias destrutivas, reafirma a certeza da vinda de Cristo e convida ao crescimento na graça.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/68_2pedro.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/68_2pedro.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "69",
+    "titulo": "1 São João",
+    "autor": "São João",
+    "sinopse": "Deus é Luz e Amor. O apóstolo amado traz a certeza da salvação para os fiéis, combate o erro cristológico e exorta veementemente ao amor fraternal mútuo.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/69_1joao.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/69_1joao.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "70",
+    "titulo": "2 São João",
+    "autor": "São João",
+    "sinopse": "Caminhar na verdade e no amor. Breve epístola dirigida à 'Senhora Eleita', alertando a comunidade a não receber pregadores de falsas doutrinas.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/70_2joao.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/70_2joao.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "71",
+    "titulo": "3 São João",
+    "autor": "São João",
+    "sinopse": "Elogio à hospitalidade cristã. Carta pessoal a Gaio, elogiando sua fidelidade e cooperação com os missionários, contrapondo o mau exemplo de Diótrefes.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/71_3joao.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/71_3joao.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "72",
+    "titulo": "São Judas",
+    "autor": "São Judas Tadeu",
+    "sinopse": "A batalha pela fé apostólica. Breve e enérgica exortação para que os cristãos combatam os falsos mestres e os libertinos infiltrados na Igreja.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/72_judas.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/72_judas.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Epistolas_ou_Cartas"
+  },
+  {
+    "id": "73",
+    "titulo": "Apocalipse",
+    "autor": "São João",
+    "sinopse": "A grande revelação profética final dada ao apóstolo João na ilha de Patmos. Descreve em visões majestosas a vitória definitiva de Cristo e de Sua Igreja sobre o mal.",
+    "arquivoUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/livros/73_apocalipse.txt",
+    "capaUrl": "https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/capas/73_apocalipse.png",
+    "testamento": "Novo_Testamento",
+    "categoria": "Profetico_NT"
+  }
+]
