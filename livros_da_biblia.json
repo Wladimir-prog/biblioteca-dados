@@ -485,7 +485,7 @@
     "autor": "São Lucas",
     "sinopse": "O relato detalhado da vida, ensinamentos, milagres e a ressurreição de Jesus Cristo, escrito com precisão histórica e teológica, enfatizando a misericórdia universal.",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/49_lucas.txt",
-    "capaUrl": "https://github.com/Wladimir-prog/biblioteca-dados/blob/main/livros-txt/saolucas_capa.png",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/saolucas_capa.png",
     "testamento": "Novo_Testamento",
     "categoria": "Evangelhos"
   },
