@@ -5,7 +5,7 @@
       "perfil": "aluno",
       "ativo": true,
       "descricao": "Acesso padrão para os alunos do Judô"
-    }
+    },
 
    {
       "chave": "ACESSO_LIVRE",
