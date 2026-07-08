@@ -3,13 +3,13 @@
     {
       "chave": "JUDOCAS_MAISQUEVENCEDORES",
       "perfil": "aluno",
-      "ativo": true, // 🥋 SEUS ALUNOS CONTINUAM ENTRANDO LIVREMENTE
+      "ativo": true,
       "descricao": "Acesso padrão para os alunos do Judô"
     },
     {
       "chave": "ACESSO_LIVRE",
-      "ativo": true, // PÚBLICO DA LOJA PODE SER BLOQUEADO (falsoe)  E REDIRECIONADO PARA O SITE!
-      "descricao": "Versão Pública Comercial"
+      "ativo": true,
+      "descricao": "Acesso Experimental Gratuito"
     }
   ]
 }
