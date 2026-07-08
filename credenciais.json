@@ -8,7 +8,7 @@
     },
     {
       "chave": "ACESSO_LIVRE",
-      "ativo": true,
+      "ativo": false,
       "descricao": "Acesso Experimental Gratuito"
     }
   ]
