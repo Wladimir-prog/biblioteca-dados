@@ -270,12 +270,21 @@
     "categorias": ["Literatura_EST", "RUS_EST"]
   },
   {
-    "id": 28,
+    "id": 31,
     "titulo": "A Volta ao Mundo em Oitenta Dias",
     "autor": "Júlio Verne",
     "sinopse": "1872. O clássico imortal da aventura e engenhosidade. O metódico cavalheiro inglês Phileas Fogg aposta toda a sua fortuna de que é capaz de circundar o globo terrestre em apenas 80 dias, partindo em uma jornada frenética repleta de perigos, trens, navios e perseguições pelo mundo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/volta_mundo_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/volta_mundo.txt",
     "categorias": ["EU_OC_EST", "Literatura_EST"]
-  }
+  },
+  {
+  "id": 32,
+  "titulo": "Prosopopeia",
+  "autor": "Bento Teixeira",
+  "sinopse": "1601. Marco inicial do Barroco brasileiro. Este poema épico em oitava rima exalta as façanhas de Jorge de Albuquerque Coelho, terceiro donatário da capitania de Pernambuco, utilizando elementos da mitologia clássica.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia.txt",
+  "categorias": ["Literatura_BR", "Barroco_BR"]
+}
 ]
