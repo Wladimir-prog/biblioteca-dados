@@ -1,1 +1,369 @@
+# 📚 MÓDULO 1 COMPLETO: FONÉTICA, ORTOGRAFIA E ESTRUTURA SILÁBICA
 
+> **Objetivo do Módulo:** Dominar a relação entre o som da fala e a escrita gráfica, compreendendo a estrutura interna das sílabas, os encontros vocálicos, consonantais e as regras de divisão silábica aplicadas à norma culta.
+
+---
+
+## 🟢 AULA 1: A BASE DA FALA E DA ESCRITA — FONEMA, LETRA E SÍLABA
+
+### 1. Introdução Teórica: O que acontece quando falamos?
+
+Quando nos comunicamos oralmente, emitimos uma corrente contínua de ar vinda dos pulmões que é modificada pelas cordas vocais, língua, dentes, lábios e palato. Essa corrente produz **sons**. No entanto, nem todo som que produzimos é relevante para a gramática. Se você tossir ou estalar os dedos, estará produzindo um som, mas não um som da língua.
+
+Na língua portuguesa, os sons articulados que possuem a capacidade de formar palavras e distinguir significados são chamados de **FONEMAS**.
+
+Por outro lado, a **LETRA** (ou grafema) é apenas a tentativa histórica e imperfeita da humanidade de inventar um código visual (um desenho) para registrar o som no papel.
+
+> 💡 **A Grande Virada de Chave:**
+> A língua falada nasceu milhares de anos antes da língua escrita. Portanto, **o som (fonema) não depende da letra, mas a letra existe em função do som**. Na prática, aprenda a *ouvir* a palavra e não apenas a olhar para como ela foi escrita.
+
+---
+
+### 2. O Fonema em Detalhes
+
+O fonema é a menor unidade sonora distintiva de uma língua. Dizemos que ele é "distintivo" porque a troca de um único fonema é capaz de alterar completamente o sentido de uma palavra inteira.
+
+Veja a análise do par de palavras **CATA** e **CADA**:
+
+* Escrita de CATA: `/k/ /a/ /t/ /a/`
+* Escrita de CADA: `/k/ /a/ /d/ /a/`
+
+Note que 75% da palavra é rigorosamente idêntica. Porém, ao trocar o som lingual surdo `/t/` pelo som lingual sonoro `/d/`, mudamos de um verbo (*catar*) para um pronome/adjetivo (*cada*). Essa diferença mínima prova que `/t/` e `/d/` são fonemas distintos no Português.
+
+#### Classificação dos Fonemas
+
+Os fonemas da língua portuguesa dividem-se em três categorias fundamentais:
+
+1. **Vogais:** São os sons mais puros e intensos. A corrente de ar passa livremente pela boca, sem encontrar nenhum obstáculo (como dentes, língua ou lábios). A vogal é a base, o pilar e o núcleo indispensável de qualquer sílaba.
+2. **Semivogais:** São sons vocálicos mais fracos e atenuados (`/i/` e `/u/`, e eventualmente `/e/` e `/o/`) que não conseguem formar sílaba sozinhos. Eles precisam obrigatoriamente se "apoiar" em uma vogal verdadeira.
+3. **Consoantes:** São sons que encontram algum tipo de obstáculo na sua passagem pela boca (a língua toca no céu da boca, os lábios se fecham, etc.). Por causa desse obstáculo, a consoante é um som "sofredor": **ela não consegue ser emitida sozinha nem pode formar sílaba sem a ajuda de uma vogal** (daí o nome *con-soante* = soar junto com).
+
+---
+
+### 3. A Relação Numérica entre Letras e Fonemas
+
+Nem sempre há uma correspondência exata de 1 para 1 entre o número de letras escritas e o número de fonemas pronunciados. Na verdade, existem três cenários possíveis:
+
+```text
+                  RELAÇÃO LETRA x FONEMA
+                            |
+   +------------------------+------------------------+
+   |                        |                        |
+IGUAL (1 para 1)     MENOS FONEMAS           MAIS FONEMAS
+(Letras = Fonemas)   (Dígrafos / H mudo)     (Dífonos - Som de /ks/)
+ Ex: M-E-S-A          Ex: C-H-A-V-E           Ex: T-Á-X-I
+ (4 L / 4 F)          (5 L / 4 F)             (4 L / 5 F)
+
+```
+
+#### Cenário A: Número de Letras IGUAL ao de Fonemas
+
+Cada letra representa exatamente um som.
+
+* **M-E-S-A:** 4 letras | 4 fonemas (`/m/ /e/ /z/ /a/`)
+* **L-I-V-R-O:** 5 letras | 5 fonemas (`/l/ /i/ /v/ /r/ /o/`)
+* **P-E-D-R-A:** 5 letras | 5 fonemas (`/p/ /e/ /d/ /r/ /a/`)
+* **C-A-D-E-R-N-O:** 7 letras | 7 fonemas (`/k/ /a/ /d/ /e/ /r/ /n/ /o/`)
+
+#### Cenário B: Número de Fonemas MENOR que o de Letras
+
+Acontece quando há letras que não emitem som algum (como o $H$ no início de palavras) ou quando duas letras se unem para fazer um único som (dígrafos).
+
+* **H-O-J-E:** 4 letras | 3 fonemas (`/o/ /j/ /e/`). O $H$ inicial é puramente etimológico e não possui valor fonético.
+* **H-O-M-E-M:** 5 letras | 4 fonemas (`/o/ /m/ /e/ /m/`).
+* **C-H-A-V-E:** 5 letras | 4 fonemas (`/x/ /a/ /v/ /e/`). A dupla $CH$ faz apenas o som de `/x/`.
+* **G-U-E-R-R-A:** 6 letras | 4 fonemas (`/g/ /e/ /r/ /a/`). As letras $GU$ valem por `/g/` e $RR$ valem por `/r/` forte.
+* **C-A-M-P-O:** 5 letras | 4 fonemas (`/k/ /ã/ /p/ /o/`). O $M$ aqui não é consoante, serve apenas para nasalizar a vogal $A$.
+
+#### Cenário C: Número de Fonemas MAIOR que o de Letras (Dífono)
+
+Acontece quando uma única letra grafada no papel exige a emissão de dois sons seguidos na fala. O caso clássico é o da letra **X** com som de **/KS/** (chamado tecnicamente de **dífono**).
+
+* **T-Á-X-I:** 4 letras | 5 fonemas (`/t/ /á/ /k/ /s/ /i/`)
+* **F-I-X-O:** 4 letras | 5 fonemas (`/f/ /i/ /k/ /s/ /o/`)
+* **A-N-E-X-O:** 5 letras | 6 fonemas (`/a/ /n/ /e/ /k/ /s/ /o/`)
+* **C-Ó-R-T-E-X:** 6 letras | 7 fonemas (`/c/ /ó/ /r/ /t/ /e/ /k/ /s/`)
+* **C-O-M-P-L-E-X-O:** 8 letras | 9 fonemas (`/k/ /õ/ /p/ /l/ /e/ /k/ /s/ /o/`)
+
+---
+
+### 4. A Estrutura da Sílaba
+
+A sílaba é o grupo de fonemas emitido em um único e contínuo impulso de ar (emissão de voz).
+
+Ao pronunciarmos a palavra **A-BO-BO-RA**, não emitimos o som letra por letra pausadamente. Soltamos quatro "golpes" de ar. Cada um desses golpes é uma sílaba.
+
+#### 🚨 A Regra de Ouro Inflexível da Sílaba Portuguesa
+
+Para dominar a divisão silábica, grave esta regra essencial:
+
+> **1. NÃO EXISTE SÍLABA SEM VOGAL.**
+> **2. NÃO EXISTE MAIS DE UMA VOGAL VERDADEIRA NA MESMA SÍLABA.**
+
+A vogal é o **núcleo** da sílaba. Uma consoante isolada jamais formará uma sílaba em português. Se houver uma consoante "solta" (sem vogal ao lado), ela terá que se juntar à sílaba anterior.
+
+* *Exemplo:* Na palavra **AD-MI-RAR**, o `D` não tem vogal ao lado. Por isso, ele "gruda" na vogal `A` da sílaba anterior: `AD-mi-rar`.
+
+#### Classificação das Palavras quanto ao Número de Sílabas
+
+* **Monossílabas:** Palavras constituídas de apenas 1 sílaba (1 impulso de voz).
+* *Ex:* `pé`, `pão`, `sol`, `mar`, `dor`, `boi`, `trem`, `pá`, `nó`, `bom`, `com`, `que`.
+
+
+* **Dissílabas:** Palavras constituídas de 2 sílabas (2 impulsos de voz).
+* *Ex:* `ca-sa`, `li-vro`, `ca-fé`, `por-ta`, `me-sa`, `pra-to`, `al-mo`, `te-la`, `vi-da`.
+
+
+* **Trissílabas:** Palavras constituídas de 3 sílabas (3 impulsos de voz).
+* *Ex:* `me-ni-no`, `ja-ne-la`, `ca-der-no`, `es-co-la`, `me-di-co`, `bo-ni-to`, `ci-da-de`.
+
+
+* **Polissílabas:** Palavras constituídas de 4 ou mais sílabas.
+* *Ex:* `a-bo-bo-ra` (4), `es-pe-ci-al` (4), `com-pu-ta-dor` (4), `par-a-le-le-pí-pe-do` (7), `res-pon-sa-bi-li-da-de` (7), `in-con-sti-tu-ci-o-nal-men-te` (9).
+
+
+
+---
+
+## 🟡 AULA 2: ENCONTROS VOCÁLICOS — DITONGO, TRITONGO E HIATO
+
+### 1. A Hierarquia dos Sons Vocálicos
+
+Quando duas ou três letras que representam sons vocálicos aparecem juntas na mesma palavra, temos um **encontro vocálico**. Para entender como separá-las ou mantê-las juntas, analisamos a "força" fonética desses sons.
+
+A escala de força vocálica funciona assim:
+
+1. **Vogal (V):** É o som mais forte, nítido e vibrante.
+* **O fonema `/a/` é a "Rainha das Vogais": ele é SEMPRE vogal pura.** Jamais existirá um `/a/` como semivogal na língua portuguesa.
+* Os fonemas `/e/` e `/o/` quase sempre atuam como vogais.
+
+
+2. **Semivogal (SV):** É o som mais fraco, que soa de forma rápida e atenuada.
+* Os fonemas `/i/` e `/u/` atuam frequentemente como semivogais.
+* Quando `/e/` e `/o/` são pronunciados bem fracos no final ou meio de encontros (com som de "i" e "u"), também viram semivogais. Exemplo: `mãe` (soa como `mãi`), `pão` (soa como `pãu`).
+
+
+
+---
+
+### 2. DITONGO: A União Inseparável de Dois Sons
+
+O ditongo ocorre quando temos a combinação de **uma Vogal + uma Semivogal** (ou vice-versa) na **mesma sílaba**. Como a semivogal depende da vogal forte para ter sustentação, **elas nunca se separam na divisão silábica**.
+
+O ditongo possui duas classificações essenciais:
+
+#### A) Quanto à Direção da Intensidade (Crescente vs. Decrescente)
+
+* **Ditongo Decrescente:** A sílaba começa no som forte da Vogal e "cai" para o som fraco da Semivogal **(V + SV)**.
+* `PAI` $\rightarrow$ `pai` (`A` = Vogal forte | `I` = Semivogal fraca)
+* `LEI` $\rightarrow$ `lei` (`E` = Vogal forte | `I` = Semivogal fraca)
+* `BOI` $\rightarrow$ `boi` (`O` = Vogal forte | `I` = Semivogal fraca)
+* `MEU` $\rightarrow$ `meu` (`E` = Vogal forte | `U` = Semivogal fraca)
+* `CAI-XA` $\rightarrow$ `cai-xa` (`A` = V | `I` = SV)
+* `SAU-DA-DE` $\rightarrow$ `sau-da-de` (`A` = V | `U` = SV)
+* `HE-RÓI` $\rightarrow$ `he-rói` (`Ó` = V | `I` = SV)
+
+
+* **Ditongo Crescente:** A sílaba começa no som fraco da Semivogal e "sobe" para o som forte da Vogal **(SV + V)**.
+* `Á-GUA` $\rightarrow$ `á-gua` (`U` = Semivogal fraca | `A` = Vogal forte)
+* `SÉ-RIE` $\rightarrow$ `sé-rie` (`I` = Semivogal fraca | `E` = Vogal forte)
+* `HIS-TÓ-RIA` $\rightarrow$ `his-tó-ria` (`I` = SV | `A` = V)
+* `GÊ-NIO` $\rightarrow$ `gê-nio` (`I` = SV | `O` = V)
+* `PÁ-TRIA` $\rightarrow$ `pá-tria` (`I` = SV | `A` = V)
+* `MÁ-GOA` $\rightarrow$ `má-goa` (`O` com som de /u/ = SV | `A` = V)
+
+
+
+> 📌 **Observação Acadêmica:**
+> Algumas correntes gramaticais e bancas examinadoras (como Cebraspe/CESPE ou FGV) consideram os ditongos crescentes no final de palavras paroxítonas (`his-tó-ria`, `sé-rie`) como **"falsos ditongos"** ou **"ditongos eventuais"**, aceitando também a separação como hiato (`his-tó-ri-a`, `sé-ri-e`).
+
+#### B) Quanto à Passagem do Ar (Oral vs. Nasal)
+
+* **Ditongo Oral:** O ar sai exclusivamente pela boca.
+* *Ex:* `pai`, `lei`, `pau`, `caixa`, `véu`.
+
+
+* **Ditongo Nasal:** O ar sai simultaneamente pela boca e pelo nariz (geralmente marcado por til `~` ou pelas letras `M` e `N` no fim da sílaba).
+* *Ex:* `mão`, `mãe`, `põe`, `saguões`.
+* ⚠️ **Pegadinha Clássica:** Nas palavras **TAMBÉM** e **HOMEM**, a letra `M` final funciona como uma semivogal nasalizada:
+* `tam-bém` soa como `/tã-bẽi/` (Ditongo nasal decrescente).
+* `ho-mem` soa como `/o-mẽi/` (Ditongo nasal decrescente).
+
+
+
+
+
+---
+
+### 3. TRITONGO: A União Tripla na Mesma Sílaba
+
+O tritongo ocorre quando três sons vocálicos se unem na **mesma sílaba**.
+
+A estrutura do tritongo é rígida:
+
+
+$$\text{Semivogal (Fraca)} + \text{Vogal (FORTE)} + \text{Semivogal (Fraca)}$$
+
+Se essa ordem for alterada, deixa de ser tritongo.
+
+#### Exemplos de Tritongos Orais e Nasais:
+
+* **PA-RA-GUAI** $\rightarrow$ `Pa-ra-guai` (`u` = SV | `a` = V | `i` = SV)
+* **EN-XA-GUEI** $\rightarrow$ `en-xa-guei` (`u` = SV | `e` = V | `i` = SV)
+* **A-VER-I-GUEI** $\rightarrow$ `a-ver-i-guei` (`u` = SV | `e` = V | `i` = SV)
+* **SA-GUÃO** $\rightarrow$ `sa-guão` (`u` = SV | `ã` = V nasal | `o` = SV)
+* **QUÃO** $\rightarrow$ `quão` (`u` = SV | `ã` = V nasal | `o` = SV)
+* **EN-XÁ-GUEM** $\rightarrow$ `en-xá-guem` (Soa como `/en-xá-gwẽi/` $\rightarrow$ Tritongo nasal).
+
+---
+
+### 4. HIATO: O Conflito de Vogais que Força a Divisão
+
+O hiato é a sequência de **duas vogais** em uma mesma palavra que, por serem **ambas sons fortes**, não conseguem conviver dentro da mesma sílaba.
+
+Voltando à *Regra de Ouro*: como jamais pode existir mais de uma vogal verdadeira por sílaba, **as vogais do hiato se separam obrigatoriamente na divisão silábica**.
+
+#### Tabela Comparativa Exaustiva: Ditongo vs. Hiato
+
+| Palavra | Encontro Vocálico | Divisão Silábica | Explicação Técnica |
+| --- | --- | --- | --- |
+| **Pai** | Ditongo Decrescente | `pai` | `A` (Vogal forte) + `I` (Semivogal fraca). Ficam juntos. |
+| **País** | Hiato | `pa-ís` | O `I` recebe acento e ganha força de Vogal. Duas vogais **se separam**. |
+| **Caixa** | Ditongo Decrescente | `cai-xa` | `A` (Vogal) + `I` (Semivogal). Ficam juntos. |
+| **Caos** | Hiato | `ca-os` | `A` e `O` são vogais fortes por natureza. **Separam-se**. |
+| **Saúde** | Hiato | `sa-ú-de` | `A` (Vogal) + `Ú` (Vogal tônica). **Separam-se**. |
+| **Poema** | Hiato | `po-e-ma` | `O` (Vogal) + `E` (Vogal). **Separam-se**. |
+| **Baú** | Hiato | `ba-ú` | `A` (Vogal) + `Ú` (Vogal tônica). **Separam-se**. |
+| **Rainha** | Hiato | `ra-i-nha` | `A` (Vogal) + `I` (Vogal). **Separam-se**. |
+| **Coordenar** | Hiato | `co-or-de-nar` | Vogais idênticas duplicadas (`OO`) **sempre se separam**. |
+| **Creem** | Hiato | `cre-em` | Vogais idênticas duplicadas (`EE`) **sempre se separam**. |
+
+---
+
+## 🔴 AULA 3: ENCONTROS CONSONANTAIS E DÍGRAFOS
+
+### 1. Encontro Consonantal: Consoantes Vizinhas com Sons Distintos
+
+Dizemos que há um **encontro consonantal** quando duas ou mais consoantes aparecem juntas na palavra e **conseguimos ouvir nitidamente o som individual de cada uma delas**.
+
+Existem dois grandes grupos de encontros consonantais:
+
+#### A) Encontro Consonantal Perfeito (Inseparável)
+
+Ocorre quando as consoantes permanecem dentro da **mesma sílaba**. É formado quase que exclusivamente por uma consoante seguida das consoantes líquidas **L** ou **R**.
+
+* **B-R:** `bra-so`, `brin-co`, `bru-xa`
+* **P-R:** `pra-to`, `pri-mo`, `pro-va`
+* **C-R:** `cra-vo`, `cri-se`, `cre-me`
+* **T-R:** `tra-to`, `tri-bo`, `tro-co`
+* **P-L:** `pla-no`, `pla-ca`, `plu-ma`
+* **F-L:** `flo-res`, `fle-cha`, `flau-ta`
+* **C-L:** `clí-ni-ca`, `cla-ro`, `clu-be`
+* **T-L:** `at-las`, `at-le-ta`
+
+#### B) Encontro Consonantal Imperfeito (Separável)
+
+Ocorre quando as consoantes vizinhas ficam alocadas em **sílabas diferentes**.
+
+* **D-M:** `ad-mi-rar`, `ad-mis-são`
+* **T-M:** `rit-mo`, `al-go-rit-mo`
+* **B-D:** `ab-di-car`, `ab-do-men`
+* **B-J:** `ob-je-to`, `ob-je-ti-vo`
+* **L-G:** `al-ge-ma`, `al-gum`
+* **F-T:** `naf-ta`, `af-ta`
+* **C-T:** `fac-to`, `con-tac-to`
+
+---
+
+### 2. DÍGRAFO: Onde Duas Letras Viram Um Único Som
+
+Não confunda Encontro Consonantal com Dígrafo:
+
+* No encontro consonantal você ouve **dois sons** (ex: em `PRATO`, ouve-se o `/p/` e o `/r/`).
+* No **dígrafo** (ou grafia dupla), duas letras se fundem para emitir **UM ÚNICO FONEMA** (ex: em `CHAVE`, o `CH` produz apenas o som de `/x/`).
+
+Os dígrafos dividem-se entre os que se separam e os que não se separam na divisão de sílabas:
+
+```text
+                           DÍGRAFOS
+                              |
+      +-----------------------+-----------------------+
+      |                                               |
+  DÍGRAFOS SEPARÁVEIS                         DÍGRAFOS INSEPARÁVEIS
+(RR, SS, SC, SÇ, XC, XS)                   (CH, LH, NH, GU*, QU*)
+      |                                               |
+ Ex: car-ro, pas-so,                        Ex: cha-ve, fi-lho,
+     nas-cer, cres-ça,                          ni-nho, gue-rra,
+     ex-ce-ção, ex-su-dar                       quei-jo
+
+```
+
+#### Tabela Completa de Dígrafos Consonantais
+
+| Dígrafo | Classificação Silábica | Exemplo de Separação | Transcrição Fonética Simplificada |
+| --- | --- | --- | --- |
+| **RR** | **SEPARA** | `car-ro` | `/ca-ro/` (1 som forte) |
+| **SS** | **SEPARA** | `pas-so` | `/pa-so/` |
+| **SC** | **SEPARA** | `nas-cer` | `/na-ser/` |
+| **SÇ** | **SEPARA** | `cres-ça` | `/cre-sa/` |
+| **XC** | **SEPARA** | `ex-ce-ção` | `/e-se-ção/` |
+| **XS** | **SEPARA** | `ex-su-dar` | `/e-su-dar/` |
+| **CH** | **NÃO SEPARA** | `cha-ve` | `/xa-ve/` |
+| **LH** | **NÃO SEPARA** | `fi-lho` | `/fi-lho/` |
+| **NH** | **NÃO SEPARA** | `ni-nho` | `/ni-ñho/` |
+| **GU** | **NÃO SEPARA** | `gue-rra` | `/ge-ra/` (Se o `U` for mudo) |
+| **QU** | **NÃO SEPARA** | `quei-jo` | `/kei-jo/` (Se o `U` for mudo) |
+
+#### Dígrafos Vocálicos (ou Nasais)
+
+Ocorrem quando as vogais são seguidas das letras **M** ou **N** na mesma sílaba, indicando apenas que a vogal deve ser pronunciada de forma nasalizada. O `M` e o `N` perdem o valor de consoante:
+
+* **AM / AN:** `cam-po` (`/kãpo/`), `can-to` (`/kãto/`)
+* **EM / EN:** `tem-po` (`/tẽpo/`), `den-te` (`/dẽte/`)
+* **IM / IN:** `lim-po` (`/lĩpo/`), `cin-ta` (`/sĩta/`)
+* **OM / ON:** `som-bra` (`/sõbra/`), `con-to` (`/kõto/`)
+* **UM / UN:** `fun-do` (`/fũdo/`), `un-ha` (`/ũña/`)
+
+---
+
+### 3. Casos Especiais e Atentas Exceções
+
+#### A) O Caso de GU e QU: Dígrafo ou Encontro Vocálico?
+
+As combinações `GU` e `QU` só serão classificadas como dígrafos se a letra **U for totalmente muda**. Se a letra **U for pronunciada**, teremos um encontro vocálico (ditongo ou tritongo):
+
+* `GUERRA` $\rightarrow$ O `U` não é pronunciado. É **DÍGRAFO**.
+* `ÁGUA` $\rightarrow$ O `U` é pronunciado de forma audível. É **DITONGO CRESCENTE**.
+* `QUEIJO` $\rightarrow$ O `U` não é pronunciado. É **DÍGRAFO**.
+* `CINQUENTA` $\rightarrow$ O `U` é pronunciado. É **DITONGO CRESCENTE**.
+* `PARAGUAI` $\rightarrow$ O `U` é pronunciado. É **TRITONGO**.
+
+#### B) A Versatilidade da Letra X
+
+A letra **X** pode desempenhar múltiplos papéis na fonética do Português:
+
+1. **Dígrafo (em conjunto com C):**
+* Em `EXCEÇÃO` (`ex-ce-ção`), a dupla `XC` equivale ao som de `/s/`. (7 letras, 6 fonemas).
+
+
+2. **Dífono (Som de /KS/):**
+* Em `TÁXI`, `ANEXO`, `FIXO`, a letra $X$ vale isoladamente por dois sons `/k/ + /s/`. (4 letras, 5 fonemas).
+
+
+3. **Fonema Simples /Z/:**
+* Em `EXAME` (`e-xa-me`), `EXAGERAR`, o $X$ vale simplesmente pelo som `/z/`. (5 letras, 5 fonemas).
+
+
+4. **Fonema Simples /X/ ou /S/:**
+* Em `LIXO` (`/li-xo/`), `TEXTO` (`/tes-to/`).
+
+
+
+#### C) Divisão Silábica de Prefixos (SUB, DES, TRANS, INTER)
+
+Quando um prefixo terminado em consoante (como `SUB-` ou `TRANS-`) for seguido por uma palavra que começa com **VOGAL**, a consoante do prefixo passa para a sílaba seguinte na pronúncia:
+
+* `SUB` + `ESTIMAR` $\rightarrow$ **`sub-es-ti-mar`** (A consoante `B` liga-se à vogal `E`).
+* `SUB` + `LUNAR` $\rightarrow$ **`sub-lu-nar`** (Seguido por consoante, o prefixo permanece intacto).
+* `TRANS` + `ATLÂNTICO` $\rightarrow$ **`tran-sa-tlân-ti-co`** (O `S` liga-se à vogal `A`).
+* `DES` + `HUMANO` $\rightarrow$ **`des-hu-ma-no`** (O `S` junta-se ao fonema vocálico do `H` mudo).
