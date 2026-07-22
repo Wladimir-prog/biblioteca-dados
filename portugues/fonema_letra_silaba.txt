@@ -4,7 +4,7 @@
 
 ---
 
- 🟢 AULA 1: O MUNDO DOS SONS E DAS LETRAS — FONEMA, GRAFEMA E SÍLABA
+ 🟢 AULA 1 | O MUNDO DOS SONS E DAS LETRAS — FONEMA, GRAFEMA E SÍLABA
 
  1.1 Introdução Teórica: Aparelho Fonador e Produção Sonora
 
@@ -114,7 +114,7 @@ A vogal é o centro de gravidade da sílaba. Se uma consoante ficar "órfã" (se
 
 ---
 
- 🟡 AULA 2: QUANDO AS VOGAIS SE ENCONTRAM — DITONGO, TRITONGO E HIATO
+ 🟡 AULA 2 | QUANDO AS VOGAIS SE ENCONTRAM — DITONGO, TRITONGO E HIATO
 
  2.1 A Escala de Força Vocálica
 
@@ -206,7 +206,7 @@ O hiato é o encontro de duas vogais puras em uma mesma palavra. Como jamais pod
 
 ---
 
- 🔴 AULA 3: QUANDO AS CONSOANTES SE ENCONTRAM — ENCONTRO CONSONANTAL E DÍGRAFO
+ 🔴 AULA 3 | QUANDO AS CONSOANTES SE ENCONTRAM — ENCONTRO CONSONANTAL E DÍGRAFO
 
  3.1 Encontro Consonantal: Consoantes com Sons Distintos
 
@@ -296,9 +296,9 @@ Ocorrem quando as vogais são seguidas de M ou N na mesma sílaba, servindo apen
 
 Quando um prefixo terminado em consoante for seguido por palavra iniciada por VOGAL, a consoante do prefixo junta-se à vogal na pronúncia e na silabação:
 
- `SUB` + `ESTIMAR` $\rightarrow$ `sub-es-ti-mar` (A consoante `B` liga-se ao `E`).
- `SUB` + `LUNAR` $\rightarrow$ `sub-lu-nar` (Seguido de consoante, o prefixo fica intacto).
- `TRANS` + `ATLÂNTICO` $\rightarrow$ `tran-sa-tlân-ti-co` (O `S` junta-se ao `A`).
- `DES` + `HUMANO` $\rightarrow$ `des-hu-ma-no` (O `S` junta-se ao som vocálico do `H` mudo).
+ `SUB` + `ESTIMAR` => `sub-es-ti-mar` (A consoante `B` liga-se ao `E`).
+ `SUB` + `LUNAR`=> `sub-lu-nar` (Seguido de consoante, o prefixo fica intacto).
+ `TRANS` + `ATLÂNTICO` => `tran-sa-tlân-ti-co` (O `S` junta-se ao `A`).
+ `DES` + `HUMANO` => `des-hu-ma-no` (O `S` junta-se ao som vocálico do `H` mudo).
 
 ```
