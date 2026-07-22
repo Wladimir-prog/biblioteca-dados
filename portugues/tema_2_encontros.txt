@@ -1,1 +1,46 @@
+# 📚 TEMA 2: ENCONTRO CONSONANTAL E VOCÁLICO — DÍGRAFO E DÍFONO
 
+> **Objetivo:** Diferenciar claramente encontros consonantais de dígrafos, identificando adições (dÍfonos) e reduções fônicas.
+
+---
+
+## 1. ENCONTRO CONSONANTAL
+
+Ocorre quando duas ou mais consoantes aparecem lado a lado na palavra e **podemos ouvir o som individual de cada uma delas**.
+
+* **Encontro Perfeito (Mesma Sílaba):** Formado geralmente por Consoante + L ou R. Ex: *pra-to*, *pla-no*, *brin-co*, *at-las*.
+* **Encontro Imperfeito (Sílabas Separadas):** As consoantes pertencem a sílabas distintas. Ex: *ad-mi-rar*, *rit-mo*, *ob-je-to*, *ab-di-car*.
+
+---
+
+## 2. DÍGRAFO: DUAS LETRAS = UM ÚNICO SOM
+
+No dígrafo, duas letras fundem-se para emitir **apenas um fonema**.
+
+### A) Dígrafos Consonantais Separáveis (✂️)
+As letras dividem-se entre a sílaba anterior e a seguinte:
+* **RR:** *car-ro*
+* **SS:** *pas-so*
+* **SC:** *nas-cer*
+* **SÇ:** *cres-ça*
+* **XC:** *ex-ce-ção*
+
+### B) Dígrafos Consonantais Inseparáveis (🤝)
+Permanecem obrigatoriamente na mesma sílaba:
+* **CH:** *cha-ve*
+* **LH:** *fi-lho*
+* **NH:** *ni-nho*
+* **GU / QU:** *gue-rra*, *quei-jo* (Apenas se a letra U for mudo!).
+
+### C) Dígrafos Vocálicos (Nasais)
+Vogais seguidas de M ou N na mesma sílaba, atuando apenas como marcação nasal:
+* *cam-po* (`/kãpo/`), *cin-ta* (`/sĩta/`), *fun-do* (`/fũdo/`).
+
+---
+
+## 3. O DÍFONO (LETRA X = /KS/)
+
+Dífono é o fenômeno no qual uma única letra representa **dois fonemas** na fala. Ocorre com a letra **X** quando pronunciada como **/KS/**:
+* **TÁXI:** 4 letras | 5 fonemas (`/t/ /á/ /k/ /s/ /i/`)
+* **FIXO:** 4 letras | 5 fonemas
+* **ANEXO:** 5 letras | 6 fonemas
