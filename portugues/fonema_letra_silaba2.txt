@@ -1,1 +1,92 @@
 
+ 🟡 AULA 2 | QUANDO AS VOGAIS SE ENCONTRAM — DITONGO, TRITONGO E HIATO
+
+ 2.1 A Escala de Força Vocálica
+
+Para dominar a separação ou junção de vogais, você precisa entender a hierarquia física dos sons vocálicos:
+
+$$\text{Vogal pura (A) [Nível 3]} > \text{Vogais E / O [Nível 2]} > \text{Semivogais I / U [Nível 1]}$$
+
+ Vogal A: É a "Rainha das Vogais". A letra A é SEMPRE vogal pura. Jamais existirá um `/a/` atuando como semivogal na Língua Portuguesa.
+ Vogais E / O: Quando pronunciadas com intensidade forte, são vogais puras. Quando pronunciadas de forma fraca e rápida (soando quase como `/i/` e `/u/`), transformam-se em semivogais. Exemplo: `mãe` (soa como `mãi`), `pão` (soa como `pãu`).
+ Semivogais I / U: Quase sempre atuam como sons fracos de apoio. Porém, se receberem acento tônico ou força focal, viram vogais puras (ex: `sa-ú-de`, `pa-ís`).
+
+---
+
+ 2.2 Ditongo: A União Inseparável de Dois Sons
+
+O ditongo ocorre quando temos a combinação de uma Vogal + uma Semivogal (ou vice-versa) na mesma sílaba. Como a semivogal apoia-se na vogal, elas nunca se separam na divisão silábica ortográfica.
+
+ A) Quanto à Direção da Intensidade Sonora
+
+ Ditongo Decrescente (Vogal + Semivogal): A voz parte do som forte e cai para o fraco (V + SV).
+ `PAI` $\rightarrow$ `pai` (`A` = V | `I` = SV)
+ `LEI` $\rightarrow$ `lei` (`E` = V | `I` = SV)
+ `BOI` $\rightarrow$ `boi` (`O` = V | `I` = SV)
+ `CAI-XA` $\rightarrow$ `cai-xa` (`A` = V | `I` = SV)
+ `SAU-DA-DE` $\rightarrow$ `sau-da-de` (`A` = V | `U` = SV)
+
+
+ Ditongo Crescente (Semivogal + Vogal): A voz parte do som fraco e sobe para o forte (SV + V).
+ `Á-GUA` $\rightarrow$ `á-gua` (`U` = SV | `A` = V)
+ `HIS-TÓ-RIA` $\rightarrow$ `his-tó-ria` (`I` = SV | `A` = V)
+ `SÉ-RIE` $\rightarrow$ `sé-rie` (`I` = SV | `E` = V)
+ `GÊ-NIO` $\rightarrow$ `gê-nio` (`I` = SV | `O` = V)
+
+
+
+> 📌 Alerta de Banca de Concurso (Cebraspe / FGV):
+> Os ditongos crescentes no final de palavras paroxítonas (`his-tó-ria`, `sé-rie`, `mÁ-goa`) são chamados pela gramática de "ditongos eventuais" ou "falsos ditongos". As bancas aceitam duas separações válidas:
+> 1. `his-tó-ria` (Paroxítona terminada em ditongo crescente).
+> 2. `his-tó-ri-a` (Proparoxítona aparente / eventual).
+> 
+> 
+
+ B) Quanto à Passagem do Ar
+
+ Ditongo Oral: O ar sai apenas pela boca (`pai`, `lei`, `caixa`, `véu`).
+ Ditongo Nasal: O ar sai pela boca e pelo nariz. Marcado por til (`~`) ou pelas consoantes $M$/$N$ em fim de sílaba.
+ `mão`, `mãe`, `põe`, `saguões`.
+ ⚠️ Pegadinha Clássica: Nas palavras TAMBÉM e HOMEM, o `M` final tem som de semivogal nasalizada:
+ `tam-bém` soa como `/tã-bẽi/` (Ditongo nasal decrescente).
+ `ho-mem` soa como `/o-mẽi/` (Ditongo nasal decrescente).
+
+---
+
+ 2.3 Tritongo: O Trio Inseparável
+
+O tritongo ocorre quando três sons vocálicos unem-se na mesma sílaba.
+
+A sua estrutura fonética é rígida e imutável:
+
+$$\text{Semivogal (Fraca)} + \text{Vogal (FORTE)} + \text{Semivogal (Fraca)}$$
+
+Se o som do meio não for a vogal mais forte, o grupo se desfaz!
+
+ Exemplos
+
+ PA-RA-GUAI: `u` (SV) + `a` (V) + `i` (SV) $\rightarrow$ `Pa-ra-guai`
+ EN-XA-GUEI: `u` (SV) + `e` (V) + `i` (SV) $\rightarrow$ `en-xa-guei`
+ SA-GUÃO: `u` (SV) + `ã` (V nasal) + `o` (SV) $\rightarrow$ `sa-guão`
+ EN-XÁ-GUEM: Soa como `/en-xá-gwẽi/` $\rightarrow$ Tritongo nasal.
+
+---
+
+ 2.4 Hiato: O Conflito de Vogais que Força a Divisão
+
+O hiato é o encontro de duas vogais puras em uma mesma palavra. Como jamais pode haver duas vogais verdadeiras juntas na mesma sílaba, elas obrigatoriamente se separam na divisão ortográfica.
+
+ Tabela Comparativa Exaustiva
+
+| Palavra | Fenômeno | Divisão Silábica | Razão Técnica |
+| --- | --- | --- | --- |
+| Pai | Ditongo | `pai` | Vogal (`A`) + Semivogal (`I`). Ficam na mesma sílaba. |
+| País | Hiato | `pa-ís` | O `I` recebe acento e vira Vogal pura. Separam-se! |
+| Caixa | Ditongo | `cai-xa` | Vogal (`A`) + Semivogal (`I`). Ficam juntos. |
+| Caos | Hiato | `ca-os` | `A` e `O` são vogais puras por natureza. Separam-se! |
+| Saúde | Hiato | `sa-ú-de` | `A` (Vogal) + `Ú` (Vogal tônica). Separam-se! |
+| Poema | Hiato | `po-e-ma` | `O` (Vogal) + `E` (Vogal). Separam-se! |
+| Coordenar | Hiato | `co-or-de-nar` | Vogais idênticas duplicadas (`OO`) sempre se separam. |
+| Creem | Hiato | `cre-em` | Vogais idênticas duplicadas (`EE`) sempre se separam. |
+
+---
