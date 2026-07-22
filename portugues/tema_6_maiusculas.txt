@@ -1,1 +1,27 @@
+# 📚 TEMA 6: USO DE LETRAS MAIÚSCULAS E MINÚSCULAS
 
+> **Objetivo:** Identificar os casos obrigatórios e facultativos do emprego de iniciais maiúsculas conforme o Novo Acordo Ortográfico.
+
+---
+
+## 1. CASOS OBRIGATÓRIOS DE LETRA MAIÚSCULA
+
+* **Nomes Próprios:** Pessoas, cidades, estados, países e acidentes geográficos (*Brasília*, *Distrito Federal*, *Rio Amazonas*).
+* **Instituições, Órgãos e Entidades públicas ou privadas:** (*Polícia Militar*, *Ministério da Educação*, *Supremo Tribunal Federal*).
+* **Fatos Históricos e Datas Comemorativas:** (*Segunda Guerra Mundial*, *Dia da Independência*).
+* **Pontos Cardeais quando designam regiões geopolíticas:** (*O desenvolvimento do Nordeste*; *Os países do Norte*).
+
+---
+
+## 2. CASOS OBRIGATÓRIOS DE LETRA MINÚSCULA
+
+* **Dias da Semana, Meses do Ano e Estações:** (*segunda-feira*, *janeiro*, *verão*).
+* **Nomes de Idiomas e Nacionalidades:** (*português*, *inglês*, *brasileiros*).
+* **Cargos Públicos e Títulos em geral:** (*o presidente*, *o governador*, *o coronel*), exceto em documentos oficiais de tratamento formal direto.
+
+---
+
+## 3. USO FACULTATIVO
+
+* **Títulos de Livros/Obras:** Maiúscula apenas na primeira palavra ou em todas (*Dom Casmurro* ou *Dom casmurro*).
+* **Logradouros e Vias Públicas:** (*Rua das Flores* ou *rua das Flores*).
