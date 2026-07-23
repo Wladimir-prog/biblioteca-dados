@@ -1,0 +1,111 @@
+FONEMAS, LETRAS E SÍLABAS
+
+INTRODUÇÃO
+
+- A fonética estuda os sons da fala (fonemas). É crucial entender a relação entre fonemas, letras e sílabas para a correta pronúncia e escrita.
+
+1. FONEMA
+
+- Fonema é a menor unidade sonora que distingue significados. É a representação mental do som.
+
+Ex.: 'p' em 'pato' e 'b' em 'bato' são fonemas distintos.
+Ex.: 'v' em 'vela' e 'f' em 'fala' são fonemas distintos.
+Ex.: 'm' em 'mala' e 'n' em 'nala' (hipotético) seriam fonemas distintos.
+
+2. LETRA
+
+- Letra é a representação gráfica do fonema. Um fonema pode ter várias letras, e uma letra, vários fonemas.
+
+Ex.: A letra 'x' tem som de 'ch' em 'caixa'.
+Ex.: A letra 'x' tem som de 'z' em 'exame'.
+Ex.: A letra 'x' tem som de 'cs' em 'táxi'.
+
+2.1. RELAÇÃO FONEMA-LETRA
+
+- O número de letras nem sempre coincide com o de fonemas (dígrafos, ditongos, hiatos).
+
+Ex.: 'casa': 4 letras, 4 fonemas.
+Ex.: 'chuva': 5 letras, 4 fonemas ('ch' é dígrafo).
+Ex.: 'táxi': 4 letras, 5 fonemas ('x' = 'cs').
+
+3. CLASSIFICAÇÃO DOS FONEMAS
+
+- Fonemas são vogais, semivogais e consoantes.
+
+a) VOGAIS
+
+- Sons produzidos sem obstrução do ar, núcleo da sílaba. São 'a', 'e', 'i', 'o', 'u'.
+
+Ex.: 'pato' tem 'a' e 'o'.
+Ex.: 'mesa' tem 'e' e 'a'.
+Ex.: 'livro' tem 'i' e 'o'.
+
+b) SEMIVOGAIS
+
+- Fonemas 'i' e 'u' (às vezes 'e', 'o') com som fraco, junto a uma vogal na mesma sílaba.
+
+Ex.: Em 'pai', o 'i' é semivogal.
+Ex.: Em 'mau', o 'u' é semivogal.
+Ex.: Em 'caixa', o 'i' é semivogal.
+
+c) CONSOANTES
+
+- Sons com obstrução do ar. Não formam sílaba sozinhas.
+
+Ex.: Em 'bola', 'b' e 'l' são consoantes.
+Ex.: Em 'mesa', 'm' e 's' são consoantes.
+Ex.: Em 'prato', 'p', 'r', 't' são consoantes.
+
+4. SÍLABA
+
+- Grupo de fonemas pronunciados em uma emissão de voz. Toda sílaba tem uma vogal como núcleo.
+
+Ex.: 'ca-sa' (duas sílabas).
+Ex.: 'a-mor' (duas sílabas).
+Ex.: 'li-vro' (duas sílabas).
+
+4.1. ENCONTROS VOCÁLICOS
+
+- Sequência de vogais e semivogais.
+
+a) DITONGO
+
+- Vogal + semivogal (ou vice-versa) na mesma sílaba.
+
+Ex.: 'pai' (decrescente 'ai').
+Ex.: 'quase' (crescente 'ua').
+Ex.: 'caixa' (decrescente 'ai').
+
+b) TRITONGO
+
+- Semivogal + vogal + semivogal na mesma sílaba.
+
+Ex.: 'Paraguai' ('uai').
+Ex.: 'iguais' ('uai').
+Ex.: 'enxaguou' ('uou').
+
+c) HIATO
+
+- Duas vogais em sílabas separadas.
+
+Ex.: 'sa-ú-de' ('a-ú').
+Ex.: 'ca-ir' ('a-i').
+Ex.: 'pi-a-da' ('i-a').
+
+4.2. ENCONTROS CONSONANTAIS
+
+- Duas ou mais consoantes juntas, na mesma ou em sílabas diferentes.
+
+Ex.: 'prato' ('pr' na mesma sílaba).
+Ex.: 'advogado' ('dv' em sílabas diferentes).
+Ex.: 'flor' ('fl' na mesma sílaba).
+
+4.3. DÍGRAFOS
+
+- Duas letras que representam um único fonema.
+
+Ex.: 'ch' em 'chave'.
+Ex.: 'ss' em 'passo'.
+Ex.: 'nh' em 'minha'.
+
+- FIM DO CONTEÚDO.
