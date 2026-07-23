@@ -1,0 +1,123 @@
+# Encontro Consonantal e Vocálico: Fundamentos da Fonética e Ortografia
+
+Na língua portuguesa, a correta compreensão dos encontros consonantais e vocálicos é crucial para a adequada divisão silábica, a acentuação gráfica e, consequentemente, para a ortografia. Estes fenômenos fonéticos referem-se à sequência de sons vocálicos ou consonantais em uma mesma palavra, e sua classificação depende de como esses sons se agrupam ou se separam na divisão silábica.
+
+## 1. Encontro Vocálico
+
+O encontro vocálico ocorre quando há uma sequência de vogais e/ou semivogais em uma palavra. Para entendê-los, é fundamental distinguir vogal de semivogal:
+
+*   **Vogal**: Som produzido pela passagem livre do ar pela boca, sem obstrução. São as bases das sílabas ('a', 'e', 'o' tônicos, e 'i', 'u' quando são a sílaba principal).
+*   **Semivogal**: Sons vocálicos fracos ('i' e 'u' átonos) que acompanham uma vogal na mesma sílaba, sem formar sílaba sozinhos. Foneticamente, são representados por /j/ (para 'i') e /w/ (para 'u').
+
+Existem três tipos de encontros vocálicos:
+
+### 1.1. Hiato
+
+O hiato ocorre quando duas vogais consecutivas pertencem a sílabas diferentes. Ou seja, são duas vogais que se encontram, mas se separam na divisão silábica, pois cada uma é o núcleo de uma sílaba distinta.
+
+**Características:**
+*   Duas vogais lado a lado.
+*   Cada vogal forma uma sílaba própria.
+*   Sempre se separam na divisão silábica.
+
+**Exemplos:**
+*   'Saúde': sa-ú-de
+*   'Raiz': ra-iz
+*   'Cair': ca-ir
+*   'Poesia': po-e-si-a
+*   'Cooperação': co-o-pe-ra-ção
+
+### 1.2. Ditongo
+
+O ditongo é o encontro de uma vogal e uma semivogal (ou vice-versa) na mesma sílaba. Diferentemente do hiato, os sons vocálicos permanecem juntos na divisão silábica.
+
+**Classificação dos Ditongos:**
+
+**a) Quanto à pronúncia:**
+*   **Orais**: O ar sai apenas pela boca. Ex: 'pai', 'caixa', 'água', 'muito'.
+*   **Nasais**: O ar sai pela boca e pelo nariz. Ex: 'pão', 'mãe', 'muito' (em algumas pronúncias), 'cãibra'.
+
+**b) Quanto à ordem dos elementos:**
+*   **Decrescente**: Vogal + Semivogal (V + SV). A vogal tem som mais forte que a semivogal. Ex: 'pai' (a+i), 'caixa' (a+i), 'ouro' (o+u), 'chapéu' (e+u).
+*   **Crescente**: Semivogal + Vogal (SV + V). A semivogal tem som mais fraco que a vogal. Ex: 'água' (u+a), 'quase' (u+a), 'série' (i+e), 'história' (i+a).
+
+**Observação importante**: Os grupos 'qu' e 'gu' seguidos de 'e' ou 'i' (como em 'queijo', 'guerra') são dígrafos, pois o 'u' não é pronunciado. No entanto, se o 'u' for pronunciado, como em 'aguentar' (a-guen-tar) ou 'bilíngue' (bi-lín-gue), temos um ditongo crescente.
+
+### 1.3. Tritongo
+
+O tritongo é o encontro de uma semivogal, uma vogal e outra semivogal (SV + V + SV) na mesma sílaba. A vogal é sempre o elemento central e mais forte.
+
+**Características:**
+*   Três sons vocálicos na mesma sílaba.
+*   A sequência é sempre semivogal + vogal + semivogal.
+*   Sempre permanecem juntos na divisão silábica.
+
+**Exemplos:**
+*   'Paraguai': Pa-ra-guai
+*   'Iguais': i-guais
+*   'Enxaguou': en-xa-guou
+*   'Uruguai': U-ru-guai
+
+## 2. Encontro Consonantal
+
+O encontro consonantal ocorre quando há uma sequência de duas ou mais consoantes na mesma palavra, e cada uma delas representa um fonema (som) distinto. É fundamental não confundir encontro consonantal com dígrafo.
+
+### 2.1. Encontro Consonantal Perfeito (Inseparável)
+
+Ocorre quando as consoantes permanecem na mesma sílaba. Geralmente, são grupos de consoantes formados por uma consoante seguida de 'l' ou 'r'.
+
+**Características:**
+*   Consoantes que não se separam na divisão silábica.
+*   Comuns em grupos como 'pr', 'br', 'cr', 'dr', 'fr', 'gr', 'tr', 'vr', 'pl', 'bl', 'cl', 'fl', 'gl', 'tl'.
+
+**Exemplos:**
+*   'Prato': pra-to
+*   'Atleta': a-tle-ta
+*   'Livro': li-vro
+*   'Claro': cla-ro
+*   'Pedra': pe-dra
+
+### 2.2. Encontro Consonantal Imperfeito (Separado)
+
+Ocorre quando as consoantes se separam na divisão silábica, pertencendo a sílabas diferentes.
+
+**Características:**
+*   Consoantes que se separam na divisão silábica.
+*   Comuns em grupos como 'rt', 'st', 'dv', 'bs', 'gn', 'pt', 'ft', 'xc', 'cc', 'ct', 'rc', 'ns', 'ls', 'rs'.
+
+**Exemplos:**
+*   'Ritmo': rit-mo
+*   'Advogado': ad-vo-ga-do
+*   'Substantivo': sub-stan-ti-vo
+*   'Excelente': ex-ce-len-te
+*   'Apto': ap-to
+
+## 3. Dígrafo vs. Encontro Consonantal: Uma Distinção Crucial
+
+Esta é uma das maiores fontes de confusão e um ponto frequentemente explorado em provas. A diferença é simples, mas fundamental:
+
+*   **Dígrafo**: Duas letras que representam um **único fonema** (som). Ex: 'ch' em 'chave' (/ʃ/), 'nh' em 'ninho' (/ɲ/), 'lh' em 'palha' (/ʎ/), 'rr' em 'carro' (/ʁ/), 'ss' em 'passo' (/s/), 'gu' em 'guerra' (/g/), 'qu' em 'queijo' (/k/), 'sc' em 'nascer' (/s/), 'sç' em 'cresça' (/s/), 'xc' em 'excelente' (/s/).
+    *   **Dígrafos Consonantais**: 'ch', 'nh', 'lh', 'rr', 'ss', 'gu' (antes de 'e'/'i' sem 'u' pronunciado), 'qu' (antes de 'e'/'i' sem 'u' pronunciado), 'sc', 'sç', 'xc'.
+    *   **Dígrafos Vocálicos**: 'am', 'an', 'em', 'en', 'im', 'in', 'om', 'on', 'um', 'un' (quando representam vogais nasais). Ex: 'campo', 'canto', 'tempo', 'vento'.
+
+*   **Encontro Consonantal**: Duas letras que representam **dois fonemas distintos**. Ex: 'pr' em 'prato' (/p/ + /ɾ/), 'tl' em 'atleta' (/t/ + /l/), 'rt' em 'carta' (/ɾ/ + /t/).
+
+**A regra de ouro**: Se você consegue ouvir o som de cada consoante separadamente, é um encontro consonantal. Se as duas consoantes formam um único som, é um dígrafo.
+
+**Exemplos de comparação:**
+*   'Chuva' (dígrafo 'ch', um som) vs. 'Claro' (encontro consonantal 'cl', dois sons).
+*   'Nascimento' (dígrafo 'sc', um som) vs. 'Psicologia' (encontro consonantal 'ps', dois sons).
+*   'Carro' (dígrafo 'rr', um som) vs. 'Porta' (encontro consonantal 'rt', dois sons).
+
+## 4. Divisão Silábica e os Encontros
+
+A divisão silábica é diretamente influenciada pelos encontros vocálicos e consonantais:
+
+*   **Hiato**: As vogais se separam. Ex: 'sa-ú-de', 'a-e-ro-por-to'.
+*   **Ditongo e Tritongo**: Os elementos permanecem na mesma sílaba. Ex: 'ca-i-xa', 'Pa-ra-guai'.
+*   **Encontro Consonantal Perfeito**: As consoantes permanecem na mesma sílaba. Ex: 'pra-to', 'a-tle-ta'.
+*   **Encontro Consonantal Imperfeito**: As consoantes se separam. Ex: 'rit-mo', 'ad-vo-ga-do'.
+*   **Dígrafos**: 'ch', 'lh', 'nh', 'qu', 'gu' (sem 'u' pronunciado) permanecem juntos. Ex: 'cha-ve', 'ga-lho', 'ni-nho', 'quei-jo', 'gue-rra'.
+*   **Dígrafos 'rr', 'ss', 'sc', 'sç', 'xc'**: Sempre se separam. Ex: 'car-ro', 'pas-so', 'nas-cer', 'cres-ça', 'ex-ce-len-te'.
+
+Dominar os encontros vocálicos e consonantais é um passo fundamental para aprimorar a escrita e a leitura, garantindo a correta aplicação das regras ortográficas e fonéticas da língua portuguesa. A prática constante da divisão silábica e a identificação desses fenômenos em diferentes palavras são as melhores formas de fixar o conhecimento.

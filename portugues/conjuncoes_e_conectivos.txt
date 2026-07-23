@@ -1,0 +1,70 @@
+As conjunções e os conectivos são elementos essenciais para a construção da coesão e coerência textual na língua portuguesa. Eles atuam como 'pontes' que ligam palavras, orações e parágrafos, estabelecendo relações de sentido entre eles. Compreender seu uso é fundamental para a interpretação e produção de textos claros e bem articulados, sendo um tópico recorrente em provas de concursos e vestibulares.
+
+## O que são Conjunções?
+
+Conjunções são palavras invariáveis que ligam duas orações ou dois termos de mesma função sintática, estabelecendo entre eles uma relação de dependência ou de coordenação. Elas não possuem função sintática própria dentro da oração, mas são cruciais para a articulação do período.
+
+## Classificação das Conjunções
+
+As conjunções são tradicionalmente divididas em dois grandes grupos: coordenativas e subordinativas.
+
+### 1. Conjunções Coordenativas
+
+As conjunções coordenativas ligam orações independentes entre si (orações coordenadas) ou termos que possuem a mesma função sintática dentro de uma oração. Elas não estabelecem uma relação de dependência sintática, mas sim de adição, oposição, alternância, conclusão ou explicação.
+
+**Tipos de Conjunções Coordenativas:**
+
+*   **Aditivas:** Expressam ideia de adição, soma. As principais são: 'e', 'nem' (e não), 'não só... mas também', 'tanto... quanto', 'bem como'.
+    *   Exemplo: 'Ele estuda muito 'e' trabalha à noite.'
+*   **Adversativas:** Expressam ideia de oposição, contraste, ressalva. As principais são: 'mas', 'porém', 'todavia', 'contudo', 'entretanto', 'no entanto', 'não obstante'.
+    *   Exemplo: 'Gostaria de ir, 'mas' estou ocupado.'
+*   **Alternativas:** Expressam ideia de alternância, escolha, exclusão. As principais são: 'ou', 'ou... ou', 'ora... ora', 'já... já', 'quer... quer', 'seja... seja'.
+    *   Exemplo: ''Ou' você estuda, 'ou' você não passa.'
+*   **Conclusivas:** Expressam ideia de conclusão, consequência. As principais são: 'logo', 'portanto', 'por isso', 'assim', 'pois' (posposto ao verbo), 'por conseguinte'.
+    *   Exemplo: 'Ele estudou muito, 'logo' será aprovado.'
+*   **Explicativas:** Expressam ideia de explicação, justificativa. As principais são: 'que', 'porque', 'pois' (anteposto ao verbo), 'porquanto'.
+    *   Exemplo: 'Não saia, 'porque' está chovendo.'
+
+### 2. Conjunções Subordinativas
+
+As conjunções subordinativas ligam uma oração subordinada a uma oração principal, estabelecendo uma relação de dependência sintática. A oração subordinada complementa ou especifica o sentido da oração principal.
+
+**Tipos de Conjunções Subordinativas:**
+
+*   **Integrantes:** Introduzem orações subordinadas substantivas. As principais são: 'que', 'se'.
+    *   Exemplo: 'Espero 'que' você venha.' (oração subordinada substantiva objetiva direta)
+    *   Exemplo: 'Não sei 'se' ele virá.' (oração subordinada substantiva objetiva direta)
+
+*   **Adverbiais:** Introduzem orações subordinadas adverbiais, que funcionam como adjuntos adverbiais da oração principal, expressando diversas circunstâncias.
+    *   **Causais:** Indicam causa, motivo. As principais são: 'porque', 'já que', 'visto que', 'como' (no início da frase), 'uma vez que', 'porquanto'.
+        *   Exemplo: ''Como' estava doente, não foi à festa.'
+    *   **Comparativas:** Indicam comparação. As principais são: 'como', 'mais... do que', 'menos... do que', 'tão... quanto', 'tal qual', 'assim como'.
+        *   Exemplo: 'Ele é forte 'como' um touro.'
+    *   **Concessivas:** Indicam uma ideia contrária à da oração principal, mas que não impede sua realização. As principais são: 'embora', 'ainda que', 'mesmo que', 'posto que', 'conquanto', 'se bem que', 'apesar de que'.
+        *   Exemplo: ''Embora' chovesse, saímos.'
+    *   **Condicionais:** Indicam condição para que a ação da oração principal ocorra. As principais são: 'se', 'caso', 'contanto que', 'desde que', 'a menos que', 'salvo se', 'exceto se'.
+        *   Exemplo: ''Se' você estudar, passará.'
+    *   **Conformativas:** Indicam conformidade, acordo. As principais são: 'conforme', 'como', 'segundo', 'consoante'.
+        *   Exemplo: 'Fiz o trabalho 'conforme' o professor pediu.'
+    *   **Consecutivas:** Indicam consequência, resultado. As principais são: 'tão... que', 'tanto... que', 'tamanho... que', 'de modo que', 'de sorte que', 'sem que'.
+        *   Exemplo: 'Ele gritou 'tanto que' ficou rouco.'
+    *   **Finais:** Indicam finalidade, objetivo. As principais são: 'para que', 'a fim de que', 'que'.
+        *   Exemplo: 'Estudamos 'para que' possamos aprender.'
+    *   **Proporcionais:** Indicam proporção, simultaneidade. As principais são: 'à medida que', 'à proporção que', 'quanto mais... mais', 'quanto menos... menos', 'ao passo que'.
+        *   Exemplo: ''À medida que' o tempo passa, ficamos mais velhos.'
+    *   **Temporais:** Indicam tempo. As principais são: 'quando', 'enquanto', 'logo que', 'assim que', 'depois que', 'antes que', 'desde que', 'sempre que', 'mal'.
+        *   Exemplo: ''Quando' você chegou, eu já estava saindo.'
+
+## Conectivos: Um Conceito Mais Amplo
+
+O termo 'conectivo' é mais abrangente que 'conjunção'. Ele se refere a qualquer palavra ou expressão que estabelece ligação entre partes do texto, garantindo a coesão. Além das conjunções, incluem-se nos conectivos:
+
+*   **Preposições:** Ligam palavras, estabelecendo relações de sentido (de, em, para, com, por, etc.). Exemplo: 'Livro 'de' português.'
+*   **Advérbios e Locuções Adverbiais:** Podem atuar como conectivos, especialmente os que indicam tempo, lugar, modo, intensidade, etc., ou os que expressam transição (primeiramente, em seguida, além disso, por outro lado, etc.). Exemplo: 'Ele chegou tarde. 'No entanto', conseguiu entrar.'
+*   **Pronomes Relativos:** Introduzem orações subordinadas adjetivas (que, quem, cujo, onde, etc.). Exemplo: 'O livro 'que' li é ótimo.'
+
+## A Importância dos Conectivos na Coesão e Coerência
+
+O uso adequado de conjunções e outros conectivos é vital para a coesão (ligação formal entre as partes do texto) e a coerência (sentido lógico do texto). Eles permitem que o leitor siga o raciocínio do autor, compreendendo as relações de causa, consequência, oposição, adição, etc., entre as ideias. A má utilização ou a ausência de conectivos pode gerar textos confusos, ambíguos e de difícil compreensão.
+
+Dominar as conjunções e os conectivos é, portanto, uma habilidade crucial para qualquer estudante ou profissional que deseje comunicar-se de forma eficaz na língua portuguesa, sendo um diferencial em qualquer avaliação de proficiência textual.

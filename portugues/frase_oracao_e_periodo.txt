@@ -1,0 +1,120 @@
+# Frase, Oração e Período: As Unidades Sintáticas Fundamentais
+
+A compreensão das unidades sintáticas básicas – 'frase', 'oração' e 'período' – é crucial para a análise gramatical e para a construção de textos coesos e coerentes. Em concursos públicos, a distinção e a classificação dessas estruturas são frequentemente cobradas, exigindo do candidato não apenas a memorização de conceitos, mas a capacidade de aplicá-los em diferentes contextos. Este material aprofundará cada um desses elementos, suas classificações e as relações que estabelecem entre si.
+
+## 1. A Frase: A Unidade de Sentido Completo
+
+A 'frase' é a unidade mínima de comunicação que possui sentido completo. Ela pode ser expressa por uma única palavra ou por um conjunto delas, mas o que a define é a sua capacidade de transmitir uma mensagem compreensível por si só.
+
+### 1.1. Classificação da Frase
+
+As frases podem ser classificadas de duas maneiras principais:
+
+#### a) Quanto à presença de verbo:
+*   **Frase Nominal:** Não possui verbo em sua estrutura. O sentido é transmitido por nomes (substantivos, adjetivos, advérbios, interjeições).
+    *   Exemplos: 'Que dia lindo!', 'Silêncio!', 'Fogo!', 'Parabéns!', 'Cuidado com o cão!'.
+    *   Característica: Geralmente expressa emoções, ordens, advertências ou saudações.
+*   **Frase Verbal:** Possui um ou mais verbos (ou locuções verbais) em sua estrutura.
+    *   Exemplos: 'Os alunos estudaram para a prova.', 'Ele está lendo um livro interessante.', 'Choveu muito ontem.'.
+    *   Característica: É a base para a formação das orações.
+
+#### b) Quanto à intenção do falante (modalidade):
+*   **Declarativas:** Afirmam ou negam algo. Podem ser afirmativas ('Ele chegou cedo.') ou negativas ('Ele não chegou cedo.').
+*   **Interrogativas:** Expressam uma pergunta. Podem ser diretas ('Você vem?') ou indiretas ('Gostaria de saber se você vem.').
+*   **Exclamativas:** Expressam emoção, surpresa, admiração. ('Que belo gol!').
+*   **Imperativas:** Expressam ordem, pedido, conselho. Podem ser afirmativas ('Estude mais!') ou negativas ('Não corra!').
+*   **Optativas:** Expressam desejo. ('Que Deus o abençoe!').
+
+## 2. A Oração: O Núcleo Verbal da Sintaxe
+
+A 'oração' é uma unidade sintática que se organiza em torno de um verbo ou de uma locução verbal. A presença do verbo é o critério fundamental para identificar uma oração. Cada verbo (ou locução verbal) corresponde a uma oração.
+
+### 2.1. Estrutura Básica da Oração
+
+A oração geralmente apresenta dois termos essenciais:
+*   **Sujeito:** O ser sobre o qual se declara algo.
+*   **Predicado:** A declaração feita sobre o sujeito, contendo o verbo.
+
+Exemplo: 'Os estudantes (sujeito) *resolveram* os exercícios (predicado).'
+
+### 2.2. Classificação das Orações
+
+As orações podem ser classificadas de diversas formas, mas a mais relevante para a distinção com 'período' é a sua função dentro de um período composto.
+
+## 3. O Período: A Organização das Orações
+
+O 'período' é uma frase verbal que contém uma ou mais orações. Ele começa com letra maiúscula e termina com um ponto final, ponto de interrogação ou ponto de exclamação.
+
+### 3.1. Classificação do Período
+
+Os períodos são classificados em dois tipos principais:
+
+#### a) Período Simples:
+*   É formado por uma única oração, ou seja, possui apenas um verbo ou uma locução verbal.
+*   Essa única oração é chamada de 'oração absoluta'.
+*   Exemplos: 'O sol *brilha* intensamente.', 'Os pássaros *cantam* na árvore.', 'Ele *está estudando* para o concurso.'.
+
+#### b) Período Composto:
+*   É formado por duas ou mais orações, ou seja, possui dois ou mais verbos ou locuções verbais.
+*   As orações que compõem um período composto podem se relacionar por 'coordenação' ou por 'subordinação'.
+
+### 3.2. Período Composto por Coordenação
+
+No período composto por coordenação, as orações são sintaticamente independentes, ou seja, cada uma delas tem sentido completo por si só, embora estejam ligadas por um sentido lógico. Elas são conectadas por conjunções coordenativas ou justapostas (sem conjunção).
+
+*   **Orações Coordenadas Assindéticas:** Não são ligadas por conjunções. A ligação é feita por vírgula, ponto e vírgula ou dois pontos.
+    *   Exemplo: 'Cheguei, vi, venci.' (três orações coordenadas assindéticas).
+*   **Orações Coordenadas Sindéticas:** São ligadas por conjunções coordenativas.
+    *   **Aditivas:** Expressam adição. (e, nem, mas também, como também). Ex: 'Ele estuda *e* trabalha.'
+    *   **Adversativas:** Expressam oposição, contraste. (mas, porém, todavia, contudo, entretanto, no entanto). Ex: 'Estudou muito, *mas* não passou.'
+    *   **Alternativas:** Expressam alternância, escolha. (ou, ou...ou, ora...ora, quer...quer, seja...seja). Ex: '*Ou* você estuda, *ou* você trabalha.'
+    *   **Conclusivas:** Expressam conclusão. (logo, portanto, por isso, por conseguinte, assim). Ex: 'Ele é inteligente, *logo* será aprovado.'
+    *   **Explicativas:** Expressam explicação, justificativa. (que, porque, pois - antes do verbo). Ex: 'Não saia, *porque* está chovendo.'
+
+### 3.3. Período Composto por Subordinação
+
+No período composto por subordinação, as orações são sintaticamente dependentes uma da outra. Há uma 'oração principal' (que não possui conjunção subordinativa) e uma ou mais 'orações subordinadas' (que dependem da principal para ter sentido completo e são introduzidas por conjunções subordinativas ou pronomes relativos).
+
+As orações subordinadas podem ser classificadas em três tipos principais:
+
+#### a) Orações Subordinadas Substantivas:
+*   Exercem funções sintáticas próprias de um substantivo (sujeito, objeto direto, objeto indireto, complemento nominal, predicativo, aposto) em relação à oração principal.
+*   São introduzidas pelas conjunções integrantes 'que' ou 'se'.
+*   Podem ser substituídas por um substantivo ou por 'isso'.
+*   Exemplos:
+    *   'É necessário *que você estude*.' (subjetiva - funciona como sujeito)
+    *   'Desejo *que você seja feliz*.' (objetiva direta - funciona como objeto direto)
+    *   'Tenho certeza *de que ele virá*.' (completiva nominal - funciona como complemento nominal)
+
+#### b) Orações Subordinadas Adjetivas:
+*   Exercem função sintática de adjetivo, caracterizando um termo da oração principal (antecedente).
+*   São introduzidas por pronomes relativos (que, quem, cujo, onde, quando, como).
+*   Podem ser classificadas em:
+    *   **Restritivas:** Restringem o sentido do antecedente, sem vírgulas. Ex: 'Os alunos *que estudam* passam.' (Apenas os que estudam).
+    *   **Explicativas:** Explicam o antecedente, acrescentando uma informação adicional, sempre entre vírgulas. Ex: 'Os alunos, *que são dedicados*, passam.' (Todos os alunos são dedicados e passam).
+
+#### c) Orações Subordinadas Adverbiais:
+*   Exercem função sintática de advérbio, indicando uma circunstância (tempo, causa, condição, finalidade, etc.) em relação à oração principal.
+*   São introduzidas por diversas conjunções subordinativas adverbiais.
+*   Principais tipos:
+    *   **Causais:** Indicam causa. (porque, já que, visto que, como - no início). Ex: '*Como chovia*, ficamos em casa.'
+    *   **Concessivas:** Indicam oposição, mas não impedem a ação. (embora, ainda que, mesmo que, conquanto). Ex: '*Embora estivesse cansado*, continuou a trabalhar.'
+    *   **Condicionais:** Indicam condição. (se, caso, contanto que, desde que). Ex: '*Se você estudar*, passará no concurso.'
+    *   **Conformativas:** Indicam conformidade. (conforme, consoante, segundo, como). Ex: 'Fiz o trabalho *conforme o professor pediu*.'
+    *   **Consecutivas:** Indicam consequência. (tão...que, tanto...que, de modo que, de sorte que). Ex: 'Estudou tanto *que adoeceu*.'
+    *   **Finais:** Indicam finalidade. (para que, a fim de que, que). Ex: 'Estudou *para que fosse aprovado*.'
+    *   **Proporcionais:** Indicam proporção. (à medida que, à proporção que, quanto mais...mais). Ex: '*À medida que o tempo passa*, ficamos mais experientes.'
+    *   **Temporais:** Indicam tempo. (quando, enquanto, logo que, assim que, depois que, antes que). Ex: '*Quando ele chegou*, todos se calaram.'
+    *   **Comparativas:** Indicam comparação. (como, mais...do que, menos...do que, tal qual). Ex: 'Ele é inteligente *como o pai*.'
+
+## 4. Diferenças Cruciais e Dicas para Concursos
+
+*   **Frase vs. Oração:** Toda oração é uma frase verbal, mas nem toda frase é uma oração (ex: 'Que lindo!'). A chave é a presença do verbo.
+*   **Oração vs. Período:** Uma oração é uma unidade com verbo. Um período é uma frase verbal que pode conter uma ou mais orações. Se tem um verbo, é um período simples (e uma oração absoluta). Se tem dois ou mais verbos, é um período composto.
+*   **Contagem de Orações:** Conte o número de verbos ou locuções verbais. Cada um corresponde a uma oração.
+*   **Período Composto por Coordenação vs. Subordinação:**
+    *   **Coordenação:** Orações independentes, ligadas por conjunções coordenativas ou justapostas.
+    *   **Subordinação:** Orações dependentes (subordinadas) de uma principal, ligadas por conjunções subordinativas ou pronomes relativos. A oração subordinada 'completa' ou 'modifica' a principal.
+*   **Verbos no Infinitivo, Gerúndio e Particípio:** Podem formar orações reduzidas, que são subordinadas sem conjunção. Ex: 'Ao *chegar* em casa, ligou a TV.' ('Ao chegar em casa' é uma oração subordinada adverbial temporal reduzida de infinitivo).
+
+Dominar esses conceitos é fundamental para a análise sintática e para a correta interpretação e produção textual, habilidades essenciais para qualquer prova de língua portuguesa.

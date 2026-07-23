@@ -1,0 +1,131 @@
+# Colocação Pronominal: Guia Completo para Concursos
+A colocação pronominal é um dos tópicos mais desafiadores da gramática normativa da língua portuguesa, frequentemente cobrado em provas de concurso público. Ela se refere à posição dos pronomes oblíquos átonos (me, te, se, o, a, os, as, lhe, lhes, nos, vos) em relação ao verbo. Dominar suas regras é crucial para garantir a correção gramatical e a clareza textual. Existem três posições básicas: próclise, ênclise e mesóclise.
+
+## 1. Próclise: O Pronome Antes do Verbo
+A próclise ocorre quando o pronome oblíquo átono é colocado antes do verbo. É a posição preferencial em diversos contextos, especialmente quando há 'palavras atrativas' que "puxam" o pronome para antes do verbo.
+
+### Regras Fundamentais da Próclise:
+
+1.  **Palavras de Sentido Negativo:** Advérbios de negação como 'não', 'nunca', 'jamais', 'ninguém', 'nada', 'nenhum', 'nem'.
+    *   Exemplo: 'Não me disseram a verdade.'
+    *   Exemplo: 'Nunca se arrependeu de suas escolhas.'
+
+2.  **Advérbios (exceto os de intensidade que podem gerar ênclise em alguns casos, mas a próclise é mais comum):** Qualquer advérbio que não seja de negação.
+    *   Exemplo: 'Aqui se faz, aqui se paga.'
+    *   Exemplo: 'Ontem o encontrei na rua.'
+    *   **Atenção:** Se o advérbio estiver seguido de vírgula, a próclise é facultativa ou a ênclise pode ocorrer. Ex: 'Agora, se faz necessário um plano.' ou 'Agora, faz-se necessário um plano.' (A próclise é mais comum e segura em concursos).
+
+3.  **Conjunções Subordinativas:** 'que', 'se', 'quando', 'embora', 'conforme', 'porque', 'como', 'enquanto', 'assim que', 'logo que', 'à medida que', 'desde que', 'para que', 'ainda que', 'caso', 'conquanto', 'se bem que', etc.
+    *   Exemplo: 'Espero que me ajudem.'
+    *   Exemplo: 'Quando se trata de amor, tudo é possível.'
+    *   Exemplo: 'Embora o convidassem, ele não foi.'
+
+4.  **Pronomes Relativos:** 'que', 'quem', 'onde', 'cujo(a)(s)', 'quanto(a)(s)'.
+    *   Exemplo: 'A pessoa que me ajudou é muito gentil.'
+    *   Exemplo: 'Não sei quem te contou isso.'
+    *   Exemplo: 'A cidade onde se encontraram era linda.'
+
+5.  **Pronomes Indefinidos:** 'alguém', 'ninguém', 'tudo', 'nada', 'outrem', 'todos', 'muitos', 'poucos', 'certos', 'vários', 'qualquer', 'nenhum', etc.
+    *   Exemplo: 'Alguém me ligou.'
+    *   Exemplo: 'Tudo se resolveu no final.'
+
+6.  **Pronomes Interrogativos:** 'quem', 'que', 'qual', 'quanto'.
+    *   Exemplo: 'Quem te disse isso?'
+    *   Exemplo: 'Que lhe aconteceu?'
+
+7.  **Pronomes Demonstrativos:** 'este', 'esse', 'aquele', 'isto', 'isso', 'aquilo'.
+    *   Exemplo: 'Isso me incomoda bastante.'
+    *   Exemplo: 'Aquilo o deixou feliz.'
+
+8.  **Em + Gerúndio:** Quando o verbo está no gerúndio e é precedido pela preposição 'em'.
+    *   Exemplo: 'Em se tratando de você, tudo é possível.'
+    *   Exemplo: 'Em se falando de política, ele se exalta.'
+
+9.  **Frases Exclamativas ou Optativas (que expressam desejo):**
+    *   Exemplo: 'Deus o abençoe!'
+    *   Exemplo: 'Que a força o acompanhe!'
+
+## 2. Ênclise: O Pronome Depois do Verbo
+A ênclise ocorre quando o pronome oblíquo átono é colocado depois do verbo e ligado a ele por um hífen. É a posição mais comum quando não há fatores que justifiquem a próclise ou a mesóclise.
+
+### Regras Fundamentais da Ênclise:
+
+1.  **Início de Frase:** Nunca se inicia uma frase com pronome oblíquo átono.
+    *   Correto: 'Diga-me a verdade.' (e não 'Me diga a verdade.')
+    *   Correto: 'Fizeram-lhe um favor.' (e não 'Lhe fizeram um favor.')
+
+2.  **Verbo no Imperativo Afirmativo:**
+    *   Exemplo: 'Ajude-me com esta tarefa.'
+    *   Exemplo: 'Sente-se aqui, por favor.'
+
+3.  **Verbo no Infinitivo Impessoal (não flexionado) sem palavra atrativa:**
+    *   Exemplo: 'É preciso fazer-lhe um agrado.'
+    *   Exemplo: 'Quero vê-lo feliz.'
+
+4.  **Verbo no Gerúndio (sem a preposição 'em'):**
+    *   Exemplo: 'Estava preparando-se para a prova.'
+    *   Exemplo: 'Saiu, deixando-nos sozinhos.'
+
+5.  **Verbo no Particípio:** A ênclise é proibida com o particípio. O pronome deve vir antes do verbo auxiliar.
+    *   Correto: 'Ele havia me avisado.' (e não 'Ele havia avisado-me.')
+    *   Correto: 'Tinha-o encontrado antes.' (e não 'Tinha encontrado-o antes.')
+
+6.  **Verbo no Futuro do Presente ou Futuro do Pretérito (sem palavra atrativa):** Nesses casos, a ênclise é proibida. A mesóclise é a forma correta.
+    *   Correto: 'Ajudar-me-á.' (e não 'Ajudará-me.')
+    *   Correto: 'Far-se-ia.' (e não 'Faria-se.')
+
+## 3. Mesóclise: O Pronome no Meio do Verbo
+A mesóclise ocorre quando o pronome oblíquo átono é inserido no meio do verbo. É a posição menos comum e restrita a condições específicas.
+
+### Regras Fundamentais da Mesóclise:
+
+1.  **Verbo no Futuro do Presente ou Futuro do Pretérito:** A mesóclise é obrigatória quando o verbo está em um desses tempos verbais e **não há palavra atrativa** que justifique a próclise.
+    *   **Futuro do Presente:** O pronome é inserido entre o radical e a terminação.
+        *   Exemplo: 'Realizar-se-á o evento amanhã.' (de 'realizará')
+        *   Exemplo: 'Convidar-me-ão para a festa.' (de 'convidarão')
+    *   **Futuro do Pretérito:** O pronome é inserido entre o radical e a terminação.
+        *   Exemplo: 'Far-se-ia o trabalho se houvesse tempo.' (de 'faria')
+        *   Exemplo: 'Dir-lhe-ia a verdade, se pudesse.' (de 'diria')
+
+2.  **Ausência de Fatores Atrativos:** Se houver uma palavra atrativa (como as que causam próclise), a mesóclise é substituída pela próclise, mesmo com o verbo no futuro.
+    *   Exemplo: 'Não o convidarei para a festa.' (e não 'Não o convidar-me-ei para a festa.')
+    *   Exemplo: 'Quando se fará o trabalho?' (e não 'Quando far-se-á o trabalho?')
+
+## 4. Casos Especiais e Observações Importantes
+
+1.  **Locuções Verbais:**
+    *   **Verbo auxiliar + infinitivo/gerúndio:**
+        *   Se não houver palavra atrativa, o pronome pode vir depois do auxiliar (ênclise ao auxiliar) ou depois do verbo principal (ênclise ao principal).
+            *   Exemplo: 'Vou-lhe dizer.' ou 'Vou dizer-lhe.'
+            *   Exemplo: 'Estava-me preparando.' ou 'Estava preparando-me.'
+        *   Se houver palavra atrativa, o pronome deve vir antes do auxiliar (próclise ao auxiliar).
+            *   Exemplo: 'Não lhe vou dizer.' (e não 'Não vou-lhe dizer.' ou 'Não vou dizer-lhe.')
+            *   Exemplo: 'Sempre me estava preparando.' (e não 'Sempre estava-me preparando.' ou 'Sempre estava preparando-me.')
+    *   **Verbo auxiliar + particípio:** O pronome nunca pode vir depois do particípio. Ele deve vir antes do auxiliar (próclise) ou depois do auxiliar (ênclise ao auxiliar), se não houver fator atrativo.
+        *   Exemplo: 'Ele me havia avisado.' (próclise)
+        *   Exemplo: 'Havia-me avisado.' (ênclise ao auxiliar, se iniciar a frase)
+        *   **Proibido:** 'Ele havia avisado-me.'
+
+2.  **Pronomes 'o', 'a', 'os', 'as' com verbos terminados em 'r', 's', 'z':**
+    *   Quando o verbo termina em 'r', 's' ou 'z', essas consoantes caem e o pronome assume as formas 'lo', 'la', 'los', 'las'.
+        *   Exemplo: 'Fazer + o' -> 'Fá-lo.'
+        *   Exemplo: 'Fiz + o' -> 'Fi-lo.'
+        *   Exemplo: 'Diz + o' -> 'Di-lo.'
+
+3.  **Pronomes 'o', 'a', 'os', 'as' com verbos terminados em ditongo nasal ('ão', 'õe', 'am', 'em'):**
+    *   Os pronomes assumem as formas 'no', 'na', 'nos', 'nas'.
+        *   Exemplo: 'Compraram + o' -> 'Compraram-no.'
+        *   Exemplo: 'Põe + o' -> 'Põe-no.'
+
+4.  **Pronomes 'lhe', 'lhes':** Não sofrem alteração de forma.
+    *   Exemplo: 'Dizer + lhe' -> 'Dizer-lhe.'
+    *   Exemplo: 'Disseram + lhes' -> 'Disseram-lhes.'
+
+## Resumo para Concursos:
+
+*   **Próclise é a regra geral** quando há uma palavra atrativa (negação, advérbio, conjunção subordinativa, pronome relativo/indefinido/interrogativo/demonstrativo, 'em' + gerúndio, frases exclamativas/optativas).
+*   **Ênclise é a regra geral** quando não há palavra atrativa e o verbo não está no futuro (início de frase, imperativo afirmativo, gerúndio sem 'em', infinitivo impessoal).
+*   **Mesóclise é obrigatória** quando o verbo está no futuro do presente ou futuro do pretérito e **não há palavra atrativa**.
+*   **Proibições:** Nunca iniciar frase com pronome oblíquo átono. Nunca usar pronome oblíquo átono depois de particípio. Nunca usar ênclise com verbos no futuro.
+
+Dominar a colocação pronominal exige prática e atenção aos detalhes. A chave é identificar a presença de fatores atrativos e o tempo verbal para aplicar a regra correta.

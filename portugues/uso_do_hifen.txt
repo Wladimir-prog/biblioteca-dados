@@ -1,0 +1,95 @@
+# Uso do Hífen: Regras e Aplicações Conforme o Acordo Ortográfico
+
+O hífen é um sinal de pontuação que gera muitas dúvidas na língua portuguesa, especialmente após as alterações promovidas pelo Novo Acordo Ortográfico. Sua função principal é unir elementos de palavras compostas, ligar pronomes oblíquos a verbos e separar sílabas. Compreender suas regras é crucial para a escrita correta, sendo um tópico frequente em provas de concursos e vestibulares.
+
+## 1. Regras Gerais para Prefixos
+
+As regras para o uso do hífen com prefixos são as mais complexas e dependem da letra final do prefixo e da letra inicial do segundo elemento.
+
+### 1.1. Prefixos Terminados em Vogal
+
+*   **Vogais Iguais:** Usa-se o hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento.
+    *   Exemplos: 'anti-inflamatório', 'micro-ondas', 'auto-observação', 'contra-ataque', 'semi-interno'.
+
+*   **Vogais Diferentes:** Não se usa o hífen quando o prefixo termina em vogal e o segundo elemento começa com vogal diferente.
+    *   Exemplos: 'autoescola', 'extraescolar', 'aeroespacial', 'infraestrutura', 'pluriarticulado'.
+
+*   **Vogal + R ou S:** Quando o segundo elemento começa com 'R' ou 'S', essas letras devem ser duplicadas, e não se usa o hífen.
+    *   Exemplos: 'antirracista', 'autorretrato', 'contrarregra', 'ultrassom', 'minissaia'.
+
+*   **Vogal + H:** Usa-se o hífen quando o segundo elemento começa com 'H'.
+    *   Exemplos: 'anti-higiênico', 'extra-humano', 'sobre-humano', 'mini-hotel'.
+
+*   **Vogal + Consoante (diferente de R/S):** Não se usa o hífen.
+    *   Exemplos: 'autopeça', 'semifinal', 'microcomputador', 'contracheque'.
+
+### 1.2. Prefixos Terminados em Consoante
+
+*   **Consoantes Iguais:** Usa-se o hífen quando o prefixo termina com a mesma consoante que inicia o segundo elemento.
+    *   Exemplos: 'inter-regional', 'sub-bibliotecário', 'hiper-requintado'.
+
+*   **Consoantes Diferentes:** Não se usa o hífen quando o prefixo termina em consoante e o segundo elemento começa com consoante diferente.
+    *   Exemplos: 'intermunicipal', 'supermercado', 'subdesenvolvido', 'hiperativo'.
+
+*   **Consoante + Vogal:** Não se usa o hífen.
+    *   Exemplos: 'interescolar', 'superinteressante', 'subentendido'.
+
+*   **Consoante + H:** Usa-se o hífen quando o segundo elemento começa com 'H'.
+    *   Exemplos: 'super-homem', 'sub-humano', 'inter-hospitalar'.
+
+## 2. Regras Específicas para Certos Prefixos
+
+Alguns prefixos possuem regras particulares que merecem atenção:
+
+*   **'Co-', 'Re-', 'Pro-', 'Pre-', 'Pos-' (átonos):** Geralmente não se usa hífen, mesmo que o segundo elemento comece com 'H' ou vogal igual. No entanto, se forem tônicos e seguidos de hífen, mantêm-no.
+    *   Exemplos: 'coautor', 'coordenar', 'reeducar', 'preestabelecer', 'pospor'.
+    *   Exceção (tônicos): 'pré-escolar', 'pós-graduação', 'pró-reitor'.
+
+*   **'Ex-', 'Vice-', 'Soto-', 'Sota-', 'Além-', 'Aquém-', 'Recém-', 'Sem-', 'Bem-':** Sempre se usa o hífen, independentemente da letra inicial do segundo elemento.
+    *   Exemplos: 'ex-aluno', 'vice-presidente', 'soto-mestre', 'além-mar', 'recém-nascido', 'sem-terra', 'bem-estar'.
+    *   Exceção para 'bem-': Se o segundo elemento começar com 'V' ou 'R', não se usa hífen: 'benfeito', 'benquerer'. Mas 'bem-vindo', 'bem-humorado'.
+
+*   **'Mal-':** Usa-se o hífen se o segundo elemento começar com vogal, 'H' ou 'L'. Nos demais casos, escreve-se junto.
+    *   Exemplos: 'mal-educado', 'mal-humorado', 'mal-limpo'.
+    *   Sem hífen: 'malfeito', 'malcheiroso'.
+
+*   **'Pan-', 'Circum-':** Usa-se o hífen se o segundo elemento começar com vogal, 'H', 'M' ou 'N'.
+    *   Exemplos: 'pan-americano', 'circum-navegação'.
+
+*   **'Sub-':** Usa-se o hífen se o segundo elemento começar com 'B', 'R' ou 'H'.
+    *   Exemplos: 'sub-base', 'sub-reino', 'sub-humano'.
+
+## 3. Palavras Compostas
+
+### 3.1. Com Hífen
+
+*   **Nomes de espécies botânicas e zoológicas:** 'couve-flor', 'bem-te-vi', 'joão-de-barro'.
+*   **Termos que designam cargos, títulos ou relações:** 'diretor-geral', 'primeiro-ministro', 'guarda-chuva'.
+*   **Palavras compostas por justaposição que perderam a noção de composição:** 'arco-íris', 'pão-de-ló', 'água-de-colônia'.
+*   **Com elementos de ligação:** O Acordo Ortográfico eliminou o hífen em muitas palavras compostas com elementos de ligação ('de', 'do', 'da'), mas algumas exceções permanecem.
+    *   Exemplos que mantêm o hífen: 'água-de-colônia', 'pão-de-ló', 'pé-de-moleque' (nomes de plantas, animais, ou que perderam a noção de composição).
+
+### 3.2. Sem Hífen
+
+*   **Palavras compostas por justaposição sem elemento de ligação e que perderam a noção de composição:** 'girassol', 'passatempo', 'paraquedas', 'madressilva'.
+*   **Palavras compostas com elementos de ligação que não se enquadram nas exceções:** 'dia a dia', 'fim de semana', 'café com leite', 'pé de galinha'.
+
+## 4. Hífen em Outras Situações
+
+*   **Ligação de pronomes oblíquos átonos a verbos:** 'amá-lo', 'dize-me', 'põe-no'.
+*   **Encadeamento de vocábulos:** 'Rio-Niterói', 'ponte Rio-Niterói'.
+*   **Indicação de limites:** 'São Paulo-Rio de Janeiro'.
+*   **Formação de advérbios de modo:** 'à-toa' (substantivo), mas 'à toa' (locução adverbial). O Acordo Ortográfico eliminou o hífen de locuções adverbiais, prepositivas e conjuntivas, exceto algumas consagradas como 'água-de-colônia'.
+
+## 5. Principais Mudanças Pós-Acordo Ortográfico (Resumo)
+
+O Acordo Ortográfico de 2009 trouxe as seguintes mudanças significativas no uso do hífen:
+
+1.  **Fim do hífen em prefixos terminados em vogal + segundo elemento iniciado por vogal diferente:** 'autoescola', 'infraestrutura'.
+2.  **Fim do hífen em prefixos terminados em vogal + segundo elemento iniciado por 'R' ou 'S' (duplicando-se as consoantes):** 'antirracista', 'ultrassom'.
+3.  **Fim do hífen em palavras compostas com elementos de ligação:** 'dia a dia', 'fim de semana', 'pé de moleque' (exceto nomes de espécies botânicas/zoológicas ou que perderam a noção de composição).
+4.  **Manutenção do hífen em prefixos terminados em vogal + 'H':** 'anti-higiênico'.
+5.  **Manutenção do hífen em prefixos terminados em consoante + mesma consoante:** 'inter-regional'.
+6.  **Manutenção do hífen em 'ex-', 'vice-', 'além-', 'aquém-', 'recém-', 'sem-', 'bem-':** 'ex-diretor', 'bem-estar'.
+
+Dominar o uso do hífen exige prática e atenção às regras, especialmente às exceções. A consulta a um bom dicionário ou vocabulário ortográfico é sempre recomendada em caso de dúvida.

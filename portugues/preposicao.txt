@@ -1,0 +1,136 @@
+A preposição é uma das dez classes de palavras da língua portuguesa, caracterizando-se por ser uma palavra invariável que estabelece uma relação de subordinação entre dois termos de uma oração, ligando-os e conferindo-lhes um sentido específico. Ela funciona como um elo, conectando um termo regente a um termo regido, sem que o termo regido perca sua função sintática original. A compreensão das preposições é fundamental para a construção de frases coesas e coerentes, além de ser um tópico recorrente em provas de concursos e vestibulares.
+
+1. Definição e Função Sintática
+
+A preposição é uma palavra que, por si só, não possui um sentido completo, mas adquire significado ao conectar palavras ou orações. Sua principal função é estabelecer uma relação de dependência e sentido entre o termo antecedente (regente) e o termo consequente (regido). Essa relação pode expressar diversas ideias, como tempo, lugar, modo, causa, finalidade, posse, instrumento, entre outras.
+
+Exemplo: 'Livro de Maria' (relação de posse). Aqui, 'de' liga 'Livro' a 'Maria', indicando que o livro pertence a Maria.
+
+2. Classificação das Preposições
+
+As preposições podem ser classificadas em essenciais e acidentais.
+
+2.1. Preposições Essenciais
+
+São aquelas palavras que sempre funcionam como preposições, não podendo pertencer a outra classe gramatical. São elas: 'a', 'ante', 'após', 'até', 'com', 'contra', 'de', 'desde', 'em', 'entre', 'para', 'perante', 'por', 'sem', 'sob', 'sobre', 'trás'.
+
+Exemplos:
+*   'Vou a Paris.' (destino)
+*   'Ele estava ante o juiz.' (posição)
+*   'Chegou após o almoço.' (tempo)
+*   'Fui até a esquina.' (limite)
+*   'Saí com meus amigos.' (companhia)
+*   'Lutou contra a injustiça.' (oposição)
+*   'Gosto de chocolate.' (assunto)
+*   'Estudo desde cedo.' (tempo)
+*   'Moro em São Paulo.' (lugar)
+*   'Dividiu o bolo entre os irmãos.' (distribuição)
+*   'Estudei para a prova.' (finalidade)
+*   'Apresentou-se perante a plateia.' (posição)
+*   'Passei por aqui.' (lugar)
+*   'Estou sem dinheiro.' (ausência)
+*   'O livro está sob a mesa.' (posição inferior)
+*   'A mosca pousou sobre o bolo.' (posição superior)
+*   'Ele veio por trás da casa.' (lugar)
+
+2.2. Preposições Acidentais
+
+São palavras que pertencem a outras classes gramaticais (advérbios, verbos, substantivos, adjetivos) mas que, em determinado contexto, podem funcionar como preposições, estabelecendo a mesma relação de subordinação.
+
+Exemplos comuns: 'afora', 'conforme', 'consoante', 'durante', 'exceto', 'mediante', 'menos', 'salvo', 'segundo', 'tirante', 'visto'.
+
+Exemplos:
+*   'Todos foram, exceto ele.' ('exceto' funciona como preposição, ligando 'todos' a 'ele' e indicando exclusão).
+*   'Agimos conforme as regras.' ('conforme' liga 'agimos' a 'regras', indicando conformidade).
+*   'Ele estudou durante a noite.' ('durante' liga 'estudou' a 'noite', indicando tempo).
+
+3. Locuções Prepositivas
+
+São expressões formadas por duas ou mais palavras que, juntas, exercem a função de uma preposição. Geralmente, são formadas por um advérbio ou substantivo + preposição. A última palavra da locução prepositiva é sempre uma preposição.
+
+Estrutura comum: Advérbio + Preposição (ex: 'abaixo de', 'acima de', 'depois de', 'perto de', 'longe de', 'antes de') ou Substantivo + Preposição (ex: 'em frente a', 'graças a', 'a fim de', 'apesar de', 'por causa de', 'em vez de').
+
+Exemplos:
+*   'Ele mora perto de mim.'
+*   'Estudou a fim de passar.'
+*   'Apesar de tudo, ele conseguiu.'
+*   'Por causa da chuva, não saímos.'
+
+4. Combinação e Contração das Preposições
+
+As preposições podem se unir a outras palavras, como artigos, pronomes ou advérbios, formando novas palavras. Esse processo pode ocorrer de duas formas: combinação ou contração.
+
+4.1. Combinação
+
+Ocorre quando a preposição se une a outra palavra sem que haja perda de fonemas.
+
+Exemplos:
+*   'a' + 'o' = 'ao'
+*   'a' + 'os' = 'aos'
+*   'a' + 'onde' = 'aonde'
+*   'por' + 'o' = 'pelo' (aqui há uma pequena alteração fonética, mas tradicionalmente é classificada como combinação por não haver perda de fonema da preposição 'por')
+*   'por' + 'os' = 'pelos'
+
+4.2. Contração
+
+Ocorre quando a preposição se une a outra palavra e há perda de fonemas (geralmente a vogal final da preposição ou o 'e' do artigo/pronome).
+
+Exemplos:
+*   'de' + 'o' = 'do'
+*   'de' + 'a' = 'da'
+*   'de' + 'este' = 'deste'
+*   'de' + 'esse' = 'desse'
+*   'de' + 'aquele' = 'daquele'
+*   'de' + 'ele' = 'dele'
+*   'em' + 'o' = 'no'
+*   'em' + 'a' = 'na'
+*   'em' + 'este' = 'neste'
+*   'em' + 'esse' = 'nesse'
+*   'em' + 'aquele' = 'naquele'
+*   'em' + 'ele' = 'nele'
+*   'a' + 'a' = 'à' (ocorrência de crase, que é a fusão da preposição 'a' com o artigo feminino 'a' ou com o 'a' inicial dos pronomes demonstrativos 'aquela', 'aquele', 'aquilo').
+
+5. Valores Semânticos das Preposições
+
+As preposições são cruciais para expressar uma vasta gama de relações de sentido entre os termos. Conhecer esses valores é essencial para a interpretação e produção textual.
+
+*   **Lugar:** 'Vou a Roma', 'Moro em São Paulo', 'Passei por aqui', 'O livro está sobre a mesa'.
+*   **Tempo:** 'Chegou em maio', 'Estudo desde cedo', 'Viajarei por uma semana', 'Trabalho das oito às cinco'.
+*   **Modo/Meio:** 'Escreveu a lápis', 'Viajou de avião', 'Falou com carinho', 'Cortou o pão com a faca'.
+*   **Causa:** 'Morreu de fome', 'Tremia de frio', 'Faltou por doença'.
+*   **Finalidade:** 'Estudou para a prova', 'Comprou o presente para a mãe', 'Trabalha a fim de viver'.
+*   **Posse:** 'O carro de João', 'A casa da Maria'.
+*   **Assunto:** 'Falamos sobre política', 'Conversamos de futebol'.
+*   **Instrumento:** 'Cortou o bolo com a faca', 'Escreveu a caneta'.
+*   **Companhia:** 'Saí com meus amigos', 'Viajou com a família'.
+*   **Matéria:** 'Mesa de madeira', 'Estátua de bronze'.
+*   **Oposição:** 'Lutou contra o inimigo'.
+*   **Origem:** 'Ele veio de Minas Gerais'.
+*   **Destino/Direção:** 'Vou para casa', 'Dirigiu-se à porta'.
+
+6. Regência Verbal e Nominal com Preposições
+
+A regência estuda a relação de dependência entre um termo regente (verbo ou nome) e um termo regido (complemento). Muitas vezes, essa relação é estabelecida por meio de uma preposição específica. O conhecimento da regência é vital para a correção gramatical.
+
+*   **Regência Verbal:** Alguns verbos exigem ou não preposição para ligar-se aos seus complementos.
+    *   Verbo 'ir': 'ir a' (lugar), 'ir para' (destino). Ex: 'Vou ao cinema', 'Vou para casa'.
+    *   Verbo 'assistir' (no sentido de ver): exige preposição 'a'. Ex: 'Assisti ao filme'.
+    *   Verbo 'obedecer': exige preposição 'a'. Ex: 'Obedeça aos seus pais'.
+    *   Verbo 'agradar' (no sentido de satisfazer): exige preposição 'a'. Ex: 'O show agradou ao público'.
+*   **Regência Nominal:** Alguns nomes (substantivos, adjetivos, advérbios) exigem preposição para ligar-se aos seus complementos.
+    *   'necessidade de': 'Tenho necessidade de paz'.
+    *   'acesso a': 'Temos acesso à informação'.
+    *   'medo de': 'Ele tem medo de altura'.
+    *   'compatível com': 'Seu estilo é compatível com o meu'.
+
+7. Erros Comuns no Uso das Preposições
+
+*   **Uso inadequado:** Empregar uma preposição onde não é necessária ou usar a preposição errada.
+    *   Incorreto: 'Cheguei em casa'. Correto: 'Cheguei a casa' (ou 'em casa' se o sentido for de permanência, mas para 'chegar' o mais comum é 'a').
+    *   Incorreto: 'Prefiro mais café do que chá'. Correto: 'Prefiro café a chá' (o verbo 'preferir' já indica superioridade e rege a preposição 'a').
+*   **Ausência de preposição necessária:** Omitir a preposição exigida pela regência.
+    *   Incorreto: 'Ele assistiu o jogo'. Correto: 'Ele assistiu ao jogo'.
+*   **Pleonasmo preposicional:** Repetição desnecessária de preposição.
+    *   Incorreto: 'Entrar para dentro'. Correto: 'Entrar'.
+
+Dominar o uso das preposições é um passo crucial para a fluência e correção na língua portuguesa. Elas são pequenas palavras com grande poder de conexão e de atribuição de sentido, e seu emprego correto reflete um bom domínio gramatical.

@@ -1,0 +1,136 @@
+# Período Composto: Coordenação e Subordinação
+
+## Introdução ao Período Composto
+
+Na língua portuguesa, a sintaxe estuda a forma como as palavras se organizam para formar frases e orações. Um dos conceitos fundamentais para a compreensão da estrutura frasal é o de 'período'. Um 'período' é uma frase que contém uma ou mais orações, ou seja, uma ou mais estruturas verbais. Quando um período possui apenas uma oração, ele é classificado como 'período simples'. Contudo, quando apresenta duas ou mais orações, ele é denominado 'período composto'.
+
+O 'período composto' é o foco deste estudo e pode ser formado por dois tipos principais de relações entre as orações: a 'coordenação' e a 'subordinação'. Compreender a diferença entre elas é crucial para a análise sintática e para a construção de textos coesos e coerentes, especialmente em contextos de provas e concursos que exigem precisão na interpretação e na produção textual.
+
+## Período Composto por Coordenação
+
+O 'período composto por coordenação' é aquele em que as orações são sintaticamente independentes entre si, ou seja, cada oração possui sentido completo e não exerce função sintática em relação à outra. Elas se unem para formar um sentido mais amplo, mas poderiam existir isoladamente como períodos simples. A ligação entre essas orações pode ser feita com ou sem o uso de conjunções coordenativas.
+
+### Orações Coordenadas Assindéticas
+
+As 'orações coordenadas assindéticas' são aquelas que se justapõem, ou seja, são colocadas lado a lado sem o uso de conjunções. A ligação entre elas é marcada principalmente por sinais de pontuação, como a vírgula, o ponto e vírgula ou os dois pontos.
+
+*   **Exemplo:** 'Cheguei, vi, venci.' (Três orações coordenadas assindéticas)
+
+### Orações Coordenadas Sindéticas
+
+As 'orações coordenadas sindéticas' são aquelas que se ligam por meio de uma conjunção coordenativa. A conjunção estabelece uma relação de sentido entre as orações, classificando-as em diferentes tipos:
+
+1.  **Aditivas:** Expressam ideia de adição, soma, acréscimo.
+    *   **Conjunções:** 'e', 'nem', 'mas também', 'como também', 'bem como', 'não só... mas também'.
+    *   **Exemplo:** 'Ele estuda muito 'e' trabalha à noite.'
+
+2.  **Adversativas:** Expressam ideia de oposição, contraste, ressalva.
+    *   **Conjunções:** 'mas', 'porém', 'todavia', 'contudo', 'entretanto', 'no entanto', 'não obstante'.
+    *   **Exemplo:** 'Gostaria de ir à festa, 'mas' estou doente.'
+
+3.  **Alternativas:** Expressam ideia de alternância, escolha, exclusão.
+    *   **Conjunções:** 'ou', 'ou... ou', 'ora... ora', 'já... já', 'quer... quer', 'seja... seja'.
+    *   **Exemplo:** ''Ou' você estuda, 'ou' você trabalha.'
+
+4.  **Conclusivas:** Expressam ideia de conclusão, consequência lógica.
+    *   **Conjunções:** 'logo', 'portanto', 'por isso', 'assim', 'pois' (depois do verbo), 'por conseguinte'.
+    *   **Exemplo:** 'Ele estudou bastante, 'logo' será aprovado.'
+
+5.  **Explicativas:** Expressam ideia de explicação, justificativa, motivo.
+    *   **Conjunções:** 'porque', 'que', 'pois' (antes do verbo), 'porquanto'.
+    *   **Exemplo:** 'Não saia de casa, 'porque' está chovendo.'
+
+## Período Composto por Subordinação
+
+No 'período composto por subordinação', as orações não são sintaticamente independentes. Há uma 'oração principal' (que possui sentido incompleto sem a outra) e uma ou mais 'orações subordinadas' (que dependem sintaticamente da principal e exercem uma função sintática em relação a ela). As orações subordinadas são introduzidas por conjunções subordinativas, pronomes relativos ou advérbios relativos.
+
+### Orações Subordinadas Substantivas
+
+As 'orações subordinadas substantivas' exercem funções sintáticas próprias de um substantivo em relação à oração principal. Geralmente são introduzidas pelas conjunções integrantes 'que' ou 'se' e podem ser substituídas por um substantivo ou por pronomes como 'isso', 'isto', 'aquilo'.
+
+1.  **Subjetiva:** Exerce função de sujeito da oração principal.
+    *   **Exemplo:** 'É necessário 'que você estude'.' ('Que você estude' é o sujeito de 'é necessário'.)
+
+2.  **Objetiva Direta:** Exerce função de objeto direto do verbo da oração principal.
+    *   **Exemplo:** 'Desejo 'que você seja feliz'.' ('Que você seja feliz' é o objeto direto de 'desejo'.)
+
+3.  **Objetiva Indireta:** Exerce função de objeto indireto do verbo da oração principal, sempre introduzida por preposição.
+    *   **Exemplo:** 'Necessito 'de que você me ajude'.' ('De que você me ajude' é o objeto indireto de 'necessito'.)
+
+4.  **Completiva Nominal:** Exerce função de complemento nominal de um nome (substantivo, adjetivo ou advérbio) da oração principal, sempre introduzida por preposição.
+    *   **Exemplo:** 'Tenho certeza 'de que ele virá'.' ('De que ele virá' é complemento nominal de 'certeza'.)
+
+5.  **Predicativa:** Exerce função de predicativo do sujeito da oração principal, ligada por um verbo de ligação.
+    *   **Exemplo:** 'Meu desejo é 'que você seja feliz'.' ('Que você seja feliz' é predicativo do sujeito 'meu desejo'.)
+
+6.  **Apositiva:** Exerce função de aposto de um termo da oração principal, geralmente após dois pontos.
+    *   **Exemplo:** 'Só lhe peço uma coisa: 'que me escute'.' ('Que me escute' é aposto de 'uma coisa'.)
+
+### Orações Subordinadas Adjetivas
+
+As 'orações subordinadas adjetivas' exercem função de adjetivo em relação a um termo (antecedente) da oração principal. São introduzidas por pronomes relativos ('que', 'quem', 'onde', 'cujo', 'quanto', 'o qual' e suas variações).
+
+1.  **Restritivas:** Restringem ou especificam o sentido do antecedente, sem vírgulas. Essenciais para o sentido da frase.
+    *   **Exemplo:** 'Os alunos 'que estudam' passam.' (Apenas os alunos que estudam)
+
+2.  **Explicativas:** Explicam ou generalizam o sentido do antecedente, sempre isoladas por vírgulas. Adicionam uma informação extra, que pode ser retirada sem alterar o sentido essencial da frase.
+    *   **Exemplo:** 'O homem, 'que é mortal', deve valorizar a vida.' (Todo homem é mortal)
+
+### Orações Subordinadas Adverbiais
+
+As 'orações subordinadas adverbiais' exercem função de advérbio em relação à oração principal, indicando uma circunstância (tempo, causa, condição, finalidade, etc.). São introduzidas por conjunções subordinativas adverbiais.
+
+1.  **Causais:** Indicam a causa ou o motivo da ação da oração principal.
+    *   **Conjunções:** 'porque', 'já que', 'como' (no início da frase), 'visto que', 'uma vez que'.
+    *   **Exemplo:** 'Não fui à festa 'porque estava doente'.' 
+
+2.  **Comparativas:** Estabelecem uma comparação com a oração principal.
+    *   **Conjunções:** 'como', 'mais... do que', 'menos... do que', 'tão... quanto', 'tal qual'.
+    *   **Exemplo:** 'Ele canta 'como um rouxinol'.' 
+
+3.  **Concessivas:** Expressam uma ideia de oposição ou contraste, sem impedir a realização da ação principal.
+    *   **Conjunções:** 'embora', 'ainda que', 'mesmo que', 'posto que', 'conquanto', 'se bem que'.
+    *   **Exemplo:** ''Embora chovesse', saímos para passear.' 
+
+4.  **Condicionais:** Indicam uma condição para que a ação da oração principal ocorra.
+    *   **Conjunções:** 'se', 'caso', 'contanto que', 'desde que', 'a não ser que', 'exceto se'.
+    *   **Exemplo:** ''Se você estudar', passará no concurso.' 
+
+5.  **Conformativas:** Expressam conformidade ou acordo com a oração principal.
+    *   **Conjunções:** 'conforme', 'segundo', 'como' (conforme), 'consoante'.
+    *   **Exemplo:** 'Fiz o trabalho 'conforme o professor pediu'.' 
+
+6.  **Consecutivas:** Indicam a consequência ou o resultado da ação da oração principal.
+    *   **Conjunções:** 'tão... que', 'tanto... que', 'tamanho... que', 'de modo que', 'de sorte que'.
+    *   **Exemplo:** 'Ele estudou tanto 'que passou no concurso'.' 
+
+7.  **Finais:** Indicam a finalidade ou o objetivo da ação da oração principal.
+    *   **Conjunções:** 'para que', 'a fim de que', 'que' (com sentido de para que).
+    *   **Exemplo:** 'Estudamos 'para que possamos aprender'.' 
+
+8.  **Proporcionais:** Expressam uma ideia de proporção ou simultaneidade.
+    *   **Conjunções:** 'à medida que', 'à proporção que', 'quanto mais... mais', 'quanto menos... menos'.
+    *   **Exemplo:** ''À medida que o tempo passa', ficamos mais experientes.' 
+
+9.  **Temporais:** Indicam o tempo em que ocorre a ação da oração principal.
+    *   **Conjunções:** 'quando', 'enquanto', 'logo que', 'assim que', 'depois que', 'antes que', 'desde que'.
+    *   **Exemplo:** ''Quando você chegou', eu já estava saindo.' 
+
+## Período Misto
+
+É importante notar que um período pode ser 'misto', ou seja, apresentar simultaneamente orações coordenadas e subordinadas. Isso é muito comum na linguagem cotidiana e em textos mais elaborados, demonstrando a complexidade e a riqueza da sintaxe portuguesa.
+
+*   **Exemplo:** 'Ele estudou muito 'e' (coordenada aditiva) 'espera que' (subordinada substantiva objetiva direta) 'seja aprovado'.' 
+
+## Pontuação e Período Composto
+
+A pontuação desempenha um papel vital na clareza do período composto:
+
+*   **Orações Coordenadas:** Geralmente separadas por vírgula, exceto as aditivas introduzidas por 'e' (a menos que os sujeitos sejam diferentes ou haja ênfase). As assindéticas são sempre separadas por vírgula, ponto e vírgula ou dois pontos.
+*   **Orações Subordinadas Substantivas:** Não são separadas por vírgula da principal, exceto a apositiva.
+*   **Orações Subordinadas Adjetivas:** As explicativas são sempre isoladas por vírgulas; as restritivas nunca.
+*   **Orações Subordinadas Adverbiais:** Quando pospostas à principal, a vírgula é facultativa (mas recomendada para clareza). Quando antepostas ou intercaladas, a vírgula é obrigatória.
+
+## Conclusão
+
+Dominar o 'período composto' por 'coordenação' e 'subordinação' é essencial para a proficiência na língua portuguesa. A capacidade de identificar e classificar as orações permite não apenas uma análise sintática precisa, mas também a construção de argumentos mais sofisticados e a interpretação correta de textos complexos. A prática constante e a atenção às conjunções e à pontuação são os pilares para o domínio deste tópico.

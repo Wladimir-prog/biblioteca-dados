@@ -1,0 +1,94 @@
+# Divisão Silábica: Ditongo, Tritongo e Hiato
+
+A divisão silábica é um dos pilares da ortografia da língua portuguesa, essencial para a correta escrita e pronúncia das palavras. Compreender as regras que regem a separação das sílabas, especialmente no que tange aos encontros vocálicos (ditongo, tritongo e hiato), é fundamental para qualquer estudante ou candidato a concursos públicos. Este tema, frequentemente abordado em provas, exige atenção aos detalhes e à aplicação prática das normas.
+
+## 1. O que é Sílaba?
+
+Uma sílaba é um fonema ou grupo de fonemas pronunciados em uma única emissão de voz. Em português, a base de toda sílaba é uma vogal. Não existe sílaba sem vogal, e cada sílaba possui apenas uma vogal. As consoantes podem acompanhar as vogais, mas nunca formam sílabas sozinhas.
+
+**Exemplos:**
+*   'ca-sa' (duas sílabas, duas vogais)
+*   'a-mor' (duas sílabas, duas vogais)
+*   'sol' (uma sílaba, uma vogal)
+
+## 2. Regras Gerais de Divisão Silábica
+
+Antes de mergulharmos nos encontros vocálicos, é crucial revisar algumas regras básicas da divisão silábica:
+
+*   **Não se separam vogais idênticas:** 'aa' (em 'ca-a-tin-ga'), 'ee' (em 're-e-le-ger').
+*   **Não se separam os dígrafos 'ch', 'lh', 'nh', 'gu', 'qu':** 'chu-va', 'ga-lho', 'ni-nho', 'guer-ra', 'quei-jo'.
+*   **Separam-se os dígrafos 'rr', 'ss', 'sc', 'sç', 'xc', 'xs':** 'car-ro', 'pas-sar', 'nas-cer', 'cres-ça', 'ex-ce-ção', 'ex-su-dar'.
+*   **Não se separam os encontros consonantais perfeitos (aqueles em que a segunda consoante é 'l' ou 'r'):** 'pla-no', 'bra-ço', 'cli-ma', 'fre-te'.
+*   **Separam-se os encontros consonantais imperfeitos (aqueles em que as consoantes pertencem a sílabas diferentes):** 'ad-vo-ga-do', 'rit-mo', 'ap-to'.
+*   **Prefixos:** Geralmente, o prefixo se mantém intacto, mas há exceções. 'sub-li-nhar', 'des-a-fi-o'.
+
+## 3. Encontros Vocálicos
+
+Os encontros vocálicos são a sequência de vogais e semivogais em uma palavra. Eles se classificam em ditongo, tritongo e hiato.
+
+### 3.1. Ditongo
+
+O ditongo ocorre quando há o encontro de uma vogal e uma semivogal (ou vice-versa) na **mesma sílaba**. A vogal é o som mais forte, e a semivogal é o som mais fraco ('i' e 'u' átonos, e às vezes 'e' e 'o' átonos no final de palavras).
+
+**Tipos de Ditongo:**
+
+a) **Ditongo Decrescente:** Vogal + Semivogal. O som 'cai' de forte para fraco.
+    *   **Orais:** 'pai' (p-ai), 'mau' (m-au), 'lei-te' (l-ei-te), 'noi-te' (n-oi-te).
+    *   **Nasais:** 'mãe' (m-ãe), 'põe' (p-õe), 'muito' (mui-to), 'can-tam' (can-tam).
+
+b) **Ditongo Crescente:** Semivogal + Vogal. O som 'cresce' de fraco para forte.
+    *   **Orais:** 'quase' (qua-se), 'á-gua' (á-gua), 'se-cre-tá-ria' (se-cre-tá-ria), 'his-tó-ria' (his-tó-ria).
+    *   **Nasais:** 'quan-do' (quan-do), 'lin-guis-ta' (lin-guis-ta).
+
+**Observação:** Os ditongos crescentes são frequentemente confundidos com hiatos, especialmente em palavras como 'série' (sé-rie) ou 'água' (á-gua). A regra geral é que, se o 'i' ou 'u' átonos formam um encontro com outra vogal e não são acentuados, eles tendem a formar ditongo crescente. A pronúncia é o melhor guia.
+
+### 3.2. Tritongo
+
+O tritongo é o encontro de uma semivogal, uma vogal e outra semivogal, nessa ordem, na **mesma sílaba**. A vogal é o elemento central e mais forte.
+
+**Exemplos:**
+*   'Pa-ra-guai' (Pa-ra-guai)
+*   'U-ru-guai' (U-ru-guai)
+*   'a-guen-tou' (a-guen-tou)
+*   'en-xa-guou' (en-xa-guou)
+*   'sa-guão' (sa-guão)
+
+**Atenção:** Para ser tritongo, as três letras devem estar na mesma sílaba e seguir a sequência SV + V + SV. Se houver separação, não é tritongo.
+
+### 3.3. Hiato
+
+O hiato ocorre quando duas vogais se encontram em sílabas **diferentes**. Ou seja, elas se separam na divisão silábica.
+
+**Exemplos:**
+*   'sa-ú-de' (sa-ú-de)
+*   'co-o-pe-rar' (co-o-pe-rar)
+*   'a-e-ro-por-to' (a-e-ro-por-to)
+*   'ra-iz' (ra-iz)
+*   'ci-ên-cia' (ci-ên-cia)
+*   'flu-i-do' (flu-i-do)
+
+**Regra de Acentuação dos Hiatos:**
+
+Os 'i' e 'u' tônicos (fortes) que formam hiato com a vogal anterior são acentuados, desde que:
+
+1.  Não sejam seguidos de 'nh': 'ra-i-nha' (não acentua).
+2.  Não formem ditongo com a vogal anterior: 'fei-u-ra' (fei-u-ra, acentua 'u'), mas 'bai-xo' (ditongo, não acentua).
+3.  Não sejam repetidos: 'xi-i-ta' (não acentua).
+
+**Exemplos de hiatos acentuados:** 'sa-ú-de', 'ca-í-do', 'ba-la-ús-tre', 'fa-ís-ca', 'e-go-ís-ta'.
+
+## 4. Casos Especiais e Armadilhas Comuns
+
+*   **Palavras com 'h':** O 'h' não tem valor fonético e não interfere na divisão silábica. 'sa-hu-mar' (sa-hu-mar), 'sub-hu-ma-no' (sub-hu-ma-no).
+*   **Ditongos e Hiatos em 'i' e 'u':** A distinção entre ditongo crescente e hiato com 'i' ou 'u' átonos pode ser sutil. A pronúncia é crucial. Em 'série' (sé-rie), o 'ie' é um ditongo crescente. Em 'saúde' (sa-ú-de), o 'au' é um hiato. Se o 'i' ou 'u' for tônico e formar hiato, ele será acentuado (exceções à parte).
+*   **Palavras com 'x':** O 'x' pode ter diferentes sons e, consequentemente, diferentes divisões. 'ex-ce-ção', 'ex-su-dar', 'tá-xi', 'en-xa-me'.
+*   **Prefixos:** Em palavras como 'des-a-fi-o', o 's' do prefixo 'des-' se separa da vogal 'a' seguinte, formando um hiato. Já em 'sub-a-éreo', o 'b' se separa do 'a'.
+
+## 5. Dicas para Concursos
+
+*   **Pronuncie a palavra:** A pronúncia clara e pausada é a melhor ferramenta para a divisão silábica. Cada emissão de voz corresponde a uma sílaba.
+*   **Memorize as regras dos dígrafos e encontros consonantais:** São pontos frequentes de erro.
+*   **Atenção à acentuação:** A acentuação gráfica é um forte indicativo de hiato em 'i' e 'u' tônicos.
+*   **Pratique com frequência:** A prática leva à perfeição. Resolva muitas questões de bancas variadas para se familiarizar com os padrões.
+
+Dominar a divisão silábica, ditongos, tritongos e hiatos é um passo importante para a fluência na escrita e para o sucesso em provas de língua portuguesa. Com estudo dedicado e atenção às regras, você estará apto a identificar e aplicar corretamente esses conceitos.

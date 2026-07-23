@@ -1,0 +1,126 @@
+# Acentuação Gráfica: Desvendando as Regras Essenciais
+
+A acentuação gráfica na língua portuguesa é um dos pilares da ortografia, fundamental para a correta pronúncia e compreensão das palavras. Ela indica a sílaba tônica (a mais forte) e, em alguns casos, diferencia palavras homógrafas. Dominar as regras de acentuação é crucial para a escrita formal e para o sucesso em exames e concursos.
+
+## 1. Sílaba Tônica e Classificação das Palavras
+
+Antes de mergulharmos nas regras, é essencial compreender o conceito de sílaba tônica. Em toda palavra com mais de uma sílaba, há uma que é pronunciada com maior intensidade. Essa é a sílaba tônica. As demais são átonas (fracas).
+
+De acordo com a posição da sílaba tônica, as palavras são classificadas em:
+
+*   **Oxítonas**: A sílaba tônica é a última. Ex: 'café', 'cipó', 'também'.
+*   **Paroxítonas**: A sílaba tônica é a penúltima. Ex: 'mesa', 'fácil', 'tórax'.
+*   **Proparoxítonas**: A sílaba tônica é a antepenúltima. Ex: 'lâmpada', 'médico', 'matemática'.
+
+## 2. Regras Gerais de Acentuação
+
+### 2.1. Proparoxítonas
+
+A regra das proparoxítonas é a mais simples e não possui exceções:
+
+**TODA palavra proparoxítona é acentuada.**
+
+Exemplos: 'árvore', 'pássaro', 'câmera', 'quilômetro', 'pneumático', 'esdrúxulo'.
+
+### 2.2. Oxítonas
+
+As palavras oxítonas são acentuadas quando terminadas em:
+
+*   **'a(s)'**: 'sofá', 'jacarandás', 'Paraná'.
+*   **'e(s)'**: 'café', 'você', 'jacarés', 'português'.
+*   **'o(s)'**: 'cipó', 'avô', 'vovós', 'paletó'.
+*   **'em', 'ens'**: 'também', 'ninguém', 'parabéns', 'armazéns'.
+
+**Observação**: Não se acentuam oxítonas terminadas em 'i(s)' ou 'u(s)' (a menos que formem hiato, como veremos adiante). Ex: 'aqui', 'caju', 'urubu'.
+
+### 2.3. Paroxítonas
+
+As paroxítonas são o grupo mais numeroso e, consequentemente, suas regras são as mais detalhadas. A regra geral é que **NÃO se acentuam as paroxítonas terminadas em 'a(s)', 'e(s)', 'o(s)', 'em', 'ens'**. Ou seja, são acentuadas as paroxítonas que **NÃO** se encaixam nas terminações das oxítonas acentuadas.
+
+São acentuadas as paroxítonas terminadas em:
+
+*   **'i(s)'**: 'táxi', 'júri', 'lápis', 'grátis'.
+*   **'us', 'um', 'uns'**: 'vírus', 'álbum', 'fóruns'.
+*   **'l'**: 'fácil', 'útil', 'amável'.
+*   **'n'**: 'hífen', 'pólen' (mas 'hifens', 'polens' não são acentuadas, pois a sílaba tônica se desloca ou a regra de 'ens' prevalece).
+*   **'r'**: 'caráter', 'revólver', 'açúcar'.
+*   **'x'**: 'tórax', 'ônix', 'látex'.
+*   **'ps'**: 'bíceps', 'fórceps'.
+*   **'ão(s)'**: 'órfão', 'órgãos', 'bênção'.
+*   **'ã(s)'**: 'ímã', 'ímãs'.
+*   **'ditongo' (seguido ou não de 's')**: 'história', 'série', 'água', 'mágoa', 'tênue', 'vácuo', 'jóquei', 'pônei', 'colégio', 'ciência'.
+
+**Atenção**: O Novo Acordo Ortográfico manteve a acentuação das paroxítonas terminadas em ditongo. Ex: 'secretária', 'cárie'.
+
+## 3. Regras Específicas
+
+### 3.1. Acentuação de Hiato
+
+O hiato ocorre quando duas vogais consecutivas pertencem a sílabas diferentes (ex: 'sa-ú-de', 'ra-í-zes').
+
+As vogais 'i' e 'u' tônicas, formando hiato com a vogal anterior, são acentuadas quando:
+
+1.  Estiverem sozinhas na sílaba ou seguidas de 's'.
+2.  Não forem seguidas de 'nh'.
+
+Exemplos: 'saúde', 'baú', 'caí', 'país', 'juízo', 'egoísta', ''atraí-lo''.
+
+**Exceções e Observações (pós-Acordo Ortográfico):**
+
+*   **Não se acentuam 'i' e 'u' tônicos que formam hiato quando seguidos de 'nh'**: 'rainha', 'moinho'.
+*   **Não se acentuam 'i' e 'u' tônicos que formam hiato quando precedidos de ditongo em palavras paroxítonas**: 'feiura', 'baiuca', 'bocaiuva'. (Antes do Acordo, 'feiúra' e 'baiúca' eram acentuadas).
+*   **Não se acentuam 'i' e 'u' tônicos repetidos**: 'xiita', 'vadiice'.
+
+### 3.2. Acentuação de Ditongos Abertos
+
+Ditongos abertos são encontros vocálicos em que as vogais são pronunciadas com a boca mais aberta. Os ditongos abertos são 'éi', 'éu', 'ói'.
+
+**Pelo Novo Acordo Ortográfico, a acentuação dos ditongos abertos mudou:**
+
+*   **Acentuam-se os ditongos abertos 'éi', 'éu', 'ói' apenas em palavras oxítonas e monossílabos tônicos.**
+
+    Exemplos: 'papéis', 'herói', 'céu', 'chapéu', 'anéis', 'corrói'.
+
+*   **NÃO se acentuam mais os ditongos abertos 'éi', 'éu', 'ói' em palavras paroxítonas.**
+
+    Exemplos (pós-Acordo): 'ideia' (antes 'idéia'), 'plateia' (antes 'platéia'), 'joia' (antes 'jóia'), 'boia' (antes 'bóia'), 'paranoico' (antes 'paranóico'), 'assembleia' (antes 'assembléia').
+
+### 3.3. Monossílabos Tônicos
+
+Monossílabos tônicos são palavras de uma única sílaba que possuem sentido completo e são pronunciadas com intensidade. São acentuados quando terminados em:
+
+*   **'a(s)'**: 'pá', 'chás'.
+*   **'e(s)'**: 'pé', 'mês'.
+*   **'o(s)'**: 'nó', 'sós'.
+
+Exemplos: 'lá', 'três', 'nós', 'já', 'fé', 'pó'.
+
+### 3.4. Acento Diferencial
+
+O acento diferencial, que servia para distinguir palavras homógrafas, foi em grande parte abolido pelo Novo Acordo Ortográfico.
+
+**Casos que permaneceram:**
+
+*   **'pode' (presente) x 'pôde' (passado)**: Ele 'pode' ir hoje. Ele 'pôde' ir ontem.
+*   **'por' (preposição) x 'pôr' (verbo)**: Vou 'por' ali. Vou 'pôr' o livro na mesa.
+
+**Casos abolidos (exemplos):**
+
+*   'para' (verbo) e 'para' (preposição) - antes 'pára' (verbo).
+*   'pelo' (substantivo) e 'pelo' (contração) - antes 'pêlo' (substantivo).
+*   'pera' (substantivo) e 'pera' (preposição arcaica) - antes 'pêra' (substantivo).
+
+**Acento diferencial facultativo:**
+
+*   **'forma' (substantivo) x 'fôrma' (substantivo)**: Para evitar ambiguidade, o acento circunflexo em 'fôrma' é facultativo. Ex: 'Qual a 'forma' do bolo?' ou 'Qual a 'fôrma' do bolo?'.
+
+## 4. O Novo Acordo Ortográfico e a Acentuação
+
+O Novo Acordo Ortográfico da Língua Portuguesa, em vigor desde 2009 (com período de transição até 2016), trouxe algumas alterações significativas na acentuação gráfica, principalmente para:
+
+*   **Ditongos abertos 'ei' e 'oi' em paroxítonas**: Não são mais acentuados ('ideia', 'joia').
+*   **Hiato 'u' e 'i' precedidos de ditongo em paroxítonas**: Não são mais acentuados ('feiura', 'baiuca').
+*   **Trema**: Foi abolido, exceto em nomes próprios e seus derivados ('Müller', 'mülleriano').
+*   **Acento diferencial**: Reduzido a poucos casos ('pode/pôde', 'por/pôr').
+
+É fundamental estar atualizado com essas mudanças para garantir a correção ortográfica. A prática constante e a consulta a materiais de referência são as melhores formas de fixar as regras e aplicá-las corretamente.

@@ -1,0 +1,120 @@
+# Termos da Oração: Desvendando a Estrutura Sintática
+
+A oração é a unidade mínima de sentido que contém um verbo. Para compreendê-la em sua totalidade, é fundamental analisar os termos que a compõem e suas relações sintáticas. A sintaxe estuda a função das palavras e das expressões dentro da frase, revelando como elas se organizam para formar um enunciado coerente e significativo. Os termos da oração são classificados em essenciais, integrantes e acessórios, além do vocativo.
+
+## 1. Termos Essenciais da Oração
+
+São aqueles indispensáveis para a formação da oração, ou seja, sem eles, a oração não teria sentido completo ou sequer existiria. São eles o sujeito e o predicado.
+
+### 1.1. Sujeito
+
+É o termo da oração que pratica ou sofre a ação verbal, ou sobre o qual se declara algo. Concorda em número e pessoa com o verbo.
+
+#### Tipos de Sujeito:
+
+*   **Sujeito Simples**: Possui apenas um núcleo.
+    *   Exemplo: 'O aluno estudou para a prova.' ('aluno' é o núcleo)
+*   **Sujeito Composto**: Possui dois ou mais núcleos.
+    *   Exemplo: 'O aluno e a professora conversaram.' ('aluno' e 'professora' são os núcleos)
+*   **Sujeito Oculto (ou Elíptico/Desinencial)**: Não está expresso na oração, mas pode ser identificado pela desinência verbal ou pelo contexto.
+    *   Exemplo: 'Estudamos muito ontem.' (Sujeito: 'Nós')
+*   **Sujeito Indeterminado**: Não se refere a uma pessoa específica, embora a ação exista. Pode ocorrer de duas formas:
+    *   Verbo na 3ª pessoa do plural, sem referência a um sujeito anterior.
+        *   Exemplo: 'Telefonaram para você.'
+    *   Verbo na 3ª pessoa do singular, acompanhado do pronome 'se' (índice de indeterminação do sujeito).
+        *   Exemplo: 'Precisa-se de bons profissionais.'
+*   **Oração Sem Sujeito (ou Sujeito Inexistente)**: Ocorre com verbos impessoais, que não se referem a nenhum ser.
+    *   Verbos que indicam fenômenos da natureza: 'Choveu muito ontem.'
+    *   Verbo 'haver' no sentido de 'existir' ou 'acontecer': 'Há muitos livros na biblioteca.'
+    *   Verbo 'fazer' indicando tempo decorrido ou clima: 'Faz anos que não o vejo.'
+
+### 1.2. Predicado
+
+É tudo aquilo que se declara sobre o sujeito. Contém o verbo e as informações a ele relacionadas.
+
+#### Tipos de Predicado:
+
+*   **Predicado Verbal**: O núcleo é um verbo de ação (significativo). Não possui predicativo do sujeito.
+    *   Exemplo: 'Os alunos estudaram a matéria.' ('estudaram a matéria' é o predicado verbal, 'estudaram' é o núcleo)
+*   **Predicado Nominal**: O núcleo é um nome (substantivo ou adjetivo) que funciona como predicativo do sujeito, ligado a ele por um verbo de ligação.
+    *   Verbos de ligação: ser, estar, permanecer, ficar, parecer, continuar, tornar-se, andar (no sentido de estar).
+    *   Exemplo: 'Os alunos estavam cansados.' ('estavam cansados' é o predicado nominal, 'cansados' é o núcleo nominal)
+*   **Predicado Verbo-Nominal**: Possui dois núcleos: um verbo de ação e um nome (predicativo do sujeito ou do objeto).
+    *   Exemplo: 'Os alunos saíram felizes.' ('saíram felizes' é o predicado verbo-nominal, 'saíram' é o núcleo verbal e 'felizes' é o núcleo nominal - predicativo do sujeito)
+    *   Exemplo: 'Consideramos a prova difícil.' ('consideramos a prova difícil' é o predicado verbo-nominal, 'consideramos' é o núcleo verbal e 'difícil' é o núcleo nominal - predicativo do objeto 'a prova')
+
+## 2. Termos Integrantes da Oração
+
+São aqueles que completam o sentido de verbos e nomes, sendo essenciais para a compreensão da mensagem.
+
+### 2.1. Objeto Direto (OD)
+
+Completa o sentido de um verbo transitivo direto, sem a necessidade de preposição.
+*   Exemplo: 'Eu comprei um livro.' ('um livro' é o OD)
+*   Pode ser representado por pronomes oblíquos átonos: 'o', 'a', 'os', 'as'.
+    *   Exemplo: 'Eu o comprei.'
+
+### 2.2. Objeto Indireto (OI)
+
+Completa o sentido de um verbo transitivo indireto, sempre com o auxílio de uma preposição.
+*   Preposições comuns: 'a', 'de', 'em', 'para', 'com', 'por'.
+*   Exemplo: 'Eu preciso de ajuda.' ('de ajuda' é o OI)
+*   Pode ser representado por pronomes oblíquos átonos: 'lhe', 'lhes'.
+    *   Exemplo: 'Eu lhe obedeci.'
+
+### 2.3. Complemento Nominal (CN)
+
+Completa o sentido de um nome (substantivo, adjetivo ou advérbio), sempre com preposição. Diferencia-se do adjunto adnominal por ser um termo que *sofre* a ação ou *recebe* a qualidade expressa pelo nome.
+*   Exemplo: 'Tenho necessidade de carinho.' ('de carinho' é o CN, completa 'necessidade' - substantivo abstrato)
+*   Exemplo: 'Ele é fiel aos seus princípios.' ('aos seus princípios' é o CN, completa 'fiel' - adjetivo)
+*   Exemplo: 'Moro perto da escola.' ('da escola' é o CN, completa 'perto' - advérbio)
+
+### 2.4. Agente da Passiva
+
+É o termo que pratica a ação verbal em orações na voz passiva. É sempre introduzido por preposição ('por', 'de').
+*   Exemplo: 'A casa foi construída pelos operários.' ('pelos operários' é o agente da passiva)
+
+## 3. Termos Acessórios da Oração
+
+São aqueles que, embora não sejam essenciais para a estrutura básica da oração, acrescentam informações adicionais, detalhando ou caracterizando outros termos.
+
+### 3.1. Adjunto Adnominal (AA)
+
+Termo que acompanha um substantivo, caracterizando-o ou especificando-o. Pode ser um artigo, adjetivo, pronome adjetivo, numeral adjetivo ou locução adjetiva.
+*   Exemplo: 'As duas belas casas antigas foram vendidas.' ('As', 'duas', 'belas', 'antigas' são AA de 'casas')
+*   Diferença com o Complemento Nominal: O AA *age* sobre o substantivo, enquanto o CN *sofre* a ação ou *recebe* a qualidade.
+    *   'Amor de mãe' (AA - a mãe ama) vs. 'Necessidade de amor' (CN - o amor é necessário).
+
+### 3.2. Adjunto Adverbial (AAdv)
+
+Termo que modifica um verbo, um adjetivo ou um advérbio, indicando uma circunstância (tempo, lugar, modo, causa, finalidade, intensidade, etc.).
+*   Exemplo: 'Ele chegou cedo.' (tempo)
+*   Exemplo: 'Moro aqui.' (lugar)
+*   Exemplo: 'Falou calmamente.' (modo)
+*   Exemplo: 'Estava muito feliz.' (intensidade, modificando adjetivo)
+*   Exemplo: 'Chegou bem tarde.' (intensidade, modificando advérbio)
+
+## 4. Vocativo
+
+É um termo independente da estrutura sintática da oração, utilizado para chamar ou interpelar o interlocutor. É sempre isolado por vírgulas.
+*   Exemplo: 'Maria, venha aqui!'
+*   Exemplo: 'Senhores, atenção!'
+
+## 5. Aposto
+
+É um termo que explica, especifica, enumera ou resume outro termo da oração (geralmente um substantivo ou pronome), com o qual mantém uma relação de equivalência. É geralmente isolado por vírgulas, dois-pontos ou parênteses.
+
+#### Tipos de Aposto:
+
+*   **Aposto Explicativo**: Explica ou esclarece um termo anterior.
+    *   Exemplo: 'Machado de Assis, o maior escritor brasileiro, nasceu no Rio de Janeiro.' ('o maior escritor brasileiro' é o aposto explicativo)
+*   **Aposto Especificativo**: Especifica um substantivo de sentido genérico, sem vírgulas.
+    *   Exemplo: 'A cidade de São Paulo é enorme.' ('de São Paulo' é o aposto especificativo)
+*   **Aposto Enumerativo**: Enumera partes de um termo anterior.
+    *   Exemplo: 'Comprei várias frutas: maçãs, bananas e uvas.' ('maçãs, bananas e uvas' é o aposto enumerativo)
+*   **Aposto Resumitivo**: Resume termos anteriores.
+    *   Exemplo: 'Estudar, trabalhar, viajar, tudo isso me agrada.' ('tudo isso' é o aposto resumitivo)
+
+## Conclusão
+
+A compreensão dos termos da oração é a base para uma análise sintática eficaz. Dominar o sujeito, predicado, objetos, complementos, adjuntos, aposto e vocativo permite não apenas a correta interpretação de textos, mas também a construção de frases mais claras e precisas, habilidades essenciais para qualquer prova de língua portuguesa e para a comunicação no dia a dia. A prática constante e a atenção aos detalhes são cruciais para internalizar essas distinções e aplicá-las com segurança.

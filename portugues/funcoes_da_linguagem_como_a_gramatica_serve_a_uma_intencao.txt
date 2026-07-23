@@ -1,0 +1,73 @@
+As Funções da Linguagem representam as diferentes finalidades ou intenções comunicativas que um emissor pode ter ao produzir uma mensagem. Propostas pelo linguista Roman Jakobson, elas são seis: Referencial, Emotiva, Conativa, Fática, Metalinguística e Poética. Cada função está diretamente ligada a um dos elementos do processo de comunicação: emissor, receptor, mensagem, canal, código e contexto (ou referente). Compreender essas funções é crucial para analisar textos, interpretar intenções e aprimorar a própria comunicação, sendo um tópico recorrente em bancas examinadoras.
+
+### 1. Função Referencial (ou Denotativa/Informativa)
+
+*   **Foco**: No 'contexto' ou 'referente' da mensagem.
+*   **Objetivo**: Transmitir informações de forma objetiva, direta e impessoal sobre a realidade.
+*   **Características**: Predomínio da terceira pessoa, linguagem denotativa (sentido literal), ausência de marcas de subjetividade.
+*   **Exemplos**: Notícias de jornal, textos científicos, bulas de remédio, manuais de instrução, artigos enciclopédicos.
+*   **Marcas linguísticas**: Verbos no indicativo, substantivos concretos, adjetivos objetivos.
+*   **Intenção**: Informar, descrever, relatar fatos.
+
+Quando lemos uma reportagem sobre um evento político, o objetivo principal é nos informar sobre os fatos ocorridos, sem a interferência de opiniões pessoais do jornalista. Isso é um exemplo claro da função Referencial em ação.
+
+### 2. Função Emotiva (ou Expressiva)
+
+*   **Foco**: No 'emissor' da mensagem.
+*   **Objetivo**: Expressar os sentimentos, emoções, opiniões e estados de espírito do falante.
+*   **Características**: Predomínio da primeira pessoa, linguagem subjetiva, uso de interjeições, exclamações e reticências.
+*   **Exemplos**: Diários pessoais, desabafos, poemas líricos (quando o foco é o 'eu'), cartas íntimas.
+*   **Marcas linguísticas**: Pronomes e verbos na primeira pessoa, adjetivos valorativos, advérbios de intensidade.
+*   **Intenção**: Manifestar o 'eu', exteriorizar emoções.
+
+Uma frase como 'Que dia maravilhoso! Estou tão feliz!' demonstra claramente a função Emotiva, pois o falante está expressando sua alegria e satisfação pessoal.
+
+### 3. Função Conativa (ou Apelativa)
+
+*   **Foco**: No 'receptor' (ou destinatário) da mensagem.
+*   **Objetivo**: Influenciar, persuadir, convencer ou dar ordens ao interlocutor.
+*   **Características**: Uso de vocativos, verbos no imperativo, pronomes de tratamento (você, tu).
+*   **Exemplos**: Propagandas, discursos políticos, sermões, receitas culinárias, manuais de instrução (com comandos).
+*   **Marcas linguísticas**: Imperativos, vocativos, perguntas retóricas.
+*   **Intenção**: Agir sobre o outro, provocar uma reação.
+
+Um slogan publicitário como 'Compre agora e aproveite!' é um exemplo clássico da função Conativa, pois busca induzir o consumidor a uma ação imediata.
+
+### 4. Função Fática
+
+*   **Foco**: No 'canal' de comunicação.
+*   **Objetivo**: Estabelecer, manter, prolongar ou interromper o contato comunicativo, verificando se o canal está aberto e funcionando.
+*   **Características**: Frases curtas, perguntas e respostas que testam a conexão, repetições.
+*   **Exemplos**: 'Alô?', 'Entendeu?', 'Certo?', 'Oi, tudo bem?', 'Pois não?', 'Hum-hum'.
+*   **Marcas linguísticas**: Interjeições, expressões de cumprimento, perguntas de confirmação.
+*   **Intenção**: Testar o contato, manter a interação.
+
+Em uma conversa telefônica, quando dizemos 'Alô?' ou 'Você está me ouvindo?', estamos utilizando a função Fática para garantir que a comunicação está ocorrendo.
+
+### 5. Função Metalinguística
+
+*   **Foco**: No 'código' da mensagem.
+*   **Objetivo**: Usar a linguagem para falar sobre a própria linguagem, explicando-a, analisando-a ou definindo-a.
+*   **Características**: Definições, explicações gramaticais, comentários sobre o uso de palavras.
+*   **Exemplos**: Dicionários, gramáticas, aulas de português, textos que explicam o significado de um termo.
+*   **Marcas linguísticas**: Termos técnicos da linguística, paráfrases, sinônimos.
+*   **Intenção**: Refletir sobre o código, esclarecer seu funcionamento.
+
+Quando um professor explica o que é um 'substantivo' ou quando um dicionário define a palavra 'felicidade', a função Metalinguística está em evidência.
+
+### 6. Função Poética
+
+*   **Foco**: Na 'mensagem' em si, na sua construção e forma.
+*   **Objetivo**: Valorizar a estética da linguagem, a beleza das palavras, a sonoridade e o ritmo, buscando a expressividade.
+*   **Características**: Linguagem conotativa (sentido figurado), figuras de linguagem (metáforas, comparações), rimas, aliterações.
+*   **Exemplos**: Poemas, letras de música, provérbios, textos literários em geral, slogans criativos.
+*   **Marcas linguísticas**: Recursos estilísticos, exploração da polissemia, inversões sintáticas.
+*   **Intenção**: Criar beleza, emocionar pela forma, explorar a plurissignificação.
+
+Um poema que brinca com as palavras e suas sonoridades, como 'O amor é um fogo que arde sem se ver', prioriza a função Poética, pois a forma da mensagem é tão importante quanto seu conteúdo.
+
+### Interação e Predominância das Funções
+
+É importante notar que, em um mesmo texto ou ato comunicativo, diversas funções da linguagem podem coexistir. No entanto, geralmente uma delas se sobressai, sendo a 'função dominante' que define a principal intenção do emissor. Por exemplo, uma propaganda pode ter elementos da função Referencial (informar sobre o produto) e Emotiva (despertar desejo), mas a função Conativa (persuadir a compra) será a predominante.
+
+A habilidade de identificar e compreender as funções da linguagem é uma ferramenta poderosa para a interpretação textual e para a produção de mensagens mais eficazes e intencionais. Ela nos permite ir além do significado literal, desvendando as camadas de intenção e os efeitos que a linguagem busca produzir.

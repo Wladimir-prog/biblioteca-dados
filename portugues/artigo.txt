@@ -1,0 +1,176 @@
+# O Artigo: Definição, Classificação e Usos na Língua Portuguesa
+
+O artigo é uma das dez classes de palavras da língua portuguesa, pertencente ao grupo dos determinantes. Sua principal função é determinar ou indeterminar o substantivo, indicando-lhe o gênero (masculino ou feminino) e o número (singular ou plural). É uma palavra variável que antecede o substantivo, concordando com ele.
+
+## 1. Classificação dos Artigos
+
+Os artigos são classificados em dois tipos principais: definidos e indefinidos.
+
+### 1.1. Artigos Definidos
+
+Os artigos definidos são 'o', 'a', 'os', 'as'. Eles são utilizados para indicar um substantivo de forma precisa, específica, já conhecido ou facilmente identificável pelo interlocutor.
+
+*   **Formas:**
+    *   Singular: 'o' (masculino), 'a' (feminino)
+    *   Plural: 'os' (masculino), 'as' (feminino)
+
+*   **Exemplos:**
+    *   'O' livro que comprei é excelente. (Refere-se a um livro específico)
+    *   'A' menina chegou cedo. (Refere-se a uma menina específica)
+    *   'Os' alunos estudaram muito. (Refere-se a alunos específicos)
+    *   'As' flores do jardim são lindas. (Refere-se a flores específicas)
+
+### 1.2. Artigos Indefinidos
+
+Os artigos indefinidos são 'um', 'uma', 'uns', 'umas'. Eles são empregados para indicar um substantivo de forma vaga, imprecisa, genérica ou que ainda não foi mencionado ou identificado.
+
+*   **Formas:**
+    *   Singular: 'um' (masculino), 'uma' (feminino)
+    *   Plural: 'uns' (masculino), 'umas' (feminino)
+
+*   **Exemplos:**
+    *   Comprei 'um' livro. (Qualquer livro, não um específico)
+    *   'Uma' menina me chamou. (Qualquer menina, não uma específica)
+    *   'Uns' alunos faltaram à aula. (Alguns alunos, não se sabe quais)
+    *   Vi 'umas' flores no jardim. (Algumas flores, não se sabe quais)
+
+## 2. Usos Específicos dos Artigos
+
+### 2.1. Usos do Artigo Definido
+
+*   **Substantivação de outras classes de palavras:** O artigo pode transformar qualquer palavra em substantivo.
+    *   Ex: 'O' andar da criança é engraçado. ('andar' é verbo, mas com 'o' torna-se substantivo)
+    *   Ex: 'O' porquê da sua ausência é um mistério. ('porquê' é advérbio/conjunção, mas com 'o' torna-se substantivo)
+
+*   **Antes de pronomes possessivos:** O uso do artigo antes de pronomes possessivos é facultativo, mas pode alterar o sentido ou a ênfase.
+    *   Ex: 'Minha' casa é grande. (Sem artigo, ênfase na posse)
+    *   Ex: 'A' minha casa é grande. (Com artigo, pode indicar familiaridade ou distinção)
+
+*   **Antes de topônimos (nomes de lugares):** O uso do artigo antes de nomes de cidades, estados, países, etc., segue regras específicas e pode indicar gênero e número.
+    *   **Obrigatório:** Com nomes de países que admitem artigo ('O' Brasil, 'A' França, 'Os' Estados Unidos).
+    *   **Facultativo:** Com nomes de cidades que não são acompanhados de especificador ('Rio de Janeiro' ou 'O Rio de Janeiro').
+    *   **Proibido:** Com a maioria das cidades que não admitem artigo ('São Paulo', 'Paris').
+    *   **Observação:** Quando o topônimo é especificado, o artigo é obrigatório: 'A' São Paulo de Drummond.
+
+*   **Antes de nomes próprios de pessoas:** Geralmente, o artigo é facultativo e seu uso pode indicar familiaridade ou afetividade. Em algumas regiões do Brasil, é mais comum.
+    *   Ex: 'A' Maria chegou. / Maria chegou.
+
+*   **Antes de numerais ordinais ou cardinais com valor ordinal:**
+    *   Ex: 'O' primeiro a chegar ganha.
+    *   Ex: 'A' página dez. (Com valor de 'décima')
+
+*   **Com nomes de meses e datas:**
+    *   Ex: Estamos em 'o' mês de maio. (Mais formal, comum em textos jurídicos)
+    *   Ex: 'O' dia 7 de setembro é feriado.
+
+*   **Para indicar totalidade ou generalização:**
+    *   Ex: 'O' homem é mortal. (Todos os homens)
+
+### 2.2. Usos do Artigo Indefinido
+
+*   **Para apresentar algo novo ou desconhecido:**
+    *   Ex: Chegou 'um' novo professor. (Primeira menção)
+
+*   **Para indicar quantidade aproximada ou valor numérico:**
+    *   Ex: Ele tem 'uns' trinta anos. (Aproximadamente trinta)
+    *   Ex: Custou 'umas' cem moedas. (Aproximadamente cem)
+
+*   **Para expressar surpresa, admiração ou ironia:**
+    *   Ex: Que 'uma' beleza! (Admiração)
+    *   Ex: Ele é 'um' gênio! (Pode ser irônico, dependendo do contexto)
+
+*   **Com o sentido de 'certo', 'algum':**
+    *   Ex: 'Um' dia, você entenderá.
+
+## 3. Omissão do Artigo
+
+A omissão do artigo ocorre em diversas situações, e seu uso ou não uso pode alterar o sentido da frase.
+
+*   **Antes de pronomes de tratamento:**
+    *   Ex: Vossa Excelência chegou. (Não 'A Vossa Excelência')
+
+*   **Antes de pronomes demonstrativos, indefinidos e interrogativos:**
+    *   Ex: Este livro é meu. (Não 'O este livro')
+    *   Ex: Ninguém veio. (Não 'O ninguém')
+    *   Ex: Que horas são? (Não 'As que horas')
+
+*   **Após o verbo 'ser' indicando profissão, nacionalidade, religião, etc., sem modificador:**
+    *   Ex: Ele é professor. (Mas: Ele é 'o' professor de matemática.)
+    *   Ex: Ela é brasileira. (Mas: Ela é 'a' brasileira que conheci.)
+
+*   **Em provérbios e máximas:**
+    *   Ex: Água mole em pedra dura, tanto bate até que fura.
+
+*   **Em títulos de obras, capítulos, etc.:**
+    *   Ex: 'Memórias Póstumas de Brás Cubas'.
+
+*   **Em listas e enumerações:**
+    *   Ex: Comprar pão, leite, ovos.
+
+*   **Após o pronome 'cujo' e suas variações:**
+    *   Ex: O aluno 'cujas' notas são altas. (Não 'cujas as notas')
+
+## 4. Contração dos Artigos com Preposições
+
+Os artigos podem se contrair com algumas preposições, formando uma única palavra.
+
+*   **Preposição 'a':**
+    *   'a' + 'o' = 'ao'
+    *   'a' + 'a' = 'à' (crase)
+    *   'a' + 'os' = 'aos'
+    *   'a' + 'as' = 'às' (crase)
+    *   'a' + 'um' = 'a um' (não há contração)
+    *   'a' + 'uma' = 'a uma' (não há contração)
+    *   'a' + 'uns' = 'a uns' (não há contração)
+    *   'a' + 'umas' = 'a umas' (não há contração)
+
+*   **Preposição 'de':**
+    *   'de' + 'o' = 'do'
+    *   'de' + 'a' = 'da'
+    *   'de' + 'os' = 'dos'
+    *   'de' + 'as' = 'das'
+    *   'de' + 'um' = 'dum' (pouco usual na escrita formal)
+    *   'de' + 'uma' = 'duma' (pouco usual na escrita formal)
+    *   'de' + 'uns' = 'duns' (pouco usual na escrita formal)
+    *   'de' + 'umas' = 'dumas' (pouco usual na escrita formal)
+
+*   **Preposição 'em':**
+    *   'em' + 'o' = 'no'
+    *   'em' + 'a' = 'na'
+    *   'em' + 'os' = 'nos'
+    *   'em' + 'as' = 'nas'
+    *   'em' + 'um' = 'num'
+    *   'em' + 'uma' = 'numa'
+    *   'em' + 'uns' = 'nuns'
+    *   'em' + 'umas' = 'numas'
+
+*   **Preposição 'por' (per):**
+    *   'por' + 'o' = 'pelo'
+    *   'por' + 'a' = 'pela'
+    *   'por' + 'os' = 'pelos'
+    *   'por' + 'as' = 'pelas'
+
+## 5. Artigo e Crase
+
+A crase é a fusão da preposição 'a' com o artigo feminino 'a' (ou 'as') ou com os pronomes demonstrativos 'a', 'aquela', 'aquele', 'aquilo'. No contexto dos artigos, a crase ocorre quando há a regência de um verbo ou nome que exige a preposição 'a' e, ao mesmo tempo, o termo seguinte é um substantivo feminino que admite o artigo 'a'.
+
+*   **Exemplo:**
+    *   Vou 'à' feira. (Quem vai, vai 'a' algum lugar + 'a' feira)
+    *   Refiro-me 'às' questões. (Quem se refere, refere-se 'a' algo + 'as' questões)
+
+## 6. Erros Comuns e Nuances
+
+*   **Pleonasmo com artigo:** Evitar o uso redundante do artigo, como em 'entrar para dentro' (o 'para' já indica direção).
+*   **Artigo antes de 'todo'/'toda':**
+    *   'Todo' homem é mortal. (Qualquer homem, generalização)
+    *   'Todo o' homem é mortal. (A totalidade dos homens, todos os homens)
+    *   'Toda' a cidade parou. (A cidade inteira)
+    *   'Toda' cidade parou. (Qualquer cidade)
+*   **Artigo antes de pronomes indefinidos:** Geralmente não se usa artigo antes de pronomes indefinidos como 'cada', 'algum', 'nenhum', 'muito', 'pouco', 'outro', 'certo', 'vários'.
+    *   Ex: 'Cada' aluno fez a prova. (Não 'O cada aluno')
+    *   Ex: 'Alguns' livros sumiram. (Não 'Os alguns livros')
+*   **Artigo antes de 'casa' e 'terra':**
+    *   Quando 'casa' significa lar, residência, e não está especificada, não se usa artigo: Voltei 'para casa'. (Mas: Voltei 'para a casa' dos meus pais.)
+    *   Quando 'terra' significa chão firme, e não está especificada, não se usa artigo: Os marinheiros desceram 'em terra'. (Mas: Os marinheiros desceram 'na terra' natal.)
+
+O domínio do uso dos artigos é fundamental para a clareza e correção da escrita e da fala em português, sendo um tópico recorrente em provas de concursos e vestibulares. A atenção às nuances e exceções é crucial para evitar equívocos.

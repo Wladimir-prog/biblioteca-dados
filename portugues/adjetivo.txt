@@ -1,0 +1,98 @@
+# Adjetivo: A Palavra que Qualifica e Caracteriza
+
+O adjetivo é uma das dez classes de palavras da língua portuguesa, essencial para a riqueza e precisão da comunicação. Sua principal função é modificar um substantivo, atribuindo-lhe uma qualidade, estado, característica ou condição. Ele concorda em gênero e número com o substantivo a que se refere, o que o torna uma palavra variável.
+
+## 1. Definição e Função
+
+O adjetivo é a palavra que expressa uma qualidade ou característica do ser, ou seja, do substantivo. Ele pode indicar um estado, uma condição, um modo de ser ou um aspecto. Por exemplo, em 'casa **grande**', 'grande' é o adjetivo que qualifica a casa. Em 'homem **feliz**', 'feliz' descreve o estado do homem.
+
+A função primordial do adjetivo é especificar ou generalizar o substantivo, tornando a informação mais detalhada ou abrangente. Sem os adjetivos, nossa linguagem seria muito mais monótona e menos expressiva.
+
+## 2. Classificação dos Adjetivos
+
+Os adjetivos podem ser classificados de diversas formas, dependendo de sua estrutura e origem:
+
+### 2.1. Quanto à Formação
+
+*   **Simples**: Possuem apenas um radical. Ex: 'belo', 'triste', 'azul'.
+*   **Composto**: Possuem mais de um radical. Ex: 'verde-claro', 'socioeconômico', 'luso-brasileiro'.
+
+### 2.2. Quanto à Origem
+
+*   **Primitivo**: Não derivam de outra palavra na língua portuguesa. Ex: 'bom', 'mau', 'rico', 'pobre'.
+*   **Derivado**: Derivam de substantivos, verbos ou outros adjetivos. Ex: 'bondoso' (de 'bondade'), 'amável' (de 'amar'), 'azulado' (de 'azul').
+
+### 2.3. Adjetivos Pátrios
+
+Indicam a nacionalidade ou o lugar de origem do ser. Ex: 'brasileiro' (do Brasil), 'paulista' (de São Paulo), 'carioca' (do Rio de Janeiro), 'português' (de Portugal).
+
+## 3. Flexão dos Adjetivos
+
+Os adjetivos flexionam-se em gênero, número e grau para concordar com o substantivo que modificam.
+
+### 3.1. Flexão de Gênero (Masculino e Feminino)
+
+*   **Adjetivos Biformes**: Possuem uma forma para o masculino e outra para o feminino. Ex: 'bonito' / 'bonita', 'ativo' / 'ativa', 'mau' / 'má'.
+*   **Adjetivos Uniformes**: Possuem uma única forma para ambos os gêneros. Ex: 'feliz', 'simples', 'grande', 'inteligente'.
+
+### 3.2. Flexão de Número (Singular e Plural)
+
+A flexão de número dos adjetivos segue, em geral, as mesmas regras dos substantivos:
+
+*   **Adjetivos Simples**: Formam o plural como os substantivos. Ex: 'casa **bonita**' / 'casas **bonitas**', 'homem **feliz**' / 'homens **felizes**'.
+    *   Exceções e particularidades: 'azul' -> 'azuis'; 'fácil' -> 'fáceis'.
+*   **Adjetivos Compostos**: A regra geral é que apenas o último elemento varia, concordando com o substantivo. Ex: 'olhos **verde-claros**', 'blusas **azul-marinho**'.
+    *   Exceções:
+        *   Quando o segundo elemento é um substantivo, ele permanece invariável. Ex: 'ternos **verde-garrafa**', 'saias **rosa-choque**'.
+        *   Os adjetivos 'azul-celeste', 'azul-marinho', 'cor-de-rosa' são invariáveis. Ex: 'paredes **azul-celeste**', 'gravatas **azul-marinho**'.
+        *   'Surdo-mudo' flexiona os dois elementos: 'surdos-mudos', 'surdas-mudas'.
+
+### 3.3. Flexão de Grau
+
+O grau do adjetivo indica a intensidade da qualidade expressa. Existem dois graus principais:
+
+#### 3.3.1. Grau Comparativo
+
+Compara a mesma qualidade entre dois ou mais seres, ou qualidades diferentes do mesmo ser.
+
+*   **Comparativo de Igualdade**: 'tão' + adjetivo + 'quanto' (ou 'como'). Ex: 'Ele é **tão inteligente quanto** o irmão.'
+*   **Comparativo de Superioridade**: 'mais' + adjetivo + 'do que' (ou 'que'). Ex: 'Ela é **mais dedicada do que** ele.'
+    *   Formas sintéticas: 'melhor' (para 'bom'), 'pior' (para 'mau'), 'maior' (para 'grande'), 'menor' (para 'pequeno'). Ex: 'Este livro é **melhor que** o anterior.'
+*   **Comparativo de Inferioridade**: 'menos' + adjetivo + 'do que' (ou 'que'). Ex: 'Ele é **menos experiente do que** a equipe.'
+
+#### 3.3.2. Grau Superlativo
+
+Expressa a qualidade em seu grau máximo.
+
+*   **Superlativo Relativo**: Expressa a qualidade de um ser em relação a um grupo.
+    *   **De Superioridade**: 'o(a)(s) mais' + adjetivo + 'de' (ou 'entre'). Ex: 'Ele é **o aluno mais estudioso da** turma.'
+    *   **De Inferioridade**: 'o(a)(s) menos' + adjetivo + 'de' (ou 'entre'). Ex: 'Ela é **a funcionária menos produtiva da** empresa.'
+*   **Superlativo Absoluto**: Expressa a qualidade em seu grau máximo, sem comparação com outros seres.
+    *   **Analítico**: Formado por um advérbio de intensidade + adjetivo. Ex: 'muito **bonito**', 'extremamente **rápido**', 'bastante **interessante**'.
+    *   **Sintético**: Formado pelo adjetivo + sufixo (-íssimo, -érrimo, -ílimo). Ex: 'belíssimo' (de 'belo'), 'paupérrimo' (de 'pobre'), 'facílimo' (de 'fácil'), 'magérrimo' (de 'magro'), 'celebérrimo' (de 'célebre').
+
+## 4. Locução Adjetiva
+
+É a expressão formada por duas ou mais palavras que, juntas, têm o valor de um adjetivo. Geralmente, é composta por uma preposição + substantivo. Ex: 'amor **de mãe**' (amor 'materno'), 'água **da chuva**' (água 'pluvial'), 'carne **de boi**' (carne 'bovina'), 'dia **de sol**' (dia 'ensolarado').
+
+É importante conhecer as locuções adjetivas e seus adjetivos correspondentes, pois muitas bancas exploram essa equivalência.
+
+## 5. Adjetivo Substantivado
+
+Ocorre quando um adjetivo é empregado com valor de substantivo, geralmente precedido por um artigo ou outro determinante. Ex: 'O **velho** caminhava lentamente.' (aqui, 'velho' funciona como substantivo, referindo-se a uma pessoa idosa). 'Os **bons** serão recompensados.'
+
+## 6. Funções Sintáticas do Adjetivo
+
+Sintaticamente, o adjetivo pode exercer as seguintes funções:
+
+*   **Adjunto Adnominal**: Quando qualifica diretamente um substantivo, sem a intermediação de um verbo de ligação. Ex: 'Comprei um carro **novo**.' ('novo' é adjunto adnominal de 'carro').
+*   **Predicativo do Sujeito**: Quando qualifica o sujeito por meio de um verbo de ligação (ser, estar, parecer, permanecer, ficar, continuar, andar). Ex: 'O aluno **estava cansado**.' ('cansado' é predicativo do sujeito 'o aluno').
+*   **Predicativo do Objeto**: Quando qualifica o objeto (direto ou indireto) por meio de um verbo transitivo. Ex: 'Considero-o **inteligente**.' ('inteligente' é predicativo do objeto direto 'o').
+
+## 7. Dicas e Erros Comuns
+
+*   **Concordância**: Sempre verifique a concordância do adjetivo com o substantivo em gênero e número. Um erro comum é a falta de concordância em adjetivos compostos ou em frases com múltiplos substantivos.
+*   **Uso de 'meio' e 'bastante'**: Quando 'meio' e 'bastante' funcionam como advérbios (modificando um adjetivo ou verbo), são invariáveis. Ex: 'Ela está **meio** cansada.' (advérbio). Quando 'meio' é adjetivo, varia. Ex: 'Comi **meia** maçã.' (adjetivo). O mesmo para 'bastante': 'Eles são **bastante** inteligentes.' (advérbio). 'Comprei **bastantes** livros.' (adjetivo).
+*   **Adjetivos que viram substantivos**: Fique atento ao contexto para identificar quando um adjetivo está sendo substantivado. A presença de um artigo é um forte indicativo.
+
+Dominar o uso e a flexão dos adjetivos é crucial para a construção de frases claras, coesas e gramaticalmente corretas, um conhecimento frequentemente exigido em provas e concursos.

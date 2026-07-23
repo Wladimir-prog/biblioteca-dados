@@ -1,0 +1,140 @@
+# Pronome: A Classe de Palavras que Substitui ou Acompanha Nomes
+
+O pronome é uma das dez classes de palavras da língua portuguesa, caracterizando-se por sua capacidade de substituir ou acompanhar um substantivo (nome), indicando-o em relação às pessoas do discurso ou situando-o no tempo e no espaço. Sua função primordial é evitar a repetição desnecessária de termos e garantir a coesão e a coerência textual. Compreender os pronomes é fundamental para a construção de frases claras, precisas e gramaticalmente corretas, sendo um tópico recorrente em provas e concursos.
+
+## Classificação dos Pronomes
+
+Os pronomes são classificados em seis tipos principais, cada um com suas particularidades de uso e flexão.
+
+### 1. Pronomes Pessoais
+
+Referem-se às pessoas do discurso (quem fala, com quem se fala, de quem ou do que se fala). Dividem-se em:
+
+*   **Pronomes Pessoais do Caso Reto:** Exercem função de sujeito ou predicativo do sujeito.
+    *   1ª pessoa: 'eu' (singular), 'nós' (plural)
+    *   2ª pessoa: 'tu' (singular), 'vós' (plural)
+    *   3ª pessoa: 'ele', 'ela' (singular), 'eles', 'elas' (plural)
+    *   Exemplo: 'Eu' estudei para a prova. 'Nós' iremos viajar.
+
+*   **Pronomes Pessoais do Caso Oblíquo:** Exercem função de complemento (objeto direto, objeto indireto, complemento nominal, adjunto adnominal, etc.). Subdividem-se em átonos e tônicos.
+
+    *   **Pronomes Oblíquos Átonos:** Não são precedidos de preposição e funcionam como objeto direto ou indireto.
+        *   1ª pessoa: 'me' (singular), 'nos' (plural)
+        *   2ª pessoa: 'te' (singular), 'vos' (plural)
+        *   3ª pessoa: 'o', 'a', 'os', 'as', 'lhe', 'lhes' (singular/plural)
+        *   Exemplo: Ele 'me' viu. Entreguei-lhe o livro.
+        *   Observação: Os pronomes 'o', 'a', 'os', 'as' podem assumir as formas 'lo', 'la', 'los', 'las' após verbos terminados em 'r', 's', 'z' (Ex: fazer + o = fazê-'lo') e 'no', 'na', 'nos', 'nas' após verbos terminados em ditongo nasal ou 'm' (Ex: viram + o = viram-'no').
+
+    *   **Pronomes Oblíquos Tônicos:** São sempre precedidos de preposição e funcionam como objeto indireto ou complemento nominal.
+        *   1ª pessoa: 'mim', 'comigo' (singular), 'nós', 'conosco' (plural)
+        *   2ª pessoa: 'ti', 'contigo' (singular), 'vós', 'convosco' (plural)
+        *   3ª pessoa: 'ele', 'ela', 'si', 'consigo' (singular), 'eles', 'elas', 'si', 'consigo' (plural)
+        *   Exemplo: Ele falou 'comigo'. Trouxe o presente 'para ela'.
+        *   Atenção: Não se usa 'mim' como sujeito. A construção 'para mim fazer' está incorreta; o correto é 'para eu fazer'. 'Mim' e 'ti' são sempre objetos.
+
+### 2. Pronomes Possessivos
+
+Indicam posse em relação às pessoas do discurso. Concordam em gênero e número com o objeto possuído.
+*   1ª pessoa: 'meu', 'minha', 'meus', 'minhas' (singular), 'nosso', 'nossa', 'nossos', 'nossas' (plural)
+*   2ª pessoa: 'teu', 'tua', 'teus', 'tuas' (singular), 'vosso', 'vossa', 'vossos', 'vossas' (plural)
+*   3ª pessoa: 'seu', 'sua', 'seus', 'suas' (singular), 'seu', 'sua', 'seus', 'suas' (plural)
+*   Exemplo: 'Minha' casa é grande. 'Seus' livros estão aqui.
+*   Observação: O pronome 'seu' pode gerar ambiguidade (referindo-se à 2ª ou 3ª pessoa). Nesses casos, é preferível usar 'dele', 'dela', 'deles', 'delas'. Ex: Ele pegou 'seu' livro (de quem? dele ou do interlocutor?). Melhor: Ele pegou o livro 'dele'.
+
+### 3. Pronomes Demonstrativos
+
+Situam os seres no tempo e no espaço em relação às pessoas do discurso.
+*   **Perto de quem fala (1ª pessoa):** 'este', 'esta', 'estes', 'estas', 'isto'
+    *   Exemplo: 'Este' livro que tenho na mão é interessante.
+*   **Perto de quem ouve (2ª pessoa):** 'esse', 'essa', 'esses', 'essas', 'isso'
+    *   Exemplo: 'Essa' caneta que está com você é minha.
+*   **Longe das duas pessoas (3ª pessoa):** 'aquele', 'aquela', 'aqueles', 'aquelas', 'aquilo'
+    *   Exemplo: 'Aquela' montanha ao longe é linda.
+*   **Outros demonstrativos:** 'o', 'a', 'os', 'as' (quando equivalem a 'aquele', 'aquela', 'aqueles', 'aquelas'), 'mesmo', 'mesma', 'próprio', 'própria', 'tal', 'tais', 'semelhante'.
+    *   Exemplo: Não 'o' vi mais (não 'o' vi = não 'o' vi mais 'aquele').
+*   **Uso temporal:**
+    *   'Este', 'esta', 'isto': presente ou futuro próximo. Ex: 'Neste' ano, farei uma viagem.
+    *   'Esse', 'essa', 'isso': passado ou futuro não muito distante. Ex: 'Nessa' época, eu morava em outra cidade.
+    *   'Aquele', 'aquela', 'aquilo': passado distante. Ex: 'Naquele' tempo, não havia internet.
+*   **Uso anafórico/catafórico:**
+    *   'Este', 'esta', 'isto': referem-se ao que será dito (catafórico). Ex: Quero 'isto': paz e tranquilidade.
+    *   'Esse', 'essa', 'isso': referem-se ao que já foi dito (anafórico). Ex: Paz e tranquilidade, 'isso' é o que quero.
+
+### 4. Pronomes Indefinidos
+
+Referem-se à 3ª pessoa do discurso de modo vago, impreciso ou genérico.
+*   **Variáveis (flexionam-se em gênero e número):** 'algum', 'alguma', 'alguns', 'algumas'; 'nenhum', 'nenhuma', 'nenhuns', 'nenhumas'; 'todo', 'toda', 'todos', 'todas'; 'muito', 'muita', 'muitos', 'muitas'; 'pouco', 'pouca', 'poucos', 'poucas'; 'certo', 'certa', 'certos', 'certas'; 'vário', 'vária', 'vários', 'várias'; 'tanto', 'tanta', 'tantos', 'tantas'; 'quanto', 'quanta', 'quantos', 'quantas'; 'qualquer', 'quaisquer'; 'um', 'uma', 'uns', 'umas'.
+    *   Exemplo: 'Alguns' alunos faltaram. 'Toda' a cidade parou.
+*   **Invariáveis (não flexionam-se):** 'alguém', 'ninguém', 'tudo', 'nada', 'outrem', 'quem', 'cada', 'algo'.
+    *   Exemplo: 'Alguém' bateu na porta. 'Nada' foi feito.
+*   **Locuções pronominais indefinidas:** 'cada um', 'quem quer que', 'seja quem for', 'qualquer um', 'todo aquele que', 'seja qual for', 'um ou outro', 'tal qual'.
+    *   Exemplo: 'Cada um' fez sua parte.
+
+### 5. Pronomes Interrogativos
+
+Usados para formular perguntas diretas ou indiretas. São eles: 'que', 'quem', 'qual', 'quais', 'quanto', 'quantos', 'quanta', 'quantas'.
+*   Exemplo: 'Quem' chegou? 'Qual' é o seu nome? Diga-me 'quantos' livros você leu.
+
+### 6. Pronomes Relativos
+
+Retomam um termo anterior (antecedente) e introduzem uma oração subordinada adjetiva.
+*   **Variáveis:** 'o qual', 'a qual', 'os quais', 'as quais'; 'cujo', 'cuja', 'cujos', 'cujas'; 'quanto', 'quanta', 'quantos', 'quantas' (quando precedidos de 'tudo', 'todos', 'todas').
+    *   Exemplo: O livro 'o qual' li é excelente. A aluna 'cujas' notas são altas foi premiada.
+*   **Invariáveis:** 'que', 'quem', 'onde'.
+    *   'Que': o mais comum, pode substituir 'o qual' e suas flexões. Ex: A casa 'que' comprei é nova.
+    *   'Quem': refere-se apenas a pessoas. Ex: O homem 'quem' vi ontem era seu pai.
+    *   'Onde': refere-se a lugar. Ex: A cidade 'onde' moro é tranquila.
+    *   Atenção: 'Aonde' é usado com verbos que indicam movimento (ir, chegar, etc.). Ex: 'Aonde' você vai? 'Onde' você mora?
+
+## Colocação Pronominal
+
+Refere-se à posição dos pronomes oblíquos átonos ('me', 'te', 'se', 'o', 'a', 'lhe', 'nos', 'vos', 'os', 'as', 'lhes') em relação ao verbo. Existem três posições:
+
+1.  **Próclise:** Pronome antes do verbo. É a colocação preferencial na língua portuguesa e obrigatória em diversos casos.
+    *   **Fatores de atração:**
+        *   **Palavras negativas:** 'não', 'nunca', 'jamais', 'nada', 'ninguém', 'nem', 'nenhum'. Ex: 'Não me' diga isso.
+        *   **Advérbios:** 'aqui', 'ali', 'sempre', 'já', 'talvez', 'muito', 'bem', 'mal'. Ex: 'Sempre o' admirei. (Exceto se houver vírgula após o advérbio).
+        *   **Conjunções subordinativas:** 'que', 'se', 'quando', 'embora', 'conforme', 'porque', 'como'. Ex: Espero 'que me' ajude.
+        *   **Pronomes indefinidos:** 'alguém', 'ninguém', 'tudo', 'nada', 'outrem', 'quem', 'qualquer'. Ex: 'Alguém me' chamou.
+        *   **Pronomes demonstrativos:** 'este', 'esse', 'aquele', 'isto', 'isso', 'aquilo'. Ex: 'Isso me' incomoda.
+        *   **Pronomes interrogativos:** 'quem', 'que', 'qual', 'quanto'. Ex: 'Quem te' contou?
+        *   **Em frases exclamativas ou optativas:** Ex: 'Deus o' abençoe! 'Quanto me' arrependo!
+        *   **Em orações iniciadas por 'em' + gerúndio:** Ex: 'Em se' tratando de você...
+
+2.  **Ênclise:** Pronome depois do verbo. Ocorre quando não há fator de próclise e o verbo não inicia a oração.
+    *   Ex: Chamou-'me'. Entreguei-'lhe' o presente.
+    *   É obrigatória no início de frases. Ex: 'Levante-se'!
+    *   Com verbos no imperativo afirmativo. Ex: 'Faça-o' agora.
+    *   Com verbos no gerúndio sem preposição 'em'. Ex: Olhando-'o', percebi a verdade.
+    *   Com verbos no infinitivo impessoal. Ex: É preciso ajudar-'te'.
+
+3.  **Mesóclise:** Pronome no meio do verbo. Ocorre apenas com verbos no futuro do presente ou futuro do pretérito do indicativo, desde que não haja fator de próclise.
+    *   Forma: radical do verbo + pronome + terminação.
+    *   Ex: Far-'lhe'-ei um favor. (farei + lhe)
+    *   Dir-'me'-iam a verdade. (diriam + me)
+    *   Se houver fator de próclise, a mesóclise é desfeita. Ex: 'Não lhe' farei um favor.
+
+## Casos Especiais e Erros Comuns
+
+*   **'Eu' x 'Mim':** 'Eu' é pronome pessoal do caso reto, funciona como sujeito. 'Mim' é pronome pessoal do caso oblíquo tônico, funciona como complemento e sempre vem precedido de preposição.
+    *   Correto: 'Para eu' fazer o trabalho. (Eu = sujeito de fazer)
+    *   Incorreto: 'Para mim' fazer o trabalho.
+    *   Correto: Ele trouxe um presente 'para mim'. (Mim = objeto indireto)
+
+*   **'Onde' x 'Aonde':** 'Onde' indica lugar fixo ou permanência. 'Aonde' indica movimento para um lugar.
+    *   Correto: 'Onde' você mora?
+    *   Correto: 'Aonde' você vai?
+
+*   **Pronomes 'o', 'a', 'os', 'as' x 'lhe', 'lhes':**
+    *   'O', 'a', 'os', 'as' funcionam como objeto direto (complementam verbos transitivos diretos). Ex: Vi 'o' filme.
+    *   'Lhe', 'lhes' funcionam como objeto indireto (complementam verbos transitivos indiretos que pedem a preposição 'a'). Ex: Obedeci 'ao' professor -> Obedeci-'lhe'.
+
+*   **Pronomes 'se', 'si', 'consigo':** São reflexivos ou recíprocos, referindo-se à 3ª pessoa.
+    *   'Se': pode ser pronome apassivador, índice de indeterminação do sujeito, parte integrante do verbo, pronome reflexivo. Ex: Vende-'se' casas. Precisa-'se' de funcionários. Ele 'se' arrependeu. Ela 'se' feriu.
+    *   'Si': sempre precedido de preposição. Ex: Ele só pensa 'em si'.
+    *   'Consigo': com + si. Ex: Ele trouxe o livro 'consigo'. (Não confundir com 'com você').
+
+*   **Pronomes de Tratamento:** São formas de cortesia usadas para se dirigir a pessoas. Embora se refiram à 2ª pessoa, a concordância verbal e nominal é feita na 3ª pessoa.
+    *   Ex: 'Vossa Excelência' *decidiu* bem. (Não 'decidistes').
+
+Dominar o uso dos pronomes é essencial para a fluência e correção na língua portuguesa, permitindo uma comunicação mais eficaz e elegante. A prática constante e a atenção aos detalhes são chaves para evitar os erros mais comuns.

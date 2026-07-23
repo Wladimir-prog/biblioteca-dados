@@ -1,0 +1,171 @@
+# O Substantivo: Definição, Classificação e Flexão
+
+O substantivo é uma das classes de palavras mais fundamentais da língua portuguesa, essencial para a construção de sentido em qualquer enunciado. Sua função primordial é nomear seres, objetos, lugares, sentimentos, qualidades, ações, estados e ideias. Compreender o substantivo em profundidade é crucial para a análise morfológica e sintática, sendo um tópico recorrente em provas de concursos públicos e exames vestibulares.
+
+## 1. Definição e Essência
+
+O substantivo é a palavra que dá nome a tudo o que existe ou imaginamos existir. Ele é o 'núcleo' do sintagma nominal, ou seja, a palavra mais importante em um grupo de palavras que se refere a um nome. Morfologicamente, é uma palavra variável, pois sofre flexão de gênero, número e grau. Sintaticamente, pode exercer diversas funções, como sujeito, objeto direto, objeto indireto, complemento nominal, aposto, vocativo, entre outras.
+
+Exemplos: 'mesa', 'amor', 'Brasil', 'coragem', 'corrida', 'beleza'.
+
+## 2. Classificação dos Substantivos
+
+A classificação dos substantivos é um ponto-chave para a análise gramatical. Eles podem ser classificados de diversas maneiras, muitas vezes cumulativas.
+
+### 2.1. Comuns e Próprios
+
+*   **Substantivos Comuns**: Nomeiam seres da mesma espécie de forma genérica, sem particularizá-los. São escritos com letra inicial minúscula, a menos que iniciem uma frase.
+    Exemplos: 'cidade', 'menino', 'país', 'rio', 'cachorro'.
+
+*   **Substantivos Próprios**: Nomeiam seres específicos, individualizando-os dentro de sua espécie. São sempre escritos com letra inicial maiúscula.
+    Exemplos: 'São Paulo', 'João', 'Brasil', 'Tietê', 'Rex'.
+
+### 2.2. Concretos e Abstratos
+
+*   **Substantivos Concretos**: Nomeiam seres que possuem existência própria, real ou imaginária, que podem ser percebidos pelos sentidos ou que têm uma forma independente. Não dependem de outro ser para existir.
+    Exemplos: 'casa', 'árvore', 'fada', 'Deus', 'vento', 'mesa'.
+
+*   **Substantivos Abstratos**: Nomeiam qualidades, estados, sentimentos, ações ou conceitos que dependem de outro ser para existir. Eles não têm existência física independente.
+    Exemplos: 'beleza' (depende de algo belo), 'amor' (depende de alguém que ama), 'corrida' (depende de alguém que corre), 'tristeza' (depende de alguém triste), 'esperança'.
+
+    *Dica para concursos*: Se você consegue 'ver', 'tocar' ou 'imaginar' o ser em si, é concreto. Se ele é uma 'ação', 'estado', 'qualidade' ou 'sentimento' de outro ser, é abstrato.
+
+### 2.3. Simples e Compostos
+
+*   **Substantivos Simples**: Formados por apenas um radical.
+    Exemplos: 'flor', 'sol', 'chuva', 'tempo'.
+
+*   **Substantivos Compostos**: Formados por dois ou mais radicais, que podem ser unidos por hífen ou não.
+    Exemplos: 'couve-flor', 'girassol', 'guarda-chuva', 'passatempo'.
+
+### 2.4. Primitivos e Derivados
+
+*   **Substantivos Primitivos**: Não derivam de nenhuma outra palavra da língua portuguesa.
+    Exemplos: 'pedra', 'livro', 'terra', 'ferro'.
+
+*   **Substantivos Derivados**: Originam-se de outras palavras já existentes.
+    Exemplos: 'pedreiro' (de 'pedra'), 'livraria' (de 'livro'), 'terreno' (de 'terra'), 'ferreiro' (de 'ferro').
+
+### 2.5. Coletivos
+
+*   **Substantivos Coletivos**: Mesmo no singular, indicam um conjunto ou agrupamento de seres da mesma espécie.
+    Exemplos: 'cardume' (de peixes), 'alcateia' (de lobos), 'biblioteca' (de livros), 'constelação' (de estrelas), 'enxame' (de abelhas).
+
+## 3. Flexão dos Substantivos
+
+Os substantivos são palavras variáveis, o que significa que podem sofrer flexões para indicar gênero, número e grau.
+
+### 3.1. Flexão de Gênero (Masculino e Feminino)
+
+O gênero dos substantivos pode ser determinado por:
+
+*   **Biformes**: Possuem uma forma para o masculino e outra para o feminino.
+    Exemplos: 'menino' / 'menina', 'ator' / 'atriz', 'poeta' / 'poetisa'.
+
+*   **Uniformes**: Possuem uma única forma para ambos os gêneros.
+    *   **Epicenos**: Referem-se a animais e o gênero é indicado pela adição das palavras 'macho' ou 'fêmea'.
+        Exemplos: 'a cobra macho', 'a cobra fêmea', 'o jacaré macho', 'o jacaré fêmea'.
+    *   **Sobrecomuns**: Referem-se a pessoas e o gênero é identificado pelo contexto, sem alteração do artigo ou do substantivo.
+        Exemplos: 'a criança', 'o cônjuge', 'a testemunha', 'o indivíduo'.
+    *   **Comuns de dois gêneros**: Referem-se a pessoas e o gênero é indicado pelo artigo que o acompanha.
+        Exemplos: 'o estudante' / 'a estudante', 'o jornalista' / 'a jornalista', 'o cliente' / 'a cliente'.
+
+*   **Substantivos de Gênero Incerto ou Vacilante**: Alguns substantivos podem ter seu gênero alterado sem mudar o sentido, ou com mudança de sentido.
+    Exemplos: 'o/a personagem', 'o/a cônjuge'.
+
+*   **Substantivos com Mudança de Sentido na Troca de Gênero**: A alteração do gênero pode mudar completamente o significado da palavra.
+    Exemplos: 'o cabeça' (líder) / 'a cabeça' (parte do corpo), 'o caixa' (funcionário) / 'a caixa' (recipiente), 'o capital' (dinheiro) / 'a capital' (cidade principal).
+
+### 3.2. Flexão de Número (Singular e Plural)
+
+A flexão de número indica se o substantivo se refere a um único ser (singular) ou a mais de um (plural). As regras de formação do plural são variadas e dependem da terminação do substantivo.
+
+*   **Regra Geral**: Adição de '-s' ao singular.
+    Exemplos: 'casa' / 'casas', 'mesa' / 'mesas'.
+
+*   **Substantivos terminados em '-r', '-z', '-s'**: Adição de '-es'.
+    Exemplos: 'flor' / 'flores', 'luz' / 'luzes', 'país' / 'países' (se oxítono ou monossílabo tônico). Se paroxítono terminado em '-s', é invariável: 'o lápis' / 'os lápis'.
+
+*   **Substantivos terminados em '-ão'**: Podem formar o plural em '-ãos', '-ões' ou '-ães'.
+    Exemplos: 'mão' / 'mãos', 'coração' / 'corações', 'pão' / 'pães'.
+
+*   **Substantivos terminados em '-al', '-el', '-ol', '-ul'**: Troca do '-l' por '-is'.
+    Exemplos: 'animal' / 'animais', 'papel' / 'papéis', 'farol' / 'faróis', 'azul' / 'azuis'.
+
+*   **Substantivos terminados em '-il'**: Se oxítonos, trocam '-il' por '-is'. Se paroxítonos, trocam '-il' por '-eis'.
+    Exemplos: 'barril' / 'barris', 'fóssil' / 'fósseis'.
+
+*   **Substantivos terminados em '-m'**: Trocam '-m' por '-ns'.
+    Exemplos: 'homem' / 'homens', 'álbum' / 'álbuns'.
+
+*   **Substantivos Compostos**: A formação do plural de substantivos compostos é um ponto de atenção em concursos.
+    *   **Compostos sem hífen**: Pluraliza-se como se fosse uma palavra simples.
+        Exemplos: 'girassol' / 'girassóis', 'passatempo' / 'passatempos'.
+    *   **Compostos com hífen**: As regras variam:
+        *   **Substantivo + Substantivo**: Ambos vão para o plural.
+            Exemplos: 'couve-flor' / 'couves-flores', 'cirurgião-dentista' / 'cirurgiões-dentistas'.
+        *   **Substantivo + Adjetivo / Adjetivo + Substantivo**: Ambos vão para o plural.
+            Exemplos: 'amor-perfeito' / 'amores-perfeitos', 'gentil-homem' / 'gentis-homens'.
+        *   **Verbo + Substantivo**: Apenas o substantivo vai para o plural.
+            Exemplos: 'guarda-chuva' / 'guarda-chuvas', 'beija-flor' / 'beija-flores'.
+        *   **Palavras Invariáveis + Substantivo**: Apenas o substantivo vai para o plural.
+            Exemplos: 'abaixo-assinado' / 'abaixo-assinados', 'sem-terra' / 'sem-terras'.
+        *   **Verbo + Verbo / Palavras Invariáveis + Palavras Invariáveis**: Invariáveis.
+            Exemplos: 'o bota-fora' / 'os bota-fora', 'o pisa-mansinho' / 'os pisa-mansinho'.
+        *   **Substantivos que indicam repetição ou onomatopeia**: Invariáveis.
+            Exemplos: 'o tique-taque' / 'os tique-taque', 'o corre-corre' / 'os corre-corre'.
+
+### 3.3. Flexão de Grau (Aumentativo e Diminutivo)
+
+O grau do substantivo expressa variação de tamanho ou intensidade, podendo também indicar afetividade ou desprezo.
+
+*   **Grau Normal**: Indica o tamanho comum do ser.
+    Exemplo: 'casa', 'livro'.
+
+*   **Grau Aumentativo**: Indica aumento de tamanho.
+    *   **Analítico**: Substantivo + adjetivo de aumento.
+        Exemplos: 'casa grande', 'livro enorme'.
+    *   **Sintético**: Substantivo + sufixo aumentativo.
+        Exemplos: 'casarão', 'livrão', 'homenzarrão'.
+
+*   **Grau Diminutivo**: Indica diminuição de tamanho.
+    *   **Analítico**: Substantivo + adjetivo de diminuição.
+        Exemplos: 'casa pequena', 'livro minúsculo'.
+    *   **Sintético**: Substantivo + sufixo diminutivo.
+        Exemplos: 'casinha', 'livrinho', 'vilarejo'.
+
+    *Observação*: Os sufixos de aumentativo e diminutivo podem expressar, além do tamanho, afetividade ('paizinho', 'amigão') ou desprezo ('casebre', 'poetastro').
+
+## 4. Funções Sintáticas do Substantivo
+
+Embora seja uma classe morfológica, o substantivo é o pilar de diversas funções sintáticas. Ele pode atuar como:
+
+*   **Núcleo do Sujeito**: 'O **menino** brinca.'
+*   **Núcleo do Objeto Direto**: 'Comprei um **livro**.'
+*   **Núcleo do Objeto Indireto**: 'Preciso de **ajuda**.'
+*   **Núcleo do Complemento Nominal**: 'Tenho necessidade de **paz**.'
+*   **Núcleo do Predicativo do Sujeito**: 'Ele é **professor**.'
+*   **Núcleo do Predicativo do Objeto**: 'Nomearam-no **diretor**.'
+*   **Núcleo do Aposto**: 'João, o **professor**, chegou.'
+*   **Núcleo do Vocativo**: '**Amigos**, ouçam!'
+*   **Núcleo do Adjunto Adnominal**: 'A **casa** de pedra.' (Aqui, 'pedra' é substantivo com valor adjetivo)
+*   **Núcleo do Adjunto Adverbial**: 'Chegou à **noite**.'
+
+## 5. Substantivação
+
+É o processo pelo qual qualquer palavra (verbo, adjetivo, advérbio, numeral, preposição, conjunção, interjeição) ou expressão passa a funcionar como substantivo, geralmente precedida por um artigo ou outro determinante.
+
+Exemplos:
+*   'O **comer** é essencial.' (Verbo 'comer' substantivado)
+*   'O **azul** do céu.' (Adjetivo 'azul' substantivado)
+*   'Não entendi o **porquê**.' (Advérbio 'porquê' substantivado)
+*   'Os **dois** chegaram.' (Numeral 'dois' substantivado)
+
+## 6. Armadilhas Comuns em Concursos
+
+*   **Distinção entre Concreto e Abstrato**: Muitas vezes, substantivos abstratos podem ser confundidos com concretos se não se atentar à sua dependência de outro ser. Ex: 'beleza' (abstrato, depende de algo belo) vs. 'mesa' (concreto, existe por si). Cuidado com a 'concretização' de abstratos em contextos específicos, como 'A beleza da paisagem me encantou' (beleza aqui é a qualidade, abstrato) vs. 'As belezas naturais do parque' (belezas aqui são os elementos concretos que compõem a beleza, mas a palavra 'beleza' em si continua abstrata em sua essência).
+*   **Plural de Substantivos Compostos**: É um dos tópicos mais explorados. Memorizar as regras e exceções é fundamental.
+*   **Gênero de Substantivos**: Palavras como 'o alface', 'a cal', 'o champanhe', 'a omoplata' são frequentemente cobradas para testar o conhecimento do gênero correto.
+*   **Substantivação**: Identificar palavras de outras classes gramaticais que foram substantivadas pelo contexto ou pela presença de um artigo.
+
+Dominar o substantivo e suas nuances é um passo fundamental para a proficiência na língua portuguesa e para o sucesso em avaliações que exigem conhecimento gramatical aprofundado. A prática constante com exercícios e a revisão das regras são as melhores estratégias para fixar o conteúdo.

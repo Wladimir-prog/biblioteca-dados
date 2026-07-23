@@ -1,0 +1,93 @@
+# Discurso Direto, Indireto e Indireto Livre: A Arte de Relatar Falas
+
+No estudo da língua portuguesa, a forma como as falas e pensamentos são inseridos em um texto é um tópico de grande relevância, especialmente para a compreensão textual e a produção escrita. Os tipos de discurso – direto, indireto e indireto livre – são mecanismos linguísticos que permitem ao narrador reproduzir ou relatar as palavras de personagens, conferindo diferentes nuances e perspectivas à narrativa. Dominar esses conceitos é crucial para a interpretação de textos em provas e para a construção de narrativas coesas e expressivas.
+
+## 1. Discurso Direto
+
+O discurso direto é a reprodução exata da fala de um personagem, como se o próprio personagem estivesse falando. É a forma mais fiel de apresentar o que foi dito, mantendo a originalidade das palavras, entonação e até mesmo vícios de linguagem do falante. Sua principal característica é a autonomia da fala do personagem em relação à voz do narrador.
+
+### Características Principais:
+
+*   **Fidelidade:** As palavras são transcritas literalmente, sem alterações. 'Eu irei ao mercado amanhã', disse ela.
+*   **Verbos de Dizer (Verbos Dicendi):** Geralmente introduzido por verbos como 'dizer', 'perguntar', 'responder', 'exclamar', 'indagar', 'afirmar', 'retrucar', 'sussurrar', 'gritar', entre outros. Esses verbos podem vir antes, depois ou no meio da fala do personagem.
+*   **Pontuação Específica:** Utiliza sinais de pontuação que demarcam a fala do personagem. Os mais comuns são:
+    *   **Dois-pontos (:)** antes da fala.
+    *   **Aspas (' ')** envolvendo a fala do personagem. Exemplo: 'Não sei o que fazer', pensou ele.
+    *   **Travessão (—)** indicando a mudança de interlocutor ou a fala do personagem. Exemplo: — Você vem comigo? — perguntou ela.
+*   **Autonomia:** A fala do personagem mantém sua estrutura gramatical original, incluindo pronomes, tempos verbais e advérbios.
+
+### Exemplos:
+
+*   O professor perguntou: 'Quem fez a lição de casa?'
+*   'Estou muito cansado', murmurou o aluno, 'preciso descansar'.
+*   Ela exclamou: 'Que dia lindo!'
+
+## 2. Discurso Indireto
+
+No discurso indireto, o narrador assume a responsabilidade de relatar a fala ou o pensamento do personagem com suas próprias palavras. Há uma subordinação da fala do personagem à voz do narrador, que a reinterpreta e a insere na estrutura da sua própria narrativa. Isso implica em diversas transformações gramaticais.
+
+### Características Principais:
+
+*   **Subordinação:** A fala do personagem é introduzida por conjunções subordinativas, geralmente 'que' ou 'se', e se torna uma oração subordinada substantiva objetiva direta ou indireta.
+*   **Verbos de Dizer:** Assim como no discurso direto, são utilizados verbos dicendi, mas eles introduzem a oração subordinada.
+*   **Ausência de Pontuação Específica:** Não há uso de aspas ou travessão para demarcar a fala do personagem, pois ela está integrada à frase do narrador.
+*   **Transformações Gramaticais:** Esta é a característica mais marcante e complexa do discurso indireto. As principais alterações ocorrem em:
+    *   **Pronomes:** Pronomes pessoais e possessivos são ajustados para a terceira pessoa. Exemplo: 'Eu' (direto) vira 'ele/ela' (indireto); 'meu' (direto) vira 'seu' (indireto).
+    *   **Tempos Verbais:** Há uma 'regressão' ou 'concordância temporal'.
+        *   Presente do Indicativo (direto) -> Pretérito Imperfeito do Indicativo (indireto). Exemplo: 'Eu **estudo**' -> Ele disse que **estudava**.
+        *   Pretérito Perfeito do Indicativo (direto) -> Pretérito Mais-que-perfeito do Indicativo (indireto). Exemplo: 'Eu **estudei**' -> Ele disse que **estudara**.
+        *   Futuro do Presente (direto) -> Futuro do Pretérito (indireto). Exemplo: 'Eu **estudarei**' -> Ele disse que **estudaria**.
+        *   Imperativo (direto) -> Pretérito Imperfeito do Subjuntivo (indireto). Exemplo: '**Estude**!' -> Ele pediu que **estudasse**.
+    *   **Advérbios e Expressões de Tempo/Lugar:** São adaptados à perspectiva do narrador.
+        *   'Agora' (direto) -> 'naquele momento', 'então' (indireto).
+        *   'Ontem' (direto) -> 'no dia anterior' (indireto).
+        *   'Amanhã' (direto) -> 'no dia seguinte' (indireto).
+        *   'Aqui' (direto) -> 'ali', 'lá' (indireto).
+
+### Exemplos:
+
+*   Discurso Direto: O professor perguntou: 'Quem fez a lição de casa?'
+    Discurso Indireto: O professor perguntou quem havia feito a lição de casa.
+*   Discurso Direto: Ela disse: 'Estou muito cansada'.
+    Discurso Indireto: Ela disse que estava muito cansada.
+*   Discurso Direto: Ele afirmou: 'Eu irei viajar amanhã'.
+    Discurso Indireto: Ele afirmou que iria viajar no dia seguinte.
+
+## 3. Discurso Indireto Livre
+
+O discurso indireto livre é uma fusão entre o discurso direto e o indireto. Nele, a fala ou o pensamento do personagem é inserido na narrativa sem a introdução de verbos dicendi ou conjunções, e sem a pontuação específica do discurso direto. A voz do narrador e a voz do personagem se misturam, tornando a fronteira entre elas sutil e, por vezes, ambígua.
+
+### Características Principais:
+
+*   **Ausência de Marcadores Explícitos:** Não há dois-pontos, aspas, travessões, nem conjunções como 'que' ou 'se'.
+*   **Mistura de Vozes:** A fala do personagem é apresentada com as características do discurso direto (entonação, interjeições, exclamações, perguntas), mas com a perspectiva do narrador (geralmente em terceira pessoa e com tempos verbais do pretérito imperfeito ou mais-que-perfeito).
+*   **Subjetividade:** Permite ao narrador penetrar na mente do personagem, revelando seus pensamentos e sentimentos de forma mais fluida e íntima, sem quebrar o fluxo da narrativa.
+*   **Ambiguidade:** Pode gerar uma certa ambiguidade sobre quem é o 'dono' da fala ou pensamento, se é o narrador ou o personagem. Isso é muitas vezes intencional para criar um efeito estilístico.
+*   **Contexto:** A identificação do discurso indireto livre depende muito do contexto e da percepção de uma mudança de 'tom' ou 'perspectiva' na narrativa.
+
+### Exemplos:
+
+*   A menina caminhava pela rua. Estava com fome. Onde estaria sua mãe? (A frase 'Onde estaria sua mãe?' é um pensamento da menina, mas inserido diretamente na narrativa do narrador, sem marcadores).
+*   Ele olhou para o céu. Choveria? Não podia ser. Precisava chegar em casa antes. (Os pensamentos 'Choveria?' e 'Não podia ser. Precisava chegar em casa antes' são do personagem, mas apresentados pelo narrador).
+*   Maria estava exausta. Tinha trabalhado o dia todo. Ah, se pudesse deitar e dormir por uma semana! (A exclamação é da personagem, mas integrada à narrativa).
+
+## 4. Comparativo e Dicas para Identificação
+
+| Característica        | Discurso Direto                               | Discurso Indireto                                    | Discurso Indireto Livre                               |
+| :-------------------- | :-------------------------------------------- | :--------------------------------------------------- | :---------------------------------------------------- |
+| **Reprodução**        | Literal da fala do personagem                 | Relato do narrador sobre a fala do personagem        | Fusão da fala do personagem com a voz do narrador     |
+| **Marcadores**        | Dois-pontos, aspas, travessão                 | Conjunções 'que' ou 'se'                             | Ausentes                                              |
+| **Verbos Dicendi**    | Presentes, introduzindo ou intercalando a fala | Presentes, introduzindo a oração subordinada         | Ausentes ou implícitos                                |
+| **Pronomes**          | 1ª e 2ª pessoa                                | 3ª pessoa                                            | 3ª pessoa (geralmente)                                |
+| **Tempos Verbais**    | Mantidos na forma original                    | Adaptados (regressão temporal)                       | Adaptados (geralmente pretérito imperfeito/mais-que-perfeito) |
+| **Advérbios**         | Mantidos na forma original                    | Adaptados à perspectiva do narrador                  | Adaptados à perspectiva do narrador                   |
+| **Pontuação**         | Exclamativa, interrogativa, reticências       | Integrada à frase do narrador                        | Exclamativa, interrogativa (sem marcadores explícitos) |
+| **Efeito**            | Fidelidade, vivacidade                        | Distanciamento, objetividade                         | Intimidade, subjetividade, fluidez                    |
+
+### Dicas para Provas:
+
+*   **Discurso Direto:** Procure por sinais de pontuação como aspas ou travessão, e verbos de dizer que introduzem a fala. A fala será sempre na 1ª ou 2ª pessoa.
+*   **Discurso Indireto:** Identifique as conjunções 'que' ou 'se' após um verbo de dizer. Observe as transformações de pronomes e tempos verbais para a 3ª pessoa e tempos do passado.
+*   **Discurso Indireto Livre:** É o mais desafiador. Preste atenção a mudanças sutis de tom ou perspectiva dentro de um parágrafo. A fala ou pensamento do personagem aparece 'misturada' com a narração, sem marcadores, mas mantendo características de fala (interrogações, exclamações) e geralmente em 3ª pessoa e tempos do passado. Se você puder inserir um 'ele pensou que...' ou 'ela perguntou se...' sem alterar o sentido, é um forte indício de discurso indireto livre.
+
+Compreender e saber identificar esses tipos de discurso enriquece a capacidade de análise textual e aprimora a escrita, permitindo ao leitor e ao escritor navegar pelas complexidades da comunicação e da narrativa de forma mais eficaz. É uma ferramenta poderosa para expressar a voz dos personagens e aprofundar a imersão na história.

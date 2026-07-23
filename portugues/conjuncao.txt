@@ -1,0 +1,81 @@
+A conjunção é uma das dez classes de palavras da língua portuguesa, caracterizada por ser uma palavra invariável que tem a função de ligar duas orações ou dois termos de uma mesma oração que possuem a mesma função sintática. Sua importância reside na capacidade de estabelecer relações de sentido entre as partes do discurso, conferindo coesão e coerência ao texto. Compreender as conjunções é fundamental para a interpretação textual e para a construção de frases gramaticalmente corretas e semanticamente claras, aspectos frequentemente cobrados em provas de concursos e vestibulares.
+
+## Classificação das Conjunções
+As conjunções são tradicionalmente divididas em dois grandes grupos: coordenativas e subordinativas, cada uma com suas subclasses e valores semânticos específicos.
+
+### 1. Conjunções Coordenativas
+As conjunções coordenativas ligam orações que são sintaticamente independentes entre si (orações coordenadas) ou termos que exercem a mesma função sintática dentro de uma oração. Elas não estabelecem uma relação de dependência, mas sim de coordenação.
+
+#### Tipos de Conjunções Coordenativas:
+*   **Aditivas**: Expressam ideia de adição, soma, acréscimo. As principais são 'e', 'nem', 'mas também', 'como também', 'bem como', 'não só... mas também'.
+    *   Exemplo: 'Ele estuda *e* trabalha.'
+    *   Exemplo: 'Não só canta *mas também* dança muito bem.'
+*   **Adversativas**: Expressam ideia de oposição, contraste, ressalva. As principais são 'mas', 'porém', 'todavia', 'contudo', 'entretanto', 'no entanto'.
+    *   Exemplo: 'Queria ir à festa, *mas* estava doente.'
+    *   Exemplo: 'Estudou muito, *entretanto* não passou.'
+*   **Alternativas**: Expressam ideia de alternância, escolha, exclusão. As principais são 'ou', 'ou... ou', 'ora... ora', 'já... já', 'quer... quer', 'seja... seja'.
+    *   Exemplo: '*Ou* você estuda, *ou* você trabalha.'
+    *   Exemplo: '*Ora* chora, *ora* ri sem motivo.'
+*   **Conclusivas**: Expressam ideia de conclusão, consequência. As principais são 'logo', 'portanto', 'por isso', 'por conseguinte', 'assim'.
+    *   Exemplo: 'Estudou muito, *logo* passou no concurso.'
+    *   Exemplo: 'Não se preparou, *por isso* teve dificuldades.'
+*   **Explicativas**: Expressam ideia de explicação, justificativa. As principais são 'que', 'porque', 'pois' (antes do verbo), 'porquanto'.
+    *   Exemplo: 'Venha logo, *porque* preciso de você.'
+    *   Exemplo: 'Não demore, *que* o tempo urge.'
+    *   **Atenção**: O 'pois' explicativo vem antes do verbo da oração que ele introduz. Ex: 'Não saia, *pois* vai chover.'
+
+### 2. Conjunções Subordinativas
+As conjunções subordinativas ligam uma oração dependente (subordinada) a uma oração principal, estabelecendo uma relação de subordinação. A oração subordinada completa ou modifica o sentido da oração principal.
+
+#### Tipos de Conjunções Subordinativas:
+*   **Causais**: Introduzem uma oração que indica a causa ou o motivo do que se declara na oração principal. As principais são 'porque', 'pois' (depois do verbo), 'como' (no início da frase, com sentido de 'já que'), 'já que', 'visto que', 'uma vez que', 'porquanto'.
+    *   Exemplo: '*Como* chovia muito, ficamos em casa.'
+    *   Exemplo: 'Ele não veio *porque* estava doente.'
+    *   **Atenção**: O 'pois' causal vem depois do verbo da oração que ele introduz. Ex: 'Ele está cansado, não estudou *pois*.' (sentido de 'porque não estudou')
+*   **Comparativas**: Introduzem uma oração que estabelece uma comparação com a oração principal. As principais são 'como', 'tal qual', 'tanto quanto', 'mais... do que', 'menos... do que', 'assim como'.
+    *   Exemplo: 'Ele canta *como* um rouxinol.'
+    *   Exemplo: 'É mais inteligente *do que* parece.'
+*   **Concessivas**: Introduzem uma oração que expressa uma ideia contrária à da oração principal, mas que não impede a realização do fato. As principais são 'embora', 'ainda que', 'mesmo que', 'posto que', 'se bem que', 'conquanto'.
+    *   Exemplo: '*Embora* estivesse cansado, continuou a trabalhar.'
+    *   Exemplo: 'Ele saiu, *ainda que* estivesse chovendo.'
+*   **Condicionais**: Introduzem uma oração que expressa uma condição para que o fato da oração principal ocorra ou não. As principais são 'se', 'caso', 'contanto que', 'desde que', 'a menos que', 'exceto se'.
+    *   Exemplo: '*Se* você estudar, passará no exame.'
+    *   Exemplo: 'Iremos viajar, *contanto que* faça sol.'
+*   **Conformativas**: Introduzem uma oração que expressa conformidade, acordo com o que se declara na oração principal. As principais são 'conforme', 'consoante', 'segundo', 'como' (com sentido de 'conforme').
+    *   Exemplo: 'Fiz o trabalho *conforme* as instruções.'
+    *   Exemplo: '*Segundo* o professor, a prova será fácil.'
+*   **Consecutivas**: Introduzem uma oração que expressa a consequência ou o resultado do que se declara na oração principal. Geralmente vêm precedidas de advérbios de intensidade ('tão', 'tanto', 'tamanho', 'tal'). As principais são 'tão... que', 'tanto... que', 'tamanho... que', 'de modo que', 'de sorte que'.
+    *   Exemplo: 'Ele gritou *tanto que* ficou rouco.'
+    *   Exemplo: 'Estava *tão* frio *que* nevou.'
+*   **Finais**: Introduzem uma oração que expressa a finalidade ou o objetivo do que se declara na oração principal. As principais são 'para que', 'a fim de que', 'que' (com sentido de 'para que').
+    *   Exemplo: 'Estudou muito *para que* pudesse passar.'
+    *   Exemplo: 'Aproxime-se, *que* eu o veja melhor.'
+*   **Proporcionais**: Introduzem uma oração que expressa um fato que ocorre simultaneamente ou em proporção ao fato da oração principal. As principais são 'à medida que', 'à proporção que', 'ao passo que', 'quanto mais... mais', 'quanto menos... menos'.
+    *   Exemplo: '*À medida que* o tempo passa, ficamos mais velhos.'
+    *   Exemplo: '*Quanto mais* estuda, *mais* aprende.'
+*   **Temporais**: Introduzem uma oração que indica o tempo em que ocorre o fato da oração principal. As principais são 'quando', 'enquanto', 'logo que', 'assim que', 'desde que', 'antes que', 'depois que', 'mal'.
+    *   Exemplo: '*Quando* ele chegou, todos aplaudiram.'
+    *   Exemplo: 'Não saia *antes que* eu volte.'
+
+### 3. Conjunções Subordinativas Integrantes
+As conjunções integrantes ('que' e 'se') introduzem orações subordinadas substantivas, que funcionam como substantivos (sujeito, objeto direto, objeto indireto, complemento nominal, predicativo, aposto) em relação à oração principal. Elas não expressam uma circunstância, mas sim um termo essencial da oração.
+*   **'Que'**: Introduz orações subordinadas substantivas. Exemplo: 'Espero *que* você venha.' (oração subordinada substantiva objetiva direta)
+*   **'Se'**: Introduz orações subordinadas substantivas, geralmente com valor de dúvida ou incerteza. Exemplo: 'Não sei *se* ele virá.' (oração subordinada substantiva objetiva direta)
+
+## Casos Especiais e Armadilhas em Provas
+
+### O 'Que' e o 'Se' Polifuncionais
+É crucial saber que 'que' e 'se' não são apenas conjunções. Eles podem exercer diversas funções sintáticas, como pronome relativo, advérbio, partícula expletiva, etc. A identificação correta da função depende do contexto. Em provas, a confusão entre 'que' conjunção integrante e 'que' pronome relativo é comum. Lembre-se: o pronome relativo 'que' pode ser substituído por 'o qual', 'a qual', 'os quais', 'as quais' e introduz uma oração subordinada adjetiva.
+
+### Locuções Conjuntivas
+São duas ou mais palavras que, juntas, exercem a função de uma conjunção. Exemplos: 'ainda que', 'desde que', 'a fim de que', 'por mais que', 'visto que', 'contanto que', 'à medida que', 'ao passo que'.
+
+### Distinção entre 'Mas' e 'Mais'
+*   **'Mas'**: Conjunção coordenativa adversativa. Exemplo: 'Ele estudou, *mas* não passou.'
+*   **'Mais'**: Advérbio de intensidade ou pronome indefinido. Exemplo: 'Ele tem *mais* livros.'
+
+### O 'Pois' Explicativo e o 'Pois' Causal
+*   **'Pois' explicativo**: Conjunção coordenativa explicativa, vem antes do verbo da oração que introduz. Exemplo: 'Não saia, *pois* vai chover.'
+*   **'Pois' causal**: Conjunção subordinativa causal, vem depois do verbo da oração que introduz. Exemplo: 'Ele está cansado, não estudou *pois*.' (equivalente a 'porque não estudou')
+
+Dominar as conjunções e suas nuances é um passo essencial para a proficiência na língua portuguesa, permitindo a construção de textos mais ricos e a correta interpretação de diferentes tipos de relações semânticas.

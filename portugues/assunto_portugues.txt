@@ -1,0 +1,58 @@
+CATEGORIA: Reforço Escolar
+DISCIPLINA: Português Gramática
+BLOCO: FONÉTICA, ORTOGRAFIA E ACENTUAÇÃO
+Fonemas, Letras, Sílaba
+Divisão Silábica - Ditongo, Tritongo, Hiato
+Encontro Consonantal e Vocálico
+Acentuação Gráfica - Proparoxítonas, Paroxítonas, Oxítonas, Hiato, Ditongo Aberto
+Uso do Hífen
+Ortografia Geral
+Ortografia - S/Z, X/CH, G/J, Ç 
+Letras Maiúsculas e Minúsculas
+BLOCO: MORFOLOGIA
+Substantivo
+Artigo
+Adjetivo
+Numeral
+Pronome
+Verbo
+Advérbio
+Preposição
+Conjunção
+Interjeição
+Formação de Palavras
+BLOCO: SINTAXE
+Frase, Oração e Período
+Termos da Oração - Sujeito, Predicado, Objetos, Complementos, Adjuntos, Aposto, Vocativo
+Concordância Verbal
+Concordância Nominal
+Regência Verbal
+Regência Nominal
+Crase
+Colocação Pronominal
+Período Composto - Coordenação e Subordinação
+Conjunções e Conectivos
+Pontuação
+BLOCO: SEMÂNTICA E ESTILÍSTICA
+Denotação e Conotação
+Sinonímia, Antonímia, Homonímia, Paronímia
+Polissemia e Ambiguidade
+Figuras de Linguagem
+Vícios de Linguagem
+Parônimos e Homônimos que mais caem - Mau/Mal, Mas/Mais, Há/A, Onde/Aonde, Senão/Se não
+Termos que geram dúvida - Acerca de, A cerca de, Ao encontro de, De encontro a, Porque/Por que/Porquê/Por quê
+BLOCO: GRAMÁTICA DO TEXTO E DO DISCURSO
+Coesão Textual - Referência, Elipse, Substituição, Conjunção
+Coerência Textual - Progressão temática, Não-contradição
+Gêneros Textuais - Como a gramática muda numa bula, numa crônica, num tuíte
+Variação Linguística - Formal, Informal, Regional, Histórica
+BLOCO: TÓPICOS AVANÇADOS / LINGUÍSTICA
+Funções da Linguagem - Como a gramática serve a uma intenção
+Análise do Discurso - Pressuposto, Subentendido, Implícito
+Processos de Mudança Linguística - Por que a língua muda
+Gramática de Valência - Quantos "lugares" cada verbo tem
+BLOCO: DETALHES CIRÚRGICOS
+Orações Reduzidas - De Infinitivo, Gerúndio e Particípio
+Orações Intercaladas
+Discurso Direto, Indireto e Indireto Livre
+Processos de Coordenação e Subordinação Avançados

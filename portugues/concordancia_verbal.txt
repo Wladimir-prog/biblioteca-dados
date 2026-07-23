@@ -1,0 +1,167 @@
+# Concordância Verbal: Regras Essenciais e Casos Especiais
+
+A concordância verbal é um dos pilares da norma-padrão da língua portuguesa, garantindo a harmonia entre o verbo e seu sujeito. Ela estabelece que o verbo deve flexionar-se em número (singular ou plural) e pessoa (1ª, 2ª ou 3ª) para concordar com o núcleo do sujeito. Dominar suas regras é crucial para a clareza e correção textual, sendo um tópico recorrente em provas e concursos.
+
+## 1. Regra Geral: O Verbo Concorda com o Sujeito
+
+A premissa básica é simples: identifique o sujeito e seu núcleo, e o verbo se ajustará a ele.
+
+*   **Sujeito Simples:** O verbo concorda com o núcleo do sujeito em número e pessoa.
+    *   'O aluno estudou muito.' (aluno - 3ª pessoa do singular)
+    *   'Os alunos estudaram muito.' (alunos - 3ª pessoa do plural)
+    *   'Eu estudo.' (eu - 1ª pessoa do singular)
+
+## 2. Sujeito Composto
+
+### 2.1. Sujeito Composto Anteposto ao Verbo
+
+Quando o sujeito composto aparece antes do verbo, este obrigatoriamente vai para o plural.
+
+*   'O pai e o filho viajaram.'
+*   'A caneta e o lápis sumiram.'
+
+### 2.2. Sujeito Composto Pós-posto ao Verbo
+
+Se o sujeito composto vier depois do verbo, há duas possibilidades:
+
+*   O verbo vai para o plural (opção mais comum e segura).
+    *   'Viajaram o pai e o filho.'
+*   O verbo concorda com o núcleo do sujeito mais próximo.
+    *   'Viajou o pai e o filho.' (Concorda com 'pai')
+    *   'Sumiram a caneta e o lápis.' ou 'Sumiu a caneta e o lápis.' (Concorda com 'caneta')
+
+### 2.3. Sujeitos Ligados por 'Ou'
+
+*   **Ideia de exclusão ou retificação:** Verbo no singular.
+    *   'Pedro ou João será o presidente.' (Apenas um deles)
+    *   'O amor ou a paixão não é a mesma coisa.' (Retificação)
+*   **Ideia de adição ou equivalência:** Verbo no plural.
+    *   'A alegria ou a tristeza fazem parte da vida.'
+
+### 2.4. Sujeitos Ligados por 'Nem'
+
+O verbo vai para o plural.
+
+*   'Nem o pai nem o filho vieram à festa.'
+
+### 2.5. Sujeitos Ligados por 'Com'
+
+*   **'Com' como preposição (adjunto adnominal):** O verbo concorda apenas com o primeiro elemento.
+    *   'O presidente com seus ministros viajou.'
+*   **'Com' indicando reciprocidade ou soma:** O verbo vai para o plural.
+    *   'O professor com os alunos discutiram o tema.'
+
+### 2.6. Sujeitos em Gradação
+
+Quando os núcleos do sujeito formam uma gradação (crescente ou decrescente), o verbo pode concordar com o último elemento ou ir para o plural.
+
+*   'Um grito, um gemido, um lamento ecoava/ecoavam na noite.'
+
+## 3. Casos Especiais de Concordância
+
+### 3.1. Verbos Impessoais
+
+Verbos que não possuem sujeito e são conjugados sempre na 3ª pessoa do singular.
+
+*   **Verbo 'haver' no sentido de 'existir', 'acontecer', 'ocorrer' ou 'fazer' (tempo decorrido):**
+    *   'Havia muitos problemas.' (e não 'Haviam')
+    *   'Faz dois anos que não o vejo.' (e não 'Fazem')
+    *   'Houve muitos acidentes.'
+*   **Verbos que indicam fenômenos da natureza:** (chover, nevar, ventar, trovejar, etc.), quando usados em sentido próprio.
+    *   'Choveu muito ontem.'
+    *   'Nevou na serra.'
+    *   *Exceção:* Em sentido figurado, concordam com o sujeito: 'Choveram aplausos.'
+
+### 3.2. Partícula 'Se'
+
+*   **'Se' como Partícula Apassivadora (PA):** O 'se' acompanha verbos transitivos diretos e o verbo concorda com o sujeito paciente.
+    *   'Alugam-se casas.' (Casas são alugadas)
+    *   'Vendem-se carros.' (Carros são vendidos)
+*   **'Se' como Índice de Indeterminação do Sujeito (IIS):** O 'se' acompanha verbos transitivos indiretos, intransitivos ou de ligação, e o verbo permanece na 3ª pessoa do singular.
+    *   'Precisa-se de funcionários.' (Verbo transitivo indireto)
+    *   'Vive-se bem aqui.' (Verbo intransitivo)
+    *   'Era-se feliz naquela época.' (Verbo de ligação)
+
+### 3.3. Expressões Partitivas e Coletivos
+
+*   **Expressões partitivas ('a maioria de', 'a maior parte de', 'grande parte de', 'metade de', 'um terço de', 'o resto de', 'cerca de', 'perto de'):** O verbo pode concordar com o partitivo (singular) ou com o especificador (plural).
+    *   'A maioria dos alunos faltou.' ou 'A maioria dos alunos faltaram.'
+    *   'Cerca de dez pessoas compareceram.'
+*   **Coletivos:** O verbo fica no singular, a menos que o coletivo esteja especificado no plural.
+    *   'A multidão aplaudiu.'
+    *   'Um bando de pássaros voava.'
+    *   'Um bando de pássaros voavam.' (Concorda com 'pássaros')
+
+### 3.4. Pronomes Relativos 'Que' e 'Quem'
+
+*   **Pronome 'que':** O verbo concorda com o antecedente do 'que'.
+    *   'Fui eu que fiz o trabalho.' (Eu fiz)
+    *   'Fomos nós que fizemos o trabalho.' (Nós fizemos)
+*   **Pronome 'quem':** O verbo pode concordar com o antecedente do 'quem' ou ficar na 3ª pessoa do singular.
+    *   'Fui eu quem fez o trabalho.' ou 'Fui eu quem fiz o trabalho.'
+
+### 3.5. Expressão 'Um dos que'
+
+O verbo geralmente vai para o plural, indicando que há mais de um entre os que praticam a ação.
+
+*   'Ele foi um dos alunos que mais se destacaram.'
+*   *Exceção:* Se houver a intenção de destacar apenas um, o singular é possível: 'Ele foi um dos que *se destacou*.' (menos comum)
+
+### 3.6. Nomes Próprios no Plural
+
+*   **Sem artigo:** O verbo fica no singular.
+    *   'Minas Gerais possui belas paisagens.'
+*   **Com artigo:** O verbo concorda com o artigo, indo para o plural.
+    *   'Os Estados Unidos são uma potência.'
+    *   'As Olimpíadas acontecem a cada quatro anos.'
+
+### 3.7. Porcentagens e Frações
+
+*   **Com número antes da porcentagem/fração:** O verbo concorda com o número.
+    *   '20% dos alunos foram aprovados.'
+    *   'Um terço da turma faltou.'
+*   **Sem número antes da porcentagem/fração (com artigo):** O verbo concorda com o núcleo do termo especificado.
+    *   'A maioria dos eleitores votou.'
+*   **Com 'o' ou 'a' antes da porcentagem/fração:** O verbo concorda com o número.
+    *   'Os 50% da população apoiam a medida.'
+
+### 3.8. Verbos 'Dar', 'Bater', 'Soar' Indicando Horas
+
+O verbo concorda com o numeral que indica as horas.
+
+*   'Deu uma hora no relógio.'
+*   'Bateram duas horas.'
+*   'Soaram cinco badaladas.'
+
+### 3.9. Sujeito Oracional
+
+Quando o sujeito é uma oração subordinada substantiva subjetiva, o verbo principal fica na 3ª pessoa do singular.
+
+*   'É necessário que todos participem.'
+*   'Convém que você estude.'
+
+### 3.10. Expressões 'Mais de um', 'Menos de dois', 'Cerca de', 'Perto de'
+
+*   **'Mais de um':** Verbo no singular.
+    *   'Mais de um aluno faltou.'
+    *   *Exceção:* Se houver ideia de reciprocidade ou repetição, o verbo vai para o plural: 'Mais de um colega se abraçaram.'
+*   **'Menos de dois', 'Cerca de', 'Perto de':** O verbo concorda com o numeral.
+    *   'Menos de dois candidatos se inscreveram.'
+    *   'Cerca de cem pessoas estavam presentes.'
+
+### 3.11. Pronomes de Tratamento
+
+O verbo concorda sempre na 3ª pessoa (singular ou plural), mesmo que se refira à 2ª pessoa.
+
+*   'Vossa Excelência *decidiu*.'
+*   'Vossas Senhorias *chegaram*.'
+
+### 3.12. Sujeito 'A Gente'
+
+Embora 'a gente' se refira a 'nós', o verbo concorda na 3ª pessoa do singular.
+
+*   'A gente *vai* ao cinema.'
+
+## Conclusão
+
+A concordância verbal é um campo vasto e cheio de nuances. A prática constante e a atenção aos detalhes são fundamentais para internalizar as regras e aplicá-las corretamente. Lembre-se de que a identificação precisa do sujeito é o primeiro passo para uma concordância impecável, especialmente em contextos de prova onde as pegadinhas são comuns.
