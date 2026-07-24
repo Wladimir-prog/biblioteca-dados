@@ -108,4 +108,14 @@ Ex.: 'ch' em 'chave'.
 Ex.: 'ss' em 'passo'.
 Ex.: 'nh' em 'minha'.
 
+4.4 DÍGRAFOS VOCÁLICOS
+
+- Os dígrafos vocálicos (vogais com M ou N) que geram som nasal único
+- Tamb(ém) ocorre com "em" final de linguagem soa como o ditongo nasal /ẽj/.
+
+Ex.: Lin-gua-gem (Átona/Tônica): O IN é som nasal único (/ĩ/), e o EM final soa como ditongo nasal (/ẽj/).
+Ex.: Cam-po / Can-to (Tônicas): O AM e o AN tônicos funcionam como dígrafos vocálicos (/ã/).
+Ex.: Tem-po / Ten-to (Tônicas): O EM e o EN tônicos produzem um único fonema vocálico nasal (/ẽ/).
+Ex.: Bom-ba / Bon-de (Tônicas): O OM e o ON tônicos representam graficamente apenas a vogal nasalizada (/õ/).
+
 - FIM DO CONTEÚDO.
