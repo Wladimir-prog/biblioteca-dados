@@ -1,0 +1,90 @@
+A relação entre a escrita e os sons das palavras na língua portuguesa possui regras específicas. Abaixo estão todos os principais pontos abordados na aula:
+
+DIFERENÇA ENTRE LETRAS E FONEMAS
+
+- A letra é a representação gráfica, aquilo que escrevemos.
+- O fonema é o som que produzimos ao falar.
+- Na maioria das palavras, letras e fonemas são iguais em quantidade.
+
+Ex.: ABACAXI (7 letras, 7 fonemas)
+Ex.: CASA (4 letras, 4 fonemas)
+Ex.: MESA (4 letras, 4 fonemas)
+
+- Exceções ocorrem com dígrafos, dífonos ou letras etimológicas.
+
+DÍGRAFOS (OU DIGRAMAS)
+
+- Duas letras representam um único som (fonema).
+- Contar um fonema a menos quando há dígrafo.
+
+1. DÍGRAFOS CONSONANTAIS
+
+- CH, LH, NH: Inseparáveis na divisão silábica.
+Ex.: CHICOTE (7 letras, 6 fonemas)
+Ex.: PALHA (5 letras, 4 fonemas)
+Ex.: SONHO (5 letras, 4 fonemas)
+
+- SC, SÇ, XC, XS, RR, SS: Separaveis na divisão silábica.
+Ex.: NASCER (6 letras, 5 fonemas)
+Ex.: CARRO (5 letras, 4 fonemas)
+Ex.: EXCELENTE (9 letras, 7 fonemas)
+
+2. REGRA DE QU E GU
+
+- Formam dígrafo se o "U" NÃO for pronunciado.
+Ex.: QUEIJO (6 letras, 5 fonemas)
+Ex.: GUERRA (6 letras, 5 fonemas)
+Ex.: QUILO (5 letras, 4 fonemas)
+
+- NÃO formam dígrafo se o "U" for lido.
+Ex.: ÁGUA (4 letras, 4 fonemas)
+Ex.: QUASE (5 letras, 5 fonemas)
+Ex.: LÍNGUA (6 letras, 6 fonemas)
+
+3. DÍGRAFOS VOCÁLICOS (NASAIS)
+
+- Vogais seguidas de M ou N na mesma sílaba.
+Ex.: CAMPO (5 letras, 4 fonemas)
+Ex.: ANTA (4 letras, 3 fonemas)
+Ex.: TEMPO (5 letras, 4 fonemas)
+
+4. EXCEÇÃO NO FINAL DAS PALAVRAS
+
+- "AM" ou "EM" no final de palavras são ditongos nasais.
+Ex.: PARABÉNS (8 letras, 7 fonemas)
+Ex.: BEM (3 letras, 2 fonemas)
+Ex.: FALAM (5 letras, 4 fonemas)
+
+DÍFONOS
+
+- Uma única letra representa dois fonemas (sons).
+- Ocorre com a letra X com som de "KS".
+
+Ex.: SEXO (4 letras, 5 fonemas)
+Ex.: TÁXI (4 letras, 5 fonemas)
+Ex.: TÓXICO (6 letras, 7 fonemas)
+
+A LETRA ETIMOLÓGICA (H)
+
+- O "H" inicial não possui som.
+- É descartado na contagem de fonemas.
+
+Ex.: HERDAR (6 letras, 5 fonemas)
+Ex.: HOJE (4 letras, 3 fonemas)
+Ex.: HORA (4 letras, 3 fonemas)
+
+DICAS ADICIONAIS PARA PROVAS
+
+1. SONS DAS CONSOANTES
+
+- A letra S com som de Z entre vogais.
+Ex.: DEFESA (6 letras, 6 fonemas)
+Ex.: PRESENÇA (8 letras, 7 fonemas)
+Ex.: CASA (4 letras, 4 fonemas)
+
+2. FAMÍLIA DE PALAVRAS
+
+- Compartilham a mesma origem e o mesmo radical.
+Ex.: ESCREVER (8 letras, 7 fonemas)
+Ex.: ESCRIVÃO (8 letras, 7 fonemas)
+Ex.: ESCRITA (7 letras, 6 fonemas)
