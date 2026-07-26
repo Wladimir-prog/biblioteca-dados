@@ -1,7 +1,3 @@
-DISCIPLINA: Português Gramática
-BLOCO: FONÉTICA, ORTOGRAFIA E ACENTUAÇÃO
-TEMA: Encontros vocálicos e consonantais 
-
 1. ENCONTROS CONSONANTAIS
 
 - Trata-se do encontro de duas ou mais consoantes na mesma palavra.
