@@ -1,0 +1,137 @@
+Nesta segunda aula, o foco principal são os encontros consonantais e os encontros vocálicos, além de dicas para diferenciar vogais de semivogais. Abaixo estão todos os pontos detalhados abordados no vídeo:
+
+1. ENCONTROS CONSONANTAIS
+
+- Trata-se do encontro de duas ou mais consoantes na mesma palavra.
+- Eles são classificados de duas formas na hora da divisão silábica:
+
+A) PERFEITOS OU PUROS
+
+- As consoantes ficam juntas na mesma sílaba.
+Ex.: braço (bra-ço)
+Ex.: flauta (flau-ta)
+Ex.: praga (pra-ga)
+
+B) IMPERFEITOS OU DISJUNTOS
+
+- As consoantes se separam em sílabas diferentes.
+Ex.: advogado(ad-vo-ga-do)
+Ex.: ritmo (rit-mo)
+Ex.: pacto (pac-to)
+
+2. REVISÃO ENCONTROS CONSONANTAIS VS DÍGRAFOS
+
+- O vídeo retoma conceitos da aula anterior para evitar confusões comuns em provas:
+
+a) A palavra quando não possui dígrafo, pois a letra "U" é pronunciada (formando um ditongo).
+Ex.: quando (quan-do)
+Ex.: aquarela (a-qua-re-la)
+Ex.: linguiça (lin-gui-ça)
+
+b) Já em queijo, o "QU" é um dígrafo consonantal, pois o "U" não tem som.
+Ex.: queijo (quei-jo)
+Ex.: guerra (guer-ra)
+Ex.: guitarra (gui-tar-ra)
+
+c) A palavra trabalho apresenta ambos: um encontro consonantal perfeito ("TR") e um dígrafo consonantal ("LH").
+Ex.: trabalho (tra-ba-lho)
+Ex.: trilho (tri-lho)
+Ex.: chocalho (cho-ca-lho)
+
+d) Palavras terminadas em "em", como imagem ou bem, não formam encontros consonantais no final, mas sim ditongos fonéticos, pois o "M" assume som de semivogal (como se fosse um "I" ou "U").
+Ex.: imagem
+Ex.: bem
+Ex.: nuvem
+
+3. VOGAIS VS SEMIVOGAIS
+
+- Para entender os encontros vocálicos, é essencial distinguir a vogal da semivogal.
+
+A) VOGAL
+
+- A vogal é sempre o som mais forte e a base da sílaba.
+- A letra "A" será sempre uma vogal por ser naturalmente forte.
+Ex.: casa
+Ex.: bola
+Ex.: mesa
+
+B) SEMIVOGAL
+
+- A semivogal é o som mais fraco que acompanha a vogal.
+Ex.: pai
+Ex.: mau
+Ex.: série
+
+C) DICA PRÁTICA
+
+- Para descobrir qual é qual, tente pronunciar a palavra "tirando" uma das letras.
+- Se você retirar a vogal (a forte), a palavra perde totalmente o sentido.
+Ex.: leite (tirar o "e" vira "lite")
+Ex.: série (tirar o "e" vira "srie")
+Ex.: água (tirar o "a" vira "gua")
+
+- Se você retirar a semivogal (a fraca), a palavra ainda soa compreensível.
+Ex.: leite (tirar o "i" soa como "lete")
+Ex.: série (tirar o "i" soa como "sere")
+Ex.: água (tirar o "u" soa como "aga")
+
+- Isso prova qual letra carrega a força fonética.
+
+4. DITONGOS
+
+- É o encontro de uma vogal e uma semivogal na mesma sílaba.
+- Eles se dividem em:
+
+A) CRESCENTES
+
+- Começam com a semivogal (fraca) e crescem para a vogal (forte).
+Ex.: água
+Ex.: história
+Ex.: série
+
+B) DECRESCENTES
+
+- Começam com a vogal (forte) e decrescem para a semivogal (fraca).
+Ex.: saudade
+Ex.: bem
+Ex.: leite
+
+5. TRITONGOS
+
+- É o encontro de duas semivogais acompanhando uma vogal central (semivogal + vogal + semivogal), todas na mesma sílaba.
+Ex.: Uruguai
+Ex.: enxaguei
+Ex.: Paraguai
+
+- Alguns autores também consideram palavras terminadas com sons nasais como tritongos fonéticos, quando a consoante final atua como semivogal.
+Ex.: saguão
+Ex.: quão
+Ex.: averiguei
+
+6. HIATOS
+
+- Ocorre quando duas vogais (duas letras fortes) se encontram na palavra, mas precisam ser separadas em sílabas diferentes, pois não podem coexistir na mesma sílaba.
+- Se você tentar remover qualquer uma das vogais de um hiato, a palavra perde o sentido ou se transforma em outra, provando que ambas são fortes.
+Ex.: saúde (sa-ú-de)
+Ex.: ruim (ru-im)
+Ex.: juiz (ju-iz)
+
+- Letras repetidas, como em veem, também formam hiatos.
+Ex.: veem (ve-em)
+Ex.: creem (cre-em)
+Ex.: leem (le-em)
+
+7. A REGRA DE ACENTUAÇÃO DOS HIATOS
+
+- O vídeo introduz uma regra fundamental de acentuação.
+- Toda vez que a letra "I" ou "U" for a segunda vogal de um hiato, e estiver sozinha na sílaba (ou seguida apenas de "S"), ela receberá acento agudo.
+Ex.: pais (ditongo decrescente, sem acento)
+Ex.: país (pa-ís, com acento no "I")
+Ex.: ai (ditongo, exclamação de dor)
+
+- O mesmo ocorre na diferença entre ai (ditongo, exclamação de dor) e aí (hiato, indicando lugar, com a-í).
+Ex.: aí (a-í, indicando lugar)
+Ex.: saída (sa-í-da)
+Ex.: balaústre (ba-la-ús-tre)
+
+- O acento não transforma a letra em vogal; ela recebe o acento justamente por já ser a vogal tônica do hiato.
