@@ -1,0 +1,93 @@
+A RELACAO ENTRE LETRAS E FONEMAS
+
+- A língua portuguesa possui regras específicas para a relação entre a escrita e os sons das palavras.
+- Compreender essa relação é fundamental para a correta contagem de fonemas e letras.
+
+1. DIFERENCA ENTRE LETRAS E FONEMAS
+
+- A letra é a representação gráfica, aquilo que escrevemos.
+- O fonema é o som que produzimos ao falar.
+- Na maioria das palavras, a quantidade de letras e fonemas é igual.
+Ex.: abacaxi
+Ex.: casa
+Ex.: bola
+
+- Há exceções quando ocorrem dígrafos, dífonos ou letras etimológicas.
+
+2. DIGRAFOS (OU DIGRAMAS)
+
+- Um dígrafo ocorre quando duas letras representam um único som (fonema).
+- Ao identificar um dígrafo, conte um fonema a menos na palavra.
+
+2.1. DIGRAFOS CONSONANTAIS
+
+- Duas letras que representam um único som consonantal.
+- Podem ser inseparáveis ou separáveis na divisão silábica.
+
+a) Inseparáveis
+- CH, LH, NH.
+Ex.: chicote (6 letras, 5 fonemas)
+Ex.: telha (5 letras, 4 fonemas)
+Ex.: ninho (5 letras, 4 fonemas)
+
+b) Separáveis
+- SC, SÇ, XC, XS, RR, SS.
+Ex.: nascer (6 letras, 5 fonemas)
+Ex.: carro (5 letras, 4 fonemas)
+Ex.: exceção (7 letras, 5 fonemas)
+
+2.2. REGRA DE QU E GU
+
+- Só formam dígrafo se o "U" não for pronunciado.
+Ex.: queijo (6 letras, 5 fonemas)
+Ex.: guerra (6 letras, 4 fonemas)
+Ex.: aquilo (6 letras, 5 fonemas)
+
+- Se o "U" for lido, não há dígrafo.
+Ex.: água (4 letras, 4 fonemas)
+Ex.: quase (5 letras, 5 fonemas)
+Ex.: linguiça (8 letras, 7 fonemas)
+
+2.3. DIGRAFOS VOCALICOS (NASAIS)
+
+- Vogais seguidas de M ou N na mesma sílaba, indicando som nasal.
+Ex.: campo (5 letras, 4 fonemas)
+Ex.: anta (4 letras, 3 fonemas)
+Ex.: tempo (5 letras, 4 fonemas)
+
+- Exceção no final das palavras: "AM" ou "EM" no final de palavras são considerados ditongos nasais.
+Ex.: parabéns (8 letras, 7 fonemas)
+Ex.: bem (3 letras, 2 fonemas)
+Ex.: falam (5 letras, 4 fonemas)
+
+3. DIFONOS
+
+- Fenômeno em que uma única letra representa dois fonemas (sons).
+- Ocorre com a letra X quando tem som de "KS".
+Ex.: sexo (4 letras, 5 fonemas)
+Ex.: táxi (4 letras, 5 fonemas)
+Ex.: tóxico (6 letras, 7 fonemas)
+
+4. A LETRA ETIMOLOGICA (H)
+
+- O "H" inicial não possui som.
+- Na contagem de fonemas, ele é descartado.
+Ex.: herdar (6 letras, 5 fonemas)
+Ex.: hoje (4 letras, 3 fonemas)
+Ex.: homem (5 letras, 4 fonemas)
+
+5. DICAS ADICIONAIS PARA PROVAS
+
+5.1. SONS DAS CONSOANTES
+
+- A letra S pode ter som de Z entre vogais.
+Ex.: defesa (6 letras, 6 fonemas)
+Ex.: presença (8 letras, 8 fonemas)
+Ex.: casa (4 letras, 4 fonemas)
+
+5.2. FAMILIA DE PALAVRAS
+
+- Palavras que compartilham a mesma origem e o mesmo radical.
+Ex.: escrever e escrivão
+Ex.: pedra e pedreiro
+Ex.: flor e floricultura
