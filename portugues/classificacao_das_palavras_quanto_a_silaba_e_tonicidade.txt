@@ -1,0 +1,103 @@
+A REGRA DA SEPARACAO SILABICA
+
+- Uma vogal por sílaba: Cada sílaba da língua portuguesa possui obrigatoriamente apenas uma vogal. Não existe sílaba sem vogal, nem sílaba com mais de uma vogal.
+
+- Vogal vs. Semivogal: Quando dois sons vocálicos se encontram na mesma sílaba, o som forte é a vogal e o fraco é a semivogal. A semivogal nunca fica sozinha, ela precisa estar acompanhada de uma vogal.
+Ex.: Em "meu", "e" é vogal, "u" é semivogal.
+Ex.: Em "pais", "a" é vogal, "i" é semivogal.
+Ex.: Em "vou", "o" é vogal, "u" é semivogal.
+
+- Hiato (Separação de Vogais): Se duas vogais (dois sons fortes) aparecerem na palavra, elas são separadas em sílabas diferentes para respeitar a regra de "uma vogal por sílaba".
+Ex.: a-té
+Ex.: e-le
+Ex.: u-ma
+
+
+CLASSIFICACAO QUANTO AO NUMERO DE SILABAS
+
+- Monossílaba: Possui apenas 1 sílaba (e, portanto, apenas 1 vogal).
+Ex.: bem
+Ex.: pé
+Ex.: meu
+
+- Dissílaba: Possui 2 sílabas.
+Ex.: u-ma
+Ex.: car-ro
+Ex.: a-té
+
+- Trissílaba: Possui 3 sílabas.
+Ex.: te-cla-do
+Ex.: te-lha-do
+Ex.: mo-men-to
+
+- Polissílaba: Possui 4 ou mais sílabas.
+Ex.: te-le-vi-são
+Ex.: ca-sa-men-to
+Ex.: gra-ve-men-te
+
+
+SILABA TONICA VS. SILABA ATONA
+
+- Sílaba Tônica: É a sílaba pronunciada com mais força. Cada palavra possui apenas uma única sílaba tônica.
+
+- Sílaba Átona: São as demais sílabas da palavra, que são pronunciadas de forma mais fraca.
+
+- Como descobrir a sílaba tônica: Coloque "tonicidade" em cada sílaba, como se estivesse chamando a palavra na rua, e veja qual faz sentido.
+Ex.: te-le-vi-SÃO
+Ex.: PÓ-bre
+Ex.: PRE-ço
+
+- Dica visual do acento: Se a sílaba possuir um acento agudo ou circunflexo, ela será obrigatoriamente a sílaba tônica.
+Ex.: ca-FÉ
+Ex.: ma-ra-cu-JÁ
+Ex.: DÚ-vi-da
+
+- Nota sobre o til (~): O til não é tecnicamente um acento, mas ele dá uma força muito grande à palavra, geralmente indicando a sílaba tônica.
+Ex.: ex-tin-ÇÃO
+Ex.: mãos
+Ex.: irmã
+
+
+CLASSIFICACAO QUANTO A POSICAO DA SILABA TONICA
+
+- Nas palavras da língua portuguesa, a sílaba tônica só pode ser uma das três últimas sílabas.
+
+- Oxítonas: A sílaba tônica é a última. A palavra precisa ter pelo menos duas sílabas.
+Ex.: ca-fé
+Ex.: ta-tu
+Ex.: ma-ra-cu-já
+
+- Paroxítonas: A sílaba tônica é a penúltima.
+Ex.: me-sa
+Ex.: ru-bri-ca
+Ex.: fá-cil
+
+- Proparoxítonas: A sílaba tônica é a antepenúltima (terceira de trás para frente).
+Ex.: dú-vi-da
+Ex.: fí-si-ca
+Ex.: a-ca-dê-mi-co
+
+- A Regra Absoluta: Todas as palavras proparoxítonas são acentuadas.
+Ex.: Á-fri-ca
+Ex.: A-tlân-ti-co
+Ex.: ú-ni-co
+
+
+O GRANDE PEGA-RATAO: PROPAROXITONAS EVENTUAIS (OU APARENTES)
+
+- Palavras como es-pé-cie, his-tó-ria e ci-ên-cia terminam em um ditongo crescente (semivogal + vogal).
+
+- A regra geral e mais aceita determina que esse ditongo não se separa. Portanto, elas são originalmente classificadas como paroxítonas.
+Ex.: es-pé-cie (paroxítona)
+Ex.: his-tó-ria (paroxítona)
+Ex.: ci-ên-cia (paroxítona)
+
+- Porém, alguns gramáticos defendem que é possível separar esse ditongo final, transformando-o em um hiato. Quando isso ocorre, a separação desloca a sílaba tônica para a antepenúltima posição. Nesse caso, elas recebem o nome de proparoxítonas eventuais ou aparentes.
+Ex.: es-pé-ci-e (proparoxítona eventual)
+Ex.: his-tó-ri-a (proparoxítona eventual)
+Ex.: ci-ên-ci-a (proparoxítona eventual)
+
+- Como agir na hora da prova: Você deve considerar essas palavras como paroxítonas. Você só marcará que elas são "proparoxítonas eventuais/aparentes" se a banca explicitamente mencionar no enunciado ou na alternativa a possibilidade dessa dupla classificação ou separação.
+Ex.: A palavra "história" é paroxítona.
+Ex.: A palavra "espécie" é paroxítona.
+Ex.: A palavra "ciência" é paroxítona.
