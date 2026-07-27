@@ -1,4 +1,4 @@
-MEMENTO DE ESTUDO: ACENTUAÇÃO GRÁFICA
+ACENTUAÇÃO GRÁFICA
 
 CONCEITOS INICIAIS
 
@@ -6,18 +6,20 @@ CONCEITOS INICIAIS
 
 - O uso do "Til": O til não é um acento gráfico, mas sim um sinal utilizado apenas para nasalizar a vogal (como na palavra "pão").
 
-- Passo a passo da acentuação: Antes de acentuar, é necessário separar as sílabas e identificar onde está a sílaba tônica (a mais forte), para então classificar a palavra e aplicar a regra correspondente.
+- Antes de acentuar, é necessário separar as sílabas e identificar onde está a sílaba tônica (a mais forte), para então classificar a palavra e aplicar a regra correspondente.
 
 1. ACENTUAÇÃO DOS MONOSSÍLABOS TÔNICOS
 
 - São palavras compostas por apenas uma sílaba que são pronunciadas com força.
 
 - Regra principal: Acentuam-se os monossílabos tônicos terminados em A, E, O (seguidos ou não de "S").
+
 Ex.: pé
 Ex.: pá
 Ex.: mês
 
-- Regra dos ditongos abertos: Também são acentuados os monossílabos terminados nos ditongos abertos ÉI, ÓI, ÉU.
+- Os ditongos abertos: Também são acentuados os monossílabos terminados nos ditongos abertos ÉI, ÓI, ÉU.
+
 Ex.: céu
 Ex.: réis
 Ex.: dói
@@ -29,11 +31,13 @@ Ex.: dói
 - São palavras com mais de uma sílaba, cuja sílaba tônica (mais forte) é a última.
 
 - Regra principal: Acentuam-se as oxítonas terminadas em A, E, O, EM, ENS.
+
 Ex.: sofá
 Ex.: café
 Ex.: também
 
 - Regra dos ditongos abertos: Oxítonas terminadas nos ditongos abertos ÉI, ÓI, ÉU também recebem acento.
+
 Ex.: chapéu
 Ex.: herói
 Ex.: anéis
@@ -45,11 +49,13 @@ Ex.: anéis
 - São palavras cuja sílaba tônica é a penúltima.
 
 - Regra principal (Regra do "Oposto"): Acentuam-se todas as paroxítonas que NÃO terminam em A, E, O, EM, ENS. Em outras palavras, levam acento as paroxítonas terminadas em R, L, N, X, PS, ÃO, entre outras.
+
 Ex.: vírus
 Ex.: cadáver
 Ex.: fácil
 
 - Regra dos Ditongos: Acentuam-se as paroxítonas terminadas em ditongo (seguido ou não de "S").
+
 Ex.: história
 Ex.: imóveis
 Ex.: água
@@ -66,14 +72,21 @@ Ex.: boia
 - São palavras cuja sílaba tônica é a antepenúltima (a terceira de trás para frente).
 
 - Regra principal: A regra é direta e sem exceções de terminação: TODAS as proparoxítonas são acentuadas.
+
 Ex.: página
 Ex.: lâmpada
 Ex.: caótico
 
-- Proparoxítonas Eventuais (ou Aparentes/Acidentais): Algumas palavras que normalmente são classificadas como paroxítonas terminadas em ditongo crescente (como his-tó-ria, ve-te-ri-ná-rio, ig-no-rân-cia) podem ter sua separação silábica interpretada de forma diferente por certos gramáticos (ex: his-tó-ri-a), transformando-se em proparoxítonas eventuais ou aparentes. As bancas de concurso podem cobrar essa dupla classificação.
+4.1 PROPAROXITONAS EVENTUAIS (ou Aparentes/Acidentais): 
+
+- Algumas palavras que normalmente são classificadas como paroxítonas terminadas em ditongo crescente (como his-tó-ria, ve-te-ri-ná-rio, ig-no-rân-cia) podem ter sua separação silábica interpretada de forma diferente por certos gramáticos (ex: his-tó-ri-a), transformando-se em proparoxítonas eventuais ou aparentes. 
 
 PARA FINALIZAR SEUS ESTUDOS SOBRE ACENTUAÇÃO GRÁFICA
 
-- Lembre-se de que o segredo para resolver as questões corretamente é seguir um método rigoroso: sempre verifique a quantidade de sílabas e identifique qual é a sílaba tônica antes de tentar aplicar o acento. Não confie apenas na sua memória visual para palavras comuns; aja como se nunca tivesse visto a palavra escrita e aplique a regra de terminação de forma puramente técnica.
+- Lembre-se de que o segredo para resolver as questões corretamente é seguir um método rigoroso: sempre verifique a quantidade de sílabas e identifique qual é a sílaba tônica antes de tentar aplicar o acento. 
 
-- Por fim, tenha muita atenção nas questões de prova que pedem palavras acentuadas pela "mesma regra", pois, para que isso ocorra, as palavras precisam obrigatoriamente pertencer à mesma classificação (ou seja, devem ser todas oxítonas, todas paroxítonas ou todas monossílabas). Consolidar esses passos por meio da resolução de questões é a estratégia ideal para dominar o assunto e não cair nas pegadinhas das bancas de concurso.
+- Não confie apenas na sua memória visual para palavras comuns; aja como se nunca tivesse visto a palavra escrita e aplique a regra de terminação de forma puramente técnica.
+
+- Por fim, tenha muita atenção nas questões de prova que pedem palavras acentuadas pela "mesma regra", pois, para que isso ocorra, as palavras precisam obrigatoriamente pertencer à mesma classificação (ou seja, devem ser todas oxítonas, todas paroxítonas ou todas monossílabas).
+
+- Consolidar esses passos por meio da resolução de questões é a estratégia ideal para dominar o assunto e não cair nas pegadinhas das bancas de concurso.
