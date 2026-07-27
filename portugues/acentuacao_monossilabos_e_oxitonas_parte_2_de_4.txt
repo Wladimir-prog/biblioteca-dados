@@ -1,12 +1,16 @@
 ACENTUAÇÃO DE MONOSSÍLABOS E OXÍTONAS
 
 MONOSSÍLABOS ÁTONOS X TÔNICOS
+
 - Para que um monossílabo (palavra de uma só sílaba) receba acento, ele precisa obrigatoriamente ser tônico.
+
 - Monossílabos tônicos são pronunciados com força.
+
 a) Exemplos de Átonos (fracos):
 Ex.: me (soa como "mi")
 Ex.: te (soa como "ti")
 Ex.: de (soa como "di")
+
 b) Exemplos de Tônicos (fortes):
 Ex.: mim
 Ex.: tu
@@ -16,10 +20,12 @@ Ex.: dê (ex: "Dê-me um like")
 
 REGRA GERAL
 - Acentuam-se os monossílabos tônicos terminados em A, E, O (seguidos ou não de "S").
+
 a) Exemplos com acento:
 Ex.: pá
 Ex.: pé
 Ex.: mês
+
 b) Exemplo sem acento:
 Ex.: tu (termina em U, não leva acento)
 Ex.: fiz (termina em Z, não leva acento)
@@ -27,18 +33,23 @@ Ex.: por (termina em R, não leva acento)
 
 REGRA DOS DITONGOS ABERTOS
 - Acentuam-se os monossílabos terminados nos ditongos abertos ÉI, ÓI, ÉU (seguidos ou não de "S").
+
 a) Exemplos com acento:
 Ex.: céu
 Ex.: réis
 Ex.: dói
+
 b) Cuidado:
 Ex.: meu (ditongo fechado "eu", não leva acento)
 Ex.: seu (ditongo fechado "eu", não leva acento)
 Ex.: boi (ditongo fechado "oi", não leva acento)
 
 APROFUNDAMENTO
+
 - Algumas bancas de alto nível consideram a regra da terminação em "A, E, O" e a regra dos "ditongos abertos" como duas regras distintas.
+
 - Ambas são aplicáveis especificamente aos monossílabos tônicos.
+
 - É importante conhecer essa distinção para provas mais complexas.
 
 3. REGRAS DE ACENTUAÇÃO DAS OXÍTONAS
@@ -46,22 +57,28 @@ APROFUNDAMENTO
 - As oxítonas são palavras com mais de uma sílaba em que a última sílaba é a mais forte (tônica).
 
 REGRA GERAL
+
 - Acentuam-se as oxítonas terminadas em A, E, O, EM, ENS (seguidas ou não de "S").
+
 a) Exemplos com acento:
 Ex.: cajá
 Ex.: café
 Ex.: também
+
 b) Exemplos sem acento:
 Ex.: tatu (termina em U, foge da regra)
 Ex.: abacaxi (termina em I, foge da regra)
 Ex.: caju (termina em U, foge da regra)
 
 REGRA DOS DITONGOS ABERTOS
+
 - Acentuam-se as oxítonas terminadas nos ditongos abertos ÉI, ÓI, ÉU.
+
 a) Exemplos com acento:
 Ex.: chapéu
 Ex.: herói
 Ex.: anéis
+
 b) Cuidado:
 Ex.: Bartolomeu (ditongo "eu" é fechado, não leva acento)
 Ex.: europeu (ditongo "eu" é fechado, não leva acento)
@@ -70,32 +87,47 @@ Ex.: museu (ditongo "eu" é fechado, não leva acento)
 4. CASOS ESPECIAIS, DICAS E PEGADINHAS DE PROVA
 
 A ARMADILHA DA "MESMA REGRA"
+
 - Para que duas palavras sejam acentuadas pela mesma regra, elas devem pertencer à mesma classificação ("da mesma laia").
+
 - Pegadinha clássica: "Café" e "fé" não são acentuadas pela mesma regra!
+
 - "Café" é oxítona terminada em "E", enquanto "fé" é monossílabo tônico terminado em "E".
+
 Ex.: Café (oxítona)
 Ex.: Fé (monossílabo)
 Ex.: Sofá (oxítona)
 
 VERBOS COM PRONOMES OBLÍQUOS
+
 - Quando a palavra vier acompanhada de pronomes (-lo, -la, -las, etc.), ignore o pronome na hora de classificar a sílaba.
+
 - Avalie apenas a forma verbal antes do pronome.
+
 Ex.: esquecê-las (avalia-se "esquecê")
 Ex.: fazê-lo (avalia-se "fazê")
 Ex.: vendê-los (avalia-se "vendê")
 
 VOVÔ X VOVÓ
+
 - Ambos são oxítonas terminadas em "O" e levam acento.
+
 - O acento circunflexo (vovô) e o agudo (vovó) servem apenas para marcar a pronúncia fechada ou aberta da vogal.
+
 - Não se trata de uma regra de "acento diferencial".
+
 Ex.: vovô (pronúncia fechada)
 Ex.: vovó (pronúncia aberta)
 Ex.: metrô (pronúncia fechada)
 
 O ACENTO NA PALAVRA "TÊM"
+
 - O verbo "ter" no plural ("elas têm") recebe acento circunflexo.
+
 - Essa não é a regra dos monossílabos (monossílabos terminados em "em" não levariam acento, como "bem").
+
 - Trata-se da regra específica do acento diferencial de plural.
+
 Ex.: Eles têm (plural)
 Ex.: Ele tem (singular)
 Ex.: Vêm (plural do verbo vir)
