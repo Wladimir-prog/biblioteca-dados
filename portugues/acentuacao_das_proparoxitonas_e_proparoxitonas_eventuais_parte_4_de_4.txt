@@ -1,0 +1,45 @@
+MEMENTO DE ESTUDO: PROPAROXÍTONAS E PROPAROXÍTONAS EVENTUAIS
+
+1. A REGRA DAS PROPAROXÍTONAS
+
+- A regra geral: É a regra mais simples e direta da acentuação gráfica: absolutamente todas as proparoxítonas são acentuadas.
+
+- Identificação: Para ser uma proparoxítona, a sílaba tônica (a mais forte) deve estar obrigatoriamente na antepenúltima posição da palavra (a terceira sílaba contada de trás para frente).
+
+- Terminação não importa: Diferente das monossílabas, oxítonas e paroxítonas, a regra das proparoxítonas não depende de letras finais. Não interessa com qual letra a palavra termina; se a tônica for a antepenúltima, leva acento.
+
+Ex.: PÁGINA
+Ex.: LÂMPADA
+Ex.: CAÓTICO
+
+2. PROPAROXÍTONAS EVENTUAIS (APARENTES OU ACIDENTAIS)
+
+- Este é um conceito avançado que frequentemente aparece em pegadinhas de concursos.
+
+- O que são: São palavras que, a rigor, são paroxítonas terminadas em ditongo crescente (encontro de uma semivogal e uma vogal no final da palavra, como em "ia", "io", "ie"), mas que alguns gramáticos admitem ser separadas de uma segunda forma.
+
+- A Dupla Classificação:
+
+a) Separação Padrão (Paroxítona): A separação normal mantém o ditongo junto na última sílaba. Nesta visão principal, a palavra recebe acento por ser uma paroxítona terminada em ditongo.
+
+Ex.: HISTÓRIA
+Ex.: VETERINÁRIO
+Ex.: IGNORÂNCIA
+
+b) Separação Alternativa (Proparoxítona Eventual): Alguns gramáticos defendem que o ditongo final pode ser separado, transformando-se em um hiato. Com isso, a palavra ganha uma sílaba a mais e a sílaba tônica recua para a antepenúltima posição. Sob essa visão, elas se transformam em proparoxítonas eventuais, aparentes ou acidentais.
+
+Ex.: HIS-TÓ-RI-A
+Ex.: VE-TE-RI-NÁ-RI-O
+Ex.: IG-NO-RÂN-CI-A
+
+3. ESTRATÉGIAS E PEGADINHAS DE PROVA
+
+- Qual regra adotar na prova? O padrão é considerar essas palavras sempre como paroxítonas terminadas em ditongo. Só adote a visão da proparoxítona eventual/aparente se a banca examinadora citar essa possibilidade no enunciado (ex: "alguns gramáticos a consideram com outra classificação" ou mencionar explicitamente os termos "eventual/aparente/acidental").
+
+- Eliminando alternativas: Se a questão pedir para você identificar uma proparoxítona eventual no meio de várias palavras, procure obrigatoriamente pelas opções que são paroxítonas terminadas em ditongo crescente.
+
+- Exemplos de eliminação: Se a alternativa trouxer "zoológico" ou "fenômeno", descarte-as para essa regra específica. Elas são proparoxítonas puras e reais, não terminam em ditongo, logo, não são "eventuais". Se a alternativa trouxer "indignação", também está incorreto, pois se trata de uma oxítona.
+
+Ex.: RELATÓRIO
+Ex.: PRÓPRIO
+Ex.: INTELIGÊNCIA
