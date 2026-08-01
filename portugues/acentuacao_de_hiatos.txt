@@ -1,0 +1,72 @@
+A REGRA DE ACENTUAÇÃO DOS HIATOS
+
+- A regra de acentuação dos hiatos é uma das mais importantes da língua portuguesa.
+- Um hiato ocorre quando duas vogais estão juntas na escrita, mas, na divisão silábica, cada uma fica em uma sílaba diferente.
+- Cada sílaba só pode conter uma única vogal.
+
+1. A REGRA GERAL DO HIATO
+
+- Para que as letras I ou U recebam acento agudo pela regra do hiato, elas precisam cumprir, cumulativamente, os seguintes requisitos:
+- 1. Serem a segunda vogal do hiato.
+- 2. Serem tônicas (ou seja, pronunciadas com força na palavra).
+- 3. Estarem sozinhas na sílaba ou acompanhadas apenas de "S".
+
+EXEMPLOS PRÁTICOS DE APLICAÇÃO DA REGRA GERAL
+
+- Ex.: sa-ú-de: o "U" é a segunda vogal de um hiato, é tônico e está sozinho na sílaba.
+- Ex.: pa-ís: o "I" é tônico, segunda vogal de hiato e está acompanhado apenas de "S".
+- Ex.: a-ça-í: o "I" é tônico, segunda vogal e está sozinho na sílaba.
+
+CONTRAEXEMPLOS (PALAVRAS QUE NÃO SÃO ACENTUADAS)
+
+- Ex.: ju-iz: o "I" é tônico, mas está acompanhado de "Z" na mesma sílaba.
+- Ex.: ru-im: o "I" é tônico, mas está acompanhado de "M" na sílaba.
+- Ex.: sa-iu: o "U" não está sozinho nem com "S", mas sim acompanhado da semivogal "I" na pronúncia.
+
+2. AS DUAS GRANDES EXCEÇÕES
+
+- Mesmo que o "I" ou "U" cumpram todos os requisitos da regra geral (tônicos, sozinhos ou com "S"), eles não serão acentuados nos seguintes casos:
+
+A) A EXCEÇÃO DO "NH"
+
+- Se a sílaba seguinte ao "I" ou "U" tônico começar com o dígrafo "NH", o acento deixa de existir.
+- Ex.: ra-i-nha.
+- Ex.: mo-i-nho.
+- Ex.: ba-i-nha.
+
+B) A EXCEÇÃO DO DITONGO DECRESCENTE ANTERIOR (EM PALAVRAS PAROXÍTONAS)
+
+- Se o "I" ou "U" estiver em uma palavra paroxítona e for antecedido por um ditongo decrescente (vogal + semivogal), ele não recebe acento.
+- Ex.: fei-u-ra.
+- Ex.: bai-u-ca.
+- Ex.: sau-i-pe.
+
+ATENÇÃO PARA AS NUANCES IMPORTANTES DESSA EXCEÇÃO
+
+- Se o ditongo anterior for crescente (semivogal + vogal), o acento permanece.
+- Ex.: gua-í-ra.
+- Ex.: gua-í-ba.
+- Ex.: gua-í-no.
+- Se o hiato estiver em uma palavra oxítona (sílaba tônica na última sílaba), o acento também permanece, mesmo se houver ditongo decrescente antes.
+- Ex.: Pi-au-í.
+- Ex.: tu-i-ui-ú.
+- Ex.: te-i-ú.
+
+3. HIATO DE OUTRAS VOGAIS E VOGAIS REPETIDAS
+
+- A regra de acentuação do hiato se aplica exclusivamente às letras I e U.
+- Se o hiato for formado por outras vogais (como em ca-ó-ti-co), ele não é acentuado pela regra do hiato.
+- Ex.: ca-ó-ti-co (acentuado por ser proparoxítona).
+- Ex.: vo-o (não acentuado).
+- Ex.: cre-em (não acentuado).
+
+4. O CASO ESPECIAL DE DUPLA JUSTIFICATIVA (CAÍSSIMOS)
+
+- A palavra ca-ís-si-mos apresenta um caso muito curioso.
+- Ela se enquadra simultaneamente em duas regras de acentuação.
+- 1. Regra do Hiato: o "I" é a segunda vogal do hiato, é tônico e está seguido de "S" na sílaba (ca-ís-).
+- 2. Regra das Proparoxítonas: a sílaba tônica é a antepenúltima.
+- Nesses casos, a análise gramatical costuma priorizar a regra das proparoxítonas, pois ela é mais abrangente.
+- Ex.: ca-ís-si-mos (acentuado como proparoxítona).
+- Ex.: sa-ís-te (acentuado pelo hiato).
+- Ex.: ru-í-na (acentuado pelo hiato).
