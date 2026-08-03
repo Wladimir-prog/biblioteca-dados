@@ -294,6 +294,6 @@
   "sinopse": "1886. A história começa com a morte de Ivan Ilitch, um juiz de alto escalão, e explora as reações superficiais de seus colegas e família. A narrativa então mergulha em sua vida, desde sua existência convencional e vazia até sua agonizante doença final, criticando a sociedade russa do século XIX e examinando temas de mortalidade e autenticidade.",
   "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch_capa.png",
   "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch.txt",
-  "categorias": ["RUS_EST", "Literatura_EST"],
+  "categorias": ["RUS_EST", "Literatura_EST"]
 }
 ]
