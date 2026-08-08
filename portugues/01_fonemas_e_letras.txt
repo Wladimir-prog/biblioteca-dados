@@ -5,115 +5,81 @@ TEMA: Fonemas e Letras
 
 FONEMAS E LETRAS - INTRODUÇÃO
 
-* A língua portuguesa é composta por sons (fonemas) que são representados graficamente por sinais (letras).
-* Compreender a relação entre fonemas e letras é fundamental para a correta escrita e pronúncia das palavras.
+- A língua portuguesa é composta por sons (fonemas) que são representados graficamente por sinais (letras).
+- Compreender a relação entre fonemas e letras é fundamental para a correta escrita, contagem fonética e análise ortográfica em concursos públicos.
 
 1. FONEMA
 
-* O fonema é a menor unidade sonora da fala capaz de distinguir um significado de outro.
-* Ele não possui significado por si só, mas sua alteração pode mudar completamente o sentido de uma palavra.
+- O fonema é a menor unidade sonora da fala capaz de estabelecer distinção de significado entre palavras.
+- O fonema não possui significado próprio, mas sua substituição altera completamente o sentido do termo.
 
-Ex.: 'mala' (m-a-l-a) e 'fala' (f-a-l-a) - o fonema /m/ e /f/ distinguem as palavras.
-Ex.: 'casa' (c-a-s-a) e 'caza' (c-a-z-a) - o fonema /s/ e /z/ distinguem as palavras.
-Ex.: 'pato' (p-a-t-o) e 'mato' (m-a-t-o) - o fonema /p/ e /m/ distinguem as palavras.
+Ex.: 'mala' (/m/) vs. 'fala' (/f/) - a troca do fonema altera a palavra.
+Ex.: 'pato' (/p/) vs. 'mato' (/m/) - a mudança do fonema altera o sentido.
+Ex.: 'casa' (/z/) vs. 'capa' (/p/) - a alteração fonética gera outro vocábulo.
 
 2. LETRA
 
-* A letra é a representação gráfica do fonema, ou seja, o sinal escrito que usamos para registrar os sons da fala.
-* O conjunto de letras forma o alfabeto, que é a base da escrita de um idioma.
+- A letra é a representação gráfica do fonema, ou seja, o sinal escrito que utilizamos para registrar os sons no alfabeto.
+- Nem sempre há equivalência de 1 para 1 entre o número de letras e o número de fonemas de uma palavra.
 
-Ex.: A palavra 'casa' possui 4 letras: c, a, s, a.
-Ex.: A palavra 'chuva' possui 5 letras: c, h, u, v, a.
-Ex.: A palavra 'táxi' possui 4 letras: t, a, x, i.
+Ex.: 'casa' = 4 letras (c-a-s-a) e 4 fonemas (/k/-/a/-/z/-/a/).
+Ex.: 'chuva' = 5 letras (c-h-u-v-a) e 4 fonemas (/x/-/u/-/v/-/a/).
+Ex.: 'táxi' = 4 letras (t-a-x-i) e 5 fonemas (/t/-/a/-/k/-/s/-/i/).
 
 3. RELAÇÃO ENTRE FONEMA E LETRA
 
-* A correspondência entre fonemas e letras nem sempre é de um para um. Existem diversas situações.
-
 3.1. UMA LETRA PARA UM FONEMA
+- Ocorre quando cada letra escrita corresponde a exatamente um som articulado.
+Ex.: 'bola' (4 letras, 4 fonemas).
+Ex.: 'mesa' (4 letras, 4 fonemas).
+Ex.: 'livro' (5 letras, 5 fonemas).
 
-* É o caso mais comum, onde cada letra representa um único som.
-Ex.: 'bola' - b /b/, o /o/, l /l/, a /a/ (4 letras, 4 fonemas).
-Ex.: 'mesa' - m /m/, e /e/, s /z/, a /a/ (4 letras, 4 fonemas).
-Ex.: 'livro' - l /l/, i /i/, v /v/, r /r/, o /o/ (5 letras, 5 fonemas).
+3.2. UMA LETRA PARA VÁRIOS FONEMAS (DÍFONO)
+- Dífono é o fenômeno em que uma única letra representa dois fonemas consecutivos na pronúncia.
+- Na língua portuguesa, o dífono ocorre predominantemente com a letra 'X' quando assume o som de /ks/.
+Ex.: 'táxi' = 4 letras e 5 fonemas (/t/-/a/-/k/-/s/-/i/).
+Ex.: 'tóxico' = 6 letras e 7 fonemas (/t/-/o/-/k/-/s/-/i/-/k/-/o/).
+Ex.: 'anexo' = 5 letras e 6 fonemas (/a/-/n/-/e/-/k/-/s/-/o/).
 
-3.2. UMA LETRA PARA VÁRIOS FONEMAS
+3.3. DUAS LETRAS PARA UM FONEMA (DÍGRAFOS)
+- Ocorre quando duas letras são combinadas para representar um único fonema.
+Ex.: 'ch' em 'chave' (som /x/).
+Ex.: 'nh' em 'ninho' (som /ɲ/).
+Ex.: 'rr' em 'carro' (som /R/).
 
-* Algumas letras podem representar diferentes sons dependendo do contexto.
-Ex.: A letra 'x' em 'táxi' (/ks/) e em 'exame' (/z/).
-Ex.: A letra 's' em 'casa' (/z/) e em 'sapo' (/s/).
-Ex.: A letra 'c' em 'casa' (/k/) e em 'cebola' (/s/).
+3.4. A REGRA DAS COMBINAÇÕES 'QU' E 'GU'
+- As combinações QU e GU só formam DÍGRAFO quando a letra 'U' NÃO for pronunciada (antes de 'E' ou 'I').
+Ex. (É DÍGRAFO): 'queijo' (o 'u' é mudo -> 6 letras, 5 fonemas), 'guerra' (o 'u' é mudo -> 6 letras, 4 fonemas).
+Ex. (NÃO É DÍGRAFO): 'quase' (o 'u' é pronunciado -> 5 letras, 5 fonemas), 'água' (o 'u' é pronunciado -> 4 letras, 4 fonemas).
 
-3.3. VÁRIOS FONEMAS PARA UMA LETRA
+3.5. LETRA SEMA FONEMA (H ETIMOLÓGICO)
+- A letra 'H' inicial não possui valor fonético na língua portuguesa; sua presença é meramente etimológica (histórica).
+- Na contagem de fonemas, a letra 'H' inicial deve ser desconsiderada.
+Ex.: 'hora' = 4 letras e 3 fonemas (/o/-/r/-/a/).
+Ex.: 'hoje' = 4 letras e 3 fonemas (/o/-/j/-/e/).
+Ex.: 'homem' = 5 letras e 4 fonemas (/o/-/m/-/e/-/m/).
 
-* Não é o caso, pois uma letra sempre representa um som ou nenhum. O inverso é que ocorre: um fonema pode ser representado por várias letras.
+4. VARIABILIDADE SONORA DAS CONSOANTES (S, C, X)
 
-3.4. DUAS LETRAS PARA UM FONEMA (DÍGRAFOS)
+- A mesma letra pode assumir fonemas totalmente diferentes dependendo do contexto:
+Ex. (Letra S com som de /z/): 'casa', 'defesa', 'mesa' (entre vogais).
+Ex. (Letra S com som de /s/): 'sapo', 'curso', 'pássaro' (no início ou dobrada).
+Ex. (Letra C com som de /k/): 'casa', 'copo', 'curva' (antes de a, o, u).
+Ex. (Letra C com som de /s/): 'cebola', 'cidade' (antes de e, i).
 
-* Ocorre quando duas letras são usadas para representar um único som (fonema).
-Ex.: 'ch' em 'chave' (som de /x/).
-Ex.: 'nh' em 'ninho' (som de /ɲ/).
-Ex.: 'ss' em 'passo' (som de /s/).
+5. FAMÍLIAS DE PALAVRAS (RADICAIS COMUNS)
 
-3.5. LETRA SEM FONEMA
+- Palavras cognatas pertencem à mesma família de palavras porque compartilham a mesma raiz/radical e origem etimológica, mantendo regularidades fonéticas e ortográficas.
+Ex.: pedra -> pedreiro, pedraria, petDirectory.
+Ex.: escrever -> escrita, escritor, escritório, escrivão.
 
-* Algumas letras podem não representar som algum em determinadas palavras.
-Ex.: A letra 'h' inicial em 'hora' (não tem som).
-Ex.: A letra 'u' em 'guerra' (não tem som).
-Ex.: A letra 'q' em 'queijo' (o 'u' não tem som).
+6. DÍGRAFOS (CONSONANTAIS E VOCÁLICOS)
 
-4. DÍGRAFOS
+6.1. DÍGRAFOS CONSONANTAIS
+- Inseparáveis na divisão silábica: CH (chuva), LH (palha), NH (ninho).
+- Separáveis na divisão silábica: RR (carro), SS (passo), SC (nascer), SÇ (nasça), XC (exceção).
+- Condicionais: QU (queijo) e GU (guerra) - apenas quando o 'U' for mudo.
 
-* Dígrafo é o encontro de duas letras que representam um único fonema (som).
-
-4.1. DÍGRAFOS CONSONANTAIS
-
-* Representam um único fonema consonantal.
-Ex.: ch (chave), lh (palha), nh (ninho).
-Ex.: rr (carro), ss (passo), sc (nascer).
-Ex.: sç (nasça), xc (excelente), qu (queijo - antes de e/i), gu (guerra - antes de e/i).
-
-4.2. DÍGRAFOS VOCÁLICOS
-
-* Representam um único fonema vocálico nasal, geralmente com 'm' ou 'n' após a vogal.
-Ex.: am (campo), an (canto).
-Ex.: em (tempo), en (lenda).
-Ex.: im (limpo), in (tinta).
-Ex.: om (rombo), on (onda).
-Ex.: um (algum), un (mundo).
-
-5. ENCONTRO CONSONANTAL
-
-* É a sequência de duas ou mais consoantes na mesma palavra, cada uma representando um fonema distinto.
-Ex.: 'prato' - p e r são ouvidos separadamente.
-Ex.: 'flor' - f e l são ouvidos separadamente.
-Ex.: 'pedra' - p e d e r são ouvidos separadamente.
-
-5.1. ENCONTRO CONSONANTAL PERFEITO
-
-* As consoantes permanecem na mesma sílaba.
-Ex.: 'pra-to', 'flo-res', 'li-vro'.
-
-5.2. ENCONTRO CONSONANTAL IMPERFEITO
-
-* As consoantes se separam em sílabas diferentes.
-Ex.: 'ad-vo-ga-do', 'rit-mo', 'ap-to'.
-
-6. ENCONTRO VOCÁLICO
-
-* É a sequência de duas ou mais vogais ou semivogais na mesma palavra.
-
-6.1. DITONGO
-
-* Encontro de uma vogal e uma semivogal (ou vice-versa) na mesma sílaba.
-Ex.: 'pai' (a + i), 'caixa' (ai), 'louco' (ou).
-
-6.2. TRITONGO
-
-* Encontro de uma semivogal, uma vogal e outra semivogal na mesma sílaba.
-Ex.: 'Paraguai' (u + a + i), 'iguais' (u + a + i), 'enxaguou' (u + o + u).
-
-6.3. HIATO
-
-* Encontro de duas vogais que ficam em sílabas separadas.
-Ex.: 'sa-ú-de' (a + u), 'ca-ir' (a + i), 'pi-a-da' (i + a).
+6.2. DÍGRAFOS VOCÁLICOS (NASAIS)
+- Formados por vogal seguida de 'M' ou 'N' na mesma sílaba, nasalizando a vogal.
+Ex.: am (campo), an (canto), em (tempo), en (lenda), im (limpo), in (tinta), om (rombo), on (onda), um (algum), un (mundo).
