@@ -1,0 +1,195 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Estrutura e Formação de Palavras
+
+ESTRUTURA DAS PALAVRAS
+
+- As palavras da língua portuguesa são formadas por elementos menores, chamados de morfemas. A análise desses elementos permite compreender o significado e a classe gramatical das palavras.
+
+1. RADICAL
+
+- É o elemento básico e significativo da palavra, que contém seu sentido essencial. Permanece inalterado em palavras da mesma família.
+
+Ex.: pedra (pedr-eiro, pedr-aria)
+Ex.: livro (livr-aria, livr-eiro)
+Ex.: feliz (feliz-mente, in-feliz)
+
+2. AFÍXOS
+
+- São morfemas que se juntam ao radical para formar novas palavras. Podem ser prefixos ou sufixos.
+
+2.1. PREFIXO
+
+- Morfema colocado antes do radical, modificando seu sentido.
+
+Ex.: re-fazer
+Ex.: in-feliz
+Ex.: des-ligar
+
+2.2. SUFIXO
+
+- Morfema colocado depois do radical, podendo alterar o sentido e a classe gramatical da palavra.
+
+Ex.: feliz-mente
+Ex.: livr-aria
+Ex.: pedr-eiro
+
+3. VOGAL TEMÁTICA
+
+- Morfema que se liga ao radical, preparando-o para receber as desinências. Pode ser nominal ou verbal.
+
+3.1. VOGAL TEMÁTICA NOMINAL
+
+- Vogal que se junta ao radical de substantivos e adjetivos. Geralmente 'a', 'e', 'o'.
+
+Ex.: livr-o
+Ex.: mes-a
+Ex.: pont-e
+
+3.2. VOGAL TEMÁTICA VERBAL
+
+- Vogal que indica a conjugação do verbo. 'a' (1a conj.), 'e' (2a conj.), 'i' (3a conj.).
+
+Ex.: cant-a-r
+Ex.: vend-e-r
+Ex.: part-i-r
+
+4. TEMA
+
+- É a junção do radical com a vogal temática.
+
+Ex.: cant-a (radical + vogal temática)
+Ex.: vend-e (radical + vogal temática)
+Ex.: part-i (radical + vogal temática)
+
+5. DESINÊNCIAS
+
+- Morfemas que indicam as flexões das palavras (gênero, número, pessoa, tempo, modo).
+
+5.1. DESINÊNCIA NOMINAL
+
+- Indica gênero (masculino/feminino) e número (singular/plural) de substantivos e adjetivos.
+
+Ex.: alun-o (gênero masculino)
+Ex.: alun-a (gênero feminino)
+Ex.: alun-o-s (número plural)
+
+5.2. DESINÊNCIA VERBAL
+
+- Indica pessoa, número, tempo e modo dos verbos.
+
+Ex.: cant-á-va-mos (tempo/modo: pretérito imperfeito do indicativo; pessoa/número: 1a pessoa do plural)
+Ex.: vend-e-mos (pessoa/número: 1a pessoa do plural)
+Ex.: part-i-ram (pessoa/número: 3a pessoa do plural)
+
+6. VOGAL E CONSOANTE DE LIGAÇÃO
+
+- Elementos fonéticos sem significado próprio, que facilitam a pronúncia ou a ligação entre morfemas.
+
+Ex.: cafe-t-eira (consoante de ligação 't')
+Ex.: gas-ô-metro (vogal de ligação 'o')
+Ex.: paul-i-stano (vogal de ligação 'i')
+
+FORMAÇÃO DE PALAVRAS
+
+- As palavras podem ser formadas por diferentes processos, que as classificam em primitivas, derivadas ou compostas.
+
+1. DERIVAÇÃO
+
+- Processo em que uma palavra nova (derivada) é formada a partir de uma palavra já existente (primitiva).
+
+1.1. DERIVAÇÃO PREFIXAL
+
+- Acréscimo de um prefixo à palavra primitiva.
+
+Ex.: re-fazer
+Ex.: in-feliz
+Ex.: des-leal
+
+1.2. DERIVAÇÃO SUFIXAL
+
+- Acréscimo de um sufixo à palavra primitiva.
+
+Ex.: feliz-mente
+Ex.: pedr-eiro
+Ex.: livr-aria
+
+1.3. DERIVAÇÃO PARASSINTÉTICA
+
+- Acréscimo simultâneo de prefixo e sufixo à palavra primitiva, de modo que nenhum dos afixos pode ser retirado sem que a palavra perca o sentido ou deixe de existir na língua.
+
+Ex.: en-trist-ecer (não existe "entriste" nem "tristecer")
+Ex.: a-noit-ecer (não existe "anoite" nem "noitecer")
+Ex.: em-pobr-ecer (não existe "empobre" nem "pobrece")
+
+1.4. DERIVAÇÃO REGRESSIVA
+
+- Redução da palavra primitiva, geralmente de um verbo para um substantivo. Ocorre a perda de um morfema.
+
+Ex.: comprar -> compra
+Ex.: pescar -> pesca
+Ex.: chorar -> choro
+
+1.5. DERIVAÇÃO IMPRÓPRIA (CONVERSÃO)
+
+- Mudança da classe gramatical da palavra sem alteração em sua forma.
+
+Ex.: O jantar estava delicioso. (jantar: substantivo, de verbo)
+Ex.: O verde da mata. (verde: substantivo, de adjetivo)
+Ex.: Um sim convicto. (sim: substantivo, de advérbio)
+
+2. COMPOSIÇÃO
+
+- Processo em que uma palavra nova é formada pela união de dois ou mais radicais.
+
+2.1. COMPOSIÇÃO POR JUSTAPOSIÇÃO
+
+- Os elementos se unem sem que haja perda de fonemas.
+
+Ex.: guarda-chuva
+Ex.: girassol (gira + sol)
+Ex.: couve-flor
+
+2.2. COMPOSIÇÃO POR AGLUTINAÇÃO
+
+- Os elementos se unem com perda de fonemas.
+
+Ex.: planalto (plano + alto)
+Ex.: aguardente (água + ardente)
+Ex.: embora (em boa hora)
+
+3. OUTROS PROCESSOS DE FORMAÇÃO
+
+3.1. HIBRIDISMO
+
+- Formação de palavras com elementos de línguas diferentes.
+
+Ex.: sociologia (latim + grego)
+Ex.: automóvel (grego + latim)
+Ex.: burocracia (francês + grego)
+
+3.2. ONOMATOPEIA
+
+- Criação de palavras que imitam sons ou ruídos.
+
+Ex.: miau
+Ex.: tic-tac
+Ex.: zumbido
+
+3.3. ABREVIAÇÃO (REDUÇÃO)
+
+- Redução de palavras longas.
+
+Ex.: fotografia -> foto
+Ex.: motocicleta -> moto
+Ex.: cinematografia -> cinema
+
+3.4. SIGLAS E ACRÔNIMOS
+
+- Formação de palavras a partir das letras iniciais de outras palavras.
+
+Ex.: ONU (Organização das Nações Unidas)
+Ex.: CPF (Cadastro de Pessoas Físicas)
+Ex.: ENEM (Exame Nacional do Ensino Médio)

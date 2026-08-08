@@ -1,0 +1,108 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Encontros Vocálicos e Consonantais
+
+INTRODUÇÃO
+
+- A língua portuguesa é rica em sons e combinações. Para compreendê-la melhor, é fundamental estudar os encontros vocálicos e consonantais.
+- Esses encontros são sequências de vogais e consoantes que aparecem juntas em uma palavra, influenciando sua pronúncia e divisão silábica.
+
+
+ENCONTROS VOCÁLICOS
+
+- São a sequência de sons vocálicos (vogais e semivogais) em uma mesma palavra.
+- Podem ser classificados em ditongo, tritongo e hiato, dependendo da forma como as vogais e semivogais se agrupam.
+
+
+1. DITONGO
+
+- É o encontro de uma vogal e uma semivogal (ou vice-versa) na mesma sílaba.
+- A semivogal tem um som mais fraco, enquanto a vogal tem um som mais forte.
+
+
+1.1. DITONGO CRESCENTE
+
+- Ocorre quando a semivogal vem antes da vogal na mesma sílaba (som fraco para forte).
+- Ex.: QUASE (qua-se)
+- Ex.: HISTÓRIA (his-tó-ria)
+- Ex.: SÉRIE (sé-rie)
+
+
+1.2. DITONGO DECRESCENTE
+
+- Ocorre quando a vogal vem antes da semivogal na mesma sílaba (som forte para fraco).
+- Ex.: PAI (pai)
+- Ex.: CAIXA (cai-xa)
+- Ex.: CHAPÉU (cha-péu)
+
+
+2. TRITONGO
+
+- É o encontro de uma semivogal, uma vogal e outra semivogal, nessa ordem, na mesma sílaba.
+- A vogal é o som mais forte, ladeada por duas semivogais mais fracas.
+- Ex.: PARAGUAI (Pa-ra-guai)
+- Ex.: SAGUÃO (sa-guão)
+- Ex.: ENXÁGUAM (en-xá-guam)
+
+
+3. HIATO
+
+- É o encontro de duas vogais que pertencem a sílabas diferentes.
+- As vogais são pronunciadas separadamente, cada uma em sua sílaba.
+- Ex.: SAÚDE (sa-ú-de)
+- Ex.: POESIA (po-e-si-a)
+- Ex.: CAIR (ca-ir)
+
+
+ENCONTROS CONSONANTAIS
+
+- São a sequência de duas ou mais consoantes juntas na mesma palavra, mantendo o som individual de cada uma.
+- Diferenciam-se dos dígrafos, onde duas letras representam um único som consonantal.
+
+
+1. ENCONTRO CONSONANTAL PERFEITO (INSEPARÁVEL)
+
+- Ocorre quando as consoantes permanecem na mesma sílaba ao serem separadas.
+- Geralmente são encontros de consoante + L ou consoante + R.
+- Ex.: PRATO (pra-to)
+- Ex.: BLUSA (blu-sa)
+- Ex.: CLARO (cla-ro)
+
+
+2. ENCONTRO CONSONANTAL IMPERFEITO (SEPARÁVEL)
+
+- Ocorre quando as consoantes se separam em sílabas diferentes ao serem divididas.
+- Cada consoante mantém seu som, mas não formam um único bloco fonético.
+- Ex.: ADMIRAR (ad-mi-rar)
+- Ex.: RITMO (rit-mo)
+- Ex.: PEDRA (pe-dra)
+
+
+DÍGRAFOS
+
+- É importante não confundir encontros consonantais com dígrafos.
+- Dígrafo é o encontro de duas letras que representam um único som (fonema).
+
+
+1. DÍGRAFOS CONSONANTAIS
+
+- Duas consoantes que representam um único som consonantal.
+- Ex.: CHUVA (som de /x/)
+- Ex.: GUERRA (som de /g/)
+- Ex.: NASCER (som de /s/)
+
+
+2. DÍGRAFOS VOCÁLICOS
+
+- Duas letras (vogal + M ou N) que representam um único som vocálico nasal.
+- Ex.: CAMPO (som de /ã/)
+- Ex.: PONTE (som de /õ/)
+- Ex.: CANTO (som de /ã/)
+
+
+CONCLUSÃO
+
+- O domínio dos encontros vocálicos e consonantais é crucial para a correta pronúncia, escrita e divisão silábica das palavras.
+- A prática constante ajuda a diferenciar esses fenômenos e a evitar erros comuns em concursos e no dia a dia.

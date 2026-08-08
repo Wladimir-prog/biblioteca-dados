@@ -1,0 +1,106 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Concordância Nominal
+
+CONCORDÂNCIA NOMINAL
+
+- A concordância nominal é a relação de harmonia entre o substantivo (ou pronome substantivo) e seus determinantes (artigos, adjetivos, pronomes adjetivos, numerais adjetivos).
+- Esses determinantes devem concordar em gênero (masculino/feminino) e número (singular/plural) com o substantivo a que se referem.
+
+1. REGRAS GERAIS
+
+1.1. UM ADJETIVO PARA VÁRIOS SUBSTANTIVOS
+
+- Se um adjetivo se refere a vários substantivos de mesmo gênero, ele concorda com eles no plural.
+Ex.: Comprei livros e cadernos novos.
+Ex.: As mesas e cadeiras estavam quebradas.
+Ex.: Ele tem um carro e um apartamento caros.
+
+- Se um adjetivo se refere a vários substantivos de gêneros diferentes, ele concorda no masculino plural.
+Ex.: Comprei livros e canetas novos.
+Ex.: A mesa e o caderno estavam sujos.
+Ex.: Ele tem uma casa e um carro caros.
+
+- Se o adjetivo vier antes dos substantivos, ele concorda com o mais próximo ou com todos no masculino plural.
+Ex.: Lindas flores e jardins.
+Ex.: Lindos jardins e flores.
+Ex.: Lindos jardins e flores.
+
+1.2. VÁRIOS ADJETIVOS PARA UM SUBSTANTIVO
+
+- Se vários adjetivos se referem a um único substantivo, o substantivo pode ficar no singular e os adjetivos acompanhados de artigo.
+Ex.: Estudo a língua portuguesa e a inglesa.
+Ex.: Gosto do cinema brasileiro e do americano.
+Ex.: Visitei a cidade antiga e a moderna.
+
+- Ou o substantivo pode ir para o plural e os adjetivos sem artigo.
+Ex.: Estudo as línguas portuguesa e inglesa.
+Ex.: Gosto dos cinemas brasileiro e americano.
+Ex.: Visitei as cidades antiga e moderna.
+
+2. CASOS ESPECIAIS DE CONCORDÂNCIA NOMINAL
+
+2.1. ANEXO, INCLUSO, APENSO, OBRIGADO, MESMO, PRÓPRIO, QUITE
+
+- Essas palavras funcionam como adjetivos e concordam em gênero e número com o substantivo a que se referem.
+Ex.: As fotos seguem anexas.
+Ex.: Os documentos estão inclusos.
+Ex.: Ela mesma fez o trabalho.
+
+2.2. MEIO, BASTANTE, MUITO, POUCO, LONGE, CARO, BARATO
+
+- Quando funcionam como adjetivos, concordam com o substantivo. Quando funcionam como advérbios, são invariáveis.
+- Meio: Adjetivo (metade) ou Advérbio (um pouco).
+Ex.: Ela está meio cansada. (advérbio)
+Ex.: Comprou meia dúzia de ovos. (adjetivo)
+Ex.: Bebeu meio copo de água. (adjetivo)
+
+- Bastante: Adjetivo (muitos/muitas) ou Advérbio (muito).
+Ex.: Havia bastantes pessoas na festa. (adjetivo)
+Ex.: Eles estudaram bastante. (advérbio)
+Ex.: Tenho bastantes livros para ler. (adjetivo)
+
+- Caro/Barato: Adjetivo (preço) ou Advérbio (custo).
+Ex.: As frutas estavam caras. (adjetivo)
+Ex.: Pagamos caro pela viagem. (advérbio)
+Ex.: Compramos barato os ingressos. (advérbio)
+
+2.3. É BOM, É NECESSÁRIO, É PROIBIDO
+
+- Essas expressões são invariáveis quando o substantivo não é determinado por artigo ou outro determinante.
+Ex.: É proibido entrada.
+Ex.: É necessário paciência.
+Ex.: É bom estudar.
+
+- Se o substantivo for determinado, a expressão concorda.
+Ex.: É proibida a entrada.
+Ex.: É necessária a paciência.
+Ex.: A leitura é boa.
+
+2.4. MENOS, ALERTA, PSEUDO
+
+- São palavras invariáveis.
+Ex.: Havia menos pessoas.
+Ex.: Os soldados estavam alerta.
+Ex.: Ele é um pseudo-intelectual.
+
+2.5. POSSÍVEL
+
+- A expressão "o mais... possível" ou "os mais... possíveis" concorda com o artigo que a precede.
+Ex.: Fizeram os trabalhos o mais rápido possível. (O artigo "o" está no singular, então "possível" fica no singular).
+Ex.: Compraram as casas as mais baratas possíveis. (O artigo "as" está no plural, então "possíveis" fica no plural).
+Ex.: Escolheram os caminhos os menos perigosos possíveis. (O artigo "os" está no plural, então "possíveis" fica no plural).
+
+2.6. SÓ
+
+- Quando significa "sozinho", é adjetivo e varia.
+Ex.: Eles estavam sós na sala.
+Ex.: Ela estava só.
+Ex.: Os alunos ficaram sós.
+
+- Quando significa "somente", é advérbio e é invariável.
+Ex.: Só eles vieram.
+Ex.: Só quero um café.
+Ex.: Só estudamos português.

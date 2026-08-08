@@ -1,0 +1,89 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Classificação quanto à Sílaba e Tonicidade
+
+INTRODUÇÃO À SÍLABA
+
+- A sílaba é um fonema ou grupo de fonemas pronunciados em uma única emissão de voz. É a base para a correta divisão e classificação das palavras na língua portuguesa.
+
+- A divisão silábica é fundamental para a acentuação gráfica e para a compreensão da estrutura fonológica das palavras.
+
+CLASSIFICAÇÃO DAS PALAVRAS QUANTO AO NÚMERO DE SÍLABAS
+
+- As palavras são classificadas de acordo com a quantidade de sílabas que possuem.
+
+1. MONOSSÍLABAS
+
+- Palavras que possuem apenas uma sílaba.
+
+Ex.: sol
+Ex.: mar
+Ex.: pé
+
+2. DISSÍLABAS
+
+- Palavras que possuem duas sílabas.
+
+Ex.: ca-sa
+Ex.: li-vro
+Ex.: a-mor
+
+3. TRISSÍLABAS
+
+- Palavras que possuem três sílabas.
+
+Ex.: ca-dei-ra
+Ex.: me-ni-no
+Ex.: es-co-la
+
+4. POLISSÍLABAS
+
+- Palavras que possuem quatro ou mais sílabas.
+
+Ex.: pa-ra-le-le-pí-pe-do
+Ex.: a-ma-re-lo
+Ex.: com-pu-ta-dor
+
+INTRODUÇÃO À TONICIDADE
+
+- Tonicidade refere-se à sílaba tônica de uma palavra, ou seja, a sílaba pronunciada com maior intensidade. As demais sílabas são átonas.
+
+- A identificação da sílaba tônica é crucial para a aplicação das regras de acentuação gráfica.
+
+CLASSIFICAÇÃO DAS PALAVRAS QUANTO À POSIÇÃO DA SÍLABA TÔNICA
+
+- As palavras são classificadas em oxítonas, paroxítonas e proparoxítonas, dependendo da posição da sílaba tônica.
+
+1. OXÍTONAS
+
+- A sílaba tônica é a última sílaba da palavra.
+
+Ex.: ca-fé
+Ex.: a-vô
+Ex.: pa-ra-ná
+
+2. PAROXÍTONAS
+
+- A sílaba tônica é a penúltima sílaba da palavra.
+
+Ex.: me-sa
+Ex.: ca-sa
+Ex.: li-vro
+
+3. PROPAROXÍTONAS
+
+- A sílaba tônica é a antepenúltima sílaba da palavra.
+
+Ex.: mé-di-co
+Ex.: lá-gri-ma
+Ex.: úl-ti-mo
+
+REGRAS GERAIS DE ACENTUAÇÃO (BREVE REVISÃO)
+
+- Todas as palavras proparoxítonas são acentuadas.
+
+- As oxítonas são acentuadas quando terminadas em A(S), E(S), O(S), EM, ENS.
+
+- As paroxítonas são acentuadas em diversas terminações, exceto as de oxítonas e monossílabos tônicos.

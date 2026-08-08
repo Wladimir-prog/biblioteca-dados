@@ -1,0 +1,135 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Pronomes Demonstrativos, Possessivos e Relativos
+
+PRONOMES DEMONSTRATIVOS
+
+-   Definição: São palavras que situam os seres no espaço, no tempo ou no próprio texto, em relação às pessoas do discurso.
+
+-   Formas dos Pronomes Demonstrativos
+
+    -   Variáveis: este, esta, estes, estas, esse, essa, esses, essas, aquele, aquela, aqueles, aquelas.
+    -   Invariáveis: isto, isso, aquilo.
+
+-   Uso no Espaço
+
+    -   Indicam a posição de algo em relação às pessoas do discurso.
+    -   Este(s), esta(s), isto: perto da 1a pessoa (quem fala).
+        Ex.: Este livro que está comigo é interessante.
+        Ex.: Esta caneta aqui é minha.
+        Ex.: Isto que vejo é incrível.
+
+    -   Esse(s), essa(s), isso: perto da 2a pessoa (com quem se fala).
+        Ex.: Esse carro que está com você é novo?
+        Ex.: Essa ideia que você teve é ótima.
+        Ex.: Isso que você me disse é verdade.
+
+    -   Aquele(s), aquela(s), aquilo: longe da 1a e da 2a pessoa.
+        Ex.: Aquele prédio lá no fundo é o meu.
+        Ex.: Aquela montanha é muito alta.
+        Ex.: Aquilo que está distante é um navio.
+
+-   Uso no Tempo
+
+    -   Este(s), esta(s), isto: presente ou futuro próximo.
+        Ex.: Este ano está sendo desafiador.
+        Ex.: Esta semana farei a prova.
+        Ex.: Isto que vivemos agora é histórico.
+
+    -   Esse(s), essa(s), isso: passado recente ou futuro não muito distante.
+        Ex.: Nesse mês passado, viajei muito.
+        Ex.: Essa época de férias é a melhor.
+        Ex.: Isso que aconteceu ontem foi inesperado.
+
+    -   Aquele(s), aquela(s), aquilo: passado distante.
+        Ex.: Naquele tempo, tudo era diferente.
+        Ex.: Aquela infância foi feliz.
+        Ex.: Aquilo que se passou há anos ainda me emociona.
+
+-   Uso no Texto (Anáfora e Catáfora)
+
+    -   Anáfora: Retoma algo já mencionado.
+        Ex.: Ele estudou muito. Isso garantiu sua aprovação.
+        Ex.: A cidade é linda. Aquela que visitamos no verão.
+        Ex.: Os alunos chegaram. Estes estavam animados.
+
+    -   Catáfora: Antecipa algo que será mencionado.
+        Ex.: Preste atenção nisto: a prova será amanhã.
+        Ex.: Ele disse aquilo: "Não desistam!".
+        Ex.: Os seguintes itens serão abordados: este, esse e aquele.
+
+PRONOMES POSSESSIVOS
+
+-   Definição: Indicam posse, estabelecendo uma relação entre o possuidor (pessoa do discurso) e a coisa possuída.
+
+-   Formas dos Pronomes Possessivos
+
+    -   Meu, minha, meus, minhas (1a pessoa do singular)
+    -   Teu, tua, teus, tuas (2a pessoa do singular)
+    -   Seu, sua, seus, suas (3a pessoa do singular)
+    -   Nosso, nossa, nossos, nossas (1a pessoa do plural)
+    -   Vosso, vossa, vossos, vossas (2a pessoa do plural)
+    -   Seu, sua, seus, suas (3a pessoa do plural)
+
+-   Uso dos Pronomes Possessivos
+
+    -   Concordam em gênero e número com a coisa possuída, e em pessoa com o possuidor.
+        Ex.: Minha casa é grande. (casa feminina singular, minha feminina singular)
+        Ex.: Nossos amigos chegaram. (amigos masculino plural, nossos masculino plural)
+        Ex.: Seu livro está na mesa. (livro masculino singular, seu masculino singular)
+
+    -   Podem indicar não apenas posse, mas também afeto, respeito ou generalização.
+        Ex.: Meu caro amigo, como vai? (afeto)
+        Ex.: Vossa Excelência, sua decisão é aguardada. (respeito)
+        Ex.: Cada um com seus problemas. (generalização)
+
+PRONOMES RELATIVOS
+
+-   Definição: São palavras que retomam um termo anterior (antecedente) e introduzem uma oração subordinada adjetiva.
+
+-   Formas dos Pronomes Relativos
+
+    -   Variáveis: o qual, a qual, os quais, as quais, cujo, cuja, cujos, cujas, quanto, quanta, quantos, quantas.
+    -   Invariáveis: que, quem, onde.
+
+-   Uso dos Pronomes Relativos
+
+    -   Que: O mais comum, pode substituir pessoas ou coisas.
+        Ex.: O livro que comprei é interessante.
+        Ex.: A moça que chegou é minha irmã.
+        Ex.: O problema que enfrentamos é complexo.
+
+    -   Quem: Refere-se apenas a pessoas.
+        Ex.: O aluno a quem me referi passou.
+        Ex.: A pessoa de quem gosto mora longe.
+        Ex.: Ele é o professor com quem aprendi muito.
+
+    -   Onde: Refere-se a lugar.
+        Ex.: A cidade onde nasci é linda.
+        Ex.: O parque onde nos encontramos está fechado.
+        Ex.: A casa onde moro é antiga.
+
+    -   Cujo(a)(s): Indica posse entre o antecedente e o termo posterior. Concorda com o termo posterior.
+        Ex.: O autor cujo livro li é famoso. (o livro do autor)
+        Ex.: A aluna cujos pais conheço é dedicada. (os pais da aluna)
+        Ex.: As árvores cujas folhas caem são belas. (as folhas das árvores)
+
+    -   O qual (e variações): Pode substituir "que", especialmente após preposições ou para evitar ambiguidade.
+        Ex.: O homem ao qual me dirigi era o diretor.
+        Ex.: As ideias pelas quais lutamos são nobres.
+        Ex.: O rio em cujas margens passei é poluído.
+
+    -   Quanto(a)(s): Usado após pronomes indefinidos como "tudo", "todos", "tantos".
+        Ex.: Ele fez tudo quanto pôde.
+        Ex.: Trouxe tantos livros quantos cabiam.
+        Ex.: Ela comeu tudo o quanto havia na mesa.
+
+-   Função Sintática dos Pronomes Relativos
+
+    -   O pronome relativo exerce uma função sintática na oração subordinada adjetiva que introduz.
+    -   Pode ser sujeito, objeto direto, objeto indireto, complemento nominal, adjunto adnominal, adjunto adverbial.
+        Ex.: O aluno que estuda passa. (que = sujeito de "estuda")
+        Ex.: O livro que comprei é bom. (que = objeto direto de "comprei")
+        Ex.: A cidade onde moro é tranquila. (onde = adjunto adverbial de lugar de "moro")

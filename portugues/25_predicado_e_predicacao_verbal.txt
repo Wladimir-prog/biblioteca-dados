@@ -1,0 +1,113 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Predicado e Predicação Verbal
+
+INTRODUÇÃO AO PREDICADO
+
+- O predicado é o termo da oração que contém o verbo e expressa o que se declara sobre o sujeito. Ele é essencial para a construção do sentido completo da frase.
+
+- Sem o predicado, a oração não consegue transmitir uma informação clara sobre a ação, estado ou fenômeno que envolve o sujeito.
+
+Ex.: Os alunos estudam.
+Ex.: A professora está feliz.
+Ex.: Choveu muito ontem.
+
+TIPOS DE PREDICADO
+
+1. PREDICADO VERBAL
+
+- O predicado verbal tem como núcleo um verbo significativo, ou seja, um verbo que expressa ação, fenômeno ou estado que não seja de ligação.
+
+- Verbos significativos são aqueles que carregam a ideia principal da oração, como correr, comer, trabalhar, chover, etc.
+
+Ex.: Os pássaros cantam alegremente.
+Ex.: O atleta correu a maratona.
+Ex.: As crianças brincam no parque.
+
+2. PREDICADO NOMINAL
+
+- O predicado nominal tem como núcleo um nome (substantivo, adjetivo ou advérbio com função adjetiva) e é construído com um verbo de ligação.
+
+- Verbos de ligação (ser, estar, parecer, permanecer, ficar, continuar, tornar-se, andar) apenas ligam o sujeito a uma característica ou estado.
+
+Ex.: O céu está azul.
+Ex.: Ela parece cansada.
+Ex.: Os estudantes ficaram atentos.
+
+3. PREDICADO VERBO-NOMINAL
+
+- O predicado verbo-nominal possui dois núcleos: um verbo significativo e um nome (predicativo do sujeito ou do objeto).
+
+- Ele expressa uma ação do sujeito e, ao mesmo tempo, uma característica atribuída ao sujeito ou ao objeto.
+
+Ex.: Os alunos saíram felizes. (saíram - verbo significativo; felizes - predicativo do sujeito)
+Ex.: Consideramos a proposta interessante. (consideramos - verbo significativo; interessante - predicativo do objeto)
+Ex.: O diretor nomeou o professor coordenador. (nomeou - verbo significativo; coordenador - predicativo do objeto)
+
+PREDICAÇÃO VERBAL
+
+- A predicação verbal refere-se à relação que o verbo estabelece com seus complementos ou à ausência deles. É a forma como o verbo "pede" ou "não pede" outros termos para completar seu sentido.
+
+- Essa relação determina se o verbo é transitivo (direto, indireto, direto e indireto) ou intransitivo.
+
+1. VERBOS INTRANSITIVOS
+
+- São verbos que possuem sentido completo em si mesmos, não necessitando de complementos para sua compreensão.
+
+- Podem vir acompanhados de adjuntos adverbiais, que apenas acrescentam uma circunstância à ação.
+
+Ex.: O bebê dormiu.
+Ex.: Os pássaros voam.
+Ex.: A flor murchou rapidamente.
+
+2. VERBOS TRANSITIVOS DIRETOS (VTD)
+
+- São verbos que necessitam de um complemento sem preposição para ter sentido completo. Esse complemento é chamado de objeto direto.
+
+- O objeto direto completa o sentido do verbo diretamente, sem a intermediação de uma preposição obrigatória.
+
+Ex.: Eu comprei um livro. (um livro - objeto direto)
+Ex.: Ela comeu a torta. (a torta - objeto direto)
+Ex.: Nós vimos o filme. (o filme - objeto direto)
+
+3. VERBOS TRANSITIVOS INDIRETOS (VTI)
+
+- São verbos que necessitam de um complemento com preposição para ter sentido completo. Esse complemento é chamado de objeto indireto.
+
+- A preposição é exigida pelo próprio verbo para ligar-se ao seu complemento.
+
+Ex.: Eu preciso de ajuda. (de ajuda - objeto indireto)
+Ex.: Ela obedece aos pais. (aos pais - objeto indireto)
+Ex.: Nós acreditamos em você. (em você - objeto indireto)
+
+4. VERBOS TRANSITIVOS DIRETOS E INDIRETOS (VTDI)
+
+- São verbos que necessitam de dois complementos: um objeto direto (sem preposição) e um objeto indireto (com preposição).
+
+- Também são conhecidos como verbos bitransitivos.
+
+Ex.: Entreguei o livro ao professor. (o livro - objeto direto; ao professor - objeto indireto)
+Ex.: Ofereci flores à minha mãe. (flores - objeto direto; à minha mãe - objeto indireto)
+Ex.: Ele comunicou a notícia aos colegas. (a notícia - objeto direto; aos colegas - objeto indireto)
+
+5. VERBOS DE LIGAÇÃO (VL)
+
+- Não expressam ação, mas sim um estado ou característica do sujeito. Ligam o sujeito ao seu predicativo.
+
+- Não possuem complementos verbais (objeto direto ou indireto), mas sim um predicativo do sujeito.
+
+Ex.: Ela está feliz. (feliz - predicativo do sujeito)
+Ex.: Ele parece cansado. (cansado - predicativo do sujeito)
+Ex.: O dia ficou nublado. (nublado - predicativo do sujeito)
+
+CONSIDERAÇÕES FINAIS
+
+- A correta identificação do predicado e da predicação verbal é fundamental para a análise sintática e para a construção de frases claras e gramaticalmente corretas.
+
+- A predicação verbal pode alterar o sentido do verbo, dependendo do contexto e dos complementos que o acompanham.
+
+Ex.: Ele vive. (verbo intransitivo - sentido de existir)
+Ex.: Ele vive a vida intensamente. (verbo transitivo direto - sentido de experienciar)
+Ex.: Ele vive de caridade. (verbo transitivo indireto - sentido de subsistir)

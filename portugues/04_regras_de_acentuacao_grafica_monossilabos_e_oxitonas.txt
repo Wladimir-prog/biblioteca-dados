@@ -1,0 +1,101 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Regras de Acentuação Gráfica (Monossílabos e Oxítonas)
+
+INTRODUÇÃO À ACENTUAÇÃO GRÁFICA
+
+- A acentuação gráfica na língua portuguesa segue um conjunto de regras que visam indicar a sílaba tônica das palavras e diferenciar homógrafos. Compreender essas regras é fundamental para a escrita correta.
+
+- As regras gerais de acentuação são baseadas na posição da sílaba tônica e na terminação das palavras. Neste tema, focaremos nos monossílabos tônicos e nas palavras oxítonas.
+
+MONOSSÍLABOS TÔNICOS
+
+- São palavras que possuem apenas uma sílaba e que, quando pronunciadas isoladamente, têm sentido completo e forte. Nem todos os monossílabos são acentuados.
+
+- Acentuam-se os monossílabos tônicos terminados em A(S), E(S) e O(S).
+
+Ex.: PÁ
+Ex.: PÉS
+Ex.: NÓS
+
+1.1. MONOSSÍLABOS TÔNICOS TERMINADOS EM A(S)
+
+- Recebem acento agudo ou circunflexo quando terminam em A ou AS.
+
+Ex.: CHÁ
+Ex.: MÁS
+Ex.: JÁ
+
+1.2. MONOSSÍLABOS TÔNICOS TERMINADOS EM E(S)
+
+- Recebem acento agudo ou circunflexo quando terminam em E ou ES.
+
+Ex.: PÉ
+Ex.: MÊS
+Ex.: CRÊS
+
+1.3. MONOSSÍLABOS TÔNICOS TERMINADOS EM O(S)
+
+- Recebem acento agudo ou circunflexo quando terminam em O ou OS.
+
+Ex.: NÓ
+Ex.: PÔS
+Ex.: SÓS
+
+PALAVRAS OXÍTONAS
+
+- São palavras cuja sílaba tônica é a última. Assim como os monossílabos, nem todas as oxítonas são acentuadas.
+
+- Acentuam-se as oxítonas terminadas em A(S), E(S), O(S), EM e ENS.
+
+Ex.: CAFÉ
+Ex.: PARABÉNS
+Ex.: AVÓ
+
+2.1. OXÍTONAS TERMINADAS EM A(S)
+
+- Recebem acento agudo ou circunflexo quando terminam em A ou AS.
+
+Ex.: SOFÁ
+Ex.: VATAPÁS
+Ex.: ESTARÁ
+
+2.2. OXÍTONAS TERMINADAS EM E(S)
+
+- Recebem acento agudo ou circunflexo quando terminam em E ou ES.
+
+Ex.: CAFÉ
+Ex.: VOCÊS
+Ex.: JACARÉ
+
+2.3. OXÍTONAS TERMINADAS EM O(S)
+
+- Recebem acento agudo ou circunflexo quando terminam em O ou OS.
+
+Ex.: AVÔ
+Ex.: CIPÓS
+Ex.: ROBÔ
+
+2.4. OXÍTONAS TERMINADAS EM EM E ENS
+
+- Recebem acento agudo ou circunflexo quando terminam em EM ou ENS.
+
+Ex.: ALGUÉM
+Ex.: PARABÉNS
+Ex.: TAMBÉM
+
+EXCEÇÕES E CASOS ESPECIAIS
+
+- Não se acentuam oxítonas terminadas em I(S) ou U(S), a menos que formem hiato com a vogal anterior. Nesses casos, a acentuação segue a regra dos hiatos, que não é o foco principal deste tema.
+
+Ex.: CAJU
+Ex.: TATU
+Ex.: SAIR
+
+- Acentuam-se oxítonas com ditongos abertos ÉI, ÉU, ÓI, seguidos ou não de S. Esta é uma regra específica para ditongos abertos em oxítonas, importante para a correta grafia.
+
+Ex.: ANÉIS
+Ex.: CHAPÉU
+Ex.: HERÓI

@@ -1,0 +1,92 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Artigo e Numeral
+
+INTRODUÇÃO
+
+- O artigo e o numeral são classes de palavras que acompanham o substantivo, modificando-o ou especificando-o.
+- Compreender suas funções é essencial para a construção de frases claras e gramaticalmente corretas.
+
+1. ARTIGO
+
+- Artigo é a palavra que antecede o substantivo, determinando-o ou indeterminando-o.
+- Ele concorda em gênero e número com o substantivo a que se refere.
+
+1.1. ARTIGOS DEFINIDOS
+
+- Os artigos definidos especificam o substantivo, indicando que ele já é conhecido ou foi mencionado.
+- São eles: o, a, os, as.
+
+Ex.: O livro está na mesa.
+Ex.: A menina brinca no parque.
+Ex.: Os alunos estudam para a prova.
+
+1.2. ARTIGOS INDEFINIDOS
+
+- Os artigos indefinidos generalizam o substantivo, indicando que ele é desconhecido ou mencionado pela primeira vez.
+- São eles: um, uma, uns, umas.
+
+Ex.: Um cachorro latiu a noite toda.
+Ex.: Uma ideia surgiu de repente.
+Ex.: Uns pássaros voavam no céu.
+
+1.3. COMBINAÇÃO DOS ARTIGOS
+
+- Os artigos podem se combinar com preposições, formando novas palavras.
+- Exemplos comuns são: do (de + o), na (em + a), pelos (por + os), à (a + a).
+
+Ex.: Fui ao mercado. (a + o)
+Ex.: Moramos na cidade. (em + a)
+Ex.: Gosto dos filmes de ação. (de + os)
+
+2. NUMERAL
+
+- Numeral é a palavra que indica quantidade, ordem, fração ou multiplicação de seres ou coisas.
+- Assim como o artigo, o numeral também acompanha o substantivo.
+
+2.1. NUMERAIS CARDINAIS
+
+- Indicam uma quantidade exata de seres.
+- São os mais comuns: um, dois, três, cem, mil.
+
+Ex.: Tenho dois irmãos.
+Ex.: Comprei três maçãs.
+Ex.: Ele viveu cem anos.
+
+2.2. NUMERAIS ORDINAIS
+
+- Indicam a ordem ou posição de um ser em uma sequência.
+- Exemplos: primeiro, segundo, terceiro, décimo.
+
+Ex.: Ele foi o primeiro a chegar.
+Ex.: Moramos no segundo andar.
+Ex.: O terceiro capítulo é o melhor.
+
+2.3. NUMERAIS MULTIPLICATIVOS
+
+- Indicam o número de vezes que uma quantidade é multiplicada.
+- Exemplos: dobro, triplo, quádruplo.
+
+Ex.: Ele ganhou o dobro do salário.
+Ex.: Tivemos o triplo de vendas este mês.
+Ex.: O atleta fez o quádruplo de pontos.
+
+2.4. NUMERAIS FRACIONÁRIOS
+
+- Indicam uma parte ou fração de um todo.
+- Exemplos: meio, terço, quarto.
+
+Ex.: Comi metade da torta.
+Ex.: Um terço da turma faltou.
+Ex.: Ele bebeu um quarto do suco.
+
+2.5. FLEXÃO DOS NUMERAIS
+
+- A maioria dos numerais cardinais é invariável (dois, três, cem).
+- Alguns cardinais (um, dois) e todos os ordinais, multiplicativos e fracionários podem variar em gênero e número.
+
+Ex.: Uma maçã, duas maçãs.
+Ex.: Primeira colocada, primeiros colocados.
+Ex.: Metade da população, um terço do bolo.

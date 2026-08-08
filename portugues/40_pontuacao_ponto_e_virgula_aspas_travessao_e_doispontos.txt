@@ -1,0 +1,129 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Pontuação: Ponto e Vírgula, Aspas, Travessão e Dois-Pontos
+
+INTRODUÇÃO À PONTUAÇÃO
+
+- A pontuação é essencial para a clareza e o sentido do texto escrito. Ela reproduz pausas e entonações da fala, organizando as ideias e evitando ambiguidades. O uso correto dos sinais de pontuação é crucial para a compreensão.
+
+- Neste bloco, focaremos em quatro sinais específicos: ponto e vírgula, aspas, travessão e dois-pontos. Cada um possui funções distintas que contribuem para a coesão e coerência textual. Dominá-los é fundamental para uma escrita eficaz.
+
+PONTO E VÍRGULA
+
+- O ponto e vírgula (;) indica uma pausa intermediária, mais longa que a vírgula e mais curta que o ponto final. É usado para separar itens de uma enumeração complexa, orações coordenadas assindéticas com certa extensão ou orações coordenadas que já contêm vírgulas.
+
+1.1. SEPARAR ITENS DE ENUMERAÇÃO COMPLEXA
+
+- Utiliza-se ponto e vírgula para separar itens de uma lista quando esses itens já contêm vírgulas internamente, evitando confusão e garantindo a clareza da enumeração.
+
+Ex.: Os candidatos aprovados foram: João, da turma A; Maria, da turma B; e Pedro, da turma C.
+Ex.: Precisamos de: farinha, para o bolo; açúcar, para o doce; e ovos, para a omelete.
+Ex.: Na reunião, discutimos: o orçamento, que está apertado; os prazos, que são curtos; e as metas, que são ambiciosas.
+
+1.2. SEPARAR ORAÇÕES COORDENADAS EXTENSAS OU COM VÍRGULAS
+
+- Em orações coordenadas assindéticas de certa extensão ou em orações coordenadas que já apresentam vírgulas, o ponto e vírgula ajuda a organizar as ideias, indicando uma pausa mais significativa.
+
+Ex.: Ele estudou muito, dedicou-se aos livros; contudo, não obteve o resultado esperado.
+Ex.: Os alunos, cansados, esperavam o ônibus; os professores, por sua vez, corrigiam as provas.
+Ex.: A cidade, com suas luzes cintilantes, parecia um presépio; o silêncio, porém, era quase absoluto.
+
+ASPAS
+
+- As aspas (" ") são usadas para diversas finalidades, como indicar citação direta, realçar uma palavra ou expressão, marcar ironia ou gíria, e delimitar títulos de obras dentro de um texto.
+
+2.1. CITAR DIRETAMENTE
+
+- As aspas são empregadas para transcrever a fala exata de alguém ou um trecho literal de um texto.
+
+Ex.: O professor afirmou: "A pontuação é a alma da escrita".
+Ex.: Como disse Fernando Pessoa: "Tudo vale a pena se a alma não é pequena".
+Ex.: Ela leu o trecho: "O essencial é invisível aos olhos".
+
+2.2. REALÇAR PALAVRAS OU EXPRESSÕES
+
+- Podem ser usadas para destacar uma palavra estrangeira, um neologismo, uma gíria ou uma expressão que se deseja enfatizar ou questionar.
+
+Ex.: Ele se considera um "expert" no assunto.
+Ex.: Aquele "influencer" tem milhões de seguidores.
+Ex.: O projeto foi um "sucesso", apesar dos problemas iniciais.
+
+2.3. INDICAR IRONIA OU SENTIDO FIGURADO
+
+- As aspas podem sinalizar que uma palavra ou frase está sendo usada em sentido irônico ou figurado, diferente do seu significado literal.
+
+Ex.: Que "inteligente" da sua parte esquecer as chaves.
+Ex.: Ele é um "gênio" em matemática, mas não consegue somar dois mais dois.
+Ex.: A "paz" reinava na sala de aula, com todos os alunos conversando ao mesmo tempo.
+
+TRAVESSÃO
+
+- O travessão (—) é um sinal de pontuação versátil, utilizado principalmente para introduzir a fala de personagens em diálogos, isolar termos ou orações explicativas e enfatizar uma ideia.
+
+3.1. INTRODUZIR A FALA EM DIÁLOGOS
+
+- Em textos narrativos, o travessão marca o início da fala de um personagem, distinguindo-a da fala do narrador.
+
+Ex.: — Onde você vai? — perguntou ela.
+Ex.: — Preciso de ajuda — disse o menino, com a voz embargada.
+Ex.: — Amanhã será um novo dia — respondeu ele, com um sorriso.
+
+3.2. ISOLAR TERMOS OU ORAÇÕES EXPLICATIVAS
+
+- O travessão pode substituir a vírgula ou os parênteses para isolar apostos, vocativos, orações explicativas ou intercaladas, conferindo maior destaque à informação.
+
+Ex.: Machado de Assis — um dos maiores escritores brasileiros — nasceu no Rio de Janeiro.
+Ex.: A verdade — por mais dolorosa que seja — precisa ser dita.
+Ex.: Aquele homem — que sempre foi muito reservado — surpreendeu a todos com sua atitude.
+
+3.3. ENFATIZAR UMA IDEIA
+
+- Quando usado em pares, o travessão pode realçar uma informação, dando-lhe um caráter de interrupção ou de destaque.
+
+Ex.: A solução para o problema — que parecia impossível — surgiu de repente.
+Ex.: Ele tinha apenas um objetivo na vida — ser feliz.
+Ex.: A decisão foi tomada — após muita deliberação — e será implementada em breve.
+
+DOIS-PONTOS
+
+- Os dois-pontos (:) são empregados para introduzir uma citação, uma enumeração, uma explicação, um esclarecimento ou o resultado de algo que foi dito anteriormente.
+
+4.1. INTRODUZIR UMA CITAÇÃO OU FALA DIRETA
+
+- Antes de uma citação direta ou da fala de um personagem, quando esta é introduzida por um verbo de dizer.
+
+Ex.: Ele declarou: "Não aceitarei essa proposta".
+Ex.: A Bíblia diz: "Amarás o teu próximo como a ti mesmo".
+Ex.: O palestrante concluiu: "A educação é a chave para o futuro".
+
+4.2. INTRODUZIR UMA ENUMERAÇÃO
+
+- Antes de uma lista de itens que complementam ou exemplificam o que foi dito anteriormente.
+
+Ex.: Comprei vários itens: pão, leite, ovos e frutas.
+Ex.: Os elementos essenciais para a vida são: água, ar e alimento.
+Ex.: Para a receita, você precisará de: farinha, açúcar, ovos e fermento.
+
+4.3. INTRODUZIR UMA EXPLICAÇÃO OU ESCLARECIMENTO
+
+- Para apresentar uma explicação, um esclarecimento, uma consequência ou uma síntese do que foi afirmado.
+
+Ex.: Só havia uma solução: desistir.
+Ex.: O motivo de sua ausência era claro: estava doente.
+Ex.: Ele tinha um grande sonho: viajar pelo mundo.
+
+4.4. INTRODUZIR UM RESUMO OU CONCLUSÃO
+
+- Podem ser usados para introduzir um resumo ou uma conclusão do que foi exposto.
+
+Ex.: A situação era crítica: não havia mais tempo para hesitar.
+Ex.: A mensagem era simples: ame e seja amado.
+Ex.: O resultado da pesquisa foi surpreendente: a maioria prefere o trabalho remoto.
+
+CONCLUSÃO
+
+- A pontuação é um recurso poderoso na escrita, conferindo ritmo, clareza e precisão às ideias. O domínio do ponto e vírgula, aspas, travessão e dois-pontos é fundamental para qualquer escritor.
+
+- Praticar o uso desses sinais em diferentes contextos textuais é a melhor forma de internalizar suas regras e aplicá-los com naturalidade. A leitura atenta também auxilia na percepção de seu uso adequado.

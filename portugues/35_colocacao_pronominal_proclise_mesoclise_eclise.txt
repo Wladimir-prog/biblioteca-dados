@@ -1,0 +1,138 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Colocação Pronominal (Próclise, Mesóclise, Êclise)
+
+COLOCAÇÃO PRONOMINAL
+
+- A colocação pronominal estuda a posição dos pronomes oblíquos átonos (me, te, se, o, a, os, as, lhe, lhes, nos, vos) em relação ao verbo.
+- Existem três posições principais: próclise (antes do verbo), mesóclise (no meio do verbo) e ênclise (depois do verbo).
+- A escolha da posição depende de fatores sintáticos, como a presença de palavras atrativas e o tempo verbal.
+
+PRÓCLISE
+
+- A próclise ocorre quando o pronome oblíquo átono é colocado antes do verbo.
+- É a posição preferencial na língua portuguesa falada e escrita, especialmente quando há palavras atrativas.
+
+1.1. PALAVRAS ATRATIVAS
+- Palavras atrativas são termos que "puxam" o pronome para antes do verbo.
+- Incluem advérbios, pronomes indefinidos, pronomes demonstrativos, conjunções subordinativas, negações e algumas preposições.
+
+a) Advérbios (exceto em início de frase):
+Ex.: Nunca me disseram a verdade.
+Ex.: Aqui se faz, aqui se paga.
+Ex.: Ontem o vi no parque.
+
+b) Pronomes indefinidos:
+Ex.: Alguém me ligou.
+Ex.: Ninguém o ajudou.
+Ex.: Tudo se resolveu.
+
+c) Pronomes demonstrativos:
+Ex.: Isso me incomoda.
+Ex.: Aquilo nos pertence.
+Ex.: Este se arrependeu.
+
+d) Conjunções subordinativas:
+Ex.: Embora se esforçasse, não conseguiu.
+Ex.: Quando o encontrei, sorri.
+Ex.: Se me chamarem, irei.
+
+e) Negações:
+Ex.: Não me importo.
+Ex.: Jamais o perdoarei.
+Ex.: Nem se lembrou.
+
+f) Em frases exclamativas ou interrogativas:
+Ex.: Quem te contou isso?
+Ex.: Como se atreve!
+Ex.: Quanto lhe custou?
+
+MESÓCLISE
+
+- A mesóclise ocorre quando o pronome oblíquo átono é colocado no meio do verbo.
+- É usada apenas com verbos no futuro do presente ou futuro do pretérito do indicativo, desde que não haja palavra atrativa.
+
+2.1. FUTURO DO PRESENTE
+- O pronome é inserido entre o radical e a terminação do verbo.
+- A terminação verbal é mantida após o pronome.
+
+Ex.: Convidar-me-ão para a festa.
+Ex.: Far-lhe-ei um favor.
+Ex.: Ajudar-te-ei amanhã.
+
+2.2. FUTURO DO PRETÉRITO
+- O pronome é inserido entre o radical e a terminação do verbo.
+- A terminação verbal é mantida após o pronome.
+
+Ex.: Dir-se-ia que era mentira.
+Ex.: Faria-o se pudesse.
+Ex.: Entregar-lhe-ia o livro.
+
+ÊNCLISE
+
+- A ênclise ocorre quando o pronome oblíquo átono é colocado depois do verbo.
+- É a posição padrão quando não há fator que justifique a próclise ou a mesóclise.
+
+3.1. INÍCIO DE FRASE
+- É proibido iniciar frase com pronome oblíquo átono.
+- Nesses casos, a ênclise é obrigatória.
+
+Ex.: Entreguei-lhe o pacote.
+Ex.: Diga-me a verdade.
+Ex.: Chamaram-no para a reunião.
+
+3.2. VERBO NO IMPERATIVO AFIRMATIVO
+- Com verbos no imperativo afirmativo, a ênclise é a regra.
+
+Ex.: Sente-se aqui.
+Ex.: Ajude-me, por favor.
+Ex.: Façam-no agora.
+
+3.3. VERBO NO INFINITIVO IMPESSOAL
+- Quando o verbo está no infinitivo impessoal e não há palavra atrativa.
+
+Ex.: É preciso ajudá-lo.
+Ex.: Quero vê-lo feliz.
+Ex.: Decidi fazê-lo.
+
+3.4. VERBO NO GERÚNDIO
+- Quando o verbo está no gerúndio e não é precedido por "em".
+
+Ex.: Olhando-o, percebi a tristeza.
+Ex.: Escrevendo-lhe, senti saudade.
+Ex.: Abraçando-a, consolou-a.
+
+CASOS ESPECIAIS E PROIBIÇÕES
+
+- Não se usa ênclise com verbos no futuro do presente ou do pretérito (exceto se houver palavra atrativa que force a próclise).
+- Não se usa ênclise quando o verbo está no particípio.
+- Não se usa próclise em início de frase.
+
+4.1. VERBO NO PARTICÍPIO
+- Com verbos no particípio, o pronome oblíquo átono não se liga diretamente.
+- Geralmente, o pronome aparece antes do verbo auxiliar.
+
+Ex.: Tinha-o encontrado.
+Ex.: Havia-lhe falado.
+Ex.: Foram-nos apresentados.
+
+4.2. LOCUÇÕES VERBAIS
+- Em locuções verbais, a colocação depende do verbo auxiliar e da presença de palavra atrativa.
+- Se o auxiliar for particípio, o pronome vai antes do auxiliar ou depois do principal (se este for infinitivo/gerúndio e não houver atrativo).
+
+a) Com auxiliar no infinitivo ou gerúndio e sem atrativo:
+Ex.: Vou-te ajudar.
+Ex.: Estou-o esperando.
+Ex.: Quero-lhe falar.
+
+b) Com auxiliar no infinitivo ou gerúndio e com atrativo:
+Ex.: Não te vou ajudar.
+Ex.: Sempre o estou esperando.
+Ex.: Nunca lhe quero falar.
+
+c) Com auxiliar no particípio:
+Ex.: Haviam-no convidado.
+Ex.: Tinham-se esquecido.
+Ex.: Ter-lhe-iam dito.

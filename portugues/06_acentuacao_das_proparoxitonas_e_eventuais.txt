@@ -1,0 +1,57 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Acentuação das Proparoxítonas e Eventuais
+
+INTRODUÇÃO À ACENTUAÇÃO GRÁFICA
+
+- A acentuação gráfica na Língua Portuguesa segue regras específicas para indicar a sílaba tônica das palavras e, em alguns casos, diferenciar vocábulos. É fundamental para a correta pronúncia e escrita.
+
+- As palavras são classificadas em oxítonas, paroxítonas e proparoxítonas, de acordo com a posição da sílaba tônica. Cada categoria possui suas próprias regras de acentuação.
+
+1. ACENTUAÇÃO DAS PROPAROXÍTONAS
+
+- As palavras proparoxítonas são aquelas cuja sílaba tônica é a antepenúltima.
+
+- REGRA GERAL: Todas as palavras proparoxítonas são acentuadas graficamente.
+
+Ex.: MÉDICO
+Ex.: LÂMPADA
+Ex.: ÚLTIMO
+
+2. ACENTUAÇÃO DOS CASOS EVENTUAIS
+
+- Os casos eventuais referem-se a situações específicas que, embora não sejam proparoxítonas, recebem acento por regras particulares, como as paroxítonas terminadas em ditongo crescente e os hiatos.
+
+2.1. PAROXÍTONAS TERMINADAS EM DITONGO CRESCENTE
+
+- São palavras paroxítonas (sílaba tônica na penúltima) que terminam em ditongo crescente (vogal + semivogal).
+
+- REGRA: Todas as paroxítonas terminadas em ditongo crescente são acentuadas graficamente.
+
+Ex.: HISTÓRIA (his-TÓ-ria)
+Ex.: SÉRIE (SÉ-rie)
+Ex.: ÁGUA (Á-gua)
+
+2.2. ACENTUAÇÃO DOS HIATOS
+
+- Hiato ocorre quando duas vogais consecutivas pertencem a sílabas diferentes.
+
+- REGRA: Acentuam-se o 'i' e o 'u' tônicos dos hiatos quando formam sílaba sozinhos ou seguidos de 's', desde que não sejam seguidos de 'nh' e não formem ditongo com a vogal anterior.
+
+Ex.: SAÚDE (sa-Ú-de)
+Ex.: CAÍDA (ca-Í-da)
+Ex.: BAÚ (ba-Ú)
+
+3. DIFERENÇA ENTRE PROPAROXÍTONAS E PAROXÍTONAS COM DITONGO CRESCENTE
+
+- A principal diferença está na contagem das sílabas e na identificação do ditongo.
+
+- Em proparoxítonas, a antepenúltima sílaba é tônica e não há ditongo crescente na terminação que justifique a acentuação por outra regra.
+
+- Em paroxítonas com ditongo crescente, a penúltima sílaba é tônica e a palavra termina em um ditongo crescente, que é a condição para o acento.
+
+Ex.: CIENTÍFICO (ci-en-TÍ-fi-co) - Proparoxítona
+Ex.: CIÊNCIA (ci-ÊN-cia) - Paroxítona terminada em ditongo crescente
+Ex.: MÚSICA (MÚ-si-ca) - Proparoxítona

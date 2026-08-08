@@ -1,0 +1,108 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Pontuação: Uso da Vírgula
+
+A VÍRGULA: CONCEITO E FUNÇÃO
+
+- A vírgula (,) é um sinal de pontuação que indica uma pausa breve na leitura e serve para separar termos da oração ou orações no período, evitando ambiguidades e conferindo clareza ao texto.
+
+- Seu uso é determinado por regras sintáticas, não meramente por pausas respiratórias.
+
+USOS OBRIGATÓRIOS DA VÍRGULA
+
+1. PARA SEPARAR TERMOS DA MESMA FUNÇÃO SINTÁTICA EM UMA ENUMERAÇÃO
+
+- Utiliza-se a vírgula para separar elementos de uma sequência que exercem a mesma função sintática, exceto quando unidos por conjunções aditivas (e, nem, ou) ou alternativas (ou, ou...ou).
+
+Ex.: Comprei pão, leite, queijo e café.
+Ex.: Ele é inteligente, dedicado, honesto.
+Ex.: Gosto de ler, escrever, estudar.
+
+2. PARA ISOLAR O VOCATIVO
+
+- O vocativo é um termo que serve para chamar ou interpelar o interlocutor. Ele deve ser sempre isolado por vírgulas.
+
+Ex.: Maria, venha aqui.
+Ex.: Por favor, professor, repita a explicação.
+Ex.: Amigos, vamos celebrar!
+
+3. PARA ISOLAR O APOSTO EXPLICATIVO
+
+- O aposto explicativo é um termo que acrescenta uma informação adicional sobre um substantivo ou pronome já mencionado, geralmente um substantivo.
+
+Ex.: Machado de Assis, o maior escritor brasileiro, nasceu no Rio de Janeiro.
+Ex.: Brasília, capital do Brasil, é conhecida por sua arquitetura.
+Ex.: Meu irmão, um excelente médico, viajou.
+
+4. PARA ISOLAR O ADJUNTO ADVERBIAL DESLOCADO
+
+- Quando o adjunto adverbial (de tempo, lugar, modo, causa, etc.) é de longa extensão ou está deslocado de sua posição natural (final da frase), ele deve ser isolado por vírgula.
+
+- Adjuntos adverbiais curtos e deslocados podem ter a vírgula facultativa.
+
+Ex.: Naquela manhã fria de inverno, todos se reuniram. (longa extensão)
+Ex.: Com muita calma, ele resolveu o problema. (curta extensão, deslocado)
+Ex.: Ontem, fomos ao cinema. (curta extensão, facultativa)
+
+5. PARA ISOLAR EXPRESSÕES EXPLICATIVAS OU RETIFICATIVAS
+
+- Expressões como "isto é", "ou seja", "por exemplo", "aliás", "isto posto", "a propósito", "com efeito", "enfim", "ou melhor" devem ser isoladas por vírgulas.
+
+Ex.: Ele é muito estudioso, isto é, dedica-se bastante.
+Ex.: A reunião será amanhã, ou melhor, depois de amanhã.
+Ex.: Muitos alunos, por exemplo, não entenderam a questão.
+
+6. PARA SEPARAR O NOME DO LUGAR NA INDICAÇÃO DE DATAS E ENDEREÇOS
+
+- Em datas, a vírgula separa o nome da localidade do dia. Em endereços, separa o logradouro do número, e o bairro da cidade.
+
+Ex.: São Paulo, 15 de maio de 2024.
+Ex.: Rua das Flores, 123, Centro, Rio de Janeiro.
+Ex.: Curitiba, 20 de abril.
+
+7. PARA MARCAR A ELIPSE DO VERBO
+
+- A vírgula pode ser usada para indicar a omissão de um verbo que já foi mencionado anteriormente na frase, evitando a repetição.
+
+Ex.: Eu gosto de café; ele, de chá. (omissão do verbo "gosta")
+Ex.: João estuda matemática; Pedro, física. (omissão do verbo "estuda")
+Ex.: Ela prefere praia; eu, montanha. (omissão do verbo "prefere")
+
+8. PARA SEPARAR ORAÇÕES COORDENADAS SINDÉTICAS E ASSINDÉTICAS
+
+- Orações coordenadas assindéticas (sem conjunção) são sempre separadas por vírgulas.
+
+- Orações coordenadas sindéticas (com conjunção) são separadas por vírgulas, exceto as aditivas iniciadas por "e" (a não ser que os sujeitos sejam diferentes ou haja ênfase).
+
+Ex.: Cheguei, vi, venci. (assindéticas)
+Ex.: Ele estudou muito, mas não passou. (sindética adversativa)
+Ex.: Choveu, ventou, fez frio. (assindéticas)
+
+9. PARA SEPARAR ORAÇÕES SUBORDINADAS ADVERBIAIS DESLOCADAS
+
+- Orações subordinadas adverbiais, quando vêm antes da oração principal ou intercaladas, devem ser separadas por vírgula. Se vierem depois, a vírgula é facultativa (se a oração for curta) ou obrigatória (se for longa).
+
+Ex.: Quando você chegou, todos já haviam saído. (deslocada)
+Ex.: Embora estivesse cansado, ele continuou trabalhando. (deslocada)
+Ex.: Ele não veio, porque estava doente. (depois, facultativa)
+
+10. PARA SEPARAR ORAÇÕES SUBORDINADAS ADJETIVAS EXPLICATIVAS
+
+- As orações subordinadas adjetivas explicativas (que adicionam uma informação extra sobre o antecedente, sem restringi-lo) são sempre isoladas por vírgulas.
+
+Ex.: O homem, que é um ser racional, comete erros.
+Ex.: Meu pai, que mora no interior, virá nos visitar.
+Ex.: O livro, que comprei ontem, é excelente.
+
+CASOS EM QUE NÃO SE USA A VÍRGULA
+
+- Não se usa vírgula para separar o sujeito do predicado.
+- Não se usa vírgula para separar o verbo de seus complementos (objeto direto, objeto indireto).
+- Não se usa vírgula para separar o nome de seu complemento nominal ou adjunto adnominal.
+- Não se usa vírgula para separar o agente da passiva.
+
+Ex.: Os alunos estudaram a matéria. (Sujeito e Predicado)
+Ex.: Ele comprou um carro novo. (Verbo e Objeto Direto)
+Ex.: Tenho necessidade de silêncio. (Nome e Complemento Nominal)

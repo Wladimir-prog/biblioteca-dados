@@ -1,0 +1,55 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Agente da Passiva
+
+O QUE É O AGENTE DA PASSIVA
+
+- O agente da passiva é o termo da oração que pratica a ação expressa pelo verbo na voz passiva. Ele indica quem ou o que realiza a ação.
+
+- Este termo é sempre introduzido por uma preposição, geralmente "por" ou "de". É fundamental para compreender a estrutura da voz passiva analítica.
+
+Ex.: O livro foi lido PELO ALUNO.
+Ex.: A casa foi construída PELOS TRABALHADORES.
+Ex.: Ele era amado DE TODOS.
+
+VOZ PASSIVA ANALÍTICA
+
+- O agente da passiva só ocorre na voz passiva analítica, que é formada por um verbo auxiliar (ser, estar, ficar) mais o particípio do verbo principal.
+
+- Na voz passiva sintética, não há agente da passiva explícito, pois o agente é indeterminado ou não é o foco da frase.
+
+Ex.: A carta foi escrita POR MIM. (Voz passiva analítica com agente da passiva)
+Ex.: Vende-se casas. (Voz passiva sintética, sem agente da passiva explícito)
+Ex.: O bolo estava sendo preparado PELA COZINHEIRA. (Voz passiva analítica com agente da passiva)
+
+RELAÇÃO COM A VOZ ATIVA
+
+- Quando transformamos uma oração da voz ativa para a voz passiva analítica, o sujeito da voz ativa torna-se o agente da passiva.
+
+- O objeto direto da voz ativa, por sua vez, torna-se o sujeito da voz passiva. Essa transformação é um conceito chave para identificar o agente.
+
+Ex.: O vento derrubou a árvore. (Voz ativa) -> A árvore foi derrubada PELO VENTO. (Voz passiva)
+Ex.: Os alunos fizeram o trabalho. (Voz ativa) -> O trabalho foi feito PELOS ALUNOS. (Voz passiva)
+Ex.: A chuva molhou as roupas. (Voz ativa) -> As roupas foram molhadas PELA CHUVA. (Voz passiva)
+
+PREPOSIÇÕES MAIS COMUNS
+
+- As preposições mais comuns que introduzem o agente da passiva são "por" e "de". A escolha da preposição pode depender do verbo ou do contexto.
+
+- A preposição "por" é a mais frequente e pode aparecer combinada com artigos (pelo, pela, pelos, pelas). A preposição "de" é menos comum, mas também ocorre.
+
+Ex.: A cidade foi destruída PELO INCÊNDIO. (Preposição "por" combinada)
+Ex.: Ele era respeitado DE TODOS. (Preposição "de")
+Ex.: O muro foi pintado PELO ARTISTA. (Preposição "por" combinada)
+
+DIFERENÇA ENTRE AGENTE DA PASSIVA E ADJUNTO ADVERBIAL
+
+- É importante não confundir o agente da passiva com o adjunto adverbial de causa ou de agente. O agente da passiva pratica a ação do verbo passivo.
+
+- O adjunto adverbial, por sua vez, expressa uma circunstância (tempo, lugar, modo, causa, etc.) e não é o agente da ação verbal.
+
+Ex.: A casa foi construída PELO ENGENHEIRO. (Agente da passiva)
+Ex.: A casa foi construída COM ESFORÇO. (Adjunto adverbial de modo)
+Ex.: A casa foi construída À NOITE. (Adjunto adverbial de tempo)

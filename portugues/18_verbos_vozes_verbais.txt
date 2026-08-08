@@ -1,0 +1,89 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Verbos: Vozes Verbais
+
+AS VOZES VERBAIS
+
+- As vozes verbais indicam a relação entre o sujeito e a ação expressa pelo verbo. Elas mostram se o sujeito pratica, sofre ou pratica e sofre a ação verbal.
+
+- Existem três vozes verbais principais na Língua Portuguesa: voz ativa, voz passiva e voz reflexiva.
+
+1. VOZ ATIVA
+
+- Na voz ativa, o sujeito é o agente da ação, ou seja, ele pratica a ação expressa pelo verbo.
+
+- A estrutura básica é: Sujeito (agente) + Verbo Transitivo + Objeto.
+
+Ex.: O aluno leu o livro.
+Ex.: A criança comeu o bolo.
+Ex.: O professor explicou a matéria.
+
+2. VOZ PASSIVA
+
+- Na voz passiva, o sujeito é o paciente da ação, ou seja, ele sofre ou recebe a ação verbal. O agente da ação pode estar presente na frase, introduzido por preposição (agente da passiva), ou pode estar implícito.
+
+- A voz passiva pode ser construída de duas formas: analítica ou sintética.
+
+2.1. VOZ PASSIVA ANALÍTICA
+
+- É formada por um verbo auxiliar (ser, estar, ficar) + particípio do verbo principal. O agente da ação, se presente, é introduzido pela preposição "por" ou "de".
+
+- Estrutura: Sujeito (paciente) + Verbo Auxiliar (ser, estar, ficar) + Particípio do Verbo Principal + (por/de + Agente da Passiva).
+
+Ex.: O livro foi lido pelo aluno.
+Ex.: O bolo foi comido pela criança.
+Ex.: A matéria foi explicada pelo professor.
+
+2.2. VOZ PASSIVA SINTÉTICA (OU PRONOMINAL)
+
+- É formada por um verbo transitivo direto ou transitivo direto e indireto na terceira pessoa (singular ou plural) + o pronome apassivador "se". Não há agente da passiva explícito.
+
+- Estrutura: Verbo Transitivo (3a pessoa) + Pronome "se" + Sujeito (paciente).
+
+Ex.: Leu-se o livro.
+Ex.: Comeu-se o bolo.
+Ex.: Explicou-se a matéria.
+
+3. VOZ REFLEXIVA
+
+- Na voz reflexiva, o sujeito pratica e sofre a ação ao mesmo tempo. A ação "reflete" sobre o próprio sujeito.
+
+- É formada por um verbo transitivo acompanhado de um pronome oblíquo átono (me, te, se, nos, vos) que concorda com o sujeito e funciona como objeto direto ou indireto.
+
+- Estrutura: Sujeito + Verbo + Pronome Reflexivo (me, te, se, nos, vos).
+
+Ex.: Ele se cortou com a faca.
+Ex.: Eu me vesti rapidamente.
+Ex.: Ela se olhou no espelho.
+
+3.1. VOZ REFLEXIVA RECÍPROCA
+
+- É um tipo específico de voz reflexiva em que a ação é praticada e sofrida mutuamente por dois ou mais sujeitos. O pronome oblíquo átono indica essa reciprocidade.
+
+- Estrutura: Sujeitos (plural) + Verbo + Pronome Reflexivo (se, nos, vos).
+
+Ex.: Os alunos se cumprimentaram.
+Ex.: Eles se abraçaram com carinho.
+Ex.: Nós nos ajudamos mutuamente.
+
+4. TRANSFORMAÇÃO ENTRE AS VOZES
+
+- É possível transformar frases da voz ativa para a voz passiva e vice-versa, mantendo o sentido original.
+
+- Ao transformar da voz ativa para a passiva analítica:
+  - O objeto direto da voz ativa torna-se o sujeito paciente da voz passiva.
+  - O sujeito agente da voz ativa torna-se o agente da passiva (introduzido por "por" ou "de").
+  - O verbo principal da voz ativa é conjugado no particípio, acompanhado do verbo auxiliar "ser" no mesmo tempo e modo do verbo ativo.
+
+Ex.: O menino quebrou o copo. (Ativa)
+Ex.: O copo foi quebrado pelo menino. (Passiva Analítica)
+
+- Ao transformar da voz passiva analítica para a ativa:
+  - O sujeito paciente da passiva torna-se o objeto direto da ativa.
+  - O agente da passiva torna-se o sujeito agente da ativa.
+  - O verbo principal volta à sua forma ativa, no tempo e modo corretos.
+
+Ex.: A carta foi escrita por Maria. (Passiva Analítica)
+Ex.: Maria escreveu a carta. (Ativa)

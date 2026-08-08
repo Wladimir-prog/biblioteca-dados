@@ -1,0 +1,151 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Adjetivo e Locução Adjetiva
+
+O ADJETIVO
+
+- O adjetivo é a classe de palavras que qualifica ou caracteriza o substantivo, atribuindo-lhe uma qualidade, estado, modo de ser ou aspecto. Ele concorda em gênero e número com o substantivo a que se refere.
+
+- Sua função principal é modificar o substantivo, tornando a descrição mais precisa e rica. Pode vir antes ou depois do substantivo.
+
+Ex.: Casa bonita.
+Ex.: Homem inteligente.
+Ex.: Dia ensolarado.
+
+1. CLASSIFICAÇÃO DOS ADJETIVOS
+
+1.1. ADJETIVOS SIMPLES
+- Possuem apenas um radical em sua formação.
+
+Ex.: Azul.
+Ex.: Feliz.
+Ex.: Grande.
+
+1.2. ADJETIVOS COMPOSTOS
+- Possuem dois ou mais radicais em sua formação. Geralmente são ligados por hífen.
+
+Ex.: Luso-brasileiro.
+Ex.: Verde-claro.
+Ex.: Socioeconômico.
+
+1.3. ADJETIVOS PRIMITIVOS
+- Não derivam de outras palavras na língua portuguesa.
+
+Ex.: Bom.
+Ex.: Belo.
+Ex.: Frio.
+
+1.4. ADJETIVOS DERIVADOS
+- Derivam de substantivos, verbos ou outros adjetivos.
+
+Ex.: Estudantil (de estudante).
+Ex.: Amável (de amar).
+Ex.: Tristonho (de triste).
+
+1.5. ADJETIVOS PÁTRIOS
+- Indicam a origem ou nacionalidade de seres ou coisas.
+
+Ex.: Brasileiro.
+Ex.: Paulista.
+Ex.: Europeu.
+
+2. FLEXÃO DOS ADJETIVOS
+
+- Os adjetivos flexionam-se em gênero (masculino e feminino), número (singular e plural) e grau (comparativo e superlativo).
+
+2.1. FLEXÃO DE GÊNERO
+- Biformes: Possuem uma forma para o masculino e outra para o feminino.
+Ex.: Ativo / Ativa.
+Ex.: Belo / Bela.
+Ex.: Bom / Boa.
+
+- Uniformes: Possuem uma única forma para ambos os gêneros.
+Ex.: Feliz.
+Ex.: Simples.
+Ex.: Jovem.
+
+2.2. FLEXÃO DE NÚMERO
+- A maioria dos adjetivos forma o plural seguindo as mesmas regras dos substantivos.
+
+Ex.: Carro novo / Carros novos.
+Ex.: Mulher feliz / Mulheres felizes.
+Ex.: Livro azul-claro / Livros azul-claros.
+
+2.3. FLEXÃO DE GRAU
+- Grau Comparativo: Compara uma qualidade entre dois ou mais seres, ou duas ou mais qualidades de um mesmo ser.
+  - De Igualdade: tão... quanto (ou como). Ex.: Ele é tão inteligente quanto o irmão.
+  - De Superioridade: mais... que (ou do que). Ex.: Ela é mais alta que a irmã.
+  - De Inferioridade: menos... que (ou do que). Ex.: O filme foi menos interessante que o livro.
+
+- Grau Superlativo: Expressa a qualidade em seu grau máximo.
+  - Absoluto: A qualidade de um ser sem comparação.
+    - Analítico: Adjetivo acompanhado de advérbio de intensidade. Ex.: Muito feliz, extremamente rápido.
+    - Sintético: Adjetivo com sufixo. Ex.: Felicíssimo, rapidíssimo.
+  - Relativo: A qualidade de um ser em relação a um grupo.
+    - De Superioridade: o mais... de (ou dentre). Ex.: Ele é o mais inteligente da turma.
+    - De Inferioridade: o menos... de (ou dentre). Ex.: Ela é a menos experiente do grupo.
+
+A LOCUÇÃO ADJETIVA
+
+- A locução adjetiva é uma expressão formada por duas ou mais palavras que, juntas, exercem a função de um adjetivo, caracterizando um substantivo. Geralmente é composta por uma preposição seguida de um substantivo ou advérbio.
+
+- Ela pode ser substituída por um adjetivo correspondente, quando este existe.
+
+Ex.: Amor de mãe (amor materno).
+Ex.: Água do rio (água fluvial).
+Ex.: Luz do sol (luz solar).
+
+3. PRINCIPAIS LOCUÇÕES ADJETIVAS E SEUS ADJETIVOS CORRESPONDENTES
+
+- de abelha = apícola
+- de aluno = discente
+- de ano = anual
+- de boca = bucal, oral
+- de boi = bovino
+- de cabelo = capilar
+- de cão = canino
+- de carneiro = ovino
+- de chumbo = plúmbeo
+- de chuva = pluvial
+- de costa = costeiro
+- de criança = pueril
+- de dedo = digital
+- de estômago = estomacal, gástrico
+- de estrela = estelar
+- de ferro = férreo
+- de fogo = ígneo
+- de gato = felino
+- de gelo = glacial
+- de guerra = bélico
+- de ilha = insular
+- de inverno = hibernal
+- de lago = lacustre
+- de leão = leonino
+- de lobo = lupino
+- de lua = lunar
+- de madeira = lígneo
+- de mãe = materno
+- de marfim = ebúrneo
+- de mestre = magistral
+- de monge = monacal
+- de neve = nival
+- de noite = noturno
+- de olho = ocular
+- de ouro = áureo
+- de ovelha = ovino
+- de pai = paterno
+- de pântano = palustre
+- de peixe = piscícola
+- de pedra = pétreo
+- de prata = argênteo
+- de rio = fluvial
+- de sol = solar
+- de sonho = onírico
+- de terra = terrestre
+- de verão = estival
+- de vento = eólico
+- de vidro = vítreo
+- de virgem = virginal
+- de voz = vocal

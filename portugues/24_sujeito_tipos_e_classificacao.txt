@@ -1,0 +1,102 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Sujeito: Tipos e Classificação
+
+INTRODUÇÃO AO SUJEITO
+
+- O sujeito é o termo da oração que pratica ou sofre a ação verbal, ou sobre o qual se declara algo. É o elemento central em torno do qual o predicado se organiza.
+
+- Sua identificação é crucial para a correta análise sintática e para a concordância verbal.
+
+- Para encontrar o sujeito, geralmente perguntamos ao verbo "Quem?" ou "O quê?".
+
+Ex.: Os alunos estudam para a prova.
+Ex.: O livro foi lido por muitos.
+Ex.: A cidade é grande.
+
+TIPOS DE SUJEITO
+
+1. SUJEITO DETERMINADO
+
+- É aquele que pode ser identificado na oração. Pode ser simples, composto ou oculto (elíptico).
+
+1.1. SUJEITO SIMPLES
+
+- Possui apenas um núcleo. O núcleo é a palavra mais importante do sujeito.
+
+Ex.: O professor explicou a matéria.
+Ex.: Ela viajou ontem.
+Ex.: A chuva caiu forte.
+
+1.2. SUJEITO COMPOSTO
+
+- Possui dois ou mais núcleos.
+
+Ex.: Pedro e Maria foram ao cinema.
+Ex.: Livros e cadernos estavam sobre a mesa.
+Ex.: O sol e a lua iluminam o universo.
+
+1.3. SUJEITO OCULTO (ELÍPTICO OU DESINENCIAL)
+
+- Não está expresso na oração, mas pode ser identificado pela desinência verbal ou pelo contexto.
+
+Ex.: Viajamos para o litoral. (Nós)
+Ex.: Estudei muito para a prova. (Eu)
+Ex.: Chegou cedo. (Ele/Ela)
+
+2. SUJEITO INDETERMINADO
+
+- É aquele que existe, mas não se quer ou não se pode identificar.
+
+- Pode ocorrer de duas formas principais:
+
+a) Verbo na 3a pessoa do plural, sem referência a um sujeito expresso anteriormente.
+
+Ex.: Roubaram meu carro.
+Ex.: Falaram mal de você.
+Ex.: Bateram na porta.
+
+b) Verbo na 3a pessoa do singular, acompanhado do pronome "se" (índice de indeterminação do sujeito - IIS).
+
+- O verbo não pode ser transitivo direto nem de ligação. Geralmente são verbos intransitivos, transitivos indiretos ou de ligação.
+
+Ex.: Precisa-se de funcionários. (Verbo transitivo indireto)
+Ex.: Vive-se bem aqui. (Verbo intransitivo)
+Ex.: Era-se feliz naquela época. (Verbo de ligação)
+
+3. ORAÇÃO SEM SUJEITO (SUJEITO INEXISTENTE)
+
+- Ocorre quando a oração não possui um sujeito, pois o verbo expressa um fenômeno da natureza ou um tempo/existência impessoal.
+
+- Verbos impessoais:
+
+a) Verbos que indicam fenômenos da natureza.
+
+Ex.: Choveu muito ontem.
+Ex.: Nevou na serra.
+Ex.: Ventou forte.
+
+b) Verbo "haver" no sentido de "existir", "ocorrer" ou "fazer" (tempo decorrido).
+
+Ex.: Há muitos livros na biblioteca. (Existe)
+Ex.: Houve um acidente na estrada. (Ocorreu)
+Ex.: Faz anos que não o vejo. (Tempo decorrido)
+
+c) Verbo "fazer" indicando tempo ou clima.
+
+Ex.: Faz calor no verão.
+Ex.: Faz dez anos que moro aqui.
+Ex.: Faz frio hoje.
+
+d) Verbos "ser", "estar", "ficar" indicando tempo ou clima.
+
+Ex.: É tarde.
+Ex.: Está quente.
+Ex.: Fica frio à noite.
+
+e) Verbos "passar" e "estar" indicando tempo.
+
+Ex.: Passa das dez.
+Ex.: Está na hora.

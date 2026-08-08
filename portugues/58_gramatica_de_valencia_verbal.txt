@@ -1,0 +1,111 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: LINGUÍSTICA E VALÊNCIA
+TEMA: Gramática de Valência Verbal
+
+INTRODUÇÃO À VALÊNCIA VERBAL
+
+- A valência verbal é um conceito fundamental na linguística que descreve a capacidade de um verbo de exigir um certo número e tipo de argumentos (complementos) para formar uma oração gramaticalmente completa e semanticamente coerente.
+
+- Ela vai além da simples transitividade, focando na estrutura argumental intrínseca do verbo.
+
+- Compreender a valência ajuda a analisar a estrutura sintática das frases e a prever os elementos que devem acompanhar um verbo.
+
+1. CONCEITO DE VALÊNCIA VERBAL
+
+- A valência verbal refere-se ao número de "lugares" ou "espaços" que um verbo abre para ser preenchido por seus argumentos.
+
+- Esses argumentos são os elementos sintáticos (sujeito, objetos, complementos) que são semanticamente exigidos pelo verbo para que a frase tenha sentido completo.
+
+- É uma propriedade lexical do verbo, ou seja, faz parte de seu significado e comportamento sintático.
+
+Ex.: O menino comeu a maçã. (Verbo "comer" exige um sujeito e um objeto direto)
+Ex.: Ela gosta de chocolate. (Verbo "gostar" exige um sujeito e um objeto indireto)
+Ex.: O professor explicou a matéria aos alunos. (Verbo "explicar" exige sujeito, objeto direto e objeto indireto)
+
+2. TIPOS DE VALÊNCIA VERBAL
+
+- Os verbos podem ser classificados de acordo com o número de argumentos que exigem.
+
+- Essa classificação é mais detalhada que a tradicional transitividade, considerando o sujeito como um argumento.
+
+- A valência pode ser zero, um, dois ou três.
+
+2.1. VERBOS AVALENTES (VALÊNCIA ZERO)
+
+- São verbos que não exigem nenhum argumento, nem mesmo um sujeito explícito.
+
+- Geralmente são verbos impessoais, que expressam fenômenos da natureza.
+
+- Não possuem sujeito gramatical.
+
+Ex.: Choveu muito ontem.
+Ex.: Nevou na serra.
+Ex.: Faz calor no verão.
+
+2.2. VERBOS MONOVALENTES (VALÊNCIA UM)
+
+- São verbos que exigem apenas um argumento, que geralmente é o sujeito.
+
+- Correspondem aos verbos intransitivos na gramática tradicional, mas aqui o sujeito é contado como argumento.
+
+- O verbo expressa uma ação ou estado que não transita para outro elemento além do sujeito.
+
+Ex.: O bebê dorme.
+Ex.: O pássaro voa.
+Ex.: Ele morreu.
+
+2.3. VERBOS BIVALENTES (VALÊNCIA DOIS)
+
+- São verbos que exigem dois argumentos.
+
+- Podem ser um sujeito e um objeto direto (transitivo direto), ou um sujeito e um objeto indireto (transitivo indireto).
+
+- A maioria dos verbos na língua portuguesa se encaixa nesta categoria.
+
+Ex.: Ela comprou um livro. (Sujeito + Objeto Direto)
+Ex.: Nós precisamos de ajuda. (Sujeito + Objeto Indireto)
+Ex.: O aluno estudou a lição. (Sujeito + Objeto Direto)
+
+2.4. VERBOS TRIVALENTES (VALÊNCIA TRÊS)
+
+- São verbos que exigem três argumentos.
+
+- Geralmente são um sujeito, um objeto direto e um objeto indireto.
+
+- Correspondem aos verbos transitivos diretos e indiretos.
+
+Ex.: O professor entregou o trabalho aos alunos. (Sujeito + OD + OI)
+Ex.: Eu dei um presente a ela. (Sujeito + OD + OI)
+Ex.: A empresa ofereceu um bônus aos funcionários. (Sujeito + OD + OI)
+
+3. ARGUMENTOS E ADJUNTOS
+
+- É crucial distinguir entre argumentos e adjuntos.
+
+- Argumentos são elementos exigidos pelo verbo para completar seu sentido. Sem eles, a frase fica incompleta ou agramatical.
+
+- Adjuntos são elementos opcionais que adicionam informações extras (tempo, lugar, modo), mas não são exigidos pelo verbo.
+
+Ex.: Ele comeu (o bolo) rapidamente. ("o bolo" é argumento, "rapidamente" é adjunto)
+Ex.: Ela viajou (para Paris) ontem. ("para Paris" e "ontem" são adjuntos)
+Ex.: O médico atendeu o paciente (com atenção). ("o paciente" é argumento, "com atenção" é adjunto)
+
+4. IMPORTÂNCIA DA VALÊNCIA VERBAL
+
+- A valência verbal é essencial para a análise sintática e semântica das frases.
+
+- Ajuda a identificar os papéis temáticos dos constituintes da oração.
+
+- Facilita a compreensão da estrutura profunda das sentenças e a produção de textos mais claros e precisos.
+
+- É um conceito chave para o estudo da sintaxe gerativa e outras teorias linguísticas modernas.
+
+CONCLUSÃO
+
+- A gramática de valência verbal oferece uma perspectiva mais aprofundada sobre o comportamento dos verbos.
+
+- Ela nos permite entender como os verbos "governam" a estrutura da oração, exigindo seus complementos.
+
+- Dominar este conceito aprimora a capacidade de análise e produção textual em Língua Portuguesa.

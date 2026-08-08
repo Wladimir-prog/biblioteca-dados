@@ -1,0 +1,89 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS
+TEMA: Polissemia e Ambiguidade
+
+INTRODUÇÃO
+
+- A língua portuguesa é rica e complexa, permitindo diversas interpretações para palavras e frases. Compreender a polissemia e a ambiguidade é fundamental para uma comunicação clara e eficaz.
+
+- Estes fenômenos semânticos podem tanto enriquecer a linguagem quanto gerar mal-entendidos, dependendo do contexto e da intenção comunicativa.
+
+POLISSEMIA
+
+- A polissemia ocorre quando uma mesma palavra possui múltiplos significados, que podem ser relacionados ou não, dependendo do contexto em que é utilizada.
+
+- É um recurso comum da língua que permite economia lexical, ou seja, usar menos palavras para expressar mais ideias.
+
+- Os diferentes sentidos de uma palavra polissêmica são geralmente listados em dicionários.
+
+Ex.: A manga da camisa estava suja.
+Ex.: Comi uma manga deliciosa no café da manhã.
+Ex.: Ele tem uma manga de amigos.
+
+1.1. CARACTERÍSTICAS DA POLISSEMIA
+
+- Uma palavra polissêmica mantém sua forma gráfica e fonética, mas adquire novos sentidos.
+
+- O contexto é crucial para determinar qual dos significados da palavra polissêmica está sendo empregado.
+
+- A polissemia é um fenômeno natural da evolução da língua.
+
+Ex.: A cabeça do alfinete quebrou.
+Ex.: Ele é a cabeça da empresa.
+Ex.: A cabeça humana é complexa.
+
+AMBIGUIDADE
+
+- A ambiguidade ocorre quando uma frase ou enunciado pode ser interpretado de duas ou mais maneiras diferentes, gerando incerteza sobre o sentido pretendido.
+
+- Diferente da polissemia, que é uma característica da palavra, a ambiguidade é uma característica da construção frasal.
+
+- Pode ser intencional (em piadas, poemas) ou não intencional (falha na comunicação).
+
+Ex.: O guarda prendeu o ladrão em sua casa. (De quem é a casa?)
+Ex.: Vi o menino com o binóculo. (Quem estava com o binóculo?)
+Ex.: A moça encontrou o amigo cansado. (Quem estava cansado?)
+
+2.1. TIPOS DE AMBIGUIDADE
+
+a) AMBIGUIDADE SINTÁTICA
+
+- Resulta da má organização ou da falta de clareza na estrutura gramatical da frase.
+
+- Pode ser causada por pronomes possessivos, adjuntos adnominais ou adverbiais mal posicionados.
+
+Ex.: O professor proibiu os alunos de usar celular na sala. (O celular é do professor ou dos alunos?)
+Ex.: Vendi a casa do meu pai. (Vendi a casa que era do meu pai ou a casa que pertence ao meu pai?)
+Ex.: Ele viu o acidente da janela. (Ele viu o acidente que estava na janela ou ele estava na janela quando viu o acidente?)
+
+b) AMBIGUIDADE SEMÂNTICA
+
+- Resulta do uso de palavras polissêmicas ou de termos que, no contexto da frase, podem ter múltiplos sentidos.
+
+- É a ambiguidade que surge da escolha de palavras, e não da estrutura da frase.
+
+Ex.: O banco está fechado. (Banco de sentar ou instituição financeira?)
+Ex.: Ele tem um ponto fraco. (Ponto de costura ou fraqueza de caráter?)
+Ex.: A pena é leve. (Pena de ave ou punição?)
+
+COMO EVITAR A AMBIGUIDADE
+
+- Para evitar a ambiguidade, é essencial ser claro e preciso na construção das frases.
+
+- Reorganizar a ordem das palavras, usar sinônimos ou adicionar informações contextuais podem ajudar.
+
+- A pontuação correta também é uma ferramenta poderosa para desfazer ambiguidades.
+
+Ex.: O guarda prendeu o ladrão na casa do ladrão. (Clareza sobre a posse da casa)
+Ex.: Vi o menino enquanto eu estava com o binóculo. (Clareza sobre quem tinha o binóculo)
+Ex.: A moça encontrou o amigo, que estava cansado. (Clareza sobre quem estava cansado)
+
+DIFERENÇA ENTRE POLISSEMIA E AMBIGUIDADE
+
+- A polissemia é uma propriedade da palavra, que possui múltiplos significados.
+
+- A ambiguidade é uma propriedade da frase ou do enunciado, que permite múltiplas interpretações.
+
+- Uma palavra polissêmica pode gerar ambiguidade em uma frase, mas nem toda ambiguidade é causada por polissemia.

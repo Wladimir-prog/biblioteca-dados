@@ -1,0 +1,181 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Verbos: Tempos, Modos e Conjugações
+
+INTRODUÇÃO AOS VERBOS
+
+- Verbos são palavras que indicam ação, estado, fenômeno da natureza ou mudança de estado.
+- São elementos essenciais na construção de frases, flexionando-se em número, pessoa, tempo e modo.
+
+Ex.: Ele ESTUDOU muito para a prova.
+Ex.: Ela ESTÁ feliz hoje.
+Ex.: CHOVEU a noite toda.
+
+AS TRÊS CONJUGAÇÕES VERBAIS
+
+- Os verbos da língua portuguesa são divididos em três conjugações, de acordo com a vogal temática.
+
+1. PRIMEIRA CONJUGAÇÃO (-AR)
+
+- Inclui verbos terminados em -AR.
+- A vogal temática é 'a'.
+
+Ex.: CANTAR
+Ex.: AMAR
+Ex.: ESTUDAR
+
+2. SEGUNDA CONJUGAÇÃO (-ER)
+
+- Inclui verbos terminados em -ER.
+- A vogal temática é 'e'.
+
+Ex.: COMER
+Ex.: VENDER
+Ex.: ESCREVER
+
+3. TERCEIRA CONJUGAÇÃO (-IR)
+
+- Inclui verbos terminados em -IR.
+- A vogal temática é 'i'.
+
+Ex.: PARTIR
+Ex.: SORRIR
+Ex.: DORMIR
+
+MODOS VERBAIS
+
+- Os modos verbais indicam a atitude do falante em relação ao fato que está sendo expresso.
+
+1. MODO INDICATIVO
+
+- Expressa certeza, realidade, um fato que realmente acontece, aconteceu ou acontecerá.
+
+Ex.: Eu ESTUDO todos os dias.
+Ex.: Nós VIAJAMOS no ano passado.
+Ex.: Eles CHEGARÃO amanhã.
+
+2. MODO SUBJUNTIVO
+
+- Expressa dúvida, desejo, hipótese, possibilidade, incerteza.
+
+Ex.: TALVEZ eu ESTUDE mais tarde.
+Ex.: É IMPORTANTE que ele VENHA.
+Ex.: SE eu TIVESSE dinheiro, viajaria.
+
+3. MODO IMPERATIVO
+
+- Expressa ordem, pedido, conselho, súplica.
+
+Ex.: ESTUDE agora!
+Ex.: VENHA aqui, por favor.
+Ex.: NÃO CORRA na rua.
+
+TEMPOS VERBAIS
+
+- Os tempos verbais situam a ação no tempo: presente, passado (pretérito) ou futuro.
+
+1. TEMPOS DO INDICATIVO
+
+a) PRESENTE DO INDICATIVO
+- Indica uma ação que ocorre no momento da fala ou uma verdade universal.
+
+Ex.: Eu LEIO um livro.
+Ex.: A Terra GIRA em torno do Sol.
+Ex.: Nós TRABALHAMOS muito.
+
+b) PRETÉRITO PERFEITO DO INDICATIVO
+- Indica uma ação que foi concluída em um passado recente ou distante.
+
+Ex.: Eu LI um livro ontem.
+Ex.: Eles VIAJARAM para a Europa.
+Ex.: Ela ESTUDOU a matéria.
+
+c) PRETÉRITO IMPERFEITO DO INDICATIVO
+- Indica uma ação habitual no passado ou uma ação que estava em andamento quando outra ocorreu.
+
+Ex.: Eu LIA um livro todos os dias.
+Ex.: Enquanto eu DORMIA, ele chegou.
+Ex.: Nós BRINCÁVAMOS no parque.
+
+d) PRETÉRITO MAIS-QUE-PERFEITO DO INDICATIVO
+- Indica uma ação que ocorreu antes de outra ação passada.
+
+Ex.: Quando cheguei, ele JÁ SAÍRA.
+Ex.: Eu JÁ LERA o livro antes de você.
+Ex.: Eles JÁ COMERAM quando os convidei.
+
+e) FUTURO DO PRESENTE DO INDICATIVO
+- Indica uma ação que ocorrerá no futuro, com certeza.
+
+Ex.: Eu LEREI o livro amanhã.
+Ex.: Eles VIAJARÃO nas férias.
+Ex.: Nós ESTUDAREMOS para a prova.
+
+f) FUTURO DO PRETÉRITO DO INDICATIVO
+- Indica uma ação futura em relação a um ponto no passado, ou uma hipótese.
+
+Ex.: Eu LERIA o livro se tivesse tempo.
+Ex.: Eles VIAJARIAM se pudessem.
+Ex.: Nós ESTUDARÍAMOS mais se fosse preciso.
+
+2. TEMPOS DO SUBJUNTIVO
+
+a) PRESENTE DO SUBJUNTIVO
+- Expressa desejo, dúvida, possibilidade no presente ou futuro.
+
+Ex.: QUE eu LEIA mais.
+Ex.: É possível QUE ele VENHA.
+Ex.: ESPERO QUE você ESTUDE.
+
+b) PRETÉRITO IMPERFEITO DO SUBJUNTIVO
+- Expressa uma condição ou desejo no passado, ou uma hipótese.
+
+Ex.: SE eu LESSE mais, aprenderia.
+Ex.: QUERIA QUE ele VIESSE.
+Ex.: SE nós ESTUDÁSSEMOS, passaríamos.
+
+c) FUTURO DO SUBJUNTIVO
+- Expressa uma ação futura incerta, dependente de uma condição.
+
+Ex.: QUANDO eu LER o livro, te empresto.
+Ex.: SE ele VIER, avisarei.
+Ex.: QUANDO nós ESTUDARMOS, entenderemos.
+
+FORMAS NOMINAIS DO VERBO
+
+- As formas nominais não indicam tempo nem modo, mas podem funcionar como nomes (substantivos, adjetivos, advérbios).
+
+1. INFINITIVO
+
+- Termina em -AR, -ER, -IR. Indica a ação em si, sem referência a tempo ou pessoa. Pode ser pessoal ou impessoal.
+
+Ex.: CORRER é bom para a saúde.
+Ex.: É preciso ESTUDAR.
+Ex.: Ao SAIR, feche a porta.
+
+2. GERÚNDIO
+
+- Termina em -NDO. Indica uma ação em andamento.
+
+Ex.: Ele está ESTUDANDO.
+Ex.: Ela estava LENDO um livro.
+Ex.: Nós estamos TRABALHANDO.
+
+3. PARTÍCÍPIO
+
+- Termina em -ADO ou -IDO (regular) ou formas irregulares. Indica uma ação concluída.
+
+Ex.: O livro foi LIDO.
+Ex.: A tarefa está FEITA.
+Ex.: Ele havia ESTUDADO muito.
+
+VERBOS REGULARES E IRREGULARES
+
+- Verbos regulares mantêm o radical e as desinências padrão.
+- Verbos irregulares sofrem alterações no radical ou nas desinências.
+
+Ex.: AMAR (regular): amo, amas, ama.
+Ex.: FAZER (irregular): faço, fazes, faz.
+Ex.: IR (irregular): vou, vais, vai.

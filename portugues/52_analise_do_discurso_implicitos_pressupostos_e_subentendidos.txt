@@ -1,0 +1,109 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA
+TEMA: Análise do Discurso: Implícitos, Pressupostos e Subentendidos
+
+INTRODUÇÃO À ANÁLISE DO DISCURSO
+
+- A análise do discurso é uma área que estuda a linguagem em seu contexto de uso, indo além da estrutura gramatical para investigar como os sentidos são construídos e interpretados.
+
+- Ela se concentra em como as palavras e as frases são empregadas para comunicar mensagens explícitas e, principalmente, implícitas.
+
+- Compreender os implícitos é crucial para uma leitura crítica e para a interpretação completa de qualquer texto ou fala.
+
+
+OS IMPLÍCITOS NA COMUNICAÇÃO
+
+- Implícitos são informações que não são ditas diretamente, mas que podem ser inferidas a partir do que foi enunciado.
+
+- Eles exigem do interlocutor uma capacidade de leitura nas entrelinhas, baseada no conhecimento de mundo e no contexto da comunicação.
+
+- A presença de implícitos é uma característica fundamental da comunicação humana, tornando-a mais rica e complexa.
+
+
+PRESSUPOSTOS
+
+- Os pressupostos são informações implícitas que são apresentadas como verdades inquestionáveis ou fatos estabelecidos dentro de um enunciado.
+
+- Eles são ativados por elementos linguísticos específicos, como verbos, advérbios, adjetivos, conjunções e estruturas sintáticas.
+
+- Se um pressuposto for negado, a frase principal perde seu sentido ou se torna semanticamente estranha.
+
+Ex.: "João parou de fumar."
+Ex.: Pressuposto: João fumava antes.
+Ex.: Se negarmos: "João não parou de fumar" (ainda pressupõe que ele fumava).
+
+Ex.: "Ainda chove em São Paulo."
+Ex.: Pressuposto: Chovia antes em São Paulo.
+Ex.: Se negarmos: "Não chove mais em São Paulo" (ainda pressupõe que chovia).
+
+Ex.: "Foi Pedro quem roubou o carro."
+Ex.: Pressuposto: Alguém roubou o carro.
+Ex.: Se negarmos: "Não foi Pedro quem roubou o carro" (ainda pressupõe que alguém roubou).
+
+
+SUBENTENDIDOS
+
+- Os subentendidos são informações implícitas que não são garantidas pelo enunciado em si, mas que o falante permite que o ouvinte infira.
+
+- Eles dependem fortemente do contexto, da intenção do falante e da interpretação do ouvinte, sendo mais facilmente negáveis pelo emissor.
+
+- Diferentemente dos pressupostos, os subentendidos podem ser negados sem que a frase perca seu sentido lógico.
+
+Ex.: "A porta está aberta." (dita por um pai ao filho que está com frio)
+Ex.: Subentendido: Feche a porta.
+Ex.: O pai pode negar: "Eu só disse que a porta está aberta, não pedi para fechar."
+
+Ex.: "Você tem horas?" (dita por alguém na rua)
+Ex.: Subentendido: Gostaria de saber as horas.
+Ex.: A pessoa pode negar: "Eu só perguntei se você tem, não que eu queira saber."
+
+Ex.: "Seu quarto está uma bagunça!" (dita por uma mãe ao filho)
+Ex.: Subentendido: Arrume seu quarto.
+Ex.: A mãe pode negar: "Eu só constatei o estado do quarto, não dei uma ordem."
+
+
+DIFERENÇAS ENTRE PRESSUPOSTOS E SUBENTENDIDOS
+
+- A principal diferença reside na responsabilidade pela inferência e na possibilidade de negação.
+
+- Pressupostos são de responsabilidade do enunciado e são difíceis de negar sem comprometer o sentido da frase.
+
+- Subentendidos são de responsabilidade do interlocutor e podem ser negados pelo falante sem prejuízo do sentido literal.
+
+
+A IMPORTÂNCIA NA INTERPRETAÇÃO DE TEXTOS
+
+- Reconhecer implícitos, pressupostos e subentendidos é fundamental para a compreensão profunda de textos e discursos.
+
+- Em concursos e provas, muitas questões de interpretação exploram a capacidade do candidato de identificar essas informações não explícitas.
+
+- A análise dessas camadas de sentido permite desvendar intenções, ideologias e nuances que a superfície do texto não revela.
+
+
+1.1. IMPLÍCITOS E A INTENÇÃO COMUNICATIVA
+
+- A comunicação eficaz muitas vezes se vale dos implícitos para transmitir mensagens de forma mais sutil ou indireta.
+
+- Isso pode ser usado para evitar confrontos diretos, para persuadir ou para criar um senso de cumplicidade com o interlocutor.
+
+- A habilidade de decodificar essas intenções é um diferencial na análise crítica de qualquer tipo de discurso.
+
+
+1.2. IMPLÍCITOS E O CONTEXTO SÓCIO-HISTÓRICO
+
+- Os implícitos estão intrinsecamente ligados ao contexto em que o discurso é produzido e recebido.
+
+- Normas sociais, valores culturais e conhecimentos compartilhados influenciam diretamente a forma como as informações implícitas são construídas e interpretadas.
+
+- Uma análise aprofundada deve considerar esses fatores para uma compreensão completa do sentido veiculado.
+
+
+CONCLUSÃO
+
+- A análise dos implícitos, pressupostos e subentendidos é uma ferramenta poderosa para desvendar as camadas mais profundas da comunicação.
+
+- Ela nos capacita a ir além do que é dito, compreendendo o que é sugerido, assumido e inferido.
+
+- Dominar essa habilidade é essencial para qualquer estudante ou profissional que busca excelência na interpretação e produção textual.

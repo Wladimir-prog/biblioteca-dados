@@ -1,0 +1,103 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Complemento Nominal vs. Adjunto Adnominal
+
+INTRODUÇÃO
+
+- A sintaxe da língua portuguesa apresenta termos que, à primeira vista, podem parecer semelhantes, mas que desempenham funções distintas na estrutura da oração. É o caso do complemento nominal e do adjunto adnominal.
+
+- Compreender a diferença entre eles é crucial para a análise sintática correta e para a construção de frases claras e precisas. Ambos se relacionam a um nome, mas a natureza dessa relação é o que os distingue.
+
+COMPLEMENTO NOMINAL
+
+- O complemento nominal é o termo que completa o sentido de um nome (substantivo abstrato, adjetivo ou advérbio), sempre por meio de uma preposição. Ele expressa o alvo, o paciente ou o objeto da ação ou qualidade expressa pelo nome.
+
+- É um termo integrante da oração, essencial para a compreensão do sentido completo do nome a que se refere. Sem ele, o sentido do nome ficaria incompleto ou ambíguo.
+
+- O complemento nominal tem valor passivo ou de alvo em relação ao nome. Ele "sofre" a ação ou "recebe" a qualidade.
+
+Ex.: A construção DA CASA foi rápida. (DA CASA completa "construção", que é um substantivo abstrato, e "casa" é o que foi construído)
+Ex.: Tenho necessidade DE PAZ. (DE PAZ completa "necessidade", substantivo abstrato, e "paz" é o que é necessário)
+Ex.: Ele estava consciente DE SEUS ATOS. (DE SEUS ATOS completa "consciente", adjetivo, e "seus atos" é o que ele estava consciente)
+
+CARACTERÍSTICAS DO COMPLEMENTO NOMINAL
+
+1. COMPLETA NOMES
+- Refere-se a substantivos abstratos, adjetivos ou advérbios.
+- Nunca completa verbos.
+
+2. SEMPRE PREPOSICIONADO
+- É obrigatoriamente introduzido por uma preposição.
+- A preposição é um elo indispensável entre o nome e seu complemento.
+
+3. VALOR PASSIVO OU DE ALVO
+- O termo preposicionado é o "alvo" ou "paciente" da ação ou qualidade expressa pelo nome.
+- Ex.: Medo DE ALTURA (a altura é o objeto do medo).
+
+ADJUNTO ADNOMINAL
+
+- O adjunto adnominal é o termo que acompanha e caracteriza um substantivo (concreto ou abstrato), determinando-o, especificando-o ou qualificando-o. Ele pode ser expresso por artigos, adjetivos, locuções adjetivas, pronomes adjetivos ou numerais.
+
+- É um termo acessório da oração, ou seja, sua retirada não compromete a estrutura sintática básica da frase, embora possa alterar o sentido ou a especificidade do substantivo.
+
+- O adjunto adnominal tem valor ativo ou de agente em relação ao nome. Ele "pratica" a ação ou "possui" a qualidade.
+
+Ex.: A casa DE PEDRO é grande. (DE PEDRO caracteriza "casa", indicando posse)
+Ex.: Os alunos DEDICADOS passaram. (DEDICADOS qualifica "alunos")
+Ex.: O livro DE HISTÓRIA está na mesa. (DE HISTÓRIA especifica "livro", indicando o tipo)
+
+CARACTERÍSTICAS DO ADJUNTO ADNOMINAL
+
+1. ACOMPANHA SUBSTANTIVOS
+- Refere-se apenas a substantivos (concreto ou abstrato).
+- Nunca completa adjetivos ou advérbios.
+
+2. PODE SER OU NÃO PREPOSICIONADO
+- Pode ser introduzido por preposição (locução adjetiva) ou não (artigos, adjetivos, pronomes, numerais).
+- Quando preposicionado, a preposição não é obrigatória para a relação sintática, mas sim para a formação da locução.
+
+3. VALOR ATIVO OU DE AGENTE
+- O termo preposicionado é o "agente" ou "possuidor" da ação ou qualidade expressa pelo nome.
+- Ex.: Amor DE MÃE (a mãe pratica o amor).
+
+DIFERENÇAS FUNDAMENTAIS
+
+1. TERMO COMPLEMENTADO
+- Complemento Nominal: Completa substantivos abstratos, adjetivos e advérbios.
+- Adjunto Adnominal: Acompanha apenas substantivos (concretos ou abstratos).
+
+2. PREPOSIÇÃO
+- Complemento Nominal: Sempre preposicionado.
+- Adjunto Adnominal: Pode ser ou não preposicionado.
+
+3. VALOR SEMÂNTICO
+- Complemento Nominal: Valor passivo (sofre a ação ou é o alvo).
+- Adjunto Adnominal: Valor ativo (pratica a ação ou é o possuidor).
+
+4. ESSENCIALIDADE
+- Complemento Nominal: Termo integrante, essencial para o sentido do nome.
+- Adjunto Adnominal: Termo acessório, sua retirada não compromete a estrutura básica.
+
+QUADRO COMPARATIVO
+
+- COMPLEMENTO NOMINAL
+  - Completa: Substantivo abstrato, adjetivo, advérbio.
+  - Preposição: Sempre.
+  - Valor: Passivo (alvo).
+  - Essencialidade: Integrante.
+  - Ex.: Tenho orgulho DE VOCÊ. (você é o alvo do orgulho)
+
+- ADJUNTO ADNOMINAL
+  - Completa: Substantivo (concreto ou abstrato).
+  - Preposição: Pode ou não ter.
+  - Valor: Ativo (agente/possuidor).
+  - Essencialidade: Acessório.
+  - Ex.: O amor DE MÃE é incondicional. (a mãe pratica o amor)
+
+CONCLUSÃO
+
+- A distinção entre complemento nominal e adjunto adnominal é um dos pontos mais desafiadores da análise sintática. No entanto, ao focar nos tipos de nomes que eles completam, na presença ou ausência obrigatória da preposição e, principalmente, no valor semântico (ativo ou passivo), torna-se possível identificar corretamente cada um.
+
+- A prática constante e a análise cuidadosa do contexto são as melhores ferramentas para dominar essa distinção e aprimorar a compreensão da estrutura da língua portuguesa.

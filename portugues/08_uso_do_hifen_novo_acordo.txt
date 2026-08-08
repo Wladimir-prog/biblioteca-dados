@@ -1,0 +1,107 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Uso do Hífen (Novo Acordo)
+
+INTRODUCAO AO USO DO HÍFEN
+
+- O hífen é um sinal de pontuação que serve para unir elementos de palavras compostas, ligar pronomes oblíquos a verbos e separar sílabas. O Novo Acordo Ortográfico trouxe mudanças significativas em seu uso, visando simplificar e padronizar a escrita da língua portuguesa.
+
+- É fundamental compreender as novas regras para evitar erros e garantir a correta aplicação da norma culta. As alterações afetam principalmente palavras formadas por prefixos e falsos prefixos, além de algumas palavras compostas.
+
+- A principal diretriz é a busca por uma maior clareza e coerência, eliminando exceções desnecessárias e aproximando a grafia do português do Brasil e de Portugal.
+
+REGRAS GERAIS DO HÍFEN
+
+1. PALAVRAS COMPOSTAS
+
+- Usa-se o hífen em palavras compostas por justaposição que não contêm elemento de ligação e cujos elementos mantêm a sua autonomia semântica.
+
+Ex.: guarda-chuva
+Ex.: couve-flor
+Ex.: bem-estar
+
+- Não se usa o hífen em palavras compostas que perderam a noção de composição ou que possuem elementos de ligação.
+
+Ex.: girassol
+Ex.: pontapé
+Ex.: mandachuva
+
+2. PREFIXOS E FALSOS PREFIXOS
+
+2.1. REGRA GERAL: NÃO SE USA HÍFEN
+
+- A regra geral para prefixos é que não se usa hífen quando o prefixo termina em vogal e o segundo elemento começa com vogal diferente. Também não se usa quando o prefixo termina em vogal e o segundo elemento começa com consoante (exceto H, R, S).
+
+Ex.: autoescola
+Ex.: antiaéreo
+Ex.: semicírculo
+
+2.2. USA-SE HÍFEN QUANDO:
+
+a) O segundo elemento começa com H.
+
+Ex.: anti-higiênico
+Ex.: super-homem
+Ex.: pré-história
+
+b) O prefixo termina na mesma vogal que inicia o segundo elemento.
+
+Ex.: micro-ondas
+Ex.: anti-inflamatório
+Ex.: contra-ataque
+
+c) O prefixo termina em consoante e o segundo elemento começa com a mesma consoante.
+
+Ex.: inter-regional
+Ex.: sub-bibliotecário
+Ex.: super-resistente
+
+d) Os prefixos "ex-", "sem-", "além-", "aquém-", "recém-", "pós-", "pré-" e "pró-" (tônicos e com sentido próprio) sempre pedem hífen.
+
+Ex.: ex-aluno
+Ex.: sem-terra
+Ex.: pré-vestibular
+
+2.3. NÃO SE USA HÍFEN QUANDO:
+
+a) O prefixo termina em vogal e o segundo elemento começa com R ou S. Nestes casos, dobram-se as letras R ou S.
+
+Ex.: antirracismo
+Ex.: ultrassom
+Ex.: minissaia
+
+b) O prefixo termina em vogal e o segundo elemento começa com vogal diferente.
+
+Ex.: autoescola
+Ex.: infraestrutura
+Ex.: coautor
+
+c) O prefixo termina em consoante e o segundo elemento começa com vogal ou consoante diferente.
+
+Ex.: intermunicipal
+Ex.: superinteressante
+Ex.: subdesenvolvido
+
+3. CASOS ESPECIAIS
+
+- O prefixo "co-" aglutina-se geralmente ao segundo elemento, mesmo que este comece por "o" ou "h".
+
+Ex.: coobrigação
+Ex.: coautor
+Ex.: coerdeiro
+
+- O prefixo "re-" também se aglutina.
+
+Ex.: reescrever
+Ex.: reaver
+Ex.: reabilitar
+
+- Em locuções substantivas, adjetivas, adverbiais, verbais e conjuntivas, geralmente não se usa hífen.
+
+Ex.: dia a dia
+Ex.: fim de semana
+Ex.: café com leite
+
+- Exceções para locuções: água-de-colônia, arco-da-velha, cor-de-rosa, mais-que-perfeito.

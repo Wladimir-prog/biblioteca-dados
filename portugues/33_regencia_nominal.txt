@@ -1,0 +1,124 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Regência Nominal
+
+INTRODUÇÃO À REGÊNCIA NOMINAL
+
+- A regência nominal estuda a relação de dependência entre um nome (substantivo, adjetivo ou advérbio) e seu complemento.
+- Essa relação é estabelecida por meio de uma preposição, que liga o termo regente (o nome) ao termo regido (o complemento).
+- Compreender a regência nominal é essencial para a clareza e correção na escrita e na fala da língua portuguesa.
+
+1. CONCEITO DE REGÊNCIA NOMINAL
+
+- A regência nominal ocorre quando um nome (substantivo, adjetivo ou advérbio) exige um complemento para ter sentido completo.
+- Esse complemento é introduzido por uma preposição específica, que varia conforme o nome regente.
+- A preposição atua como uma ponte, conectando o nome ao seu termo dependente.
+
+Ex.: Ele tem medo DE altura.
+Ex.: Ela é apta PARA o cargo.
+Ex.: Estamos próximos DE casa.
+
+2. TERMOS REGENTES E REGIDOS
+
+- TERMO REGENTE: É o nome (substantivo, adjetivo ou advérbio) que "pede" um complemento.
+- TERMO REGIDO: É o complemento que completa o sentido do nome regente, introduzido por uma preposição.
+
+Ex.: O professor estava ansioso POR notícias. (ansioso = regente; POR notícias = regido)
+Ex.: Tenho orgulho DE você. (orgulho = regente; DE você = regido)
+Ex.: A cidade é acessível A todos. (acessível = regente; A todos = regido)
+
+3. PRINCIPAIS PREPOSIÇÕES NA REGÊNCIA NOMINAL
+
+- As preposições mais comuns na regência nominal são: A, DE, COM, EM, PARA, POR.
+- A escolha da preposição depende do nome regente e do contexto da frase.
+- É fundamental conhecer as preposições exigidas pelos nomes mais frequentes.
+
+Ex.: Capacidade DE trabalho.
+Ex.: Dúvida SOBRE o assunto.
+Ex.: Respeito Aos mais velhos.
+
+4. REGÊNCIA DE SUBSTANTIVOS
+
+- Muitos substantivos abstratos exigem complementos preposicionados.
+- A preposição utilizada geralmente corresponde àquela que seria usada pelo verbo de onde o substantivo deriva.
+
+a) SUBSTANTIVOS QUE REGEM "A"
+- Exemplos: acesso A, obediência A, referência A.
+
+Ex.: O acesso À informação é um direito.
+Ex.: Sua obediência Às regras é notável.
+Ex.: Fiz uma referência AO seu trabalho.
+
+b) SUBSTANTIVOS QUE REGEM "DE"
+- Exemplos: necessidade DE, medo DE, orgulho DE.
+
+Ex.: Tenho necessidade DE descanso.
+Ex.: O medo DE falhar o paralisou.
+Ex.: Sinto orgulho DE sua conquista.
+
+c) SUBSTANTIVOS QUE REGEM "COM"
+- Exemplos: compatibilidade COM, relação COM, preocupação COM.
+
+Ex.: Sua compatibilidade COM o grupo é alta.
+Ex.: A relação COM os colegas é boa.
+Ex.: Tenho preocupação COM o futuro.
+
+5. REGÊNCIA DE ADJETIVOS
+
+- A maioria dos adjetivos que expressam sentimentos, qualidades ou estados exigem complementos.
+- A preposição varia bastante e deve ser memorizada ou consultada.
+
+a) ADJETIVOS QUE REGEM "A"
+- Exemplos: acessível A, apto A, fiel A, grato A, obediente A.
+
+Ex.: O local é acessível A cadeirantes.
+Ex.: Ele é apto AO cargo.
+Ex.: Mantenha-se fiel AOS seus princípios.
+
+b) ADJETIVOS QUE REGEM "DE"
+- Exemplos: capaz DE, digno DE, cheio DE, consciente DE, orgulhoso DE.
+
+Ex.: Ela é capaz DE grandes feitos.
+Ex.: Ele é digno DE confiança.
+Ex.: O copo estava cheio DE água.
+
+c) ADJETIVOS QUE REGEM "COM"
+- Exemplos: compatível COM, contente COM, preocupado COM.
+
+Ex.: Seu estilo é compatível COM o meu.
+Ex.: Estou contente COM os resultados.
+Ex.: Ele está preocupado COM a prova.
+
+d) ADJETIVOS QUE REGEM "EM"
+- Exemplos: hábil EM, versado EM, residente EM.
+
+Ex.: Ela é hábil EM matemática.
+Ex.: O professor é versado EM literatura.
+Ex.: Sou residente EM São Paulo.
+
+6. REGÊNCIA DE ADVÉRBIOS
+
+- Alguns advérbios de lugar, modo ou intensidade também exigem complementos preposicionados.
+- Os mais comuns são aqueles que indicam proximidade ou distância.
+
+a) ADVÉRBIOS QUE REGEM "DE"
+- Exemplos: perto DE, longe DE.
+
+Ex.: Moramos perto DA escola.
+Ex.: A loja fica longe DO centro.
+Ex.: Ele estava longe DE casa.
+
+b) ADVÉRBIOS QUE REGEM "A"
+- Exemplos: paralelamente A, contrariamente A.
+
+Ex.: Agiu paralelamente Às ordens.
+Ex.: Falou contrariamente AO que pensava.
+Ex.: O carro estacionou paralelamente AO muro.
+
+CONSIDERAÇÕES FINAIS
+
+- A regência nominal é um aspecto da gramática normativa que exige atenção e prática.
+- A consulta a dicionários de regência é uma ferramenta valiosa para sanar dúvidas.
+- A leitura constante e a escrita cuidadosa contribuem para a internalização das regras.

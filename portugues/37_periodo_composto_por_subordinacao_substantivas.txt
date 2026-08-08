@@ -1,0 +1,65 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Período Composto por Subordinação (Substantivas)
+
+O PERÍODO COMPOSTO POR SUBORDINAÇÃO
+
+- O período composto por subordinação é formado por orações que mantêm uma relação de dependência sintática entre si. Uma oração, a subordinada, completa o sentido da outra, a principal.
+
+- A oração subordinada não possui sentido completo isoladamente e geralmente é introduzida por conjunções subordinativas ou pronomes relativos.
+
+ORAÇÕES SUBORDINADAS SUBSTANTIVAS
+
+- As orações subordinadas substantivas exercem funções sintáticas próprias de um substantivo em relação à oração principal. Elas podem funcionar como sujeito, objeto direto, objeto indireto, complemento nominal, predicativo ou aposto.
+
+- São geralmente introduzidas pelas conjunções integrantes QUE e SE, e podem ser desenvolvidas (com conjunção e verbo conjugado) ou reduzidas (sem conjunção e com verbo no infinitivo, gerúndio ou particípio).
+
+1. ORAÇÃO SUBORDINADA SUBSTANTIVA SUBJETIVA
+
+- Exerce a função de sujeito da oração principal. A oração principal, nesse caso, não possui sujeito próprio e geralmente apresenta um verbo na 3a pessoa do singular ou uma locução verbal impessoal.
+
+Ex.: É necessário que todos colaborem.
+Ex.: Convém que você estude mais.
+Ex.: Parece que a chuva vai parar.
+
+2. ORAÇÃO SUBORDINADA SUBSTANTIVA OBJETIVA DIRETA
+
+- Exerce a função de objeto direto do verbo da oração principal. O verbo da oração principal é transitivo direto e não exige preposição para ligar-se ao seu complemento.
+
+Ex.: Eu desejo que você seja feliz.
+Ex.: Ninguém sabe se ele virá à festa.
+Ex.: O professor pediu que os alunos fizessem silêncio.
+
+3. ORAÇÃO SUBORDINADA SUBSTANTIVA OBJETIVA INDIRETA
+
+- Exerce a função de objeto indireto do verbo da oração principal. O verbo da oração principal é transitivo indireto e exige uma preposição para ligar-se ao seu complemento.
+
+Ex.: Necessito de que me ajudem.
+Ex.: Lembrei-me de que precisava sair.
+Ex.: Duvido de que ele consiga a vaga.
+
+4. ORAÇÃO SUBORDINADA SUBSTANTIVA COMPLETIVA NOMINAL
+
+- Exerce a função de complemento nominal de um substantivo, adjetivo ou advérbio da oração principal. É sempre introduzida por preposição.
+
+Ex.: Tenho certeza de que ele virá.
+Ex.: Estou certo de que passarei no concurso.
+Ex.: Ele agiu favoravelmente a que o projeto fosse aprovado.
+
+5. ORAÇÃO SUBORDINADA SUBSTANTIVA PREDICATIVA
+
+- Exerce a função de predicativo do sujeito da oração principal. A oração principal, nesse caso, apresenta um verbo de ligação (ser, estar, parecer, permanecer, etc.) e o sujeito da principal é completado pela oração subordinada.
+
+Ex.: Meu desejo é que você volte logo.
+Ex.: O problema foi que ninguém avisou.
+Ex.: A verdade é que ele não se esforçou.
+
+6. ORAÇÃO SUBORDINADA SUBSTANTIVA APOSITIVA
+
+- Exerce a função de aposto de um termo da oração principal. Geralmente, vem após dois pontos ou entre vírgulas, explicando ou especificando um termo anterior.
+
+Ex.: Só desejo uma coisa: que você seja feliz.
+Ex.: Ele tinha um medo, que o filho adoecesse, e isso o atormentava.
+Ex.: A decisão foi única: que todos participassem do evento.

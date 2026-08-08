@@ -1,0 +1,59 @@
+Reforço EscolarDISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Acentuação de Hiatos
+
+INTRODUÇÃO À ACENTUAÇÃO DE HIATOS
+
+- A acentuação gráfica na língua portuguesa segue regras específicas para indicar a sílaba tônica e diferenciar palavras. Os hiatos são um dos casos que demandam atenção especial.
+- Um hiato ocorre quando duas vogais estão em sílabas consecutivas, mas separadas. A acentuação de hiatos visa manter a pronúncia correta e evitar ambiguidades.
+
+REGRAS GERAIS DE ACENTUAÇÃO DE HIATOS
+
+- Acentuam-se o 'i' e o 'u' tônicos que formam hiato com a vogal anterior, desde que estejam sozinhos na sílaba ou seguidos de 's'.
+- Essa regra se aplica quando o 'i' ou 'u' não são seguidos de 'nh' e não formam ditongo com a vogal anterior.
+
+1. 'I' E 'U' TÔNICOS EM HIATO
+
+- O 'i' e o 'u' tônicos, quando formam hiato com a vogal anterior e estão sozinhos na sílaba ou seguidos de 's', recebem acento agudo.
+
+Ex.: sa-ú-de
+Ex.: ca-í-da
+Ex.: ba-la-ús-tre
+
+2. EXCEÇÕES À REGRA GERAL
+
+- Não se acentuam o 'i' e o 'u' tônicos se forem seguidos de 'nh'.
+
+Ex.: ra-i-nha
+Ex.: mo-i-nho
+Ex.: cam-pa-i-nha
+
+- Não se acentuam o 'i' e o 'u' tônicos se formarem ditongo com a vogal anterior, ou seja, se não houver separação silábica clara.
+
+Ex.: fei-u-ra (o 'u' não é tônico sozinho)
+Ex.: bai-u-ca (o 'u' não é tônico sozinho)
+Ex.: cau-le (não é hiato)
+
+3. HIATOS COM VOGAIS REPETIDAS
+
+- Vogais idênticas em hiato não recebem acento, a menos que se enquadrem em outras regras de acentuação (como oxítonas, paroxítonas, proparoxítonas).
+- A regra específica do hiato para 'i' e 'u' tônicos não se aplica a vogais repetidas.
+
+Ex.: vo-o
+Ex.: en-jo-o
+Ex.: cre-em
+
+4. HIATOS COM DITONGOS CRESCENTES
+
+- Em palavras como 'feiura' e 'baiuca', o 'u' não é acentuado porque não forma hiato puro com a vogal anterior. Ele faz parte de um ditongo crescente que precede a sílaba tônica.
+- A acentuação de hiatos é exclusiva para o 'i' e 'u' tônicos que se separam da vogal anterior.
+
+Ex.: fei-u-ra (o 'u' não é tônico e não forma hiato com 'e')
+Ex.: bai-u-ca (o 'u' não é tônico e não forma hiato com 'a')
+Ex.: boi-u-na (o 'u' não é tônico e não forma hiato com 'o')
+
+CONSIDERAÇÕES FINAIS
+
+- A acentuação de hiatos é um tópico fundamental para a correta escrita e pronúncia do português.
+- Dominar essas regras evita erros comuns e garante a clareza na comunicação escrita.

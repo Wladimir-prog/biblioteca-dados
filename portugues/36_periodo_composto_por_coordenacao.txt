@@ -1,0 +1,72 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Período Composto por Coordenação
+
+O PERÍODO COMPOSTO POR COORDENAÇÃO
+
+- O período composto por coordenação é formado por orações sintaticamente independentes.
+- Isso significa que cada oração possui sentido completo e não exerce função sintática em relação à outra.
+- Elas são ligadas por conjunções coordenativas ou justapostas (sem conjunção).
+
+ORAÇÕES COORDENADAS
+
+- As orações coordenadas podem ser sindéticas (com conjunção) ou assindéticas (sem conjunção).
+- As orações assindéticas são apenas justapostas, separadas por vírgula, ponto e vírgula ou dois pontos.
+- As orações sindéticas são classificadas de acordo com o sentido da conjunção que as introduz.
+
+1. ORAÇÕES COORDENADAS ADITIVAS
+
+- Expressam ideia de adição, soma, acréscimo.
+- Conjunções principais: e, nem, não só... mas também, mas ainda, bem como.
+
+Ex.: Ele estudou muito e passou no concurso.
+Ex.: Não só leu o livro, mas também fez um resumo.
+Ex.: Ela não canta nem dança.
+
+2. ORAÇÕES COORDENADAS ADVERSATIVAS
+
+- Expressam ideia de oposição, contraste, ressalva.
+- Conjunções principais: mas, porém, todavia, contudo, entretanto, no entanto.
+
+Ex.: Choveu muito, mas não fez frio.
+Ex.: Ele é inteligente, todavia preguiçoso.
+Ex.: Gostaria de ir, porém estou ocupado.
+
+3. ORAÇÕES COORDENADAS ALTERNATIVAS
+
+- Expressam ideia de alternância, escolha, exclusão.
+- Conjunções principais: ou, ou... ou, ora... ora, quer... quer, seja... seja.
+
+Ex.: Ou você estuda, ou você trabalha.
+Ex.: Ora chove, ora faz sol.
+Ex.: Quer queira, quer não queira, terá de aceitar.
+
+4. ORAÇÕES COORDENADAS CONCLUSIVAS
+
+- Expressam ideia de conclusão, consequência, dedução.
+- Conjunções principais: logo, portanto, por isso, por conseguinte, assim.
+
+Ex.: Ele estudou, logo será aprovado.
+Ex.: Não se preparou, por isso foi mal na prova.
+Ex.: Penso, logo existo.
+
+5. ORAÇÕES COORDENADAS EXPLICATIVAS
+
+- Expressam ideia de explicação, justificativa, motivo.
+- Conjunções principais: que, porque, pois (antes do verbo), porquanto.
+
+Ex.: Não saia, que está chovendo.
+Ex.: Venha logo, porque preciso de você.
+Ex.: Ele deve estar doente, pois não veio trabalhar.
+
+PONTUAÇÃO NAS ORAÇÕES COORDENADAS
+
+- A vírgula é usada para separar orações coordenadas assindéticas.
+- Também se usa vírgula antes das conjunções adversativas, alternativas (exceto "ou" repetido), conclusivas e explicativas.
+- Antes da conjunção "e", a vírgula é facultativa, mas obrigatória quando há sujeitos diferentes ou quando "e" tem valor adversativo.
+
+Ex.: Ele chegou, sentou-se e comeu.
+Ex.: Os alunos estudaram, e os professores corrigiram as provas.
+Ex.: Ele é rico, e não ajuda ninguém.

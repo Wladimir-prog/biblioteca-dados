@@ -1,0 +1,97 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS
+TEMA: Sinonímia, Antonímia, Homonímia e Paronímia
+
+INTRODUÇÃO
+
+- A semântica estuda o significado das palavras e das frases, sendo fundamental para a compreensão e a produção textual.
+- O domínio das relações semânticas, como sinonímia, antonímia, homonímia e paronímia, enriquece o vocabulário e a clareza da comunicação.
+
+
+1. SINONÍMIA
+
+- A sinonímia ocorre quando duas ou mais palavras possuem significados semelhantes ou idênticos, podendo ser substituídas uma pela outra em diversos contextos sem alterar o sentido fundamental da frase.
+- É importante notar que a sinonímia perfeita é rara; geralmente, os sinônimos apresentam pequenas nuances de sentido ou uso.
+
+Ex.: Aquele homem é muito **esperto**.
+Ex.: Aquele homem é muito **inteligente**.
+Ex.: O **início** da aula foi pontual.
+Ex.: O **começo** da aula foi pontual.
+Ex.: Ela ficou **feliz** com a notícia.
+Ex.: Ela ficou **alegre** com a notícia.
+
+
+2. ANTONÍMIA
+
+- A antonímia é a relação semântica entre palavras que possuem significados opostos ou contrários.
+- Os antônimos podem ser formados por radicais diferentes ou pelo acréscimo de prefixos de negação (in-, des-, a-, anti-, etc.).
+
+Ex.: O dia está **claro**.
+Ex.: O dia está **escuro**.
+Ex.: Ele é um aluno **bom**.
+Ex.: Ele é um aluno **mau**.
+Ex.: A porta está **aberta**.
+Ex.: A porta está **fechada**.
+
+
+3. HOMONÍMIA
+
+- A homonímia ocorre quando palavras possuem a mesma pronúncia (homófonas) ou a mesma grafia (homógrafas), ou ambas (homônimas perfeitas), mas significados diferentes.
+- É crucial para evitar ambiguidades na comunicação.
+
+
+3.1. HOMONÍMIA PERFEITA
+
+- Palavras que possuem a mesma grafia e a mesma pronúncia, mas significados distintos.
+
+Ex.: Eu **rio** de suas piadas. (verbo rir)
+Ex.: O **rio** Amazonas é imenso. (substantivo)
+Ex.: Ele **cedo** o lugar. (verbo ceder)
+Ex.: Ele chegou **cedo**. (advérbio)
+Ex.: A **manga** da camisa está suja. (parte da roupa)
+Ex.: Gosto de comer **manga**. (fruta)
+
+
+3.2. HOMOFONIA
+
+- Palavras que possuem a mesma pronúncia, mas grafia e significados diferentes.
+
+Ex.: Ele **acendeu** a luz. (verbo acender)
+Ex.: Ele **ascendeu** ao cargo. (verbo ascender)
+Ex.: O **concerto** da orquestra foi lindo. (espetáculo musical)
+Ex.: O **conserto** do carro ficou caro. (reparação)
+Ex.: A **sessão** do filme começa às oito. (intervalo de tempo)
+Ex.: A **seção** de esportes é a melhor. (departamento)
+
+
+3.3. HOMOGRAFIA
+
+- Palavras que possuem a mesma grafia, mas pronúncia e significados diferentes.
+
+Ex.: Eu **gosto** de chocolate. (verbo gostar)
+Ex.: O **gosto** amargo me incomoda. (substantivo)
+Ex.: O **molho** de tomate é caseiro. (substantivo)
+Ex.: Eu **molho** as plantas todos os dias. (verbo molhar)
+Ex.: A **sede** da empresa é grande. (substantivo, local)
+Ex.: Sinto muita **sede**. (substantivo, vontade de beber)
+
+
+4. PARONÍMIA
+
+- A paronímia é a relação entre palavras que são semelhantes na grafia e na pronúncia, mas possuem significados diferentes.
+- A semelhança pode causar confusão, exigindo atenção ao contexto.
+
+Ex.: Ele **ratificou** o acordo. (confirmou)
+Ex.: Ele **retificou** o erro. (corrigiu)
+Ex.: A **eminente** autoridade chegou. (ilustre, importante)
+Ex.: O perigo é **iminente**. (prestes a acontecer)
+Ex.: O **mandado** de segurança foi expedido. (ordem judicial)
+Ex.: O **mandato** do presidente termina em breve. (período de governo)
+
+
+IMPORTÂNCIA NO USO DA LÍNGUA
+
+- O conhecimento dessas relações semânticas é vital para a interpretação textual, a produção de textos claros e precisos, e para evitar erros comuns em provas e na comunicação diária.
+- A escolha correta da palavra enriquece a expressão e garante a eficácia da mensagem transmitida.

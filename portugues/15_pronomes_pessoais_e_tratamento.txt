@@ -1,0 +1,77 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Pronomes Pessoais e Tratamento
+
+INTRODUÇÃO AOS PRONOMES
+
+- Pronomes são palavras que substituem ou acompanham substantivos, indicando as pessoas do discurso ou situando-os no espaço e no tempo.
+- Eles desempenham um papel fundamental na coesão e coerência textual, evitando repetições e estabelecendo relações entre os termos da oração.
+
+PRONOMES PESSOAIS
+
+- Os pronomes pessoais indicam as pessoas do discurso: quem fala (1ª pessoa), com quem se fala (2ª pessoa) e de quem ou do que se fala (3ª pessoa).
+- Eles se dividem em pronomes do caso reto e pronomes do caso oblíquo.
+
+PRONOMES PESSOAIS DO CASO RETO
+
+- Os pronomes pessoais do caso reto exercem a função de sujeito ou predicativo do sujeito na oração.
+- São eles: eu, tu, ele, ela, nós, vós, eles, elas.
+
+Ex.: Eu estudei para a prova de português.
+Ex.: Nós viajaremos amanhã cedo.
+Ex.: Elas são muito dedicadas aos estudos.
+
+PRONOMES PESSOAIS DO CASO OBLÍQUO
+
+- Os pronomes pessoais do caso oblíquo exercem a função de complemento verbal (objeto direto ou indireto) ou complemento nominal.
+- Dividem-se em átonos e tônicos.
+
+PRONOMES OBLÍQUOS ÁTONOS
+
+- Os pronomes oblíquos átonos não são precedidos de preposição e funcionam como objeto direto ou indireto.
+- São eles: me, te, o, a, lhe, nos, vos, os, as, lhes.
+
+Ex.: Ele me chamou para a reunião.
+Ex.: Entreguei-lhe o livro ontem.
+Ex.: A professora nos explicou a matéria.
+
+PRONOMES OBLÍQUOS TÔNICOS
+
+- Os pronomes oblíquos tônicos são sempre precedidos de preposição e funcionam como objeto indireto ou complemento nominal.
+- São eles: mim, ti, ele, ela, nós, vós, eles, elas (precedidos de preposição).
+
+Ex.: Ela conversou comigo sobre o projeto.
+Ex.: Trouxe um presente para ti.
+Ex.: O trabalho foi feito por nós.
+
+PRONOMES DE TRATAMENTO
+
+- Os pronomes de tratamento são usados para nos dirigirmos às pessoas de forma cerimoniosa ou respeitosa, de acordo com sua posição social ou hierarquia.
+- Embora se refiram à 2ª pessoa, a concordância verbal e nominal é feita com a 3ª pessoa.
+
+PRINCIPAIS PRONOMES DE TRATAMENTO
+
+- Você: Usado para tratamento informal, familiar.
+- Senhor(a): Usado para tratamento respeitoso, formal.
+- Vossa Excelência (V. Ex.ª): Usado para altas autoridades (Presidentes, Ministros, Embaixadores, Oficiais-Generais).
+- Vossa Senhoria (V. S.ª): Usado para autoridades em geral (diretores, chefes, vereadores) e para correspondências comerciais.
+- Vossa Majestade (V. M.): Usado para reis e imperadores.
+- Vossa Santidade (V. S.): Usado para o Papa.
+- Vossa Alteza (V. A.): Usado para príncipes, duques e arquiduques.
+- Vossa Eminência (V. Em.ª): Usado para cardeais.
+- Vossa Reverendíssima (V. Rev.ma): Usado para sacerdotes, bispos.
+
+OBSERVAÇÕES SOBRE O USO
+
+- Concordância: O verbo e os adjetivos que se referem ao pronome de tratamento devem concordar com a 3ª pessoa.
+
+Ex.: Vossa Excelência está atrasado para a reunião. (Se for homem)
+Ex.: Vossa Excelência está atrasada para a reunião. (Se for mulher)
+Ex.: Vossa Senhoria é muito gentil.
+
+- Uso de Vossa/Sua: Usa-se 'Vossa' quando se fala diretamente com a pessoa (2ª pessoa do discurso). Usa-se 'Sua' quando se fala da pessoa (3ª pessoa do discurso).
+
+Ex.: Vossa Majestade deseja algo? (Falando diretamente ao rei)
+Ex.: Sua Majestade está em seu trono. (Falando sobre o rei)

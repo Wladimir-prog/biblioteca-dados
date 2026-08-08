@@ -1,0 +1,106 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Conjunção: Introdução aos Conectivos
+
+INTRODUÇÃO À CONJUNÇÃO
+
+- A conjunção é uma das dez classes de palavras da Língua Portuguesa.
+- Ela é invariável, ou seja, não sofre flexão de gênero, número, grau, tempo, modo ou pessoa.
+- Sua principal função é conectar orações ou termos de mesma função sintática.
+
+- As conjunções são essenciais para a coesão e coerência textual.
+- Elas estabelecem relações de sentido entre as partes do enunciado, como adição, oposição, causa, consequência, tempo, entre outras.
+- Compreender as conjunções é fundamental para a interpretação e produção de textos claros e bem articulados.
+
+CONECTIVOS E SUA FUNÇÃO
+
+- Conectivos são palavras ou expressões que ligam elementos em uma frase ou entre frases.
+- As conjunções são os conectivos mais comuns e importantes na gramática.
+- Elas atuam como pontes, unindo ideias e mostrando a relação lógica entre elas.
+
+Ex.: Ele estudou muito, MAS não passou no concurso. (oposição)
+Ex.: Fui ao mercado E comprei frutas. (adição)
+Ex.: Não veio PORQUE estava doente. (causa)
+
+CLASSIFICAÇÃO GERAL DAS CONJUNÇÕES
+
+- As conjunções são tradicionalmente classificadas em dois grandes grupos: coordenativas e subordinativas.
+- Essa classificação depende do tipo de relação que estabelecem entre as orações.
+- As coordenativas ligam orações independentes ou termos de mesma função. As subordinativas ligam orações dependentes.
+
+CONJUNÇÕES COORDENATIVAS
+
+- Ligam orações sintaticamente independentes, ou seja, que fazem sentido sozinhas.
+- Também podem ligar termos que exercem a mesma função sintática na oração.
+- São divididas em aditivas, adversativas, alternativas, conclusivas e explicativas.
+
+1. ADITIVAS
+- Expressam ideia de adição, soma.
+- Principais: e, nem, mas também, como também, bem como.
+
+Ex.: Ele canta E dança muito bem.
+Ex.: Não só estuda, MAS TAMBÉM trabalha.
+Ex.: Não comeu NEM bebeu nada.
+
+2. ADVERSATIVAS
+- Expressam ideia de oposição, contraste, ressalva.
+- Principais: mas, porém, contudo, todavia, entretanto, no entanto.
+
+Ex.: Queria ir à festa, MAS estava doente.
+Ex.: Estudou bastante, CONTUDO não se sentia seguro.
+Ex.: A proposta é boa, ENTRETANTO exige muito investimento.
+
+3. ALTERNATIVAS
+- Expressam ideia de alternância, escolha, exclusão.
+- Principais: ou, ou...ou, ora...ora, quer...quer, seja...seja.
+
+Ex.: OU você estuda, OU você trabalha.
+Ex.: ORA chove, ORA faz sol.
+Ex.: QUER faça sol, QUER chova, iremos viajar.
+
+4. CONCLUSIVAS
+- Expressam ideia de conclusão, consequência.
+- Principais: logo, portanto, por isso, assim, pois (depois do verbo).
+
+Ex.: Ele é inteligente, LOGO será aprovado.
+Ex.: Choveu muito, PORTANTO as ruas estão molhadas.
+Ex.: Não estudou, ASSIM não passou.
+
+5. EXPLICATIVAS
+- Expressam ideia de explicação, justificativa.
+- Principais: porque, que, pois (antes do verbo), porquanto.
+
+Ex.: Não saia, PORQUE está chovendo.
+Ex.: Venha logo, QUE o filme vai começar.
+Ex.: Deve estar cansado, POIS trabalhou o dia todo.
+
+CONJUNÇÕES SUBORDINATIVAS
+
+- Ligam orações que são sintaticamente dependentes de outra (oração principal).
+- A oração subordinada complementa ou modifica o sentido da principal.
+- São divididas em integrantes e adverbiais.
+
+1. INTEGRANTES
+- Introduzem orações subordinadas substantivas.
+- Principais: que, se.
+
+Ex.: Espero QUE você venha.
+Ex.: Perguntou SE eu estava bem.
+Ex.: É fundamental QUE todos participem.
+
+2. ADVERBIAIS
+- Introduzem orações subordinadas adverbiais, que funcionam como advérbios.
+- Expressam diversas circunstâncias: causa, comparação, concessão, condição, conformidade, consequência, finalidade, proporção, tempo.
+- Principais: porque, como, embora, se, conforme, tão...que, para que, à medida que, quando.
+
+Ex.: Ele não veio PORQUE estava doente. (causa)
+Ex.: Estudou COMO se fosse a última prova. (comparação)
+Ex.: EMBORA estivesse cansado, continuou trabalhando. (concessão)
+
+IMPORTÂNCIA DOS CONECTIVOS
+
+- Os conectivos são a "cola" da língua, garantindo a fluidez e a lógica do texto.
+- Sem eles, as frases seriam desconexas e o sentido, fragmentado.
+- Dominar o uso das conjunções é crucial para a proficiência na escrita e na leitura.

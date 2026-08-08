@@ -1,0 +1,113 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Acentuação das Paroxítonas
+
+INTRODUÇÃO À ACENTUAÇÃO GRÁFICA
+
+- A acentuação gráfica na língua portuguesa segue regras específicas para indicar a sílaba tônica das palavras e, em alguns casos, diferenciar vocábulos homógrafos.
+- Compreender essas regras é fundamental para a escrita correta e para a interpretação textual.
+
+1. CLASSIFICAÇÃO DAS PALAVRAS QUANTO À SÍLABA TÔNICA
+
+- As palavras são classificadas em oxítonas, paroxítonas e proparoxítonas, dependendo da posição da sílaba tônica.
+- A sílaba tônica é a sílaba pronunciada com maior intensidade em uma palavra.
+
+1.1. OXÍTONAS
+
+- São palavras cuja sílaba tônica é a última.
+Ex.: café
+Ex.: avô
+Ex.: parabéns
+
+1.2. PAROXÍTONAS
+
+- São palavras cuja sílaba tônica é a penúltima.
+Ex.: mesa
+Ex.: lápis
+Ex.: caráter
+
+1.3. PROPAROXÍTONAS
+
+- São palavras cuja sílaba tônica é a antepenúltima.
+Ex.: médico
+Ex.: lâmpada
+Ex.: árvore
+
+2. REGRAS GERAIS DE ACENTUAÇÃO DAS PAROXÍTONAS
+
+- As paroxítonas são as palavras mais numerosas na língua portuguesa.
+- A regra geral para as paroxítonas é que elas NÃO são acentuadas, a menos que terminem em certas letras ou ditongos.
+
+2.1. PAROXÍTONAS ACENTUADAS
+
+- Acentuam-se as paroxítonas terminadas em:
+
+a) -i, -is
+Ex.: táxi
+Ex.: lápis
+Ex.: júri
+
+b) -us, -um, -uns
+Ex.: vírus
+Ex.: álbum
+Ex.: álbuns
+
+c) -l, -n, -r, -x, -ps
+Ex.: fácil
+Ex.: pólen
+Ex.: caráter
+Ex.: tórax
+Ex.: bíceps
+
+d) -ão, -ãos, -ão, -ões
+Ex.: órfão
+Ex.: órgãos
+Ex.: sótão
+Ex.: prótons
+
+e) -ditongo crescente (seguido ou não de 's')
+- Ditongo crescente é a sequência de vogal + semivogal na mesma sílaba.
+Ex.: história (his-TÓ-ria)
+Ex.: série (SÉ-rie)
+Ex.: água (Á-gua)
+
+f) -ditongo oral (seguido ou não de 's')
+- Ditongo oral é aquele em que o ar sai apenas pela boca.
+Ex.: cárie
+Ex.: vácuo
+Ex.: tênue
+
+3. CASOS ESPECIAIS E EXCEÇÕES
+
+- Existem algumas particularidades que merecem atenção na acentuação das paroxítonas.
+
+3.1. HIATOS COM 'I' E 'U' TÔNICOS
+
+- Acentua-se o 'i' e o 'u' tônicos que formam hiato com a vogal anterior, desde que não sejam seguidos de 'nh' e não se repitam.
+Ex.: saída (sa-Í-da)
+Ex.: saúde (sa-Ú-de)
+Ex.: baú (ba-Ú)
+
+3.2. PAROXÍTONAS TERMINADAS EM 'EM' E 'ENS'
+
+- As paroxítonas terminadas em 'em' e 'ens' NÃO são acentuadas.
+Ex.: jovem
+Ex.: nuvem
+Ex.: itens
+
+3.3. DIFERENCIAL DE ACENTO
+
+- O acento diferencial foi praticamente abolido, mas ainda persiste em alguns casos.
+- 'Pode' (presente do indicativo) e 'pôde' (passado do indicativo).
+Ex.: Ele pode ir.
+Ex.: Ele pôde ir.
+- 'Por' (preposição) e 'pôr' (verbo).
+Ex.: Vou por ali.
+Ex.: Vou pôr o livro na mesa.
+
+CONCLUSÃO
+
+- A acentuação das paroxítonas é um dos pilares da ortografia da língua portuguesa.
+- Dominar essas regras garante a correção e clareza na comunicação escrita.

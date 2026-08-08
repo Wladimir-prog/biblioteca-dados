@@ -1,0 +1,118 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Emprego da Crase
+
+
+INTRODUÇÃO À CRASE
+
+- A crase é a fusão de duas vogais idênticas, geralmente a preposição 'a' com o artigo feminino 'a' (ou 'as'), ou com o 'a' inicial dos pronomes demonstrativos 'aquela', 'aquele', 'aquilo' e suas variações.
+- O sinal indicativo de crase é o acento grave (`). Ele aponta que houve essa fusão, e não apenas a presença da preposição ou do artigo isoladamente.
+
+
+CASOS OBRIGATÓRIOS DE CRASE
+
+1. DIANTE DE PALAVRA FEMININA
+
+- Ocorre quando o termo regente (verbo ou nome) exige a preposição 'a' e o termo regido é um substantivo feminino que aceita o artigo 'a'.
+Ex.: Fui à feira. (Quem vai, vai a algum lugar; feira é palavra feminina)
+Ex.: Obedeço às regras. (Quem obedece, obedece a algo; regras é palavra feminina plural)
+Ex.: Dediquei-me à leitura. (Quem se dedica, dedica-se a algo; leitura é palavra feminina)
+
+2. DIANTE DE LOCUÇÕES ADVERBIAIS FEMININAS
+
+- Locuções adverbiais de tempo, modo, lugar, formadas por substantivos femininos, exigem crase.
+Ex.: Chegou à noite. (locução adverbial de tempo)
+Ex.: Escrevia à mão. (locução adverbial de modo)
+Ex.: Ficou à espera. (locução adverbial de lugar)
+
+3. DIANTE DE LOCUÇÕES PREPOSITIVAS E CONJUNTIVAS FEMININAS
+
+- Expressões como 'à custa de', 'à procura de', 'à medida que', 'à proporção que' sempre levam crase.
+Ex.: À custa de muito esforço, ele venceu.
+Ex.: À medida que o tempo passa, aprendemos mais.
+Ex.: Estava à procura de novas oportunidades.
+
+4. DIANTE DE 'À MODA DE' OU 'À MANEIRA DE' (MESMO SUBENTENDIDOS)
+
+- Quando a expressão 'à moda de' ou 'à maneira de' está implícita, a crase é obrigatória.
+Ex.: Bife à milanesa. (Bife à moda milanesa)
+Ex.: Escrevia à Machado de Assis. (Escrevia à maneira de Machado de Assis)
+Ex.: Gol à Pelé. (Gol à maneira de Pelé)
+
+5. DIANTE DOS PRONOMES DEMONSTRATIVOS 'AQUELA', 'AQUELE', 'AQUILO' E SUAS VARIAÇÕES
+
+- Se o termo regente exigir a preposição 'a', esta se fundirá com o 'a' inicial desses pronomes.
+Ex.: Refiro-me àquele aluno. (Quem se refere, refere-se a algo/alguém)
+Ex.: Entreguei a carta àquela senhora. (Quem entrega, entrega a algo/alguém)
+Ex.: Não dei importância àquilo que ele disse. (Quem dá importância, dá importância a algo)
+
+
+CASOS PROIBIDOS DE CRASE
+
+1. DIANTE DE PALAVRA MASCULINA
+
+- Não há artigo feminino 'a' para se fundir com a preposição 'a'.
+Ex.: Andamos a pé. (pé é palavra masculina)
+Ex.: Viajou a cavalo. (cavalo é palavra masculina)
+Ex.: Pagamento a prazo. (prazo é palavra masculina)
+
+2. DIANTE DE VERBO
+
+- Verbos não são precedidos de artigo 'a'.
+Ex.: Começou a chover. (chover é verbo)
+Ex.: Pôs-se a cantar. (cantar é verbo)
+Ex.: Aprendeu a ler. (ler é verbo)
+
+3. DIANTE DE PRONOMES PESSOAIS, DE TRATAMENTO (EXCETO SENHORA, SENHORITA, MADAME), INDEFINIDOS, DEMONSTRATIVOS (EXCETO AQUELA, AQUELE, AQUILO)
+
+- Esses pronomes não admitem artigo antes deles.
+Ex.: Entreguei a ela. (ela é pronome pessoal)
+Ex.: Referi-me a Vossa Excelência. (Vossa Excelência é pronome de tratamento)
+Ex.: Não disse nada a ninguém. (ninguém é pronome indefinido)
+
+4. DIANTE DE NUMERAL CARDINAL (EXCETO QUANDO INDICAR HORAS)
+
+- Numerais cardinais não são precedidos de artigo 'a'.
+Ex.: Daqui a duas horas. (duas é numeral cardinal)
+Ex.: Chegou a cinco minutos. (cinco é numeral cardinal)
+Ex.: A reunião será daqui a três dias. (três é numeral cardinal)
+
+5. ENTRE PALAVRAS REPETIDAS
+
+- A repetição de palavras impede o uso da crase.
+Ex.: Cara a cara.
+Ex.: Dia a dia.
+Ex.: Gota a gota.
+
+6. ANTES DE ARTIGO INDEFINIDO
+
+- Não há fusão da preposição 'a' com um artigo indefinido 'uma' ou 'umas'.
+Ex.: Referiu-se a uma pessoa. (uma é artigo indefinido)
+Ex.: Deu a uma amiga. (uma é artigo indefinido)
+Ex.: Chegou a um acordo. (um é artigo indefinido, mas aqui é masculino, reforçando a regra)
+
+
+CASOS FACULTATIVOS DE CRASE
+
+1. ANTES DE PRONOMES POSSESSIVOS FEMININOS SINGULARES
+
+- O uso do artigo 'a' antes de pronomes possessivos femininos singulares é opcional.
+Ex.: Entreguei a/à minha irmã. (minha é pronome possessivo feminino singular)
+Ex.: Refiro-me a/à sua casa. (sua é pronome possessivo feminino singular)
+Ex.: Devolvi a/à nossa encomenda. (nossa é pronome possessivo feminino singular)
+
+2. DEPOIS DA PREPOSIÇÃO 'ATÉ'
+
+- A preposição 'a' pode ou não ser usada após a preposição 'até'.
+Ex.: Fui até a/à praia. (praia é substantivo feminino)
+Ex.: Chegou até a/à porta. (porta é substantivo feminino)
+Ex.: Caminhou até a/à escola. (escola é substantivo feminino)
+
+3. ANTES DE NOMES PRÓPRIOS FEMININOS
+
+- O uso do artigo 'a' antes de nomes próprios femininos é opcional, dependendo da intenção de particularizar ou não o nome.
+Ex.: Dediquei o livro a/à Maria. (Maria é nome próprio feminino)
+Ex.: Entreguei a carta a/à Ana. (Ana é nome próprio feminino)
+Ex.: Fiz um elogio a/à Patrícia. (Patrícia é nome próprio feminino)

@@ -1,0 +1,60 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: TÓPICOS AVANÇADOS DE SINTAXE
+TEMA: Orações Intercaladas e Parentéticas
+
+INTRODUÇÃO ÀS ORAÇÕES INTERCALADAS E PARENTÉTICAS
+
+- No estudo da sintaxe, é comum encontrar estruturas que se inserem no meio de outras, adicionando informações sem quebrar a fluidez principal da frase. Essas estruturas são as orações intercaladas e parentéticas.
+
+- Elas enriquecem o texto, fornecendo detalhes, explicações ou comentários, e são essenciais para a construção de períodos complexos e bem articulados. A correta identificação e pontuação dessas orações são cruciais para a clareza e a correção gramatical.
+
+ORAÇÕES INTERCALADAS
+
+- As orações intercaladas são aquelas que se inserem no interior de uma oração principal ou de outra oração, interrompendo sua sequência lógica para adicionar um comentário, uma explicação ou uma informação acessória.
+
+- Elas não possuem uma função sintática essencial para a estrutura da oração em que estão inseridas, podendo ser removidas sem prejuízo da compreensão básica da mensagem. Sua principal característica é a interrupção da ordem direta.
+
+- A pontuação é um elemento fundamental para delimitar as orações intercaladas. Geralmente, são isoladas por vírgulas, parênteses ou travessões. A escolha do sinal de pontuação pode indicar o grau de afastamento da informação em relação ao restante da frase.
+
+Ex.: O aluno, que estudou muito, obteve excelente nota.
+Ex.: A verdade – disse o professor – sempre prevalece.
+Ex.: Ele chegou (o que ninguém esperava) e surpreendeu a todos.
+
+ORAÇÕES PARENTÉTICAS
+
+- As orações parentéticas são um tipo específico de oração intercalada, caracterizadas por apresentarem um comentário ou uma observação à parte, que se integra ao período de forma mais explícita como um "parêntese" no discurso.
+
+- Elas funcionam como um adendo, uma digressão ou uma explicação adicional, muitas vezes expressando a opinião ou a percepção do enunciador sobre o que está sendo dito.
+
+- Assim como as intercaladas, as orações parentéticas são isoladas por sinais de pontuação que indicam sua natureza acessória. Parênteses e travessões são os mais comuns, mas vírgulas também podem ser usadas, dependendo do grau de separação desejado.
+
+Ex.: O livro (que comprei ontem) é fascinante.
+Ex.: Minha irmã – você sabe – é muito talentosa.
+Ex.: A reunião, segundo informaram, foi adiada.
+
+DIFERENÇAS E SEMELHANÇAS
+
+- O termo "oração intercalada" é mais abrangente e se refere a qualquer oração que se insere no meio de outra. "Oração parentética" é frequentemente usado como sinônimo ou para designar um tipo específico de intercalação com função de comentário ou explicação mais explícita.
+
+- Ambas compartilham a característica de serem informações adicionais, não essenciais à estrutura sintática principal, e são isoladas por pontuação. A principal diferença, quando há, reside na ênfase ou no grau de afastamento da informação.
+
+- As orações parentéticas, em particular, tendem a ter um caráter mais explicativo ou opinativo, como se o autor estivesse "conversando" com o leitor ou ouvinte à parte.
+
+Ex.: O presidente, que discursou por horas, cansou a plateia. (Intercalada explicativa)
+Ex.: O presidente – e isso é importante – discursou por horas. (Parentética com comentário)
+Ex.: O presidente (acredito eu) discursou por horas. (Parentética com opinião)
+
+FUNÇÃO SINTÁTICA E PONTUAÇÃO
+
+- A função sintática das orações intercaladas e parentéticas é, em geral, de adjunto adnominal, adjunto adverbial ou aposto, dependendo do seu conteúdo e da relação que estabelecem com o termo a que se referem.
+
+- A pontuação é crucial:
+  - Vírgulas: Indicam uma pausa breve e uma separação menos enfática. Usadas para orações adjetivas explicativas, por exemplo.
+  - Travessões: Indicam uma interrupção mais abrupta e um destaque maior para a informação. Podem substituir vírgulas ou parênteses.
+  - Parênteses: Indicam um afastamento maior da informação, como um aparte, uma observação ou uma explicação secundária.
+
+Ex.: A cidade, onde nasci, é linda. (Intercalada com vírgulas)
+Ex.: O resultado – que era esperado – foi divulgado. (Intercalada com travessões)
+Ex.: Ele viajou (apesar do aviso) para o exterior. (Intercalada com parênteses)

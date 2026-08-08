@@ -1,0 +1,230 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)
+TEMA: Substantivo: Classificação e Flexões
+
+O SUBSTANTIVO
+
+- O substantivo é a classe de palavras que nomeia seres, objetos, lugares, sentimentos, qualidades, ações, entre outros. É a palavra-chave em uma frase, pois tudo o que existe ou se imagina pode ser nomeado por um substantivo.
+
+Ex.: mesa
+Ex.: amor
+Ex.: Brasil
+
+CLASSIFICAÇÃO DOS SUBSTANTIVOS
+
+1. SUBSTANTIVOS COMUNS E PRÓPRIOS
+
+- Substantivos Comuns: Nomeiam seres da mesma espécie de forma genérica. São escritos com letra inicial minúscula, a menos que iniciem uma frase.
+
+Ex.: cidade
+Ex.: menino
+Ex.: cachorro
+
+- Substantivos Próprios: Nomeiam seres específicos, individualizando-os. São sempre escritos com letra inicial maiúscula.
+
+Ex.: São Paulo
+Ex.: Pedro
+Ex.: Rex
+
+2. SUBSTANTIVOS CONCRETOS E ABSTRATOS
+
+- Substantivos Concretos: Nomeiam seres que existem por si mesmos, independentemente de outros seres. Podem ser reais ou imaginários.
+
+Ex.: livro
+Ex.: fada
+Ex.: computador
+
+- Substantivos Abstratos: Nomeiam qualidades, sentimentos, estados, ações ou conceitos que dependem de outro ser para existir.
+
+Ex.: beleza (depende de algo belo)
+Ex.: alegria (depende de alguém alegre)
+Ex.: corrida (depende de alguém que corre)
+
+3. SUBSTANTIVOS PRIMITIVOS E DERIVADOS
+
+- Substantivos Primitivos: Não derivam de outras palavras da língua portuguesa.
+
+Ex.: pedra
+Ex.: flor
+Ex.: jornal
+
+- Substantivos Derivados: Formam-se a partir de outras palavras já existentes.
+
+Ex.: pedreiro (de pedra)
+Ex.: floricultura (de flor)
+Ex.: jornalista (de jornal)
+
+4. SUBSTANTIVOS SIMPLES E COMPOSTOS
+
+- Substantivos Simples: Formados por apenas um radical.
+
+Ex.: sol
+Ex.: chuva
+Ex.: couve
+
+- Substantivos Compostos: Formados por dois ou mais radicais. Podem ser unidos por hífen ou não.
+
+Ex.: girassol (gira + sol)
+Ex.: guarda-chuva (guarda + chuva)
+Ex.: couve-flor (couve + flor)
+
+5. SUBSTANTIVOS COLETIVOS
+
+- Substantivos Coletivos: Nomeiam um conjunto de seres da mesma espécie.
+
+Ex.: cardume (conjunto de peixes)
+Ex.: biblioteca (conjunto de livros)
+Ex.: alcateia (conjunto de lobos)
+
+FLEXÕES DOS SUBSTANTIVOS
+
+- Os substantivos são palavras variáveis, ou seja, podem sofrer flexões de gênero, número e grau.
+
+1. FLEXÃO DE GÊNERO (MASCULINO E FEMININO)
+
+- A maioria dos substantivos pode ser masculina ou feminina.
+
+a) Biformes: Possuem duas formas, uma para o masculino e outra para o feminino.
+
+Ex.: menino / menina
+Ex.: professor / professora
+Ex.: gato / gata
+
+b) Uniformes: Possuem uma única forma para ambos os gêneros.
+
+- Epicenos: Referem-se a animais e o gênero é determinado pelas palavras "macho" ou "fêmea".
+
+Ex.: a cobra macho / a cobra fêmea
+Ex.: o jacaré macho / o jacaré fêmea
+Ex.: a onça macho / a onça fêmea
+
+- Sobrecomuns: Referem-se a pessoas e têm um só gênero gramatical para ambos os sexos.
+
+Ex.: a criança
+Ex.: a testemunha
+Ex.: o cônjuge
+
+- Comuns de dois gêneros: A distinção de gênero é feita pelo artigo ou outro determinante.
+
+Ex.: o estudante / a estudante
+Ex.: o cliente / a cliente
+Ex.: o artista / a artista
+
+2. FLEXÃO DE NÚMERO (SINGULAR E PLURAL)
+
+- A maioria dos substantivos varia em número, indicando singular (um ser) ou plural (mais de um ser).
+
+- Regra geral: Adiciona-se "s" ao singular.
+
+Ex.: casa / casas
+Ex.: carro / carros
+Ex.: livro / livros
+
+- Casos especiais:
+  - Terminados em -ão: Podem formar o plural em -ãos, -ões ou -ães.
+
+Ex.: irmão / irmãos
+Ex.: balão / balões
+Ex.: pão / pães
+
+  - Terminados em -m: Troca-se o "m" por "ns".
+
+Ex.: homem / homens
+Ex.: álbum / álbuns
+Ex.: nuvem / nuvens
+
+  - Terminados em -r, -s, -z: Adiciona-se "es".
+
+Ex.: flor / flores
+Ex.: país / países
+Ex.: luz / luzes
+
+  - Terminados em -al, -el, -ol, -ul: Troca-se o "l" por "is".
+
+Ex.: animal / animais
+Ex.: papel / papéis
+Ex.: anzol / anzóis
+
+  - Terminados em -il:
+    - Oxítonos: Troca-se o "l" por "is".
+
+Ex.: barril / barris
+Ex.: funil / funis
+Ex.: gentil / gentis
+
+    - Paroxítonos: Troca-se o "il" por "eis".
+
+Ex.: fóssil / fósseis
+Ex.: projétil / projéteis
+Ex.: réptil / répteis
+
+  - Substantivos compostos: A flexão depende da formação.
+
+    - Sem hífen: Flexiona-se como substantivo simples.
+
+Ex.: girassol / girassóis
+Ex.: pontapé / pontapés
+Ex.: passatempo / passatempos
+
+    - Com hífen:
+      - Ambos os elementos flexionam-se: Quando formados por substantivo + substantivo, substantivo + adjetivo, adjetivo + substantivo.
+
+Ex.: couve-flor / couves-flores
+Ex.: obra-prima / obras-primas
+Ex.: gentil-homem / gentis-homens
+
+      - Apenas o primeiro elemento flexiona-se: Quando o segundo elemento é preposição, numeral, ou substantivo que limita o primeiro.
+
+Ex.: pé de moleque / pés de moleque
+Ex.: pão de ló / pães de ló
+Ex.: bico de papagaio / bicos de papagaio
+
+      - Apenas o segundo elemento flexiona-se: Quando o primeiro elemento é verbo, advérbio, prefixo ou palavra invariável.
+
+Ex.: guarda-roupa / guarda-roupas
+Ex.: beija-flor / beija-flores
+Ex.: sempre-viva / sempre-vivas
+
+      - Nenhum elemento flexiona-se: Quando o substantivo composto já está no plural ou é formado por verbos opostos.
+
+Ex.: os saca-rolhas
+Ex.: os quebra-cabeças
+Ex.: os vai-e-vens
+
+3. FLEXÃO DE GRAU (AUMENTATIVO E DIMINUTIVO)
+
+- O grau indica o tamanho do ser, podendo ser aumentativo (tamanho maior) ou diminutivo (tamanho menor).
+
+a) Grau Normal: Indica o tamanho real do ser.
+
+Ex.: casa
+Ex.: livro
+Ex.: menino
+
+b) Grau Aumentativo:
+  - Sintético: Adiciona-se um sufixo aumentativo ao radical.
+
+Ex.: casarão
+Ex.: livrão
+Ex.: meninão
+
+  - Analítico: Usa-se um adjetivo que indica aumento.
+
+Ex.: casa grande
+Ex.: livro enorme
+Ex.: menino alto
+
+c) Grau Diminutivo:
+  - Sintético: Adiciona-se um sufixo diminutivo ao radical.
+
+Ex.: casinha
+Ex.: livrinho
+Ex.: menininho
+
+  - Analítico: Usa-se um adjetivo que indica diminuição.
+
+Ex.: casa pequena
+Ex.: livro minúsculo
+Ex.: menino baixo

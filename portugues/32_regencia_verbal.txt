@@ -1,0 +1,172 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+
+BLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO
+TEMA: Regência Verbal
+
+INTRODUÇÃO À REGÊNCIA VERBAL
+
+- A regência verbal estuda a relação de dependência entre um verbo (termo regente) e seus complementos (termos regidos).
+- Essa relação pode exigir ou não uma preposição, e a escolha correta da preposição é fundamental para a clareza e correção da frase.
+- O sentido do verbo pode mudar conforme a regência empregada.
+
+VERBOS TRANSITIVOS DIRETOS (VTD)
+
+- São verbos que exigem um complemento sem preposição. O complemento é chamado de objeto direto.
+
+Ex.: Eu comprei um livro novo.
+Ex.: Ela leu o artigo rapidamente.
+Ex.: Nós vimos o filme ontem.
+
+VERBOS TRANSITIVOS INDIRETOS (VTI)
+
+- São verbos que exigem um complemento com preposição. O complemento é chamado de objeto indireto.
+- As preposições mais comuns são a, de, em, para, com.
+
+Ex.: Ele precisa de ajuda.
+Ex.: Eu obedeço aos meus pais.
+Ex.: Nós acreditamos em você.
+
+VERBOS TRANSITIVOS DIRETOS E INDIRETOS (VTDI)
+
+- São verbos que exigem dois complementos: um objeto direto (sem preposição) e um objeto indireto (com preposição).
+
+Ex.: Entreguei o trabalho ao professor.
+Ex.: Informei a notícia aos alunos.
+Ex.: Ofereci flores à minha mãe.
+
+VERBOS INTRANSITIVOS (VI)
+
+- São verbos que não exigem complemento para ter sentido completo.
+
+Ex.: O pássaro voou.
+Ex.: As crianças dormiram.
+Ex.: Ele nasceu em Minas Gerais.
+
+CASOS ESPECIAIS DE REGÊNCIA VERBAL
+
+1. VERBO ASPIRAR
+
+- No sentido de "respirar", "sorver", "sugar": é VTD.
+
+Ex.: Aspiramos o ar puro da montanha.
+Ex.: O aspirador aspirou toda a sujeira.
+Ex.: Ele aspirou o perfume da flor.
+
+- No sentido de "desejar ardentemente", "almejar": é VTI, exigindo a preposição "a".
+
+Ex.: Aspiramos a um futuro melhor.
+Ex.: Muitos jovens aspiram ao sucesso.
+Ex.: Ela aspira a uma vaga na universidade.
+
+2. VERBO ASSISTIR
+
+- No sentido de "ver", "presenciar", "estar presente": é VTI, exigindo a preposição "a".
+
+Ex.: Assistimos ao jogo pela televisão.
+Ex.: Ele assistiu à peça de teatro.
+Ex.: Os alunos assistiram à aula com atenção.
+
+- No sentido de "prestar socorro", "ajudar", "auxiliar": é VTD.
+
+Ex.: O médico assistiu o paciente.
+Ex.: A enfermeira assistiu os feridos.
+Ex.: A instituição assiste famílias carentes.
+
+- No sentido de "caber", "pertencer": é VTI, exigindo a preposição "a".
+
+Ex.: Assiste ao juiz julgar o caso.
+Ex.: Assiste a você decidir.
+Ex.: Assiste ao povo o direito de votar.
+
+3. VERBO VISAR
+
+- No sentido de "mirar", "apontar", "colocar visto": é VTD.
+
+Ex.: O atirador visou o alvo.
+Ex.: O gerente visou o cheque.
+Ex.: Ele visou o documento.
+
+- No sentido de "ter em vista", "almejar", "objetivar": é VTI, exigindo a preposição "a".
+
+Ex.: Visamos ao progresso social.
+Ex.: A empresa visa ao lucro.
+Ex.: Ele visa a um cargo de chefia.
+
+4. VERBOS PAGAR E PERDOAR
+
+- Quando o objeto é "coisa": são VTD.
+
+Ex.: Paguei a conta.
+Ex.: Perdoei a dívida.
+Ex.: Paguei o aluguel.
+
+- Quando o objeto é "pessoa": são VTI, exigindo a preposição "a".
+
+Ex.: Paguei ao vendedor.
+Ex.: Perdoei ao meu amigo.
+Ex.: Paguei aos funcionários.
+
+5. VERBO IMPLICAR
+
+- No sentido de "acarretar", "resultar", "ter como consequência": é VTD.
+
+Ex.: Sua atitude implicou sérias consequências.
+Ex.: A decisão implicou mudanças.
+Ex.: O atraso implicou a perda do voo.
+
+- No sentido de "envolver", "comprometer": é VTD.
+
+Ex.: Implicaram-no no crime.
+Ex.: Ele implicou o colega na confusão.
+Ex.: A investigação implicou novos suspeitos.
+
+- No sentido de "ter implicância", "antipatia" (com alguém): é VTI, exigindo a preposição "com".
+
+Ex.: Ele implica com tudo.
+Ex.: A criança implica com o irmão.
+Ex.: Por que você implica com ele?
+
+6. VERBOS OBEDECER E DESOBEDECER
+
+- São sempre VTI, exigindo a preposição "a".
+
+Ex.: Obedeça aos sinais de trânsito.
+Ex.: Desobedecemos às regras.
+Ex.: Ele obedece ao chefe.
+
+7. VERBO PREFERIR
+
+- É VTDI, exigindo a preposição "a" para o objeto indireto. Não se usa "do que" ou "mais que".
+
+Ex.: Prefiro café a chá.
+Ex.: Prefiro ler a assistir televisão.
+Ex.: Prefiro o silêncio ao barulho.
+
+8. VERBO QUERER
+
+- No sentido de "desejar", "ter vontade": é VTD.
+
+Ex.: Quero um sorvete.
+Ex.: Ele quer a verdade.
+Ex.: Queremos paz.
+
+- No sentido de "estimar", "ter afeto", "amar": é VTI, exigindo a preposição "a".
+
+Ex.: Quero muito aos meus pais.
+Ex.: Ele quer bem aos amigos.
+Ex.: Quero a você.
+
+CRASE NA REGÊNCIA VERBAL
+
+- A crase ocorre na regência verbal quando o verbo exige a preposição "a" e o complemento é um substantivo feminino que aceita o artigo "a" ou "as".
+
+Ex.: Fui à feira. (Ir a + a feira)
+Ex.: Obedeço à lei. (Obedecer a + a lei)
+Ex.: Assisti à peça. (Assistir a + a peça)
+
+- Se o complemento for masculino, não haverá crase, mas a preposição "a" pode aparecer.
+
+Ex.: Fui ao mercado. (Ir a + o mercado)
+Ex.: Obedeço ao regulamento. (Obedecer a + o regulamento)
+Ex.: Assisti ao filme. (Assistir a + o filme)
