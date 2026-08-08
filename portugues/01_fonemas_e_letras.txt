@@ -1,0 +1,119 @@
+Reforço Escolar
+DISCIPLINA: Português Gramática
+BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
+TEMA: Fonemas e Letras
+
+FONEMAS E LETRAS - INTRODUÇÃO
+
+* A língua portuguesa é composta por sons (fonemas) que são representados graficamente por sinais (letras).
+* Compreender a relação entre fonemas e letras é fundamental para a correta escrita e pronúncia das palavras.
+
+1. FONEMA
+
+* O fonema é a menor unidade sonora da fala capaz de distinguir um significado de outro.
+* Ele não possui significado por si só, mas sua alteração pode mudar completamente o sentido de uma palavra.
+
+Ex.: 'mala' (m-a-l-a) e 'fala' (f-a-l-a) - o fonema /m/ e /f/ distinguem as palavras.
+Ex.: 'casa' (c-a-s-a) e 'caza' (c-a-z-a) - o fonema /s/ e /z/ distinguem as palavras.
+Ex.: 'pato' (p-a-t-o) e 'mato' (m-a-t-o) - o fonema /p/ e /m/ distinguem as palavras.
+
+2. LETRA
+
+* A letra é a representação gráfica do fonema, ou seja, o sinal escrito que usamos para registrar os sons da fala.
+* O conjunto de letras forma o alfabeto, que é a base da escrita de um idioma.
+
+Ex.: A palavra 'casa' possui 4 letras: c, a, s, a.
+Ex.: A palavra 'chuva' possui 5 letras: c, h, u, v, a.
+Ex.: A palavra 'táxi' possui 4 letras: t, a, x, i.
+
+3. RELAÇÃO ENTRE FONEMA E LETRA
+
+* A correspondência entre fonemas e letras nem sempre é de um para um. Existem diversas situações.
+
+3.1. UMA LETRA PARA UM FONEMA
+
+* É o caso mais comum, onde cada letra representa um único som.
+Ex.: 'bola' - b /b/, o /o/, l /l/, a /a/ (4 letras, 4 fonemas).
+Ex.: 'mesa' - m /m/, e /e/, s /z/, a /a/ (4 letras, 4 fonemas).
+Ex.: 'livro' - l /l/, i /i/, v /v/, r /r/, o /o/ (5 letras, 5 fonemas).
+
+3.2. UMA LETRA PARA VÁRIOS FONEMAS
+
+* Algumas letras podem representar diferentes sons dependendo do contexto.
+Ex.: A letra 'x' em 'táxi' (/ks/) e em 'exame' (/z/).
+Ex.: A letra 's' em 'casa' (/z/) e em 'sapo' (/s/).
+Ex.: A letra 'c' em 'casa' (/k/) e em 'cebola' (/s/).
+
+3.3. VÁRIOS FONEMAS PARA UMA LETRA
+
+* Não é o caso, pois uma letra sempre representa um som ou nenhum. O inverso é que ocorre: um fonema pode ser representado por várias letras.
+
+3.4. DUAS LETRAS PARA UM FONEMA (DÍGRAFOS)
+
+* Ocorre quando duas letras são usadas para representar um único som (fonema).
+Ex.: 'ch' em 'chave' (som de /x/).
+Ex.: 'nh' em 'ninho' (som de /ɲ/).
+Ex.: 'ss' em 'passo' (som de /s/).
+
+3.5. LETRA SEM FONEMA
+
+* Algumas letras podem não representar som algum em determinadas palavras.
+Ex.: A letra 'h' inicial em 'hora' (não tem som).
+Ex.: A letra 'u' em 'guerra' (não tem som).
+Ex.: A letra 'q' em 'queijo' (o 'u' não tem som).
+
+4. DÍGRAFOS
+
+* Dígrafo é o encontro de duas letras que representam um único fonema (som).
+
+4.1. DÍGRAFOS CONSONANTAIS
+
+* Representam um único fonema consonantal.
+Ex.: ch (chave), lh (palha), nh (ninho).
+Ex.: rr (carro), ss (passo), sc (nascer).
+Ex.: sç (nasça), xc (excelente), qu (queijo - antes de e/i), gu (guerra - antes de e/i).
+
+4.2. DÍGRAFOS VOCÁLICOS
+
+* Representam um único fonema vocálico nasal, geralmente com 'm' ou 'n' após a vogal.
+Ex.: am (campo), an (canto).
+Ex.: em (tempo), en (lenda).
+Ex.: im (limpo), in (tinta).
+Ex.: om (rombo), on (onda).
+Ex.: um (algum), un (mundo).
+
+5. ENCONTRO CONSONANTAL
+
+* É a sequência de duas ou mais consoantes na mesma palavra, cada uma representando um fonema distinto.
+Ex.: 'prato' - p e r são ouvidos separadamente.
+Ex.: 'flor' - f e l são ouvidos separadamente.
+Ex.: 'pedra' - p e d e r são ouvidos separadamente.
+
+5.1. ENCONTRO CONSONANTAL PERFEITO
+
+* As consoantes permanecem na mesma sílaba.
+Ex.: 'pra-to', 'flo-res', 'li-vro'.
+
+5.2. ENCONTRO CONSONANTAL IMPERFEITO
+
+* As consoantes se separam em sílabas diferentes.
+Ex.: 'ad-vo-ga-do', 'rit-mo', 'ap-to'.
+
+6. ENCONTRO VOCÁLICO
+
+* É a sequência de duas ou mais vogais ou semivogais na mesma palavra.
+
+6.1. DITONGO
+
+* Encontro de uma vogal e uma semivogal (ou vice-versa) na mesma sílaba.
+Ex.: 'pai' (a + i), 'caixa' (ai), 'louco' (ou).
+
+6.2. TRITONGO
+
+* Encontro de uma semivogal, uma vogal e outra semivogal na mesma sílaba.
+Ex.: 'Paraguai' (u + a + i), 'iguais' (u + a + i), 'enxaguou' (u + o + u).
+
+6.3. HIATO
+
+* Encontro de duas vogais que ficam em sílabas separadas.
+Ex.: 'sa-ú-de' (a + u), 'ca-ir' (a + i), 'pi-a-da' (i + a).
