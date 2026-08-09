@@ -1,1 +1,149 @@
-Reforço Escolar\nDISCIPLINA: Português Gramática\n\nBLOCO: SINTAXE DA ORAÇÃO E DO PERÍODO\nTEMA: Frase, Oração e Período\n\nINTRODUÇÃO À SINTAXE\n\n- A sintaxe é a parte da gramática que estuda a disposição das palavras na frase e das frases no discurso, bem como a relação lógica entre elas.\n- Ela analisa a função que cada termo exerce na construção do sentido.\n\n- Para compreender a sintaxe, é fundamental distinguir os conceitos de frase, oração e período.\n\nFRASE\n\n- Frase é todo enunciado de sentido completo, que pode ou não conter verbo.\n- É a unidade mínima de comunicação.\n- Pode ser verbal ou nominal.\n\n- Frase Nominal: Não possui verbo em sua estrutura.\n- Expressa uma ideia ou emoção de forma concisa.\n\nEx.: Que dia lindo!\nEx.: Silêncio, por favor.\nEx.: Fogo!\n\n- Frase Verbal: Possui verbo em sua estrutura.\n- O verbo é o elemento central que organiza a informação.\n\nEx.: Os alunos estudaram muito.\nEx.: Choveu a noite toda.\nEx.: Ele chegou cedo.\n\nORAÇÃO\n\n- Oração é todo enunciado que contém um verbo ou uma locução verbal.\n- O verbo é o núcleo da oração, em torno do qual os outros termos se organizam.\n- Uma oração não precisa ter sentido completo isoladamente.\n\n- A presença do verbo é o critério distintivo fundamental.\n- Cada verbo ou locução verbal corresponde a uma oração.\n\nEx.: O sol brilha. (1 verbo = 1 oração)\nEx.: Os pássaros cantam alegremente. (1 verbo = 1 oração)\nEx.: Eu estou lendo um livro. (1 locução verbal = 1 oração)\n\nPERÍODO\n\n- Período é a frase organizada em uma ou mais orações.\n- Começa com letra maiúscula e termina com um ponto final, ponto de interrogação, ponto de exclamação ou reticências.\n- Pode ser simples ou composto.\n\n- Período Simples: Possui apenas uma oração (um único verbo ou locução verbal).\n- A oração que forma o período simples é chamada de oração absoluta.\n\nEx.: Os estudantes leram o livro. (1 verbo = 1 oração = período simples)\nEx.: A chuva parou. (1 verbo = 1 oração = período simples)\nEx.: Ela está muito feliz. (1 locução verbal = 1 oração = período simples)\n\n- Período Composto: Possui duas ou mais orações (dois ou mais verbos ou locuções verbais).\n- As orações podem ser coordenadas ou subordinadas.\n\n- Período Composto por Coordenação: As orações são independentes sintaticamente, mas podem estar ligadas por conjunções coordenativas.\n- Cada oração tem sentido próprio, mesmo que haja uma ligação.\n\nEx.: Ele estudou muito, mas não passou no concurso. (2 verbos = 2 orações)\nEx.: Cheguei, vi e venci. (3 verbos = 3 orações)\nEx.: Acordei cedo e fui trabalhar. (2 verbos = 2 orações)\n\n- Período Composto por Subordinação: As orações dependem sintaticamente uma da outra.\n- Uma oração (subordinada) completa o sentido da outra (principal).\n\nEx.: Espero que você venha. (2 verbos = 2 orações; "que você venha" depende de "Espero")\nEx.: Ele disse que viria. (2 verbos = 2 orações; "que viria" depende de "Ele disse")\nEx.: É necessário que todos participem. (2 verbos = 2 orações; "que todos participem" depende de "É necessário")\n\nRELAÇÃO ENTRE FRASE, ORAÇÃO E PERÍODO\n\n- Toda oração é uma frase, mas nem toda frase é uma oração (se não tiver verbo).\n- Todo período é uma frase.\n- Toda oração é parte de um período (seja ele simples ou composto).\n\n- A frase é o conceito mais amplo, a unidade de comunicação.\n- A oração é a frase com verbo.\n- O período é a organização de uma ou mais orações.\n\n- Compreender essas distinções é crucial para a análise sintática e para a construção de textos claros e coesos.\n- Elas são a base para o estudo das funções sintáticas dos termos da oração e das relações entre as orações no período.
+REFORÇO ESCOLAR / CONCURSOS
+DISCIPLINA: Português (Gramática)
+BLOCO: Sintaxe da Oração e do Período
+TEMA: Concordância Verbal
+
+CONCORDÂNCIA VERBAL — CONCEITO E FUNDAMENTOS
+
+A concordância verbal é o mecanismo sintático pelo qual o verbo adapta sua forma ao seu sujeito em número (singular ou plural) e pessoa (1ª, 2ª ou 3ª). É um dos pilares da norma-padrão da língua portuguesa, garantindo clareza, coesão e correção na comunicação escrita e oral.
+
+1. REGRA GERAL DE CONCORDÂNCIA
+
+A regra basilar da sintaxe de concordância estabelece que o verbo concorda formalmente com o núcleo do sujeito em número e pessoa.
+
+- Exemplo 1: O aluno estudou para a prova. (Núcleo no singular -> Verbo no singular)
+- Exemplo 2: Os alunos estudaram para a prova. (Núcleo no plural -> Verbo no plural)
+- Exemplo 3: Eu estudo todos os dias. (1ª pessoa do singular)
+
+2. CASOS ESPECIAIS DE CONCORDÂNCIA
+
+2.1. Sujeito Composto
+
+A. Anteposto ao Verbo (Antes do Verbo)
+Quando o sujeito composto vem posicionado antes do verbo, a concordância é feita obrigatoriamente no plural.
+- Exemplo 1: João e Maria viajaram.
+- Exemplo 2: O pai e o filho saíram cedo.
+- Exemplo 3: A caneta e o lápis estão sobre a mesa.
+
+B. Posposto ao Verbo (Depois do Verbo)
+Quando o sujeito composto aparece depois do verbo, há duas possibilidades gramaticais: o verbo vai para o plural (concordância total) ou concorda com o núcleo mais próximo (concordância atrativa).
+- Exemplo 1 (Plural): Viajaram João e Maria.
+- Exemplo 2 (Atrativa): Viajou João e Maria.
+- Exemplo 3 (Plural): Saíram cedo o pai e o filho.
+
+2.2. Sujeito Composto por Pessoas Gramaticais Diferentes
+
+Quando os núcleos do sujeito pertencem a pessoas do discurso distintas, a concordância obedece a uma hierarquia de prevalência:
+1. A 1ª pessoa (eu, nós) prevalece sobre a 2ª e a 3ª pessoas (o verbo vai para a 1ª pessoa do plural — nós).
+2. A 2ª pessoa (tu, vós) prevalece sobre a 3ª pessoa (o verbo vai para a 2ª pessoa do plural — vós — ou 3ª do plural na linguagem corrente).
+
+- Exemplo 1: Eu, tu e ele faremos o trabalho. (1ª pessoa do plural — nós)
+- Exemplo 2: Tu e ele fareis o trabalho. (2ª pessoa do plural — vós)
+- Exemplo 3: Eu e você estudamos juntos. (1ª pessoa do plural — nós)
+
+2.3. Sujeito Composto por Sinônimos ou Gradação
+
+Quando os núcleos do sujeito composto são palavras sinônimas ou formam uma sequência gradativa (ascendente ou descendente), o verbo pode ficar no singular ou ir para o plural.
+- Exemplo 1 (Sinônimos - Singular): A paz e a tranquilidade reinava na casa.
+- Exemplo 2 (Sinônimos - Plural): A paz e a tranquilidade reinavam na casa.
+- Exemplo 3 (Gradação - Singular): Um grito, um sussurro, um lamento ecoava na noite.
+
+2.4. Sujeito Oracional
+
+Quando o sujeito de uma oração principal é constituído por uma oração subordinada substantiva subjetiva, o verbo da oração principal permanece obrigatoriamente no singular.
+- Exemplo 1: É necessário [que todos participem].
+- Exemplo 2: Convém [que você estude mais].
+- Exemplo 3: Parece [que vai chover].
+
+2.5. Verbo "Haver" no Sentido de Existir, Ocorrer ou Acontecer
+
+O verbo haver, quando empregado com sentido de existir, acontecer ou ocorrer, é impessoal (não possui sujeito). Por essa razão, deve ser mantido rigorosamente na 3ª pessoa do singular, independentemente da quantidade do complemento (objeto direto).
+- Exemplo 1: Havia muitos problemas na reunião. (E não "Haviam muitos problemas")
+- Exemplo 2: Há bons livros na biblioteca.
+- Exemplo 3: Houve grandes festas na cidade.
+
+2.6. Verbos "Fazer" e "Ser" Indicando Tempo ou Clima
+
+Os verbos fazer e ser, quando indicam tempo decorrido, cronológico ou fenômenos climáticos/ambientais, atuam como impessoais e permanecem na 3ª pessoa do singular (com exceção do verbo ser na indicação de horas e datas, que concorda com o numeral).
+- Exemplo 1: Faz dez anos que não o vejo. (E não "Fazem dez anos")
+- Exemplo 2: Fazia dias frios na montanha.
+- Exemplo 3: É tarde para voltar.
+
+2.7. Expressões Partitivas (A maioria de, A maior parte de, Grande parte de)
+
+Quando o sujeito é formado por uma expressão partitiva seguida de um substantivo ou pronome no plural, o verbo admite dupla concordância:
+1. Concordância com o núcleo partitivo no singular.
+2. Concordância com o especificador no plural.
+
+- Exemplo 1 (Partitivo): A maioria dos alunos faltou.
+- Exemplo 2 (Especificador): A maioria dos alunos faltaram.
+- Exemplo 3 (Partitivo): Grande parte da turma aprovou a ideia.
+
+2.8. Pronome Relativo "Que"
+
+Quando o sujeito é o pronome relativo que, o verbo concorda em número e pessoa diretamente com o antecedente do pronome.
+- Exemplo 1: Fui eu que paguei a conta.
+- Exemplo 2: Fomos nós que pagamos a conta.
+- Exemplo 3: Foram eles que pagaram a conta.
+
+2.9. Pronome Relativo "Quem"
+
+Quando o sujeito é o pronome relativo quem, o verbo admite duas construções:
+1. Concordar com o antecedente do pronome.
+2. Ficar na 3ª pessoa do singular (concordando com o próprio pronome "quem").
+
+- Exemplo 1 (3ª pessoa): Fui eu quem pagou a conta.
+- Exemplo 2 (Antecedente): Fui eu quem paguei a conta.
+- Exemplo 3 (Antecedente): Fomos nós quem pagamos a conta.
+
+2.10. Expressão "Um dos que"
+
+Com a expressão "um dos que", o verbo pode ficar no singular (dando ênfase ao indivíduo) ou ir para o plural (dando ênfase ao grupo). O uso do plural é o mais frequente na norma culta.
+- Exemplo 1 (Singular): Ele foi um dos que mais se destacou.
+- Exemplo 2 (Plural): Ele foi um dos que mais se destacaram.
+- Exemplo 3 (Singular): Ela é uma das que sempre ajuda.
+
+2.11. Locução "Parecer + Infinitivo"
+
+Na estrutura formada pelo verbo parecer seguido de um verbo no infinitivo, há duas formas corretas de flexão:
+1. Flexiona-se o verbo parecer e mantém-se o infinitivo invariável.
+2. Mantém-se o verbo parecer no singular e flexiona-se o infinitivo.
+
+- Exemplo 1 (Flexão em parecer): Os alunos parecem estudar.
+- Exemplo 2 (Flexão no infinitivo): Os alunos parece estudarem.
+- Exemplo 3 (Flexão em parecer): As crianças parecem brincar.
+
+2.12. Expressões "Nem um nem outro" e "Um ou outro"
+
+- "Nem um nem outro": O verbo pode ficar no singular ou ir para o plural (o plural é o mais comum).
+- "Um ou outro": O verbo permanece obrigatoriamente no singular.
+
+- Exemplo 1 (Singular): Nem um nem outro compareceu.
+- Exemplo 2 (Plural): Nem um nem outro compareceram.
+- Exemplo 3 (Singular obrigatório): Um ou outro aluno faltou.
+
+2.13. Núcleos do Sujeito Ligados pela Preposição "Com"
+
+- Valor Aditivo (equivalente a "e"): Se a preposição "com" une os núcleos com a mesma relevância (ideia de conjunto), o verbo vai para o plural.
+- Valor de Companhia: Se o primeiro elemento é o sujeito principal e o segundo é mero acompanhante (isolado por vírgulas), o verbo concorda com o primeiro elemento.
+
+- Exemplo 1 (Aditivo - Plural): O pai com o filho saíram.
+- Exemplo 2 (Companhia - Singular): O pai, com o filho, saiu.
+- Exemplo 3 (Aditivo - Plural): A professora com os alunos prepararam a festa.
+
+2.14. Sujeito com Porcentagens ou Frações
+
+O verbo pode concordar com o numeral ou com o substantivo especificador que acompanha a porcentagem/fração:
+- Exemplo 1 (Numeral 1%): 1% da população votou.
+- Exemplo 2 (Especificador população): 1% da população votaram (se interpretado como grupo de indivíduos) / votou.
+- Exemplo 3 (Numeral 20%): 20% dos eleitores compareceram.
+
+2.15. Sujeito com Nome Próprio no Plural
+
+A concordância com nomes próprios no plural (Estados Unidos, Alagoas, Os Lusíadas) depende diretamente da presença e flexão do artigo determinante:
+- Com artigo no plural: O verbo vai obrigatoriamente para o plural.
+- Sem artigo ou artigo no singular: O verbo permanece obrigatoriamente no singular.
+
+- Exemplo 1 (Com artigo plural): Os Estados Unidos são uma potência.
+- Exemplo 2 (Sem artigo): Minas Gerais possui belas paisagens.
+- Exemplo 3 (Com artigo plural): As Olimpíadas ocorrerão no próximo ano.
