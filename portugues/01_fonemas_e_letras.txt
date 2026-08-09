@@ -70,7 +70,7 @@ Ex. (Letra C com som de /s/): 'cebola', 'cidade' (antes de e, i).
 5. FAMÍLIAS DE PALAVRAS (RADICAIS COMUNS)
 
 - Palavras cognatas pertencem à mesma família de palavras porque compartilham a mesma raiz/radical e origem etimológica, mantendo regularidades fonéticas e ortográficas.
-Ex.: pedra -> pedreiro, pedraria, petDirectory.
+Ex.: pedra -> pedreiro, pedraria.
 Ex.: escrever -> escrita, escritor, escritório, escrivão.
 
 6. DÍGRAFOS (CONSONANTAIS E VOCÁLICOS)
