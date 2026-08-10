@@ -1,18 +1,18 @@
 BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
 TEMA: Encontros Vocálicos e Consonantais
 
-INTRODUÇÃO
+INTRODUÇÃO AOS ENCONTROS VOCÁLICOS E CONSONANTAIS
 
 - A língua portuguesa é rica em sons e combinações. Para compreendê-la melhor, é fundamental estudar os encontros vocálicos e consonantais.
 - Esses encontros são sequências de vogais e consoantes que aparecem juntas em uma palavra, influenciando sua pronúncia e divisão silábica.
 
 
-ENCONTROS VOCÁLICOS
+1. ENCONTROS VOCÁLICOS
 
 - São a sequência de sons vocálicos (vogais e semivogais) em uma mesma palavra.
 - Podem ser classificados em ditongo, tritongo e hiato, dependendo da forma como as vogais e semivogais se agrupam.
 
-1. ENCONTROS CONSONANTAIS
+2. ENCONTROS CONSONANTAIS
 
 - Trata-se do encontro de duas ou mais consoantes na mesma palavra.
 - Eles são classificados de duas formas na hora da divisão silábica:
@@ -31,7 +31,7 @@ Ex.: advogado(ad-vo-ga-do)
 Ex.: ritmo (rit-mo)
 Ex.: pacto (pac-to)
 
-2. REVISÃO ENCONTROS CONSONANTAIS VS DÍGRAFOS
+3. ENCONTROS CONSONANTAIS VS DÍGRAFOS
 
 - O vídeo retoma conceitos da aula anterior para evitar confusões comuns em provas:
 
@@ -55,7 +55,7 @@ Ex.: imagem
 Ex.: bem
 Ex.: nuvem
 
-3. VOGAIS VS SEMIVOGAIS
+4. VOGAIS VS SEMIVOGAIS
 
 - Para entender os encontros vocálicos, é essencial distinguir a vogal da semivogal.
 
@@ -89,7 +89,7 @@ Ex.: água (tirar o "u" soa como "aga")
 
 - Isso prova qual letra carrega a força fonética.
 
-4. DITONGOS
+5. DITONGOS
 
 - É o encontro de uma vogal e uma semivogal na mesma sílaba.
 - Eles se dividem em:
@@ -108,7 +108,7 @@ Ex.: saudade
 Ex.: bem
 Ex.: leite
 
-5. TRITONGOS
+6. TRITONGOS
 
 - É o encontro de duas semivogais acompanhando uma vogal central (semivogal + vogal + semivogal), todas na mesma sílaba.
 Ex.: Uruguai
@@ -120,7 +120,7 @@ Ex.: saguão
 Ex.: quão
 Ex.: averiguei
 
-6. HIATOS
+7. HIATOS
 
 - Ocorre quando duas vogais (duas letras fortes) se encontram na palavra, mas precisam ser separadas em sílabas diferentes, pois não podem coexistir na mesma sílaba.
 - Se você tentar remover qualquer uma das vogais de um hiato, a palavra perde o sentido ou se transforma em outra, provando que ambas são fortes.
@@ -133,7 +133,7 @@ Ex.: veem (ve-em)
 Ex.: creem (cre-em)
 Ex.: leem (le-em)
 
-7. A REGRA DE ACENTUAÇÃO DOS HIATOS
+8. A REGRA DE ACENTUAÇÃO DOS HIATOS
 
 - O vídeo introduz uma regra fundamental de acentuação.
 - Toda vez que a letra "I" ou "U" for a segunda vogal de um hiato, e estiver sozinha na sílaba (ou seguida apenas de "S"), ela receberá acento agudo.
