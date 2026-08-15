@@ -11,6 +11,7 @@
         {"titulo": "Naturalismo", "tag": "Naturalismo", "icone": "gavel"},
         {"titulo": "Modernismo", "tag": "Modernismo", "icone": "palette"},
         {"titulo": "Contemporânea", "tag": "Contemporanea_BR", "icone": "deck"}
+        {"titulo": "Contos", "tag": "Contos_BR", "icone": "flare"}
       ]
     },
     {
