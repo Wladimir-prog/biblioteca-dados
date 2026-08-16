@@ -4,7 +4,7 @@ DISCIPLINA: Português Gramática
 BLOCO: FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO
 TEMA: Encontros Vocálicos e Consonantais
 
-INTRODUÇÃO
+ENCONTROS VOCÁLICOS E CONSONANTAIS
 
 - A língua portuguesa é rica em sons e combinações. Para compreendê-la melhor, é fundamental estudar os encontros vocálicos e consonantais.
 - Esses encontros são sequências de vogais e consoantes que aparecem juntas em uma palavra, influenciando sua pronúncia e divisão silábica.
