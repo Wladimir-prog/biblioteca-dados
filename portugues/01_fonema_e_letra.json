@@ -1,0 +1,141 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "— FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Fonema e Letra",
+  "introducao": [
+    "A Fonologia estuda os fonemas, as menores unidades sonoras da fala capazes de distinguir significados, enquanto a Ortografia se ocupa da representação gráfica desses sons por meio das letras. A relação entre fonema e letra é o cerne da compreensão da estrutura sonora e escrita da língua portuguesa, fundamental para a correta aplicação das normas gramaticais.",
+    "Este memento aborda a distinção e a interdependência entre fonemas e letras, explorando suas classificações, regras de contagem e as particularidades que frequentemente geram dúvidas em concursos de alto nível. O foco é estritamente fonológico e ortográfico, sem incursões em outras camadas da análise linguística."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. Conceito Central e Fundamentação Teórica",
+      "conteudo": [
+        "O fonema é a menor unidade sonora distintiva de uma língua, desprovida de significado próprio, mas capaz de diferenciar palavras. Sua função primordial é contrastar vocábulos, como em 'faca' e 'vaca', onde a troca do fonema /f/ pelo fonema /v/ altera completamente o sentido.",
+        "Os fonemas são representados foneticamente entre barras oblíquas (ex: /a/, /b/, /ʃ/) e são classificados em vogais, semivogais e consoantes, conforme a passagem do ar pela boca e a vibração das cordas vocais. A identificação correta dos fonemas é crucial para a análise fonológica.",
+        "A letra, por sua vez, é a representação gráfica do fonema ou de um conjunto de fonemas na escrita. O alfabeto da língua portuguesa é composto por 26 letras, que servem como símbolos visuais para transcrever os sons da fala.",
+        "A relação entre fonema e letra não é biunívoca, ou seja, nem sempre uma letra corresponde a um fonema, e vice-versa. Essa complexidade é a base para a maioria das dificuldades e 'pegadinhas' em provas de concursos públicos."
+      ]
+    },
+    {
+      "titulo": "2. Classificações e Regras Gerais",
+      "conteudo": [
+        "A contagem de fonemas e letras é um dos pontos mais cobrados, exigindo a compreensão das diversas relações entre som e grafia. As letras são contadas individualmente, enquanto os fonemas são identificados pelos sons distintivos."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "2.1. Relação Fonema-Letra",
+          "itens": [
+            "Uma letra, um fonema: Ocorre quando uma única letra representa um único som distintivo (ex: 'b' em bola = /b/; 'a' em casa = /a/; 'p' em pato = /p/).",
+            "Uma letra, mais de um fonema: Uma única letra representa dois sons (/ks/ em táxi e fixo).",
+            "Mais de uma letra, um fonema (Dígrafo): Duas letras representam um único som (ch em chave = /ʃ/; ss em passo = /s/; qu em queijo = /k/).",
+            "Uma letra, nenhum fonema (Letra muda): A letra está presente na escrita, mas não corresponde a nenhum som (h em hora e homem)."
+          ]
+        },
+        {
+          "subtitulo": "2.2. Dígrafos Consonantais e Vocálicos",
+          "itens": [
+            "Dígrafos Consonantais: ch (chave /ʃ/), lh (telha /ʎ/), nh (ninho /ɲ/), rr (carro /ʁ/), ss (massa /s/), qu (queijo /k/), gu (guerra /g/).",
+            "Dígrafos Vocálicos (nasalização na mesma sílaba): am (campo), an (canto), em (tempo), en (vento), im (limpo), in (tinta), om (pombo), on (tonto), um (chumbo), un (mundo)."
+          ]
+        },
+        {
+          "subtitulo": "2.3. Encontros Vocálicos e Consonantais",
+          "itens": [
+            "Ditongo: Encontro de vogal e semivogal na mesma sílaba (crescente: água; decrescente: pai).",
+            "Tritongo: Semivogal + vogal + semivogal na mesma sílaba (Paraguai).",
+            "Hiato: Duas vogais juntas na grafia, mas em sílabas distintas (sa-ú-de).",
+            "Encontro Consonantal: Consoantes consecutivas ouvidas plenamente (perfeito: prato, claro; imperfeito: carta, advogado)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "3. Casos Especiais, Particularidades e Exceções",
+      "conteudo": [
+        "A letra X é polissêmica: pode soar como /ks/ (táxi, fixo), /z/ (exame, exato), /ʃ/ (xícara, lixo) ou /s/ (texto, próximo).",
+        "A letra H inicial é meramente etimológica e não possui representação fonética (hora, hoje).",
+        "As letras M e N funcionam como dígrafo apenas no final de sílaba indicando ressonância nasal (campo, nuvem); no início de sílaba atuam como consoantes plenas (cama, pano).",
+        "As sequências QU e GU só formam dígrafo se o 'u' for mudo (queijo, guerra); se o 'u' for articulado, formam encontro consonantal/ditongo (água, quase)."
+      ]
+    },
+    {
+      "titulo": "4. Análise de Armadilhas e Pegadinhas das Bancas",
+      "itens": [
+        "Confundir letras com fonemas em dígrafos e dífonos (chave = 5L, 4F; táxi = 4L, 5F).",
+        "Tratar as marcas nasais M e N como consoantes autônomas em final de sílaba.",
+        "Generalizar QU e GU como dígrafos sem verificar a pronúncia real do 'u'.",
+        "Contar o H inicial como fonema em vocábulos latinos (hora = 4L, 3F).",
+        "Classificar semivogais (/j/ e /w/) como se fossem vogais independentes em ditongos."
+      ]
+    }
+  ],
+  "sintese": [
+    "Fonema é a menor unidade sonora distintiva; letra é a representação gráfica.",
+    "A relação fonema-letra não é biunívoca.",
+    "Dígrafos (consonantais e vocálicos) representam duas letras para um único som.",
+    "A letra 'X' possui 4 valores fonéticos principais, além do dífono (/ks/).",
+    "A letra 'H' inicial não possui valor fonético na língua portuguesa."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das alternativas todas as palavras apresentam dígrafos consonantais?",
+      "opcoes": [
+        "A) Chuva, carro, nascer",
+        "B) Prato, blusa, claro",
+        "C) Ritmo, advogado, apto",
+        "D) Quase, história, série"
+      ],
+      "gabarito": "A",
+      "comentario": "Em 'Chuva' (ch), 'carro' (rr) e 'nascer' (sc), duas letras representam um único fonema consonantal. As opções B e C contêm encontros consonantais, e a D contém encontros vocálicos."
+    },
+    {
+      "id": 2,
+      "enunciado": "A palavra 'táxi' possui 4 letras e 5 fonemas. Isso ocorre devido a qual fenômeno fonético?",
+      "opcoes": [
+        "A) Dígrafo consonantal",
+        "B) Dífono da letra X",
+        "C) Encontro consonantal perfeito",
+        "D) Dígrafo vocálico"
+      ],
+      "gabarito": "B",
+      "comentario": "O dífono ocorre quando uma única letra representa dois sons simultâneos, como a letra 'x' valendo por /ks/."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das palavras abaixo a sequência destacada NÃO constitui dígrafo?",
+      "opcoes": [
+        "A) Queijo",
+        "B) Guerra",
+        "C) Água",
+        "D) Quilo"
+      ],
+      "gabarito": "C",
+      "comentario": "Em 'água', a letra 'u' é plenamente pronunciada como semivogal (/agwa/), constituindo um ditongo crescente e não um dígrafo."
+    },
+    {
+      "id": 4,
+      "enunciado": "Na palavra 'campo', o grupo 'am' é classificado foneticamente como:",
+      "opcoes": [
+        "A) Encontro consonantal",
+        "B) Dígrafo vocálico",
+        "C) Ditongo nasal crescente",
+        "D) Consoante de ligação"
+      ],
+      "gabarito": "B",
+      "comentario": "A letra 'm' em final de sílaba não representa uma consoante física articulada, mas sim a marca de nasalização da vogal 'a' (/kɐ̃pu/)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Quantos fonemas possui a palavra 'hora'?",
+      "opcoes": [
+        "A) 4 fonemas",
+        "B) 3 fonemas",
+        "C) 5 fonemas",
+        "D) 2 fonemas"
+      ],
+      "gabarito": "B",
+      "comentario": "A palavra possui 4 letras, mas apenas 3 fonemas (/ɔ/, /r/, /a/), pois a letra 'h' inicial é etimológica e desprovida de valor fonético."
+    }
+  ]
+}
