@@ -1,0 +1,235 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Hobbies e Favoritos",
+  "introducao": [
+    "Nesta aula, vamos aprender a falar sobre nossos passatempos, o que gostamos de fazer no tempo livre e nossas coisas favoritas em inglês.",
+    "É uma ótima maneira de conhecer novas pessoas e compartilhar interesses, facilitando a comunicação em diversas situações sociais."
+  ],
+  "secoes": [
+    {
+      "titulo": "Perguntando sobre Hobbies",
+      "conteudo": [
+        "Para perguntar a alguém sobre seus hobbies, podemos usar algumas frases comuns.",
+        "É importante ser educado e mostrar interesse genuíno."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Frases Comuns para Perguntar",
+          "itens": [
+            "What are your hobbies? (Quais são seus hobbies?)",
+            "Ex.: What are your hobbies? I like reading and hiking.",
+            "Ex.: What are your hobbies? Do you enjoy sports?",
+            "Ex.: What are your hobbies? Mine are cooking and painting.",
+            "What do you like to do in your free time? (O que você gosta de fazer no seu tempo livre?)",
+            "Ex.: What do you like to do in your free time? I usually watch movies.",
+            "Ex.: What do you like to do in your free time? I go to the gym.",
+            "Ex.: What do you like to do in your free time? I play video games.",
+            "Do you have any hobbies? (Você tem algum hobby?)",
+            "Ex.: Do you have any hobbies? Yes, I love gardening.",
+            "Ex.: Do you have any hobbies? No, not really, I just work.",
+            "Ex.: Do you have any hobbies? I enjoy photography."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Falando sobre Seus Hobbies",
+      "conteudo": [
+        "Ao responder sobre seus hobbies, você pode usar verbos como \"like\", \"love\", \"enjoy\" seguidos de um gerúndio (-ing) ou um substantivo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Expressando Hobbies com Verbos",
+          "itens": [
+            "I like + gerúndio/substantivo (Eu gosto de...)",
+            "Ex.: I like reading books.",
+            "Ex.: I like playing soccer.",
+            "Ex.: I like music.",
+            "I love + gerúndio/substantivo (Eu amo/adoro...)",
+            "Ex.: I love cooking Italian food.",
+            "Ex.: I love watching movies.",
+            "Ex.: I love spending time with my family.",
+            "I enjoy + gerúndio (Eu curto/aprecio...)",
+            "Ex.: I enjoy hiking in the mountains.",
+            "Ex.: I enjoy listening to podcasts.",
+            "Ex.: I enjoy learning new languages.",
+            "My hobby is + gerúndio/substantivo (Meu hobby é...)",
+            "Ex.: My hobby is painting landscapes.",
+            "Ex.: My hobby is collecting stamps.",
+            "Ex.: My hobby is playing the guitar."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Expressando Preferências",
+      "conteudo": [
+        "Para falar sobre o que você prefere ou não gosta, usamos \"prefer\", \"don't like\", \"hate\"."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Gostar e Não Gostar",
+          "itens": [
+            "I like... (Eu gosto de...)",
+            "Ex.: I like coffee.",
+            "Ex.: I like sunny days.",
+            "Ex.: I like to travel.",
+            "I don't like... (Eu não gosto de...)",
+            "Ex.: I don't like cold weather.",
+            "Ex.: I don't like waiting.",
+            "Ex.: I don't like spicy food.",
+            "I prefer... (Eu prefiro...)",
+            "Ex.: I prefer tea to coffee.",
+            "Ex.: I prefer staying home on weekends.",
+            "Ex.: I prefer summer over winter.",
+            "I hate... (Eu odeio...)",
+            "Ex.: I hate waking up early.",
+            "Ex.: I hate traffic jams.",
+            "Ex.: I hate doing laundry."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Falando sobre Coisas Favoritas",
+      "conteudo": [
+        "Para expressar suas coisas favoritas, usamos a estrutura \"My favorite + substantivo + is...\"."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Perguntando sobre Favoritos",
+          "itens": [
+            "What's your favorite + substantivo? (Qual é o seu + substantivo + favorito?)",
+            "Ex.: What's your favorite color?",
+            "Ex.: What's your favorite movie?",
+            "Ex.: What's your favorite food?"
+          ]
+        },
+        {
+          "subtitulo": "Respondendo sobre Favoritos",
+          "itens": [
+            "My favorite + substantivo + is... (Meu + substantivo + favorito é...)",
+            "Ex.: My favorite color is blue.",
+            "Ex.: My favorite movie is \"The Shawshank Redemption\".",
+            "Ex.: My favorite food is pizza."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Vocabulário Comum de Hobbies",
+      "itens": [
+        "Reading (Leitura)",
+        "Ex.: I enjoy reading fantasy novels.",
+        "Ex.: Reading helps me relax.",
+        "Ex.: She spends hours reading in the library.",
+        "Watching movies/series (Assistir filmes/séries)",
+        "Ex.: We love watching action movies.",
+        "Ex.: Watching series is my favorite pastime.",
+        "Ex.: Do you like watching documentaries?",
+        "Playing sports (Praticar esportes)",
+        "Ex.: He enjoys playing basketball.",
+        "Ex.: Playing sports keeps me active.",
+        "Ex.: My friends and I play volleyball every Saturday.",
+        "Listening to music (Ouvir música)",
+        "Ex.: Listening to music helps me focus.",
+        "Ex.: I like listening to classical music.",
+        "Ex.: She always listens to music while working out.",
+        "Cooking (Cozinhar)",
+        "Ex.: Cooking is a very relaxing hobby for me.",
+        "Ex.: I love cooking new recipes.",
+        "Ex.: He's learning to cook Italian dishes.",
+        "Gardening (Jardinagem)",
+        "Ex.: My grandmother loves gardening.",
+        "Ex.: Gardening is a peaceful outdoor activity.",
+        "Ex.: We grow our own vegetables in the garden.",
+        "Traveling (Viajar)",
+        "Ex.: Traveling allows me to explore new cultures.",
+        "Ex.: My dream is traveling around the world.",
+        "Ex.: They enjoy traveling to exotic places.",
+        "Photography (Fotografia)",
+        "Ex.: Photography is a great way to capture memories.",
+        "Ex.: He takes amazing photos of nature.",
+        "Ex.: I'm learning about photography composition.",
+        "Painting/Drawing (Pintar/Desenhar)",
+        "Ex.: She finds painting very therapeutic.",
+        "Ex.: Drawing portraits is a challenging hobby.",
+        "Ex.: My kids love painting with watercolors.",
+        "Playing video games (Jogar videogames)",
+        "Ex.: Playing video games is a popular hobby among young people.",
+        "Ex.: I spend my evenings playing video games with friends.",
+        "Ex.: He enjoys playing strategy video games."
+      ]
+    }
+  ],
+  "sintese": [
+    "Para perguntar sobre hobbies, use frases como \"What are your hobbies?\" ou \"What do you like to do in your free time?\".",
+    "Para expressar seus hobbies, utilize \"I like/love/enjoy + gerúndio (-ing)\" ou \"My hobby is + gerúndio (-ing)\".",
+    "Para falar sobre preferências, use \"I like...\", \"I don't like...\", \"I prefer...\" e \"I hate...\".",
+    "Para perguntar sobre coisas favoritas, a estrutura é \"What's your favorite + substantivo?\". Para responder, use \"My favorite + substantivo + is...\".",
+    "O vocabulário comum de hobbies inclui atividades como reading, watching movies/series, playing sports, cooking, gardening, traveling, photography, painting/drawing e playing video games."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual das seguintes frases é a forma mais comum de perguntar a alguém sobre seus hobbies?",
+      "opcoes": [
+        "A) What do you do?",
+        "B) What are your hobbies?",
+        "C) What is your job?",
+        "D) What do you like?"
+      ],
+      "gabarito": "B",
+      "comentario": "\"What are your hobbies?\" é a forma mais direta e comum de perguntar sobre os passatempos de alguém."
+    },
+    {
+      "id": 2,
+      "enunciado": "Se você gosta de cozinhar, qual das frases abaixo expressa corretamente seu hobby?",
+      "opcoes": [
+        "A) I like to cooking.",
+        "B) I like cook.",
+        "C) I like cooking.",
+        "D) I like cooked."
+      ],
+      "gabarito": "C",
+      "comentario": "Ao usar \"like\", \"love\" ou \"enjoy\" para expressar hobbies, o verbo seguinte geralmente aparece na forma de gerúndio (-ing)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Como você perguntaria a alguém qual é a cor favorita dela?",
+      "opcoes": [
+        "A) What color do you like?",
+        "B) What's your favorite color?",
+        "C) Do you have a favorite color?",
+        "D) Which color is your favorite?"
+      ],
+      "gabarito": "B",
+      "comentario": "A estrutura \"What's your favorite + substantivo?\" é a forma padrão para perguntar sobre coisas favoritas."
+    },
+    {
+      "id": 4,
+      "enunciado": "Uma pessoa diz: \"I enjoy hiking in the mountains.\" Qual é o hobby dela?",
+      "opcoes": [
+        "A) Reading",
+        "B) Cooking",
+        "C) Hiking",
+        "D) Playing video games"
+      ],
+      "gabarito": "C",
+      "comentario": "A frase \"I enjoy hiking in the mountains\" indica claramente que o hobby da pessoa é \"hiking\" (caminhada/trilha)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das opções abaixo NÃO é uma forma correta de expressar algo que você não gosta?",
+      "opcoes": [
+        "A) I don't like cold weather.",
+        "B) I hate waking up early.",
+        "C) I prefer not spicy food.",
+        "D) I don't like waiting."
+      ],
+      "gabarito": "C",
+      "comentario": "A frase \"I prefer not spicy food\" está gramaticalmente incorreta. O correto seria \"I don't like spicy food\" ou \"I prefer mild food\". \"I prefer\" é usado para indicar uma preferência positiva, não uma aversão direta."
+    }
+  ]
+}

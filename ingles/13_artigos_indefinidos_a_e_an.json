@@ -1,0 +1,151 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Artigos Indefinidos A e An",
+  "introducao": [
+    "Os artigos indefinidos 'a' e 'an' são elementos fundamentais da gramática inglesa, essenciais para a clareza e correção na comunicação. Eles nos permitem introduzir substantivos de forma não específica ou mencioná-los pela primeira vez, correspondendo aos nossos 'um' e 'uma' em português.",
+    "Dominar o uso correto de 'a' e 'an' é crucial, pois a escolha entre eles depende do som inicial da palavra seguinte, e não apenas da letra, o que pode gerar dúvidas para falantes de português."
+  ],
+  "secoes": [
+    {
+      "titulo": "Introdução aos Artigos Indefinidos",
+      "conteudo": [
+        "Os artigos indefinidos 'a' e 'an' são usados em inglês para se referir a algo não específico ou quando se menciona algo pela primeira vez. Eles correspondem a 'um' ou 'uma' em português."
+      ],
+      "itens": [
+        "Ex.: I need a pen.",
+        "Ex.: She wants an apple.",
+        "Ex.: He bought a new car."
+      ]
+    },
+    {
+      "titulo": "Uso do Artigo 'A'",
+      "destaque": "Lembre-se: o uso de 'a' depende do *som* inicial da palavra, não apenas da letra.",
+      "conteudo": [
+        "O artigo 'a' é usado antes de palavras que começam com um som de consoante."
+      ],
+      "itens": [
+        "Ex.: a book (som de 'b')",
+        "Ex.: a cat (som de 'c')",
+        "Ex.: a university (som de 'y', que é consoante)"
+      ]
+    },
+    {
+      "titulo": "Uso do Artigo 'An'",
+      "destaque": "Atenção: o som inicial da palavra é o fator determinante para o uso de 'an', não a letra.",
+      "conteudo": [
+        "O artigo 'an' é usado antes de palavras que começam com um som de vogal (a, e, i, o, u)."
+      ],
+      "itens": [
+        "Ex.: an orange (som de 'o')",
+        "Ex.: an elephant (som de 'e')",
+        "Ex.: an hour (o 'h' é mudo, som de 'o')"
+      ]
+    },
+    {
+      "titulo": "Regras Específicas e Exceções",
+      "conteudo": [
+        "Embora a regra geral seja simples, algumas palavras apresentam sons iniciais que podem confundir. É crucial prestar atenção à pronúncia para aplicar o artigo correto."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Palavras com 'U' ou 'EU'",
+          "itens": [
+            "Quando 'u' ou 'eu' têm som de 'yu' (como em 'you'), usa-se 'a', pois o som é de consoante.",
+            "Ex.: a uniform (som de 'yu')",
+            "Ex.: a European country (som de 'yu')",
+            "Ex.: a useful tool (som de 'yu')"
+          ]
+        },
+        {
+          "subtitulo": "Palavras com 'O'",
+          "itens": [
+            "A maioria das palavras que começam com 'o' usa 'an'. No entanto, se o 'o' tiver som de 'w' (como em 'one'), usa-se 'a'.",
+            "Ex.: an opinion (som de 'o')",
+            "Ex.: an octopus (som de 'o')",
+            "Ex.: a one-way street (som de 'w')"
+          ]
+        },
+        {
+          "subtitulo": "Palavras com 'H'",
+          "itens": [
+            "Se o 'h' for mudo (não pronunciado), usa-se 'an', pois a palavra começa com som de vogal. Se o 'h' for pronunciado, usa-se 'a'.",
+            "Ex.: an honest man (o 'h' é mudo, som de 'o')",
+            "Ex.: an honor (o 'h' é mudo, som de 'o')",
+            "Ex.: a house (o 'h' é pronunciado, som de 'h')"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A escolha entre 'a' e 'an' é determinada exclusivamente pelo *som* inicial da palavra seguinte, e não pela letra.",
+    "Use 'a' antes de palavras que começam com som de consoante (Ex: a book, a university).",
+    "Use 'an' antes de palavras que começam com som de vogal (Ex: an apple, an hour).",
+    "Atenção às exceções: palavras com 'u' ou 'eu' com som de 'yu' usam 'a' (Ex: a uniform).",
+    "Palavras com 'o' com som de 'w' usam 'a' (Ex: a one-way street).",
+    "Palavras com 'h' mudo usam 'an' (Ex: an honest man), enquanto 'h' pronunciado usa 'a' (Ex: a house)."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual artigo indefinido completa corretamente a frase: 'She wants ____ orange and ____ banana.'",
+      "opcoes": [
+        "A) a / a",
+        "B) an / an",
+        "C) an / a",
+        "D) a / an"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'orange' começa com som de vogal ('o'), portanto usa-se 'an'. A palavra 'banana' começa com som de consoante ('b'), portanto usa-se 'a'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Escolha a opção que preenche corretamente a lacuna: 'He is ____ university student.'",
+      "opcoes": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) some"
+      ],
+      "gabarito": "A",
+      "comentario": "Embora 'university' comece com a letra 'u', o som inicial é de consoante ('yu'), exigindo o uso do artigo 'a'."
+    },
+    {
+      "id": 3,
+      "enunciado": "Complete as frases com os artigos corretos: 'It takes ____ hour to get to ____ house.'",
+      "opcoes": [
+        "A) a / a",
+        "B) an / an",
+        "C) an / a",
+        "D) a / an"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'hour' tem 'h' mudo, começando com som de vogal ('o'), então usa-se 'an'. A palavra 'house' tem 'h' pronunciado, começando com som de consoante, então usa-se 'a'."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual a combinação correta de artigos para as palavras: '____ honest man' e '____ European trip'?",
+      "opcoes": [
+        "A) a / a",
+        "B) an / an",
+        "C) an / a",
+        "D) a / an"
+      ],
+      "gabarito": "C",
+      "comentario": "'Honest' começa com 'h' mudo (som de vogal), então 'an'. 'European' começa com som de 'yu' (consoante), então 'a'."
+    },
+    {
+      "id": 5,
+      "enunciado": "Assinale a alternativa que usa o artigo indefinido corretamente: 'This is ____ one-way street.'",
+      "opcoes": [
+        "A) an one-way street",
+        "B) a one-way street",
+        "C) the one-way street",
+        "D) one one-way street"
+      ],
+      "gabarito": "B",
+      "comentario": "Apesar de 'one' começar com 'o', o som inicial é de 'w' (consoante), portanto, o artigo correto é 'a'."
+    }
+  ]
+}

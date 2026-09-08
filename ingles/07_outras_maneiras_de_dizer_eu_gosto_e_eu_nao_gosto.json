@@ -1,0 +1,167 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Outras Maneiras de Dizer Eu Gosto e Eu Não Gosto",
+  "introducao": [
+    "Aprender a expressar preferências e aversões é fundamental em qualquer idioma. No inglês, \"like\" e \"don't like\" são as formas mais básicas, mas o uso repetitivo pode empobrecer sua comunicação.",
+    "Esta aula explorará diversas alternativas para enriquecer seu vocabulário e soar mais natural ao falar sobre o que você gosta ou não gosta.",
+    "Ampliar seu repertório de expressões permite nuances e maior precisão ao comunicar seus sentimentos e opiniões."
+  ],
+  "secoes": [
+    {
+      "titulo": "Expressões para Dizer Eu Gosto",
+      "subsecoes": [
+        {
+          "subtitulo": "I ENJOY",
+          "itens": [
+            "Usado para indicar prazer em uma atividade ou experiência. É um sinônimo direto de \"gostar\" ou \"apreciar\".",
+            "Ex.: I enjoy reading books in my free time.",
+            "Ex.: She enjoys playing the piano every evening.",
+            "Ex.: We enjoy spending time with our friends on weekends."
+          ]
+        },
+        {
+          "subtitulo": "I LOVE / I ADORE",
+          "itens": [
+            "Expressam um nível muito forte de gostar, paixão ou grande afeição por algo ou alguém. \"Adore\" é ainda mais intenso que \"love\".",
+            "Ex.: I love chocolate ice cream.",
+            "Ex.: He loves watching football matches.",
+            "Ex.: They adore their new puppy."
+          ]
+        },
+        {
+          "subtitulo": "I'M FOND OF",
+          "itens": [
+            "Indica que você tem um carinho ou afeição por algo ou alguém, mas talvez não com a intensidade de \"love\". É um gostar gentil.",
+            "Ex.: I'm fond of old movies.",
+            "Ex.: She's very fond of her grandmother.",
+            "Ex.: We're fond of walking in the park."
+          ]
+        },
+        {
+          "subtitulo": "I'M KEEN ON",
+          "itens": [
+            "Significa que você está muito interessado ou entusiasmado com algo. É comum no inglês britânico.",
+            "Ex.: I'm keen on learning new languages.",
+            "Ex.: He's keen on playing tennis.",
+            "Ex.: Are you keen on going to the concert tonight?"
+          ]
+        },
+        {
+          "subtitulo": "I'M A BIG FAN OF",
+          "itens": [
+            "Usado para expressar grande entusiasmo ou admiração por algo ou alguém, especialmente em relação a entretenimento, esportes ou pessoas públicas.",
+            "Ex.: I'm a big fan of rock music.",
+            "Ex.: She's a big fan of that author.",
+            "Ex.: We're big fans of the local football team."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Expressões para Dizer Eu Não Gosto",
+      "subsecoes": [
+        {
+          "subtitulo": "I DISLIKE",
+          "itens": [
+            "Uma forma mais formal e suave de dizer \"eu não gosto\". É o oposto direto de \"like\".",
+            "Ex.: I dislike waking up early on weekends.",
+            "Ex.: He dislikes spicy food.",
+            "Ex.: They dislike crowded places."
+          ]
+        },
+        {
+          "subtitulo": "I HATE / I DETEST",
+          "itens": [
+            "Expressam um sentimento muito forte de aversão ou repulsa. \"Detest\" é ainda mais forte e formal que \"hate\".",
+            "Ex.: I hate doing laundry.",
+            "Ex.: She hates injustice.",
+            "Ex.: We detest dishonest people."
+          ]
+        },
+        {
+          "subtitulo": "I CAN'T STAND",
+          "itens": [
+            "Significa que você não suporta algo ou alguém, que é extremamente irritante ou desagradável para você.",
+            "Ex.: I can't stand loud noises.",
+            "Ex.: He can't stand people who are always late.",
+            "Ex.: They can't stand the smell of cigarette smoke."
+          ]
+        },
+        {
+          "subtitulo": "I'M NOT A FAN OF",
+          "itens": [
+            "O oposto de \"I'm a big fan of\", indica que você não tem entusiasmo ou admiração por algo. É uma forma mais suave de expressar desagrado.",
+            "Ex.: I'm not a fan of reality TV shows.",
+            "Ex.: She's not a fan of cold weather.",
+            "Ex.: We're not a fan of long meetings."
+          ]
+        },
+        {
+          "subtitulo": "I'M NOT KEEN ON",
+          "itens": [
+            "O oposto de \"I'm keen on\", significa que você não está muito interessado ou entusiasmado com algo.",
+            "Ex.: I'm not keen on going out tonight.",
+            "Ex.: He's not keen on trying new foods.",
+            "Ex.: They're not keen on working overtime."
+          ]
+        },
+        {
+          "subtitulo": "I'M NOT FOND OF",
+          "itens": [
+            "O oposto de \"I'm fond of\", indica que você não tem carinho ou afeição por algo.",
+            "Ex.: I'm not fond of public speaking.",
+            "Ex.: She's not fond of surprises.",
+            "Ex.: We're not fond of doing chores."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Amplie seu vocabulário além de \"like\" e \"don't like\" para uma comunicação mais rica e natural em inglês.",
+    "Para expressar gosto, utilize \"I enjoy\", \"I love/adore\", \"I'm fond of\", \"I'm keen on\" e \"I'm a big fan of\", cada uma com sua nuance de intensidade.",
+    "Para expressar aversão, use \"I dislike\", \"I hate/detest\", \"I can't stand\", \"I'm not a fan of\", \"I'm not keen on\" e \"I'm not fond of\".",
+    "Lembre-se que \"adore\" é mais intenso que \"love\", e \"detest\" é mais forte e formal que \"hate\".",
+    "A prática regular dessas expressões em diferentes contextos é crucial para incorporá-las ao seu vocabulário ativo.",
+    "A escolha da expressão correta permite transmitir suas emoções e opiniões com maior precisão e fluidez."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual das seguintes expressões indica um forte entusiasmo ou admiração por algo, especialmente em relação a entretenimento ou esportes?",
+      "opcoes": [
+        "A) I'm fond of",
+        "B) I'm keen on",
+        "C) I'm a big fan of",
+        "D) I enjoy"
+      ],
+      "gabarito": "C",
+      "comentario": "A expressão \"I'm a big fan of\" é usada para demonstrar grande entusiasmo ou admiração, especialmente por entretenimento, esportes ou figuras públicas."
+    },
+    {
+      "id": 2,
+      "enunciado": "Se você quer expressar que não suporta algo que é extremamente irritante ou desagradável, qual a melhor opção?",
+      "opcoes": [
+        "A) I dislike",
+        "B) I'm not keen on",
+        "C) I can't stand",
+        "D) I'm not fond of"
+      ],
+      "gabarito": "C",
+      "comentario": "\"I can't stand\" é a expressão ideal para indicar que você não suporta algo ou alguém, que é extremamente irritante ou desagradável."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual par de expressões expressa o nível mais forte de gostar e não gostar, respectivamente?",
+      "opcoes": [
+        "A) I enjoy / I dislike",
+        "B) I'm fond of / I'm not keen on",
+        "C) I love / I hate",
+        "D) I'm keen on / I can't stand"
+      ],
+      "gabarito": "C",
+      "comentario": "\"I love\" e \"I hate\" são as expressões que denotam os sentimentos mais fortes de gostar e não gostar, respectivamente, entre as opções apresentadas. \"Adore\" e \"detest\" seriam ainda mais fortes, mas não estão no mesmo par."
+    }
+  ]
+}

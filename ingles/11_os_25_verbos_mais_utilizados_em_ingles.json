@@ -1,0 +1,214 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Os Verbos Mais Utilizados em Inglês",
+  "introducao": [
+    "Os verbos são a espinha dorsal de qualquer idioma, e no inglês não é diferente. Eles expressam ações, estados ou ocorrências, sendo cruciais para a construção de frases com sentido.",
+    "Dominar os verbos mais comuns é o primeiro passo para uma comunicação eficaz e fluente. Esta aula abordará os verbos essenciais para o dia a dia."
+  ],
+  "secoes": [
+    {
+      "titulo": "O Que São Verbos?",
+      "conteudo": [
+        "Verbos são palavras que indicam uma ação (correr, comer), um estado (ser, estar) ou um fenômeno (chover, nevar)."
+      ],
+      "itens": [
+        "Eles se flexionam em tempo (presente, passado, futuro), pessoa (eu, você, ele) e número (singular, plural).",
+        "Compreender a conjugação e o uso correto dos verbos é fundamental para expressar ideias de forma clara e precisa."
+      ]
+    },
+    {
+      "titulo": "Os Verbos Mais Utilizados",
+      "conteudo": [
+        "Conhecer os verbos mais frequentes no inglês acelera o aprendizado e a capacidade de formar frases básicas rapidamente. Vamos explorar alguns deles."
+      ]
+    },
+    {
+      "titulo": "1. TO BE (SER/ESTAR)",
+      "destaque": "Sua conjugação é irregular e deve ser memorizada: I am, you are, he/she/it is, we are, they are.",
+      "conteudo": [
+        "Este é o verbo mais fundamental do inglês, usado para descrever estados, identidades, localizações e características."
+      ],
+      "itens": [
+        "Ex.: I am a student.",
+        "Ex.: She is happy today.",
+        "Ex.: We are in London."
+      ]
+    },
+    {
+      "titulo": "2. TO HAVE (TER/POSSUIR)",
+      "conteudo": [
+        "Usado para indicar posse, experiência ou para formar tempos verbais compostos (present perfect, past perfect).",
+        "Também pode ser usado em expressões como 'have breakfast' (tomar café da manhã)."
+      ],
+      "itens": [
+        "Ex.: I have a new car.",
+        "Ex.: They have two children.",
+        "Ex.: She has a meeting at 10 AM."
+      ]
+    },
+    {
+      "titulo": "3. TO DO (FAZER)",
+      "conteudo": [
+        "Significa 'fazer' e é frequentemente usado como verbo auxiliar em perguntas e negações no presente e passado simples.",
+        "Como verbo principal, indica a realização de uma tarefa ou atividade."
+      ],
+      "itens": [
+        "Ex.: What do you do for a living?",
+        "Ex.: I do my homework every night.",
+        "Ex.: She does a great job."
+      ]
+    },
+    {
+      "titulo": "4. TO SAY (DIZER)",
+      "destaque": "É importante diferenciá-lo de 'tell', que geralmente requer um objeto indireto (dizer a alguém).",
+      "conteudo": [
+        "Usado para relatar o que alguém disse, geralmente sem especificar a quem a mensagem foi dirigida."
+      ],
+      "itens": [
+        "Ex.: He said hello.",
+        "Ex.: What did she say?",
+        "Ex.: They say it will rain tomorrow."
+      ]
+    },
+    {
+      "titulo": "5. TO GET (OBTER/CONSEGUIR/CHEGAR)",
+      "destaque": "Um verbo extremamente versátil com múltiplos significados dependendo do contexto: obter, conseguir, chegar, tornar-se, receber. É um dos verbos mais comuns e pode ser parte de muitos phrasal verbs.",
+      "conteudo": [],
+      "itens": [
+        "Ex.: I need to get some milk.",
+        "Ex.: She got a new job.",
+        "Ex.: We get home late."
+      ]
+    },
+    {
+      "titulo": "6. TO MAKE (FAZER/CRIAR)",
+      "destaque": "Diferente de 'do', que é mais sobre realizar uma ação. Usado em muitas expressões fixas como 'make a decision' (tomar uma decisão) ou 'make a cake' (fazer um bolo).",
+      "conteudo": [
+        "Significa 'fazer' no sentido de criar, construir ou produzir algo."
+      ],
+      "itens": [
+        "Ex.: She makes delicious cakes.",
+        "Ex.: I need to make a phone call.",
+        "Ex.: They made a lot of noise."
+      ]
+    },
+    {
+      "titulo": "7. TO GO (IR)",
+      "destaque": "É um verbo irregular (go, went, gone). Também usado para expressar intenções futuras com 'going to'.",
+      "conteudo": [
+        "Indica movimento de um lugar para outro."
+      ],
+      "itens": [
+        "Ex.: I go to school every day.",
+        "Ex.: We went to the beach last weekend.",
+        "Ex.: Are you going to the party?"
+      ]
+    },
+    {
+      "titulo": "8. TO KNOW (SABER/CONHECER)",
+      "destaque": "Não é usado no gerúndio para expressar conhecimento contínuo.",
+      "conteudo": [
+        "Usado para expressar conhecimento de fatos, informações ou familiaridade com pessoas ou lugares."
+      ],
+      "itens": [
+        "Ex.: I know the answer.",
+        "Ex.: Do you know her?",
+        "Ex.: She knows how to swim."
+      ]
+    },
+    {
+      "titulo": "9. TO TAKE (PEGAR/LEVAR)",
+      "destaque": "Muito comum em phrasal verbs e expressões idiomáticas.",
+      "conteudo": [
+        "Outro verbo com múltiplos significados: pegar, levar, tirar, aceitar, demorar."
+      ],
+      "itens": [
+        "Ex.: Please take a seat.",
+        "Ex.: I will take you to the airport.",
+        "Ex.: It takes time to learn."
+      ]
+    },
+    {
+      "titulo": "10. TO SEE (VER)",
+      "destaque": "É um verbo irregular (see, saw, seen).",
+      "conteudo": [
+        "Refere-se à percepção visual. Também pode significar 'entender' ou 'encontrar-se com'."
+      ],
+      "itens": [
+        "Ex.: I see a bird in the sky.",
+        "Ex.: Do you see what I mean?",
+        "Ex.: We will see you tomorrow."
+      ]
+    }
+  ],
+  "sintese": [
+    "Verbos são essenciais para a comunicação, expressando ações, estados e ocorrências em inglês.",
+    "Dominar os verbos mais comuns acelera o aprendizado e a fluência, sendo a base para a construção de frases.",
+    "Verbos como 'to be', 'to have' e 'to do' são fundamentais e possuem usos específicos e auxiliares.",
+    "Muitos verbos, como 'to get' e 'to take', são extremamente versáteis e possuem múltiplos significados dependendo do contexto.",
+    "A prática constante, a atenção aos exemplos e a diferenciação entre verbos de sentido similar (ex: 'say' vs 'tell', 'do' vs 'make') são cruciais para aprimorar o uso."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual dos verbos abaixo é considerado o mais fundamental em inglês e é usado para descrever estados, identidades e localizações?",
+      "opcoes": [
+        "A) To Do",
+        "B) To Have",
+        "C) To Be",
+        "D) To Get"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'To Be' (ser/estar) é o mais fundamental, essencial para descrever estados, identidades e localizações, e sua conjugação é irregular."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases o verbo 'to do' está sendo usado como verbo auxiliar?",
+      "opcoes": [
+        "A) I do my homework every night.",
+        "B) She does a great job.",
+        "C) What do you do for a living?",
+        "D) Do you like coffee?"
+      ],
+      "gabarito": "D",
+      "comentario": "Na frase 'Do you like coffee?', 'do' funciona como verbo auxiliar para formar a pergunta no presente simples. Nas outras opções, 'do' é o verbo principal."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual verbo é mais apropriado para expressar a ideia de 'criar' ou 'produzir' algo, como em 'fazer um bolo'?",
+      "opcoes": [
+        "A) To Do",
+        "B) To Get",
+        "C) To Make",
+        "D) To Say"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'To Make' é usado para criar, construir ou produzir algo, como em 'make a cake' (fazer um bolo), diferenciando-se de 'to do', que se refere mais à realização de uma ação."
+    },
+    {
+      "id": 4,
+      "enunciado": "O verbo 'to get' é conhecido por sua versatilidade. Qual dos significados abaixo NÃO é comumente associado a 'to get'?",
+      "opcoes": [
+        "A) Obter",
+        "B) Chegar",
+        "C) Dizer",
+        "D) Tornar-se"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'to get' pode significar obter, conseguir, chegar, tornar-se, receber, entre outros. 'Dizer' é o significado principal do verbo 'to say'."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual verbo é usado para relatar o que alguém disse, mas geralmente sem especificar a quem a mensagem foi dirigida, e é importante diferenciá-lo de 'tell'?",
+      "opcoes": [
+        "A) To Know",
+        "B) To Say",
+        "C) To See",
+        "D) To Take"
+      ],
+      "gabarito": "B",
+      "comentario": "O verbo 'To Say' é usado para relatar o que foi dito, sem um objeto indireto explícito, ao contrário de 'to tell' que geralmente exige 'tell someone something'."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Pronomes Demonstrativos",
+  "introducao": [
+    "Os pronomes demonstrativos são palavras essenciais na língua inglesa para indicar a posição de algo ou alguém em relação ao falante. Eles nos ajudam a especificar se algo está perto ou longe, e se é singular ou plural."
+  ],
+  "secoes": [
+    {
+      "titulo": "O que são Pronomes Demonstrativos?",
+      "conteudo": [
+        "Pronomes demonstrativos (Demonstrative Pronouns) são usados para apontar para coisas específicas. Eles podem funcionar como pronomes, substituindo um substantivo, ou como adjetivos, modificando um substantivo."
+      ]
+    },
+    {
+      "titulo": "This e That (Singular)",
+      "subsecoes": [
+        {
+          "subtitulo": "This (Perto)",
+          "itens": [
+            "Usamos 'this' para nos referirmos a algo singular que está perto do falante.",
+            "Indica proximidade física ou temporal.",
+            "Ex.: This is my pen. (Esta é minha caneta.)",
+            "Ex.: I like this song. (Eu gosto desta música.)",
+            "Ex.: This moment is perfect. (Este momento é perfeito.)"
+          ]
+        },
+        {
+          "subtitulo": "That (Longe)",
+          "itens": [
+            "Usamos 'that' para nos referirmos a algo singular que está longe do falante.",
+            "Indica distância física ou temporal.",
+            "Ex.: That car is red. (Aquele carro é vermelho.)",
+            "Ex.: Who is that person? (Quem é aquela pessoa?)",
+            "Ex.: That was a great movie. (Aquele foi um ótimo filme.)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "These e Those (Plural)",
+      "subsecoes": [
+        {
+          "subtitulo": "These (Perto)",
+          "itens": [
+            "Usamos 'these' para nos referirmos a coisas plurais que estão perto do falante.",
+            "É o plural de 'this'.",
+            "Ex.: These books are heavy. (Estes livros são pesados.)",
+            "Ex.: I bought these shoes yesterday. (Eu comprei estes sapatos ontem.)",
+            "Ex.: These flowers smell wonderful. (Estas flores cheiram maravilhosamente.)"
+          ]
+        },
+        {
+          "subtitulo": "Those (Longe)",
+          "itens": [
+            "Usamos 'those' para nos referirmos a coisas plurais que estão longe do falante.",
+            "É o plural de 'that'.",
+            "Ex.: Those birds are flying high. (Aqueles pássaros estão voando alto.)",
+            "Ex.: Do you know those students? (Você conhece aqueles alunos?)",
+            "Ex.: Those were the days! (Aqueles foram os dias!)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes Demonstrativos como Adjetivos",
+      "conteudo": [
+        "Quando os pronomes demonstrativos vêm antes de um substantivo, eles funcionam como adjetivos demonstrativos. Eles modificam o substantivo, indicando qual item específico está sendo referido."
+      ],
+      "itens": [
+        "Ex.: This book is interesting. (Este livro é interessante.)",
+        "Ex.: That house over there is old. (Aquela casa ali é velha.)",
+        "Ex.: These apples are fresh. (Estas maçãs são frescas.)"
+      ]
+    },
+    {
+      "titulo": "Resumo Geral",
+      "itens": [
+        "THIS: Singular, perto (este, esta, isto)",
+        "THAT: Singular, longe (aquele, aquela, aquilo)",
+        "THESE: Plural, perto (estes, estas)",
+        "THOSE: Plural, longe (aqueles, aquelas)",
+        "A escolha entre eles depende da quantidade (singular/plural) e da distância (perto/longe) em relação ao falante.",
+        "Pratique o uso em frases para fixar o aprendizado."
+      ]
+    }
+  ],
+  "sintese": [
+    "Pronomes demonstrativos indicam a posição (perto/longe) e quantidade (singular/plural) de algo ou alguém.",
+    "'This' e 'These' são usados para indicar proximidade (singular e plural, respectivamente).",
+    "'That' e 'Those' são usados para indicar distância (singular e plural, respectivamente).",
+    "Eles podem atuar como pronomes (substituindo substantivos) ou como adjetivos (modificando substantivos).",
+    "A escolha correta depende do contexto de distância e número.",
+    "A prática constante em frases é fundamental para dominar o uso correto."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Escolha o pronome demonstrativo correto para completar a frase: 'Look at ____ beautiful flowers right here!'",
+      "opcoes": [
+        "A) That",
+        "B) Those",
+        "C) This",
+        "D) These"
+      ],
+      "gabarito": "D",
+      "comentario": "A palavra 'flowers' é plural e a expressão 'right here' indica proximidade. Portanto, 'These' é a opção correta."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual pronome demonstrativo você usaria para se referir a 'um carro que está longe de você'?",
+      "opcoes": [
+        "A) This",
+        "B) These",
+        "C) That",
+        "D) Those"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'carro' é singular e a situação indica distância. 'That' é usado para singular e longe."
+    },
+    {
+      "id": 3,
+      "enunciado": "Complete a frase: '____ is my friend, John. He's standing next to me.'",
+      "opcoes": [
+        "A) That",
+        "B) Those",
+        "C) This",
+        "D) These"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'friend' é singular e a expressão 'next to me' indica proximidade. 'This' é a escolha apropriada."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das frases o pronome demonstrativo está funcionando como adjetivo?",
+      "opcoes": [
+        "A) That is my book.",
+        "B) These are my keys.",
+        "C) This car is new.",
+        "D) Those are her shoes."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'This' está modificando o substantivo 'car', funcionando como um adjetivo demonstrativo. Nas outras opções, os demonstrativos funcionam como pronomes, substituindo um substantivo."
+    },
+    {
+      "id": 5,
+      "enunciado": "Assinale a alternativa que preenche corretamente as lacunas: '____ apples are fresh, but ____ ones on the table are rotten.' (Considerando que as primeiras maçãs estão perto e as outras, na mesa, estão longe)",
+      "opcoes": [
+        "A) This / that",
+        "B) These / those",
+        "C) That / this",
+        "D) Those / these"
+      ],
+      "gabarito": "B",
+      "comentario": "Para 'apples' (plural e perto), usamos 'These'. Para 'ones on the table' (plural e longe), usamos 'those'. Portanto, 'These / those' é a combinação correta."
+    }
+  ]
+}

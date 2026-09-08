@@ -1,0 +1,174 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "A Estrutura Básica da Língua Inglesa",
+  "introducao": [
+    "A língua inglesa, embora complexa em alguns aspectos, possui uma estrutura frasal fundamental que é surpreendentemente direta e consistente.",
+    "Compreender essa base é o primeiro passo para construir frases corretas e se comunicar com clareza, pois a ordem das palavras é crucial para o significado."
+  ],
+  "secoes": [
+    {
+      "titulo": "A Ordem Fundamental das Palavras",
+      "conteudo": [
+        "A maioria das frases em inglês segue uma ordem padrão conhecida como SVO: Sujeito (Subject), Verbo (Verb) e Objeto (Object).",
+        "Essa sequência ajuda a definir quem faz o quê e a quem ou o quê a ação é direcionada.",
+        "Dominar essa estrutura é essencial para a fluência e para evitar mal-entendidos."
+      ]
+    },
+    {
+      "titulo": "Sujeito (Subject)",
+      "conteudo": [
+        "O sujeito é a pessoa, animal, coisa ou ideia que realiza a ação na frase ou sobre a qual a frase está falando.",
+        "Geralmente, ele aparece no início da frase. Pode ser um substantivo, um pronome ou uma frase nominal."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "She reads a book.",
+            "The dog barks loudly.",
+            "My brother likes pizza."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Verbo (Verb)",
+      "conteudo": [
+        "O verbo é a palavra que expressa uma ação, um estado ou uma ocorrência.",
+        "Ele descreve o que o sujeito faz ou qual é o seu estado. É o coração da frase."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "They play soccer.",
+            "He is happy.",
+            "We study English."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Objeto (Object)",
+      "conteudo": [
+        "O objeto é a pessoa, animal, coisa ou ideia que recebe a ação do verbo.",
+        "Ele responde às perguntas 'quem?' ou 'o quê?' após o verbo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "She reads a book. (book é o objeto)",
+            "I eat an apple. (apple é o objeto)",
+            "He loves his family. (his family é o objeto)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A Estrutura SVO na Prática",
+      "conteudo": [
+        "A combinação Sujeito + Verbo + Objeto forma a espinha dorsal de muitas frases em inglês, garantindo clareza e sentido.",
+        "Entender como esses elementos se encaixam é fundamental para a construção de frases gramaticalmente corretas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos Práticos",
+          "itens": [
+            "Students learn new words.",
+            "Birds build nests.",
+            "My mother bakes cakes."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exceções e Variações",
+      "conteudo": [
+        "Embora a estrutura SVO seja predominante, existem variações, especialmente em frases interrogativas, imperativas ou com advérbios de lugar.",
+        "No entanto, para iniciantes, focar na estrutura SVO é o ponto de partida mais eficaz."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos de Variações",
+          "itens": [
+            "Do you speak English? (interrogativa)",
+            "Read the book! (imperativa)",
+            "Here comes the bus. (inversão com advérbio)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A estrutura SVO (Sujeito + Verbo + Objeto) é a base da maioria das frases em inglês.",
+    "O Sujeito é quem realiza a ação ou sobre quem se fala, geralmente no início da frase.",
+    "O Verbo expressa a ação, estado ou ocorrência do sujeito.",
+    "O Objeto recebe a ação do verbo, respondendo a 'quem?' ou 'o quê?'.",
+    "Dominar a ordem SVO é crucial para a clareza e correção gramatical.",
+    "Existem variações (interrogativas, imperativas), mas o foco inicial deve ser na estrutura SVO."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual a ordem fundamental das palavras na maioria das frases em inglês?",
+      "opcoes": [
+        "A) VSO (Verbo-Sujeito-Objeto)",
+        "B) OSV (Objeto-Sujeito-Verbo)",
+        "C) SVO (Sujeito-Verbo-Objeto)",
+        "D) SOV (Sujeito-Objeto-Verbo)"
+      ],
+      "gabarito": "C",
+      "comentario": "A maioria das frases em inglês segue a ordem Sujeito (Subject), Verbo (Verb) e Objeto (Object), conhecida como SVO."
+    },
+    {
+      "id": 2,
+      "enunciado": "Na frase 'The students study English.', qual palavra representa o Sujeito?",
+      "opcoes": [
+        "A) The",
+        "B) students",
+        "C) study",
+        "D) English"
+      ],
+      "gabarito": "B",
+      "comentario": "O sujeito é quem realiza a ação. Nesta frase, 'students' (os estudantes) são quem realizam a ação de estudar."
+    },
+    {
+      "id": 3,
+      "enunciado": "Identifique o Verbo na frase: 'My brother likes pizza.'",
+      "opcoes": [
+        "A) My",
+        "B) brother",
+        "C) likes",
+        "D) pizza"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo expressa a ação ou estado. 'Likes' (gosta) é a ação que o sujeito 'My brother' realiza."
+    },
+    {
+      "id": 4,
+      "enunciado": "Na frase 'She reads a book.', qual palavra funciona como Objeto?",
+      "opcoes": [
+        "A) She",
+        "B) reads",
+        "C) a",
+        "D) book"
+      ],
+      "gabarito": "D",
+      "comentario": "O objeto é quem ou o quê recebe a ação do verbo. 'Book' (livro) é o que é lido, recebendo a ação do verbo 'reads'."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das seguintes frases NÃO segue a estrutura SVO de forma direta?",
+      "opcoes": [
+        "A) Birds build nests.",
+        "B) We study English.",
+        "C) Read the book!",
+        "D) My mother bakes cakes."
+      ],
+      "gabarito": "C",
+      "comentario": "A frase 'Read the book!' é uma frase imperativa, onde o sujeito (you) é implícito, não seguindo a ordem SVO de forma direta como as outras opções."
+    }
+  ]
+}

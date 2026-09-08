@@ -1,0 +1,205 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Cumprimentos, Apresentações e Despedidas",
+  "introducao": [
+    "Dominar os cumprimentos, apresentações e despedidas em inglês é fundamental para qualquer iniciante. Essas interações básicas são a porta de entrada para a comunicação eficaz e para a construção de relacionamentos, seja em contextos formais ou informais.",
+    "Este memento interativo irá guiá-lo através das expressões mais comuns e adequadas para cada situação, ajudando você a se sentir mais confiante ao interagir em inglês."
+  ],
+  "secoes": [
+    {
+      "titulo": "Saudações Diárias",
+      "conteudo": [
+        "As saudações são essenciais para iniciar qualquer interação social em inglês. Elas variam conforme o período do dia e o nível de formalidade."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Saudações Formais",
+          "itens": [
+            "Usadas em contextos profissionais, com pessoas que você não conhece bem ou em situações que exigem respeito.",
+            "Ex.: Good morning. (Bom dia)",
+            "Ex.: Good afternoon. (Boa tarde)",
+            "Ex.: Good evening. (Boa noite - ao chegar)"
+          ]
+        },
+        {
+          "subtitulo": "Saudações Informais",
+          "itens": [
+            "Adequadas para amigos, familiares e pessoas com quem você tem um relacionamento próximo.",
+            "Ex.: Hello. (Olá)",
+            "Ex.: Hi. (Oi)",
+            "Ex.: Hey. (E aí)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes de Tratamento Formais",
+      "conteudo": [
+        "Em inglês, é comum usar pronomes de tratamento antes do sobrenome de uma pessoa em contextos formais."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Mr. (Mister)",
+          "itens": [
+            "Usado para homens, casados ou solteiros.",
+            "Ex.: Mr. Smith is my teacher. (O Sr. Smith é meu professor.)",
+            "Ex.: Good morning, Mr. Johnson. (Bom dia, Sr. Johnson.)",
+            "Ex.: Please meet Mr. Davis. (Por favor, conheça o Sr. Davis.)"
+          ]
+        },
+        {
+          "subtitulo": "Mrs. (Missus)",
+          "itens": [
+            "Usado para mulheres casadas.",
+            "Ex.: Mrs. White is a doctor. (A Sra. White é médica.)",
+            "Ex.: How are you, Mrs. Brown? (Como vai, Sra. Brown?)",
+            "Ex.: This is Mrs. Green. (Esta é a Sra. Green.)"
+          ]
+        },
+        {
+          "subtitulo": "Ms. (Mizz)",
+          "itens": [
+            "Usado para mulheres, independentemente do estado civil, ou quando o estado civil é desconhecido.",
+            "É a forma mais comum e neutra atualmente.",
+            "Ex.: Ms. Lee works in marketing. (A Sra. Lee trabalha em marketing.)",
+            "Ex.: May I help you, Ms. Adams? (Posso ajudá-la, Sra. Adams?)",
+            "Ex.: Ms. Taylor is here. (A Sra. Taylor está aqui.)"
+          ]
+        },
+        {
+          "subtitulo": "Miss",
+          "itens": [
+            "Usado para mulheres solteiras.",
+            "Menos comum hoje em dia, mas ainda aceitável.",
+            "Ex.: Miss Jones is a student. (A Srta. Jones é estudante.)",
+            "Ex.: Excuse me, Miss Clark. (Com licença, Srta. Clark.)",
+            "Ex.: This is Miss Miller. (Esta é a Srta. Miller.)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Apresentações Pessoais",
+      "conteudo": [
+        "Apresentar-se e apresentar outras pessoas é uma habilidade social fundamental."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Apresentando-se",
+          "itens": [
+            "Maneiras de dizer seu nome e iniciar uma conversa.",
+            "Ex.: My name is [Nome]. (Meu nome é [Nome].)",
+            "Ex.: I'm [Nome]. (Eu sou [Nome].)",
+            "Ex.: Nice to meet you. (Prazer em conhecê-lo/a.)"
+          ]
+        },
+        {
+          "subtitulo": "Apresentando Outras Pessoas",
+          "itens": [
+            "Frases para introduzir uma pessoa a outra.",
+            "Ex.: This is [Nome]. (Este/Esta é [Nome].)",
+            "Ex.: I'd like to introduce you to [Nome]. (Gostaria de apresentá-lo/a a [Nome].)",
+            "Ex.: Meet [Nome]. (Conheça [Nome].)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Despedidas",
+      "conteudo": [
+        "Encerrar uma conversa ou encontro de forma educada."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Despedidas Formais",
+          "itens": [
+            "Usadas em situações profissionais ou com pessoas que você não conhece bem.",
+            "Ex.: Goodbye. (Adeus)",
+            "Ex.: Have a good day. (Tenha um bom dia.)",
+            "Ex.: It was a pleasure meeting you. (Foi um prazer conhecê-lo/a.)"
+          ]
+        },
+        {
+          "subtitulo": "Despedidas Informais",
+          "itens": [
+            "Adequadas para amigos e familiares.",
+            "Ex.: Bye. (Tchau)",
+            "Ex.: See you later. (Até mais tarde.)",
+            "Ex.: Talk to you soon. (Falo com você em breve.)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Saudações em inglês variam por período do dia e formalidade (Good morning/afternoon/evening vs. Hello/Hi/Hey).",
+    "Pronomes de tratamento formais (Mr., Mrs., Ms., Miss) são usados antes do sobrenome, sendo Ms. a forma neutra e mais comum para mulheres.",
+    "Para se apresentar, use 'My name is...' ou 'I'm...'. Para apresentar outros, use 'This is...' ou 'I'd like to introduce you to...'.",
+    "Despedidas formais incluem 'Goodbye' e 'Have a good day', enquanto as informais são 'Bye' e 'See you later'.",
+    "A escolha entre formal e informal depende do contexto e do relacionamento com a pessoa.",
+    "Pratique essas expressões básicas para construir confiança na comunicação em inglês."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual saudação é mais apropriada para um contexto profissional no início da tarde?",
+      "opcoes": [
+        "A) Hi!",
+        "B) Good afternoon.",
+        "C) Hey!",
+        "D) See you later."
+      ],
+      "gabarito": "B",
+      "comentario": "A saudação 'Good afternoon' é formal e adequada para o período da tarde em contextos profissionais. 'Hi' e 'Hey' são informais, e 'See you later' é uma despedida informal."
+    },
+    {
+      "id": 2,
+      "enunciado": "Você está em uma reunião de negócios e precisa se referir a uma mulher cujo estado civil você desconhece. Qual pronome de tratamento é o mais adequado e neutro?",
+      "opcoes": [
+        "A) Miss",
+        "B) Mrs.",
+        "C) Ms.",
+        "D) Mister"
+      ],
+      "gabarito": "C",
+      "comentario": "Ms. (Mizz) é o pronome de tratamento mais adequado e neutro para mulheres quando o estado civil é desconhecido ou irrelevante, sendo amplamente aceito em contextos formais e profissionais. Miss é para solteiras e Mrs. para casadas."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das seguintes frases é uma forma informal de se despedir de um amigo?",
+      "opcoes": [
+        "A) It was a pleasure meeting you.",
+        "B) Have a good day.",
+        "C) Goodbye.",
+        "D) Talk to you soon."
+      ],
+      "gabarito": "D",
+      "comentario": "'Talk to you soon' é uma despedida informal, perfeita para amigos e familiares. As outras opções são mais formais."
+    },
+    {
+      "id": 4,
+      "enunciado": "Você quer apresentar seu colega de trabalho, John, a um novo cliente. Qual frase você usaria?",
+      "opcoes": [
+        "A) My name is John.",
+        "B) Nice to meet you, John.",
+        "C) This is John.",
+        "D) Bye, John."
+      ],
+      "gabarito": "C",
+      "comentario": "'This is John' é uma forma comum e direta de apresentar uma pessoa a outra. 'My name is John' é para se apresentar, 'Nice to meet you' é uma resposta a uma apresentação, e 'Bye, John' é uma despedida."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual pronome de tratamento é usado especificamente para mulheres casadas?",
+      "opcoes": [
+        "A) Mr.",
+        "B) Ms.",
+        "C) Miss",
+        "D) Mrs."
+      ],
+      "gabarito": "D",
+      "comentario": "Mrs. (Missus) é o pronome de tratamento tradicionalmente usado para mulheres casadas. Mr. é para homens, Ms. é neutro para mulheres, e Miss é para mulheres solteiras."
+    }
+  ]
+}

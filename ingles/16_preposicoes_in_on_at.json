@@ -1,0 +1,176 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Preposições IN ON AT",
+  "introducao": [
+    "As preposições \"in\", \"on\" e \"at\" são elementos cruciais na língua inglesa, empregadas para indicar tanto tempo quanto lugar. Embora sua aparência seja simples, o uso correto dessas preposições exige uma compreensão atenta das regras e dos contextos específicos em que cada uma se aplica.",
+    "Dominar o emprego dessas preposições é fundamental para alcançar fluência e clareza na comunicação em inglês, evitando mal-entendidos e construindo frases gramaticalmente corretas."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. PREPOSIÇÃO AT",
+      "conteudo": [
+        "Usada para indicar um ponto específico no tempo ou no espaço."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1.1. AT PARA TEMPO",
+          "itens": [
+            "Horas exatas e momentos específicos do dia.",
+            "Feriados sem a palavra \"day\".",
+            "Ex.: The meeting starts at 9 AM.",
+            "Ex.: I usually wake up at dawn.",
+            "Ex.: We celebrate Christmas at home."
+          ]
+        },
+        {
+          "subtitulo": "1.2. AT PARA LUGAR",
+          "itens": [
+            "Endereços completos ou locais específicos.",
+            "Pontos de referência ou atividades.",
+            "Ex.: She lives at 123 Main Street.",
+            "Ex.: I'll meet you at the bus stop.",
+            "Ex.: He is at work right now."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "2. PREPOSIÇÃO ON",
+      "conteudo": [
+        "Usada para indicar dias da semana, datas específicas e superfícies."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "2.1. ON PARA TEMPO",
+          "itens": [
+            "Dias da semana.",
+            "Datas completas (dia, mês e ano).",
+            "Feriados com a palavra \"day\".",
+            "Ex.: We have a class on Monday.",
+            "Ex.: My birthday is on July 15th.",
+            "Ex.: They will visit us on New Year's Day."
+          ]
+        },
+        {
+          "subtitulo": "2.2. ON PARA LUGAR",
+          "itens": [
+            "Superfícies (em cima de algo).",
+            "Ruas e avenidas (sem número específico).",
+            "Meios de transporte públicos ou grandes (ônibus, trem, avião, navio).",
+            "Ex.: The book is on the table.",
+            "Ex.: My office is on Elm Street.",
+            "Ex.: She is on the bus to work."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "3. PREPOSIÇÃO IN",
+      "conteudo": [
+        "Usada para indicar períodos de tempo maiores, meses, anos, estações e espaços fechados."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "3.1. IN PARA TEMPO",
+          "itens": [
+            "Meses, anos, décadas, séculos.",
+            "Estações do ano.",
+            "Períodos do dia (manhã, tarde, noite, exceto \"at night\").",
+            "Ex.: My vacation is in August.",
+            "Ex.: He was born in 1990.",
+            "Ex.: We often go for a walk in the evening."
+          ]
+        },
+        {
+          "subtitulo": "3.2. IN PARA LUGAR",
+          "itens": [
+            "Espaços fechados ou delimitados (cômodos, edifícios, cidades, países).",
+            "Veículos pequenos (carro, táxi).",
+            "Líquidos ou materiais.",
+            "Ex.: She is in the kitchen.",
+            "Ex.: I live in Brazil.",
+            "Ex.: The keys are in my pocket."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "REGRAS GERAIS E EXCEÇÕES",
+      "itens": [
+        "Lembre-se que \"at night\" é uma exceção para períodos do dia.",
+        "Para transporte, \"on\" é para grandes veículos públicos, \"in\" para pequenos e privados.",
+        "\"In the street\" ou \"on the street\" podem ser usados, mas \"on\" é mais comum para a superfície da rua."
+      ]
+    }
+  ],
+  "sintese": [
+    "A preposição \"at\" é utilizada para indicar tempo específico (horas, momentos exatos) e lugar específico (endereços completos, pontos de referência).",
+    "A preposição \"on\" é empregada para dias da semana, datas completas, feriados com a palavra \"day\", superfícies e meios de transporte públicos grandes.",
+    "A preposição \"in\" é usada para períodos de tempo maiores (meses, anos, estações, partes do dia, exceto \"at night\") e para espaços fechados ou delimitados, além de veículos pequenos.",
+    "Existem exceções importantes, como \"at night\" e a distinção entre \"in\" e \"on\" para diferentes tipos de transporte.",
+    "A prática constante em diversos contextos é fundamental para fixar as regras e internalizar os usos idiomáticos das preposições \"in\", \"on\" e \"at\"."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Escolha a preposição correta para completar a frase: 'The train leaves _____ 7:30 AM.'",
+      "opcoes": [
+        "A) in",
+        "B) on",
+        "C) at",
+        "D) for"
+      ],
+      "gabarito": "C",
+      "comentario": "A preposição 'at' é usada para indicar horas exatas e momentos específicos do dia."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual preposição completa corretamente a frase: 'My birthday is _____ December 25th.'",
+      "opcoes": [
+        "A) in",
+        "B) on",
+        "C) at",
+        "D) by"
+      ],
+      "gabarito": "B",
+      "comentario": "A preposição 'on' é utilizada para datas completas e dias específicos."
+    },
+    {
+      "id": 3,
+      "enunciado": "Selecione a preposição adequada: 'I live _____ Brazil, _____ a big city.'",
+      "opcoes": [
+        "A) on / at",
+        "B) at / in",
+        "C) in / on",
+        "D) in / in"
+      ],
+      "gabarito": "D",
+      "comentario": "A preposição 'in' é usada para países e cidades, indicando espaços delimitados ou maiores."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual preposição é a mais apropriada para a frase: 'She is _____ the bus to work.'",
+      "opcoes": [
+        "A) in",
+        "B) on",
+        "C) at",
+        "D) by"
+      ],
+      "gabarito": "B",
+      "comentario": "Para meios de transporte públicos ou grandes como ônibus, trem ou avião, usamos a preposição 'on'."
+    },
+    {
+      "id": 5,
+      "enunciado": "Complete a frase: 'We often go for a walk _____ the evening, but sometimes we stay home _____ night.'",
+      "opcoes": [
+        "A) on / in",
+        "B) in / on",
+        "C) in / at",
+        "D) at / in"
+      ],
+      "gabarito": "C",
+      "comentario": "Para períodos do dia como 'morning', 'afternoon' e 'evening', usamos 'in'. No entanto, 'at night' é uma exceção para o período da noite."
+    }
+  ]
+}

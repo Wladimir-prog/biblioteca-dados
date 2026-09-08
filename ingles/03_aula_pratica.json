@@ -1,0 +1,138 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Aula Prática: Conversação Inicial",
+  "introducao": [
+    "Esta aula prática tem como objetivo consolidar os conceitos fundamentais para iniciar uma conversação em inglês.",
+    "Serão explorados tópicos essenciais como cumprimentos, apresentações pessoais, e a formulação de perguntas básicas, além de vocabulário crucial para interações cotidianas."
+  ],
+  "secoes": [
+    {
+      "titulo": "Cumprimentos e Despedidas",
+      "destaque": "Lembre-se de que a formalidade dos cumprimentos pode variar. 'Hello' é mais neutro, enquanto 'Good morning/afternoon/evening' são mais formais e dependem do horário.",
+      "conteudo": [
+        "Formas comuns de cumprimentar e se despedir em inglês.",
+        "Importância de adequar o cumprimento ao contexto social.",
+        "Expressões para iniciar e finalizar interações de forma educada."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos Comuns",
+          "itens": [
+            "Hello! How are you?",
+            "Good morning! Nice to meet you.",
+            "Goodbye! See you later."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Apresentações Pessoais",
+      "destaque": "Ao se apresentar, um sorriso e contato visual podem fazer uma grande diferença na primeira impressão.",
+      "conteudo": [
+        "Como se apresentar e perguntar o nome de alguém.",
+        "Frases para iniciar uma conversa sobre si mesmo ou apresentar terceiros.",
+        "A importância de demonstrar interesse ao conhecer novas pessoas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Frases Essenciais",
+          "itens": [
+            "My name is [Your Name]. What's yours?",
+            "I am [Your Name]. Pleased to meet you.",
+            "This is [Friend's Name]."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Perguntas Básicas e Respostas",
+      "destaque": "Preste atenção à entonação ao fazer perguntas em inglês, especialmente em 'yes/no questions', onde a voz geralmente sobe no final.",
+      "conteudo": [
+        "Aprenda a formular perguntas simples para obter informações básicas e a responder de forma clara e concisa.",
+        "Dominar as estruturas de perguntas com 'Wh-' (What, Where, Who, When, Why, How) é fundamental para expandir suas conversas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Perguntas Comuns",
+          "itens": [
+            "Where are you from? (I'm from Brazil.)",
+            "What do you do? (I'm a student/teacher.)",
+            "How old are you? (I'm 30 years old.)",
+            "Do you speak English? (Yes, a little/No, not much.)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Os cumprimentos e despedidas devem ser adequados ao contexto social, variando de formal para informal.",
+    "Ao se apresentar, use frases como 'My name is...' ou 'I am...' e demonstre interesse pelo interlocutor.",
+    "Perguntas básicas como 'What's your name?' e 'How are you?' são essenciais para iniciar e manter uma conversa.",
+    "Aprenda a responder de forma concisa a perguntas sobre sua origem, profissão e idade.",
+    "A entonação correta é crucial para a clareza das perguntas em inglês.",
+    "Pratique o vocabulário essencial para se sentir mais confiante em interações cotidianas."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual das seguintes opções é um cumprimento formal adequado para a manhã?",
+      "opcoes": [
+        "A) Hey!",
+        "B) Good morning!",
+        "C) What's up?",
+        "D) See you later!"
+      ],
+      "gabarito": "B",
+      "comentario": "'Good morning!' é a forma mais apropriada e formal de cumprimentar alguém pela manhã. 'Hey!' e 'What's up?' são informais, e 'See you later!' é uma despedida."
+    },
+    {
+      "id": 2,
+      "enunciado": "Você acabou de conhecer uma pessoa nova. Qual a melhor forma de perguntar o nome dela?",
+      "opcoes": [
+        "A) Tell me your name.",
+        "B) What's your name?",
+        "C) Your name?",
+        "D) Who are you?"
+      ],
+      "gabarito": "B",
+      "comentario": "'What's your name?' é a forma mais comum e educada de perguntar o nome de alguém em inglês. As outras opções são rudes ou incompletas."
+    },
+    {
+      "id": 3,
+      "enunciado": "Se alguém te pergunta 'Where are you from?', qual seria uma resposta adequada?",
+      "opcoes": [
+        "A) I'm fine, thank you.",
+        "B) I'm a student.",
+        "C) I'm from Brazil.",
+        "D) Nice to meet you."
+      ],
+      "gabarito": "C",
+      "comentario": "A pergunta 'Where are you from?' busca saber a origem da pessoa. 'I'm from Brazil' (ou qualquer outro país) é a resposta correta. As outras opções respondem a outras perguntas ('How are you?', 'What do you do?', 'Pleased to meet you')."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em uma situação informal com amigos, qual destas expressões seria mais natural para iniciar uma conversa?",
+      "opcoes": [
+        "A) Good evening, how do you do?",
+        "B) Hello, how are you doing today?",
+        "C) Hey, what's up?",
+        "D) Pleased to make your acquaintance."
+      ],
+      "gabarito": "C",
+      "comentario": "'Hey, what's up?' é uma saudação muito comum e informal entre amigos. As outras opções são mais formais ou neutras."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual palavra em inglês significa 'prazer em conhecê-lo'?",
+      "opcoes": [
+        "A) Thank you.",
+        "B) Excuse me.",
+        "C) Pleased to meet you.",
+        "D) Goodbye."
+      ],
+      "gabarito": "C",
+      "comentario": "'Pleased to meet you' é a expressão padrão para 'prazer em conhecê-lo' em inglês. As outras opções têm significados diferentes."
+    }
+  ]
+}

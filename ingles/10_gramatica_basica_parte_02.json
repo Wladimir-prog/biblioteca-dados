@@ -1,0 +1,171 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Gramática Básica Parte 02: Estrutura de Frases Simples",
+  "introducao": [
+    "Neste memento, exploraremos a estrutura fundamental das frases simples em inglês, um pilar essencial para a comunicação eficaz. Compreender a ordem das palavras e o uso de verbos auxiliares é crucial para construir sentenças claras e gramaticalmente corretas.",
+    "Abordaremos a formação de frases afirmativas, negativas e interrogativas, além de discutir a importância das contrações no inglês cotidiano para uma fala mais fluida e natural."
+  ],
+  "secoes": [
+    {
+      "titulo": "Frases Afirmativas",
+      "conteudo": [
+        "As frases afirmativas declaram um fato ou uma ideia.",
+        "A ordem padrão é Sujeito + Verbo + Complemento.",
+        "O verbo concorda com o sujeito em número e pessoa."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "She studies English every day.",
+            "They live in a big city.",
+            "I like to read books."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Frases Negativas",
+      "conteudo": [
+        "Para formar frases negativas, geralmente usamos o auxiliar \"do/does\" (no presente simples) ou \"did\" (no passado simples) seguido de \"not\".",
+        "O verbo principal permanece na forma base após o auxiliar.",
+        "Em verbos como \"to be\" ou modais, o \"not\" é adicionado diretamente após o verbo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "He does not play soccer.",
+            "We did not go to the party.",
+            "She is not a doctor."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Frases Interrogativas",
+      "conteudo": [
+        "As frases interrogativas são usadas para fazer perguntas.",
+        "No presente e passado simples, o auxiliar \"do/does\" ou \"did\" vem antes do sujeito.",
+        "Com o verbo \"to be\" ou verbos modais, eles vêm antes do sujeito."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "Do you speak French?",
+            "Did they visit Paris?",
+            "Is he happy?"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Uso de Verbos Auxiliares",
+      "conteudo": [
+        "Verbos auxiliares (ou \"helping verbs\") são cruciais para formar tempos verbais, negações e perguntas.",
+        "Os mais comuns são \"do\", \"be\" e \"have\".",
+        "Eles não têm significado próprio quando usados como auxiliares, mas modificam o verbo principal."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "I do not understand.",
+            "She is reading a book.",
+            "They have finished their work."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Contrações com Auxiliares",
+      "conteudo": [
+        "Em inglês falado e informal, é comum usar contrações com verbos auxiliares e \"not\".",
+        "Isso torna a fala mais fluida e natural.",
+        "Exemplos incluem \"don't\", \"doesn't\", \"isn't\", \"aren't\", \"didn't\"."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos",
+          "itens": [
+            "I don't know the answer.",
+            "He isn't coming to the meeting.",
+            "We didn't see anything."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A estrutura básica da frase em inglês geralmente segue a ordem Sujeito + Verbo + Objeto (SVO).",
+    "Frases afirmativas declaram fatos e seguem a ordem SVO, com o verbo concordando com o sujeito.",
+    "Frases negativas utilizam auxiliares (do/does no presente, did no passado) seguidos de \"not\", ou \"not\" diretamente após \"to be\" e verbos modais.",
+    "Frases interrogativas invertem a ordem, colocando o auxiliar ou o verbo \"to be\"/modal antes do sujeito.",
+    "Verbos auxiliares como \"do\", \"be\" e \"have\" são fundamentais para formar tempos verbais, negações e perguntas.",
+    "Contrações com auxiliares e \"not\" (ex: don't, isn't, didn't) são comuns no inglês informal, promovendo fluidez na comunicação."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual a ordem padrão de uma frase afirmativa em inglês?",
+      "opcoes": [
+        "A) Verbo + Sujeito + Objeto",
+        "B) Objeto + Verbo + Sujeito",
+        "C) Sujeito + Verbo + Objeto",
+        "D) Sujeito + Objeto + Verbo"
+      ],
+      "gabarito": "C",
+      "comentario": "A estrutura básica e mais comum para frases afirmativas em inglês é Sujeito + Verbo + Objeto (SVO)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Para formar uma frase negativa no presente simples com um verbo que não seja \"to be\", qual auxiliar é geralmente utilizado antes de \"not\"?",
+      "opcoes": [
+        "A) Have",
+        "B) Be",
+        "C) Do/Does",
+        "D) Will"
+      ],
+      "gabarito": "C",
+      "comentario": "No presente simples, para formar frases negativas com a maioria dos verbos (exceto \"to be\" e modais), utiliza-se o auxiliar \"do\" para I/you/we/they e \"does\" para he/she/it, seguido de \"not\"."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das seguintes frases está gramaticalmente correta no formato interrogativo?",
+      "opcoes": [
+        "A) You speak French do?",
+        "B) Speak you French do?",
+        "C) Do you speak French?",
+        "D) French you speak do?"
+      ],
+      "gabarito": "C",
+      "comentario": "Em frases interrogativas no presente simples, o auxiliar \"do\" (ou \"does\") vem antes do sujeito, seguido do verbo principal na forma base."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das situações abaixo o \"not\" é adicionado diretamente após o verbo, sem a necessidade de um auxiliar como \"do/does/did\"?",
+      "opcoes": [
+        "A) Com verbos de ação no presente simples.",
+        "B) Com o verbo \"to be\" ou verbos modais.",
+        "C) Com verbos no passado simples.",
+        "D) Apenas em frases afirmativas."
+      ],
+      "gabarito": "B",
+      "comentario": "Para o verbo \"to be\" (am, is, are, was, were) e verbos modais (can, may, must, etc.), o \"not\" é adicionado diretamente após o verbo para formar a negação."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das contrações abaixo é a forma correta de \"did not\"?",
+      "opcoes": [
+        "A) don't",
+        "B) doesn't",
+        "C) isn't",
+        "D) didn't"
+      ],
+      "gabarito": "D",
+      "comentario": "A contração de \"did not\" é \"didn't\". As outras opções são contrações de \"do not\", \"does not\" e \"is not\", respectivamente."
+    }
+  ]
+}

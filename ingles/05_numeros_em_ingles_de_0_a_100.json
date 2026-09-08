@@ -1,0 +1,183 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Números em Inglês de 0 a 100",
+  "introducao": [
+    "Dominar os numerais cardinais de 0 a 100 em inglês é essencial para a comunicação diária, abrangendo tópicos como idade, preços, horários e quantidades. Esta aula foi desenvolvida para fornecer uma base sólida.",
+    "Exploraremos a escrita correta, a pronúncia adequada e as regras gramaticais fundamentais para utilizar esses números com confiança e precisão em diversas situações."
+  ],
+  "secoes": [
+    {
+      "titulo": "Números de 0 a 10",
+      "conteudo": [
+        "Estes são os números básicos e a base para todos os outros. É crucial memorizá-los e praticar sua pronúncia."
+      ],
+      "itens": [
+        "Zero (0)",
+        "One (1)",
+        "Two (2)",
+        "Three (3)",
+        "Four (4)",
+        "Five (5)",
+        "Six (6)",
+        "Seven (7)",
+        "Eight (8)",
+        "Nine (9)",
+        "Ten (10)"
+      ]
+    },
+    {
+      "titulo": "Números de 11 a 20",
+      "conteudo": [
+        "Os números de 11 a 19 têm terminações específicas que podem ser um pouco diferentes dos padrões que veremos mais tarde. O número 20 é o primeiro da série das dezenas."
+      ],
+      "itens": [
+        "Eleven (11)",
+        "Twelve (12)",
+        "Thirteen (13)",
+        "Fourteen (14)",
+        "Fifteen (15)",
+        "Sixteen (16)",
+        "Seventeen (17)",
+        "Eighteen (18)",
+        "Nineteen (19)",
+        "Twenty (20)"
+      ]
+    },
+    {
+      "titulo": "As Dezenas (Tens)",
+      "destaque": "Preste atenção à pronúncia, pois '-ty' pode soar parecido com '-teen' para alguns ouvidos, o que pode causar confusão.",
+      "conteudo": [
+        "As dezenas são formadas adicionando o sufixo '-ty' à raiz do número, com algumas exceções."
+      ],
+      "itens": [
+        "Twenty (20)",
+        "Thirty (30)",
+        "Forty (40)",
+        "Fifty (50)",
+        "Sixty (60)",
+        "Seventy (70)",
+        "Eighty (80)",
+        "Ninety (90)"
+      ]
+    },
+    {
+      "titulo": "Combinando Dezenas e Unidades",
+      "conteudo": [
+        "Para formar números entre as dezenas (ex: 21, 35, 99), combinamos a dezena com a unidade, usando um hífen entre elas. Esta é uma regra consistente e fácil de aplicar."
+      ],
+      "itens": [
+        "Twenty-one (21)",
+        "Thirty-five (35)",
+        "Forty-eight (48)",
+        "Fifty-two (52)",
+        "Sixty-seven (67)",
+        "Seventy-three (73)",
+        "Eighty-nine (89)",
+        "Ninety-six (96)"
+      ]
+    },
+    {
+      "titulo": "O Número 100",
+      "conteudo": [
+        "O número 100 é expresso de duas formas principais: 'one hundred' ou 'a hundred'. Ambas são corretas e amplamente utilizadas."
+      ],
+      "itens": [
+        "One hundred (100)",
+        "A hundred (100)",
+        "One hundred and one (101 - para números maiores, o \"and\" é comum no inglês britânico, mas opcional no americano)"
+      ]
+    },
+    {
+      "titulo": "Dicas de Pronúncia",
+      "conteudo": [
+        "A pronúncia correta dos números é tão importante quanto a escrita. Atente-se a detalhes que podem fazer a diferença na clareza da sua comunicação."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Sílaba Tônica",
+          "itens": [
+            "Preste atenção à sílaba tônica. Em números como 'thirteen' (ênfase no 'teen') e 'thirty' (ênfase no 'thir'), a sílaba tônica muda, o que é crucial para evitar confusão entre eles."
+          ]
+        },
+        {
+          "subtitulo": "Sons Específicos",
+          "itens": [
+            "O 'th' em 'three', 'thirteen' e 'thirty' tem um som específico (interdental fricativo) que exige prática para ser dominado.",
+            "O 'v' em 'five' e 'seven' é pronunciado de forma clara e distinta, como em 'fai-v'."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Os números de 0 a 10 são a base e devem ser memorizados para a formação de outros numerais.",
+    "Números de 11 a 19 possuem terminações específicas, sendo a maioria com '-teen', mas com exceções como 'eleven' e 'twelve'.",
+    "As dezenas (20, 30, etc.) geralmente terminam em '-ty', e é fundamental diferenciar sua pronúncia da terminação '-teen'.",
+    "Para formar números entre as dezenas e unidades (ex: 21, 35), utiliza-se um hífen: 'twenty-one'.",
+    "O número 100 pode ser expresso como 'one hundred' ou 'a hundred', ambas as formas são corretas.",
+    "A sílaba tônica e a pronúncia de sons específicos como 'th' e 'v' são cruciais para a clareza e compreensão dos números em inglês."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Como se escreve o número 35 em inglês?",
+      "opcoes": [
+        "A) Thirty-five",
+        "B) Thirty five",
+        "C) Thirsty-five",
+        "D) Three-five"
+      ],
+      "gabarito": "A",
+      "comentario": "A forma correta de escrever números combinando dezenas e unidades é usando um hífen entre eles, como em 'thirty-five'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das seguintes opções representa o número 100 em inglês de forma correta?",
+      "opcoes": [
+        "A) A hundred",
+        "B) One hundred",
+        "C) Hundred",
+        "D) Ambas A e B estão corretas"
+      ],
+      "gabarito": "D",
+      "comentario": "Tanto 'one hundred' quanto 'a hundred' são formas corretas e amplamente aceitas para expressar o número 100 em inglês."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual é a principal diferença de pronúncia entre 'thirteen' e 'thirty'?",
+      "opcoes": [
+        "A) O som do 'th' é diferente.",
+        "B) A sílaba tônica muda.",
+        "C) 'Thirteen' tem um 'r' mudo.",
+        "D) 'Thirty' é pronunciado mais rápido."
+      ],
+      "gabarito": "B",
+      "comentario": "A principal diferença está na sílaba tônica: em 'thirteen', a ênfase está no 'teen', enquanto em 'thirty', a ênfase está no 'thir'. Isso é crucial para evitar confusão."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual número está incorretamente escrito de acordo com as regras de combinação de dezenas e unidades?",
+      "opcoes": [
+        "A) Forty-two",
+        "B) Eighty-seven",
+        "C) Twenty one",
+        "D) Ninety-nine"
+      ],
+      "gabarito": "C",
+      "comentario": "A regra para combinar dezenas e unidades exige o uso de um hífen. 'Twenty one' deveria ser 'twenty-one'."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual par de números é mais propenso a ser confundido na pronúncia devido à semelhança entre '-teen' e '-ty'?",
+      "opcoes": [
+        "A) One e Ten",
+        "B) Five e Fifteen",
+        "C) Thirteen e Thirty",
+        "D) Hundred e Zero"
+      ],
+      "gabarito": "C",
+      "comentario": "Os números 'thirteen' e 'thirty' são frequentemente confundidos devido à semelhança de seus sufixos e à mudança na sílaba tônica, que é crucial para diferenciá-los."
+    }
+  ]
+}

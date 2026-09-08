@@ -1,0 +1,330 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Falando da Família",
+  "introducao": [
+    "Aprender a descrever sua família em inglês é uma habilidade fundamental para a comunicação diária. Dominar este vocabulário permite que você compartilhe informações pessoais e estabeleça conexões significativas com outras pessoas em diversos contextos.",
+    "Nesta aula, você praticará o vocabulário essencial e as estruturas gramaticais necessárias para falar sobre seus parentes, desde os membros mais próximos até os da família estendida, além de aprender a usar os adjetivos possessivos corretamente."
+  ],
+  "secoes": [
+    {
+      "titulo": "Membros da Família Básicos",
+      "destaque": "É fundamental memorizar estes termos para construir suas primeiras frases sobre a família imediata e iniciar conversas.",
+      "subsecoes": [
+        {
+          "subtitulo": "Mother (Mãe)",
+          "itens": [
+            "A mulher que é sua genitora ou figura materna.",
+            "Ex.: My mother's name is Ana.",
+            "Ex.: She is a great cook.",
+            "Ex.: My mother is 50 years old."
+          ]
+        },
+        {
+          "subtitulo": "Father (Pai)",
+          "itens": [
+            "O homem que é seu genitor ou figura paterna.",
+            "Ex.: My father works as an engineer.",
+            "Ex.: He likes to read books.",
+            "Ex.: My father is 52 years old."
+          ]
+        },
+        {
+          "subtitulo": "Sister (Irmã)",
+          "itens": [
+            "Uma filha dos mesmos pais que você.",
+            "Ex.: I have one sister.",
+            "Ex.: My sister is younger than me.",
+            "Ex.: Her name is Julia."
+          ]
+        },
+        {
+          "subtitulo": "Brother (Irmão)",
+          "itens": [
+            "Um filho dos mesmos pais que você.",
+            "Ex.: Do you have a brother?",
+            "Ex.: My brother is a student.",
+            "Ex.: He plays soccer."
+          ]
+        },
+        {
+          "subtitulo": "Parents (Pais)",
+          "itens": [
+            "Termo coletivo para mãe e pai.",
+            "Ex.: My parents live in São Paulo.",
+            "Ex.: They are very supportive.",
+            "Ex.: My parents are retired."
+          ]
+        },
+        {
+          "subtitulo": "Child (Filho/Criança)",
+          "itens": [
+            "Um descendente, independentemente da idade. Plural: Children.",
+            "Ex.: She has one child.",
+            "Ex.: My children are grown up.",
+            "Ex.: The child is playing."
+          ]
+        },
+        {
+          "subtitulo": "Son (Filho)",
+          "itens": [
+            "Um descendente masculino.",
+            "Ex.: He has two sons.",
+            "Ex.: My son is 10 years old.",
+            "Ex.: Their son is very tall."
+          ]
+        },
+        {
+          "subtitulo": "Daughter (Filha)",
+          "itens": [
+            "Uma descendente feminina.",
+            "Ex.: They have a beautiful daughter.",
+            "Ex.: My daughter loves to sing.",
+            "Ex.: Her daughter is a doctor."
+          ]
+        },
+        {
+          "subtitulo": "Husband (Marido)",
+          "itens": [
+            "O cônjuge masculino.",
+            "Ex.: My husband is very kind.",
+            "Ex.: Her husband works from home.",
+            "Ex.: They have been husband and wife for 20 years."
+          ]
+        },
+        {
+          "subtitulo": "Wife (Esposa)",
+          "itens": [
+            "O cônjuge feminino.",
+            "Ex.: His wife is a teacher.",
+            "Ex.: My wife and I travel a lot.",
+            "Ex.: She is a loving wife."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Membros da Família Estendida",
+      "destaque": "Conhecer estes termos expande sua capacidade de descrever relações familiares mais amplas e complexas.",
+      "subsecoes": [
+        {
+          "subtitulo": "Grandfather (Avô)",
+          "itens": [
+            "O pai do seu pai ou da sua mãe.",
+            "Ex.: My grandfather tells great stories.",
+            "Ex.: He is 80 years old.",
+            "Ex.: My grandfather lives on a farm."
+          ]
+        },
+        {
+          "subtitulo": "Grandmother (Avó)",
+          "itens": [
+            "A mãe do seu pai ou da sua mãe.",
+            "Ex.: My grandmother bakes delicious cakes.",
+            "Ex.: She visits us often.",
+            "Ex.: My grandmother is very sweet."
+          ]
+        },
+        {
+          "subtitulo": "Grandparents (Avós)",
+          "itens": [
+            "Termo coletivo para avô e avó.",
+            "Ex.: My grandparents live in the countryside.",
+            "Ex.: They are both very active.",
+            "Ex.: I love visiting my grandparents."
+          ]
+        },
+        {
+          "subtitulo": "Uncle (Tio)",
+          "itens": [
+            "O irmão do seu pai ou da sua mãe, ou o marido da sua tia.",
+            "Ex.: My uncle is a pilot.",
+            "Ex.: He has a funny sense of humor.",
+            "Ex.: My uncle lives in another city."
+          ]
+        },
+        {
+          "subtitulo": "Aunt (Tia)",
+          "itens": [
+            "A irmã do seu pai ou da sua mãe, ou a esposa do seu tio.",
+            "Ex.: My aunt is an artist.",
+            "Ex.: She paints beautiful pictures.",
+            "Ex.: My aunt is very generous."
+          ]
+        },
+        {
+          "subtitulo": "Cousin (Primo/Prima)",
+          "itens": [
+            "O filho ou filha do seu tio ou tia.",
+            "Ex.: I have many cousins.",
+            "Ex.: My cousin is my best friend.",
+            "Ex.: We play together every weekend."
+          ]
+        },
+        {
+          "subtitulo": "Nephew (Sobrinho)",
+          "itens": [
+            "O filho do seu irmão ou irmã.",
+            "Ex.: My nephew is a baby.",
+            "Ex.: He is very cute.",
+            "Ex.: My nephew loves toys."
+          ]
+        },
+        {
+          "subtitulo": "Niece (Sobrinha)",
+          "itens": [
+            "A filha do seu irmão ou irmã.",
+            "Ex.: My niece is starting school.",
+            "Ex.: She is very smart.",
+            "Ex.: My niece loves to draw."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Adjetivos Possessivos",
+      "destaque": "Adjetivos possessivos sempre vêm antes do substantivo para indicar posse ou relação familiar. Eles são essenciais para construir frases completas.",
+      "subsecoes": [
+        {
+          "subtitulo": "My (Meu/Minha/Meus/Minhas)",
+          "itens": [
+            "Indica posse por 'eu'.",
+            "Ex.: This is my mother.",
+            "Ex.: My brother is tall.",
+            "Ex.: My parents are happy."
+          ]
+        },
+        {
+          "subtitulo": "Your (Seu/Sua/Seus/Suas)",
+          "itens": [
+            "Indica posse por 'você' ou 'vocês'.",
+            "Ex.: What is your father's name?",
+            "Ex.: Is this your sister?",
+            "Ex.: Are these your children?"
+          ]
+        },
+        {
+          "subtitulo": "His (Dele)",
+          "itens": [
+            "Indica posse por 'ele'.",
+            "Ex.: His wife is a doctor.",
+            "Ex.: His son is a student.",
+            "Ex.: His family is big."
+          ]
+        },
+        {
+          "subtitulo": "Her (Dela)",
+          "itens": [
+            "Indica posse por 'ela'.",
+            "Ex.: Her brother lives abroad.",
+            "Ex.: Her parents are retired.",
+            "Ex.: Her daughter is a singer."
+          ]
+        },
+        {
+          "subtitulo": "Our (Nosso/Nossa/Nossos/Nossas)",
+          "itens": [
+            "Indica posse por 'nós'.",
+            "Ex.: Our family is small.",
+            "Ex.: Our children are playing.",
+            "Ex.: Our grandparents are visiting."
+          ]
+        },
+        {
+          "subtitulo": "Their (Deles/Delas)",
+          "itens": [
+            "Indica posse por 'eles' ou 'elas'.",
+            "Ex.: Their parents are coming.",
+            "Ex.: Their children are at school.",
+            "Ex.: Their house is beautiful."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Frases Úteis para Descrever a Família",
+      "destaque": "Pratique estas frases para iniciar e manter conversas sobre sua família em inglês, aplicando o vocabulário e a gramática aprendidos.",
+      "itens": [
+        "I have a big family. (Eu tenho uma família grande.)",
+        "I have a small family. (Eu tenho uma família pequena.)",
+        "I have one brother and two sisters. (Eu tenho um irmão e duas irmãs.)",
+        "My mother is a teacher. (Minha mãe é professora.)",
+        "My father works in an office. (Meu pai trabalha em um escritório.)",
+        "My sister is married. (Minha irmã é casada.)",
+        "My brother is single. (Meu irmão é solteiro.)",
+        "My grandparents live in another city. (Meus avós moram em outra cidade.)",
+        "How many siblings do you have? (Quantos irmãos você tem?)",
+        "Do you have any children? (Você tem filhos?)"
+      ]
+    }
+  ],
+  "sintese": [
+    "O vocabulário para membros da família imediata (mother, father, sister, brother, parents, child, son, daughter, husband, wife) é a base para descrever sua família.",
+    "Termos para a família estendida (grandfather, grandmother, uncle, aunt, cousin, nephew, niece) permitem descrições mais completas.",
+    "Adjetivos possessivos (my, your, his, her, our, their) são cruciais para indicar posse e relação familiar, sempre vindo antes do substantivo.",
+    "Frases úteis ajudam a iniciar e manter conversas sobre a estrutura familiar, profissões e estado civil dos seus parentes.",
+    "A prática constante de descrever sua própria família, usando o vocabulário e as estruturas aprendidas, é essencial para consolidar o aprendizado."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual palavra em inglês significa 'irmã'?",
+      "opcoes": [
+        "A) Brother",
+        "B) Sister",
+        "C) Mother",
+        "D) Father"
+      ],
+      "gabarito": "B",
+      "comentario": "'Sister' é a palavra correta para 'irmã' em inglês. 'Brother' significa irmão, 'Mother' significa mãe e 'Father' significa pai."
+    },
+    {
+      "id": 2,
+      "enunciado": "Complete a frase: 'My ______ tells great stories. He is 80 years old.'",
+      "opcoes": [
+        "A) Uncle",
+        "B) Cousin",
+        "C) Grandfather",
+        "D) Nephew"
+      ],
+      "gabarito": "C",
+      "comentario": "A frase descreve alguém que conta histórias e tem 80 anos, indicando uma figura mais velha da família. 'Grandfather' (avô) se encaixa perfeitamente."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual adjetivo possessivo você usaria para se referir ao carro 'dela'?",
+      "opcoes": [
+        "A) His",
+        "B) My",
+        "C) Her",
+        "D) Your"
+      ],
+      "gabarito": "C",
+      "comentario": "'Her' é o adjetivo possessivo usado para indicar posse por 'ela' (dela). 'His' é para 'ele', 'My' para 'eu' e 'Your' para 'você/vocês'."
+    },
+    {
+      "id": 4,
+      "enunciado": "Se você tem um 'son' e uma 'daughter', qual termo coletivo você pode usar para se referir a ambos?",
+      "opcoes": [
+        "A) Parents",
+        "B) Siblings",
+        "C) Children",
+        "D) Grandchildren"
+      ],
+      "gabarito": "C",
+      "comentario": "'Children' é o termo coletivo para filhos, independentemente do gênero. 'Parents' são os pais, 'Siblings' são irmãos e irmãs, e 'Grandchildren' são netos."
+    },
+    {
+      "id": 5,
+      "enunciado": "A frase 'My sister is married' significa que sua irmã:",
+      "opcoes": [
+        "A) É solteira",
+        "B) Tem um marido",
+        "C) Mora sozinha",
+        "D) Está viajando"
+      ],
+      "gabarito": "B",
+      "comentario": "'Married' significa casada. Portanto, 'My sister is married' indica que sua irmã tem um marido."
+    }
+  ]
+}

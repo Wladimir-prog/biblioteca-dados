@@ -1,0 +1,193 @@
+{
+  "disciplina": "Língua Inglesa",
+  "bloco": "INGLÊS DO ZERO",
+  "tema": "Idade, Nacionalidade e Ocupação",
+  "introducao": [
+    "Nesta aula fundamental de inglês, você aprenderá a formular e responder perguntas essenciais sobre idade, nacionalidade e ocupação. Dominar essas estruturas básicas é crucial para iniciar conversas, apresentar-se e compreender informações pessoais de outras pessoas em diversos contextos.",
+    "Ao final deste módulo, você estará apto a se comunicar de forma mais eficaz, construindo frases simples e diretas que são a base para interações cotidianas em inglês."
+  ],
+  "secoes": [
+    {
+      "titulo": "Perguntando e Respondendo sobre Idade",
+      "destaque": "Lembre-se que em inglês, para expressar idade, usamos o verbo 'to be' (ser/estar), não o verbo 'to have' (ter).",
+      "conteudo": [
+        "Para perguntar a idade de alguém, a estrutura mais comum é 'How old are you?'. A resposta segue o padrão 'I am [número] years old.', utilizando o verbo 'to be' no presente."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos Básicos",
+          "itens": [
+            "How old are you? (Quantos anos você tem?)",
+            "I am 25 years old. (Eu tenho 25 anos.)",
+            "She is 30 years old. (Ela tem 30 anos.)"
+          ]
+        },
+        {
+          "subtitulo": "Perguntando a Idade de Terceiros",
+          "itens": [
+            "Para perguntar sobre a idade de uma terceira pessoa, adaptamos o verbo 'to be' conforme o sujeito.",
+            "How old is he? (Quantos anos ele tem?)",
+            "He is 40 years old. (Ele tem 40 anos.)",
+            "How old is your sister? (Quantos anos sua irmã tem?)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Perguntando e Respondendo sobre Nacionalidade",
+      "destaque": "As nacionalidades em inglês são sempre escritas com a primeira letra maiúscula (e.g., Brazilian, American).",
+      "conteudo": [
+        "Para indagar sobre a nacionalidade de alguém, podemos usar as perguntas 'Where are you from?' (De onde você é?) ou 'What is your nationality?' (Qual é a sua nacionalidade?)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos de Perguntas e Respostas",
+          "itens": [
+            "Where are you from? (De onde você é?)",
+            "I am from Brazil. (Eu sou do Brasil.)",
+            "What is your nationality? (Qual é a sua nacionalidade?)",
+            "I am Brazilian. (Eu sou brasileiro(a).)",
+            "She is from Canada. (Ela é do Canadá.)",
+            "He is American. (Ele é americano.)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Perguntando e Respondendo sobre Ocupação",
+      "destaque": "É fundamental usar os artigos indefinidos 'a' ou 'an' antes da profissão ao responder, exceto quando se refere a um grupo (e.g., 'They are students').",
+      "conteudo": [
+        "Para perguntar sobre a profissão ou ocupação de alguém, as frases mais comuns são 'What do you do?' (O que você faz?) ou 'What is your job?' (Qual é o seu trabalho?)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos de Perguntas e Respostas",
+          "itens": [
+            "What do you do? (O que você faz?)",
+            "I am a teacher. (Eu sou professor(a).)",
+            "What is your job? (Qual é o seu trabalho?)"
+          ]
+        },
+        {
+          "subtitulo": "Uso dos Artigos 'a' e 'an'",
+          "itens": [
+            "Ao responder sobre a profissão, usamos o artigo indefinido 'a' antes de palavras que começam com som de consoante e 'an' antes de palavras que começam com som de vogal.",
+            "She is an engineer. (Ela é engenheira.)",
+            "He is a doctor. (Ele é médico.)",
+            "They are students. (Eles são estudantes.)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Vocabulário Comum de Ocupações",
+      "conteudo": [
+        "Conhecer um vocabulário básico de profissões é essencial para expandir sua capacidade de comunicação e compreensão em inglês."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Profissões Comuns",
+          "itens": [
+            "Doctor: Médico(a)",
+            "Teacher: Professor(a)",
+            "Engineer: Engenheiro(a)",
+            "Student: Estudante",
+            "Police officer: Policial",
+            "Chef: Cozinheiro(a)",
+            "Artist: Artista",
+            "Writer: Escritor(a)",
+            "Nurse: Enfermeiro(a)",
+            "Lawyer: Advogado(a)"
+          ]
+        }
+      ],
+      "itens": [
+        "My father is a lawyer. (Meu pai é advogado.)",
+        "My mother is a nurse. (Minha mãe é enfermeira.)",
+        "I want to be an artist. (Eu quero ser artista.)"
+      ]
+    },
+    {
+      "titulo": "Combinando Informações Pessoais",
+      "destaque": "A prática de combinar essas informações em uma única apresentação torna sua comunicação mais fluida e natural.",
+      "conteudo": [
+        "Em situações reais, é muito comum combinar informações sobre idade, nacionalidade e ocupação em uma única apresentação ou descrição pessoal."
+      ],
+      "itens": [
+        "Hi, I'm Maria. I'm 28 years old, I'm from Spain, and I'm a journalist. (Olá, eu sou Maria. Tenho 28 anos, sou da Espanha e sou jornalista.)",
+        "This is John. He is 35, he is American, and he is an engineer. (Este é John. Ele tem 35 anos, é americano e é engenheiro.)",
+        "We are students. We are 20 years old and we are from Mexico. (Nós somos estudantes. Temos 20 anos e somos do México.)"
+      ]
+    }
+  ],
+  "sintese": [
+    "Para perguntar a idade, use 'How old are you?' e responda com 'I am [número] years old.' (verbo 'to be').",
+    "Para perguntar a nacionalidade, use 'Where are you from?' ou 'What is your nationality?'.",
+    "Responda sobre nacionalidade indicando o país ('I am from Brazil') ou a nacionalidade ('I am Brazilian').",
+    "Para perguntar a ocupação, use 'What do you do?' ou 'What is your job?'.",
+    "Ao responder sobre a ocupação, use 'a' ou 'an' antes da profissão (e.g., 'I am a teacher', 'She is an engineer').",
+    "Pratique combinar idade, nacionalidade e ocupação para apresentações pessoais mais completas."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Complete a frase: 'How old ______ you?'",
+      "opcoes": [
+        "A) is",
+        "B) am",
+        "C) are",
+        "D) be"
+      ],
+      "gabarito": "C",
+      "comentario": "A pergunta 'How old are you?' utiliza o verbo 'to be' na forma 'are' para o pronome 'you'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das opções está correta para perguntar a nacionalidade de alguém?",
+      "opcoes": [
+        "A) What is your age?",
+        "B) Where are you from?",
+        "C) What is your job?",
+        "D) How old are you?"
+      ],
+      "gabarito": "B",
+      "comentario": "'Where are you from?' é a forma correta de perguntar a origem ou nacionalidade de alguém. As outras opções perguntam sobre idade ou ocupação."
+    },
+    {
+      "id": 3,
+      "enunciado": "Escolha a frase que usa o artigo corretamente: 'She is ______ engineer.'",
+      "opcoes": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) no article"
+      ],
+      "gabarito": "B",
+      "comentario": "A palavra 'engineer' começa com som de vogal, portanto, o artigo indefinido correto a ser usado é 'an'."
+    },
+    {
+      "id": 4,
+      "enunciado": "Se alguém pergunta 'What do you do?', qual seria uma resposta apropriada?",
+      "opcoes": [
+        "A) I am 30 years old.",
+        "B) I am from Italy.",
+        "C) I am a student.",
+        "D) I am happy."
+      ],
+      "gabarito": "C",
+      "comentario": "'What do you do?' pergunta sobre a ocupação. 'I am a student' é uma resposta que indica uma profissão/ocupação. As outras opções respondem sobre idade, nacionalidade ou estado de espírito."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das seguintes nacionalidades está escrita corretamente?",
+      "opcoes": [
+        "A) brazilian",
+        "B) american",
+        "C) Canadian",
+        "D) spanish"
+      ],
+      "gabarito": "C",
+      "comentario": "Em inglês, as nacionalidades são sempre escritas com a primeira letra maiúscula. 'Canadian' é a única opção que segue essa regra."
+    }
+  ]
+}
