@@ -1,0 +1,148 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Uso do Hífen (Novo Acordo Ortográfico)",
+  "introducao": [
+    "O hífen é um sinal de pontuação essencial para a clareza e correção da escrita, atuando na união de elementos em palavras compostas, na ligação de pronomes oblíquos a verbos e na separação silábica. O Novo Acordo Ortográfico da Língua Portuguesa, implementado para padronizar e simplificar a grafia, trouxe modificações significativas em seu emprego.",
+    "Compreender essas novas diretrizes é crucial para evitar equívocos e assegurar a conformidade com a norma culta. As alterações impactam principalmente as palavras formadas por prefixos e falsos prefixos, além de certas palavras compostas, buscando maior coerência e eliminando exceções desnecessárias."
+  ],
+  "secoes": [
+    {
+      "titulo": "Palavras Compostas",
+      "conteudo": [
+        "O hífen é empregado em palavras compostas por justaposição que não possuem elemento de ligação e cujos componentes mantêm sua autonomia semântica, formando um novo significado.",
+        "Por outro lado, não se utiliza o hífen em palavras compostas que, com o tempo, perderam a noção de composição, tornando-se um único vocábulo, ou naquelas que já incorporam elementos de ligação (preposições, conjunções)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Com Hífen",
+          "itens": [
+            "guarda-chuva",
+            "couve-flor",
+            "bem-estar"
+          ]
+        },
+        {
+          "subtitulo": "Sem Hífen",
+          "itens": [
+            "girassol",
+            "pontapé",
+            "mandachuva"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Prefixos e Falsos Prefixos",
+      "destaque": "A regra geral para prefixos é a aglutinação, ou seja, a não utilização do hífen, exceto em casos específicos que visam evitar encontros vocálicos ou consonantais indesejados, ou quando o prefixo possui autonomia semântica.",
+      "subsecoes": [
+        {
+          "subtitulo": "Regra Geral: Não se usa hífen",
+          "itens": [
+            "Não se emprega o hífen quando o prefixo termina em vogal e o segundo elemento começa com vogal diferente. Também não se usa quando o prefixo termina em vogal e o segundo elemento começa com consoante (exceto 'h', 'r', 's').",
+            "Exemplos: autoescola, antiaéreo, semicírculo, intermunicipal, superinteressante, subdesenvolvido."
+          ]
+        },
+        {
+          "subtitulo": "Usa-se hífen quando:",
+          "itens": [
+            "a) O segundo elemento começa com H. Ex: anti-higiênico, super-homem, pré-história.",
+            "b) O prefixo termina na mesma vogal que inicia o segundo elemento. Ex: micro-ondas, anti-inflamatório, contra-ataque.",
+            "c) O prefixo termina em consoante e o segundo elemento começa com a mesma consoante. Ex: inter-regional, sub-bibliotecário, super-resistente.",
+            "d) Os prefixos 'ex-', 'sem-', 'além-', 'aquém-', 'recém-', 'pós-', 'pré-' e 'pró-' (quando tônicos e com sentido próprio) sempre pedem hífen. Ex: ex-aluno, sem-terra, pré-vestibular."
+          ]
+        },
+        {
+          "subtitulo": "Não se usa hífen quando:",
+          "itens": [
+            "a) O prefixo termina em vogal e o segundo elemento começa com R ou S. Nestes casos, dobram-se as letras R ou S. Ex: antirracismo, ultrassom, minissaia.",
+            "b) O prefixo termina em vogal e o segundo elemento começa com vogal diferente. Ex: autoescola, infraestrutura, coautor.",
+            "c) O prefixo termina em consoante e o segundo elemento começa com vogal ou consoante diferente. Ex: intermunicipal, superinteressante, subdesenvolvido."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Especiais",
+      "conteudo": [
+        "Alguns prefixos possuem regras particulares de aglutinação, como 'co-' e 're-', que geralmente se unem ao segundo elemento sem hífen, mesmo em situações que poderiam sugerir o contrário.",
+        "Em locuções de diversas naturezas (substantivas, adjetivas, adverbiais, verbais e conjuntivas), a regra geral é a não utilização do hífen, salvo raras exceções consagradas pelo uso."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Prefixos 'co-' e 're-'",
+          "itens": [
+            "O prefixo 'co-' aglutina-se geralmente ao segundo elemento, mesmo que este comece por 'o' ou 'h'. Ex: coobrigação, coautor, coerdeiro.",
+            "O prefixo 're-' também se aglutina. Ex: reescrever, reaver, reabilitar."
+          ]
+        },
+        {
+          "subtitulo": "Locuções",
+          "itens": [
+            "Em locuções substantivas, adjetivas, adverbiais, verbais e conjuntivas, geralmente não se usa hífen. Ex: dia a dia, fim de semana, café com leite.",
+            "Exceções para locuções (com hífen): água-de-colônia, arco-da-velha, cor-de-rosa, mais-que-perfeito."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "O hífen une elementos de palavras compostas, liga pronomes a verbos e separa sílabas, com regras alteradas pelo Novo Acordo Ortográfico.",
+    "Em palavras compostas, usa-se hífen quando não há elemento de ligação e os termos mantêm autonomia (ex: guarda-chuva); não se usa quando perdem a noção de composição ou têm ligação (ex: girassol).",
+    "Para prefixos, a regra geral é a aglutinação (sem hífen), exceto quando o segundo elemento começa com 'h', com a mesma vogal do prefixo, ou com a mesma consoante do prefixo.",
+    "Dobram-se 'r' ou 's' quando o prefixo termina em vogal e o segundo elemento começa com 'r' ou 's' (ex: antirracismo, ultrassom).",
+    "Prefixos como 'ex-', 'sem-', 'além-', 'recém-', 'pós-', 'pré-' e 'pró-' (tônicos) sempre exigem hífen.",
+    "Prefixos 'co-' e 're-' geralmente se aglutinam ao segundo elemento (ex: coautor, reescrever).",
+    "Locuções (substantivas, adjetivas, etc.) geralmente não levam hífen, com poucas exceções consagradas."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente grafadas de acordo com as regras do Novo Acordo Ortográfico sobre o uso do hífen.",
+      "opcoes": [
+        "A) anti-inflamatório, super-homem, microondas",
+        "B) autoescola, inter-regional, sem-terra",
+        "C) infraestrutura, co-autor, ultrassom",
+        "D) ex-aluno, antirracismo, bem-estar"
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa (A) está incorreta porque 'microondas' deve ser 'micro-ondas' (prefixo termina na mesma vogal que inicia o segundo elemento). A alternativa (B) está incorreta porque 'autoescola' não leva hífen e 'sem-terra' está correto. A alternativa (C) está incorreta porque 'co-autor' deve ser 'coautor' (prefixo 'co-' aglutina-se) e 'infraestrutura' não leva hífen. A alternativa (D) apresenta todas as palavras corretamente grafadas: 'ex-aluno' (prefixo 'ex-' sempre com hífen), 'antirracismo' (prefixo termina em vogal e segundo elemento começa com 'r', dobra-se o 'r'), 'bem-estar' (palavra composta sem elemento de ligação)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das opções a seguir o hífen foi empregado de forma INCORRETA?",
+      "opcoes": [
+        "A) super-resistente",
+        "B) anti-higiênico",
+        "C) re-escrever",
+        "D) pós-graduação"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está incorreta. O prefixo 're-' aglutina-se ao segundo elemento, mesmo que este comece com a mesma vogal. O correto é 'reescrever'. As demais alternativas estão corretas: 'super-resistente' (prefixo termina em consoante e segundo elemento começa com a mesma consoante), 'anti-higiênico' (segundo elemento começa com 'h'), 'pós-graduação' (prefixo 'pós-' tônico sempre com hífen)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considerando as regras do Novo Acordo Ortográfico, qual das palavras abaixo NÃO deve ser grafada com hífen?",
+      "opcoes": [
+        "A) aquém-mar",
+        "B) sub-bibliotecário",
+        "C) infra-estrutura",
+        "D) recém-nascido"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está incorreta. 'Infra-estrutura' não deve ser grafada com hífen. O prefixo 'infra-' termina em vogal e o segundo elemento ('estrutura') começa com vogal diferente, portanto, aglutina-se: 'infraestrutura'. As demais alternativas estão corretas: 'aquém-mar' (prefixo 'aquém-' sempre com hífen), 'sub-bibliotecário' (prefixo termina em consoante e segundo elemento começa com a mesma consoante), 'recém-nascido' (prefixo 'recém-' sempre com hífen)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as frases a seguir e identifique aquela em que o uso do hífen está em conformidade com o Novo Acordo Ortográfico.",
+      "opcoes": [
+        "A) O co-autor do projeto apresentou uma proposta anti-racional.",
+        "B) Ele é um ex-diretor que sempre defendeu o bem-estar social.",
+        "C) A mini-saia e o ultra-som são invenções do século passado.",
+        "D) O dia-a-dia da empresa exige um super-esforço de todos."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa (B) está totalmente correta. 'Ex-diretor' (prefixo 'ex-' sempre com hífen) e 'bem-estar' (palavra composta sem elemento de ligação) seguem as regras. Na alternativa (A), 'co-autor' deveria ser 'coautor' e 'anti-racional' deveria ser 'antirracismo' (se fosse 'racional', seria 'antirracismo' se fosse 'r', mas 'anti-racional' não é uma palavra comum, se fosse 'anti-religioso' seria 'antirreligioso'). Na alternativa (C), 'mini-saia' deveria ser 'minissaia' (dobra-se o 's') e 'ultra-som' deveria ser 'ultrassom' (dobra-se o 's'). Na alternativa (D), 'dia-a-dia' deveria ser 'dia a dia' (locução sem hífen) e 'super-esforço' deveria ser 'superesforço' (prefixo termina em consoante e segundo elemento começa com vogal diferente, aglutina-se)."
+    }
+  ]
+}

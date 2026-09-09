@@ -1,0 +1,148 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Acentuação Gráfica: Proparoxítonas e Casos Especiais",
+  "introducao": [
+    "A acentuação gráfica na Língua Portuguesa é um pilar fundamental para a clareza na pronúncia e na escrita, regendo a indicação da sílaba tônica e, por vezes, a distinção entre vocábulos.",
+    "As palavras são categorizadas em oxítonas, paroxítonas e proparoxítonas, conforme a posição de sua sílaba tônica, e cada grupo possui um conjunto de regras específicas que determinam ou não o uso do acento gráfico."
+  ],
+  "secoes": [
+    {
+      "titulo": "Acentuação das Proparoxítonas",
+      "destaque": "Bizú: Não há exceção! Se a sílaba tônica é a antepenúltima, o acento é obrigatório. Pense em 'todas' as proparoxítonas!",
+      "conteudo": [
+        "As palavras proparoxítonas são aquelas em que a sílaba tônica recai sobre a antepenúltima sílaba, contando-se do final para o início da palavra.",
+        "A regra geral para a acentuação das proparoxítonas é uma das mais simples e diretas da Língua Portuguesa: todas as palavras proparoxítonas são acentuadas graficamente."
+      ],
+      "itens": [
+        "MÉDICO (MÉ-di-co)",
+        "LÂMPADA (LÂM-pa-da)",
+        "ÚLTIMO (ÚL-ti-mo)",
+        "MATEMÁTICA (Ma-te-MÁ-ti-ca)",
+        "PÚBLICO (PÚ-bli-co)"
+      ]
+    },
+    {
+      "titulo": "Acentuação dos Casos Eventuais",
+      "conteudo": [
+        "Além das proparoxítonas, existem situações específicas em que palavras, embora não se enquadrem diretamente nessa classificação, recebem acento gráfico devido a regras particulares. Estes são os chamados 'casos eventuais', que incluem as paroxítonas terminadas em ditongo crescente e os hiatos."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Paroxítonas Terminadas em Ditongo Crescente",
+          "itens": [
+            "São palavras cuja sílaba tônica é a penúltima e que, obrigatoriamente, terminam em um ditongo crescente (sequência de semivogal + vogal na mesma sílaba, ou vogal + semivogal, dependendo da interpretação fonética, mas para fins de acentuação, o que importa é a percepção de duas vogais juntas na sílaba final, sendo a segunda mais forte ou a primeira mais fraca).",
+            "REGRA: Todas as palavras paroxítonas terminadas em ditongo crescente são acentuadas graficamente.",
+            "Ex.: HISTÓRIA (his-TÓ-ria) - o 'ia' forma um ditongo crescente.",
+            "Ex.: SÉRIE (SÉ-rie) - o 'ie' forma um ditongo crescente.",
+            "Ex.: ÁGUA (Á-gua) - o 'ua' forma um ditongo crescente.",
+            "Ex.: SECRETÁRIA (se-cre-TÁ-ria)"
+          ]
+        },
+        {
+          "subtitulo": "Acentuação dos Hiatos",
+          "itens": [
+            "Hiato ocorre quando duas vogais consecutivas pertencem a sílabas diferentes, ou seja, são pronunciadas separadamente.",
+            "REGRA: Acentuam-se o 'i' e o 'u' tônicos dos hiatos quando:",
+            "1. Formam sílaba sozinhos ou seguidos de 's'.",
+            "2. Não são seguidos de 'nh'.",
+            "3. Não formam ditongo com a vogal anterior (ou seja, não são precedidos de ditongo).",
+            "Ex.: SAÚDE (sa-Ú-de) - 'u' tônico forma sílaba sozinho.",
+            "Ex.: CAÍDA (ca-Í-da) - 'i' tônico forma sílaba sozinho.",
+            "Ex.: BAÚ (ba-Ú) - 'u' tônico forma sílaba sozinho.",
+            "Ex.: SAÍDA (sa-Í-da) - 'i' tônico forma sílaba sozinho.",
+            "Ex.: RUÍNA (ru-Í-na) - 'i' tônico forma sílaba sozinho.",
+            "Ex.: RAINHA (ra-i-NHA) - Não é acentuada, pois o 'i' é seguido de 'nh'.",
+            "Ex.: FEIURA (fei-U-ra) - Não é acentuada, pois o 'u' é precedido de ditongo ('ei')."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Diferença entre Proparoxítonas e Paroxítonas com Ditongo Crescente",
+      "destaque": "A chave está na posição da sílaba tônica e na estrutura da terminação: antepenúltima tônica = proparoxítona; penúltima tônica + ditongo crescente = paroxítona acentuada.",
+      "conteudo": [
+        "Embora ambas as categorias recebam acento gráfico, a distinção entre proparoxítonas e paroxítonas terminadas em ditongo crescente é crucial e reside na identificação da sílaba tônica e na estrutura fonética da terminação da palavra.",
+        "Nas proparoxítonas, a sílaba tônica é invariavelmente a antepenúltima, e a acentuação é uma regra geral sem exceções, independentemente da terminação.",
+        "Nas paroxítonas com ditongo crescente, a sílaba tônica é a penúltima, e a condição para o acento é a presença de um ditongo crescente na terminação da palavra."
+      ],
+      "itens": [
+        "CIENTÍFICO (ci-en-TÍ-fi-co) - Proparoxítona (sílaba tônica na antepenúltima).",
+        "CIÊNCIA (ci-ÊN-cia) - Paroxítona terminada em ditongo crescente (sílaba tônica na penúltima, termina em -ia).",
+        "MÚSICA (MÚ-si-ca) - Proparoxítona (sílaba tônica na antepenúltima).",
+        "FAMÍLIA (fa-MÍ-lia) - Paroxítona terminada em ditongo crescente (sílaba tônica na penúltima, termina em -ia).",
+        "LÍMPIDO (LÍM-pi-do) - Proparoxítona.",
+        "SÉRIE (SÉ-rie) - Paroxítona terminada em ditongo crescente."
+      ]
+    }
+  ],
+  "sintese": [
+    "Todas as palavras proparoxítonas são acentuadas graficamente, sem exceções, pois a sílaba tônica é sempre a antepenúltima.",
+    "As paroxítonas terminadas em ditongo crescente também são acentuadas, tendo a penúltima sílaba como tônica e uma terminação específica (vogal + semivogal).",
+    "Acentuam-se o 'i' e o 'u' tônicos dos hiatos quando formam sílaba sozinhos ou seguidos de 's', e não são seguidos de 'nh' nem precedidos de ditongo.",
+    "A principal diferença entre proparoxítonas e paroxítonas com ditongo crescente reside na posição da sílaba tônica (antepenúltima vs. penúltima) e na condição da terminação.",
+    "A correta identificação da sílaba tônica e da estrutura fonética da palavra (ditongo, hiato) é essencial para aplicar as regras de acentuação."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras são proparoxítonas e estão corretamente acentuadas.",
+      "opcoes": [
+        "A) Lâmpada, médico, história.",
+        "B) Último, público, matemática.",
+        "C) Ciência, série, baú.",
+        "D) Saúde, caído, família."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa 'B' apresenta apenas palavras proparoxítonas (último, público, matemática), todas com a sílaba tônica na antepenúltima e corretamente acentuadas. Em 'A', 'história' é paroxítona terminada em ditongo crescente. Em 'C', 'ciência' e 'série' são paroxítonas terminadas em ditongo crescente, e 'baú' é um hiato. Em 'D', 'saúde' e 'caído' são hiatos, e 'família' é paroxítona terminada em ditongo crescente."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das palavras abaixo é uma paroxítona acentuada devido à terminação em ditongo crescente?",
+      "opcoes": [
+        "A) Límpido",
+        "B) Régua",
+        "C) Álbum",
+        "D) Táxi"
+      ],
+      "gabarito": "B",
+      "comentario": "A palavra 'Régua' (Ré-gua) é uma paroxítona (sílaba tônica na penúltima) que termina em ditongo crescente (-ua), sendo acentuada por essa regra. 'Límpido' é proparoxítona. 'Álbum' e 'Táxi' são paroxítonas acentuadas por outras regras (terminadas em -um e -i, respectivamente)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das opções o 'i' ou 'u' tônico do hiato NÃO deve ser acentuado, de acordo com as regras da Língua Portuguesa?",
+      "opcoes": [
+        "A) Sa-ú-de",
+        "B) Ca-í-da",
+        "C) Ra-i-nha",
+        "D) Ba-ú"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'Rainha' (ra-i-nha) não é acentuada porque, embora o 'i' forme um hiato, ele é seguido de 'nh', o que impede a acentuação, conforme a regra dos hiatos. Nas demais opções, 'saúde', 'caída' e 'baú' são acentuadas corretamente, pois o 'u' ou 'i' tônico forma sílaba sozinho ou seguido de 's' e não é seguido de 'nh' nem precedido de ditongo."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as palavras: 'MÚSICA', 'SÉRIE', 'SAÚDE'. Classifique-as quanto à acentuação e à regra aplicada.",
+      "opcoes": [
+        "A) MÚSICA: proparoxítona; SÉRIE: paroxítona terminada em ditongo crescente; SAÚDE: hiato.",
+        "B) MÚSICA: paroxítona; SÉRIE: proparoxítona; SAÚDE: hiato.",
+        "C) MÚSICA: proparoxítona; SÉRIE: hiato; SAÚDE: paroxítona terminada em ditongo crescente.",
+        "D) MÚSICA: oxítona; SÉRIE: paroxítona; SAÚDE: proparoxítona."
+      ],
+      "gabarito": "A",
+      "comentario": "'MÚSICA' é proparoxítona (sílaba tônica na antepenúltima). 'SÉRIE' é paroxítona (sílaba tônica na penúltima) terminada em ditongo crescente (-ie). 'SAÚDE' apresenta um hiato ('u' tônico que forma sílaba sozinho). Portanto, a alternativa 'A' está correta."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das palavras a seguir é uma proparoxítona?",
+      "opcoes": [
+        "A) Poesia",
+        "B) Caráter",
+        "C) Lógico",
+        "D) Herói"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'Lógico' (LÓ-gi-co) tem a sílaba tônica na antepenúltima, sendo, portanto, uma proparoxítona. 'Poesia' (po-e-SI-a) é paroxítona. 'Caráter' (ca-RÁ-ter) é paroxítona. 'Herói' (he-RÓI) é oxítona."
+    }
+  ]
+}

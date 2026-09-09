@@ -1,0 +1,143 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Agente da Passiva",
+  "introducao": [
+    "No estudo da sintaxe da oração, compreender a função dos termos é essencial para a análise e a construção de frases claras e coesas. Um desses termos, de grande relevância na voz passiva, é o Agente da Passiva. Ele desempenha um papel crucial ao indicar quem ou o que executa a ação verbal quando o verbo se apresenta nessa construção.",
+    "Este memento interativo tem como objetivo desvendar o conceito de Agente da Passiva, suas características, a relação com a voz ativa e a voz passiva analítica, além de diferenciá-lo de outros termos sintáticos, como o adjunto adverbial. Prepare-se para aprofundar seus conhecimentos e dominar este importante aspecto da Língua Portuguesa."
+  ],
+  "secoes": [
+    {
+      "titulo": "O Agente da Passiva: Conceito e Identificação",
+      "conteudo": [
+        "O Agente da Passiva é o termo da oração que, na voz passiva, pratica a ação expressa pelo verbo. Ele é o responsável pela execução da ação, mesmo que o sujeito gramatical da frase seja o paciente dessa ação.",
+        "Este termo é sempre introduzido por uma preposição, sendo as mais comuns \"por\" e \"de\". Sua presença é um indicador claro da voz passiva analítica e fundamental para a compreensão da dinâmica da frase."
+      ],
+      "itens": [
+        "O livro foi lido PELO ALUNO. (O aluno praticou a ação de ler)",
+        "A casa foi construída PELOS TRABALHADORES. (Os trabalhadores praticaram a ação de construir)",
+        "Ele era amado DE TODOS. (Todos praticavam a ação de amar)"
+      ]
+    },
+    {
+      "titulo": "O Agente da Passiva e a Voz Passiva Analítica",
+      "conteudo": [
+        "É crucial entender que o Agente da Passiva ocorre exclusivamente na voz passiva analítica. Esta voz é caracterizada pela formação com um verbo auxiliar (geralmente \"ser\", \"estar\" ou \"ficar\") seguido do particípio do verbo principal.",
+        "Em contraste, na voz passiva sintética (formada por verbo transitivo direto + pronome \"se\"), não há um Agente da Passiva explícito. Nesses casos, o agente da ação é indeterminado ou não é o foco da comunicação."
+      ],
+      "itens": [
+        "A carta foi escrita POR MIM. (Voz passiva analítica com agente da passiva explícito)",
+        "Vende-se casas. (Voz passiva sintética, sem agente da passiva explícito)",
+        "O bolo estava sendo preparado PELA COZINHEIRA. (Voz passiva analítica com agente da passiva)"
+      ]
+    },
+    {
+      "titulo": "Transformação da Voz Ativa para a Voz Passiva",
+      "destaque": "Bizú de Concurso: Ao transformar da voz ativa para a passiva, o sujeito da ativa vira agente da passiva, e o objeto direto da ativa vira sujeito da passiva!",
+      "conteudo": [
+        "A relação entre a voz ativa e a voz passiva é direta e reversível. Quando uma oração na voz ativa é transformada para a voz passiva analítica, o sujeito da voz ativa assume a função de Agente da Passiva na nova estrutura.",
+        "Simultaneamente, o objeto direto da oração na voz ativa passa a ser o sujeito da oração na voz passiva. Essa dinâmica é fundamental para a identificação e a correta aplicação do Agente da Passiva."
+      ],
+      "itens": [
+        "O vento derrubou a árvore. (Voz ativa) -> A árvore foi derrubada PELO VENTO. (Voz passiva)",
+        "Os alunos fizeram o trabalho. (Voz ativa) -> O trabalho foi feito PELOS ALUNOS. (Voz passiva)",
+        "A chuva molhou as roupas. (Voz ativa) -> As roupas foram molhadas PELA CHUVA. (Voz passiva)"
+      ]
+    },
+    {
+      "titulo": "Preposições que Introduzem o Agente da Passiva",
+      "conteudo": [
+        "As preposições mais comuns que introduzem o Agente da Passiva são \"por\" e \"de\". A escolha entre elas pode depender do verbo ou do contexto, embora \"por\" seja significativamente mais frequente.",
+        "A preposição \"por\" pode aparecer combinada com artigos, formando contrações como \"pelo\", \"pela\", \"pelos\" e \"pelas\". A preposição \"de\", embora menos comum, também é gramaticalmente correta em certas construções, especialmente com verbos que expressam sentimentos ou estados."
+      ],
+      "itens": [
+        "A cidade foi destruída PELO INCÊNDIO. (Preposição \"por\" combinada com artigo)",
+        "Ele era respeitado DE TODOS. (Preposição \"de\")",
+        "O muro foi pintado PELO ARTISTA. (Preposição \"por\" combinada com artigo)"
+      ]
+    },
+    {
+      "titulo": "Distinção entre Agente da Passiva e Adjunto Adverbial",
+      "destaque": "Atenção! O Agente da Passiva pratica a ação do verbo passivo. O adjunto adverbial indica uma circunstância e não é o executor da ação.",
+      "conteudo": [
+        "É um erro comum confundir o Agente da Passiva com um adjunto adverbial, especialmente o de causa ou de agente. A diferença fundamental reside na função sintática: o Agente da Passiva é o executor da ação verbal na voz passiva.",
+        "O adjunto adverbial, por outro lado, expressa uma circunstância (tempo, lugar, modo, causa, finalidade, etc.) e não é o agente da ação verbal. Ambos são introduzidos por preposições, o que exige atenção na análise."
+      ],
+      "itens": [
+        "A casa foi construída PELO ENGENHEIRO. (Agente da passiva: o engenheiro construiu)",
+        "A casa foi construída COM ESFORÇO. (Adjunto adverbial de modo: indica como foi construída)",
+        "A casa foi construída À NOITE. (Adjunto adverbial de tempo: indica quando foi construída)"
+      ]
+    }
+  ],
+  "sintese": [
+    "O Agente da Passiva é o termo que pratica a ação do verbo na voz passiva.",
+    "É sempre introduzido por preposição, geralmente \"por\" ou \"de\".",
+    "Ocorre exclusivamente na voz passiva analítica (verbo auxiliar + particípio).",
+    "Na transformação da voz ativa para a passiva, o sujeito da ativa torna-se o Agente da Passiva.",
+    "Não deve ser confundido com adjunto adverbial, que expressa circunstância, não o agente da ação.",
+    "As preposições \"por\" (e suas contrações) e \"de\" são as mais comuns para introduzir este termo."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o termo em destaque funciona como Agente da Passiva?",
+      "opcoes": [
+        "A) O trabalho foi entregue **com atraso**.",
+        "B) A notícia se espalhou **rapidamente**.",
+        "C) O livro foi escrito **por um renomado autor**.",
+        "D) Ele saiu **de casa** cedo."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, 'por um renomado autor' indica quem praticou a ação de escrever o livro, que está na voz passiva ('foi escrito'). Nas demais opções, os termos em destaque são adjuntos adverbiais (de modo, de modo e de lugar, respectivamente)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Considere a frase: 'Os alunos resolveram os exercícios.' Ao transformá-la para a voz passiva analítica, qual será o Agente da Passiva?",
+      "opcoes": [
+        "A) Os exercícios",
+        "B) Foram resolvidos",
+        "C) Pelos alunos",
+        "D) Resolveram"
+      ],
+      "gabarito": "C",
+      "comentario": "Na voz ativa, 'Os alunos' é o sujeito agente. Ao transformar para a voz passiva ('Os exercícios foram resolvidos pelos alunos'), o sujeito da voz ativa ('Os alunos') torna-se o Agente da Passiva, introduzido pela preposição 'por' (pelos)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a alternativa em que a preposição 'de' introduz um Agente da Passiva.",
+      "opcoes": [
+        "A) A casa era feita **de madeira**.",
+        "B) Ele era conhecido **de todos** na cidade.",
+        "C) O copo caiu **da mesa**.",
+        "D) Gosto **de ler** livros."
+      ],
+      "gabarito": "B",
+      "comentario": "Na alternativa B, 'de todos' indica quem conhecia 'ele' (que era conhecido), funcionando como Agente da Passiva. Em A, 'de madeira' é adjunto adnominal (matéria). Em C, 'da mesa' é adjunto adverbial de lugar. Em D, 'de ler' completa o sentido do verbo 'gostar' (objeto indireto)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das afirmações sobre o Agente da Passiva está INCORRETA?",
+      "opcoes": [
+        "A) Ele sempre pratica a ação expressa pelo verbo na voz passiva.",
+        "B) É introduzido por uma preposição, como 'por' ou 'de'.",
+        "C) Pode ocorrer tanto na voz passiva analítica quanto na sintética.",
+        "D) Corresponde ao sujeito da voz ativa quando há transformação."
+      ],
+      "gabarito": "C",
+      "comentario": "A afirmação C está incorreta. O Agente da Passiva ocorre *exclusivamente* na voz passiva analítica. Na voz passiva sintética, o agente é indeterminado ou não é expresso."
+    },
+    {
+      "id": 5,
+      "enunciado": "Na frase 'A decisão foi tomada **pelo conselho**.', o termo em destaque é classificado como:",
+      "opcoes": [
+        "A) Sujeito",
+        "B) Objeto Direto",
+        "C) Agente da Passiva",
+        "D) Adjunto Adverbial de Causa"
+      ],
+      "gabarito": "C",
+      "comentario": "O termo 'pelo conselho' indica quem praticou a ação de 'tomar' a decisão, que está na voz passiva ('foi tomada'). Portanto, é o Agente da Passiva. Não é sujeito (o sujeito é 'A decisão'), nem objeto direto (não há na voz passiva analítica), e embora possa ter uma conotação de causa, sua função primária é de agente da ação verbal."
+    }
+  ]
+}

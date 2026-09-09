@@ -1,0 +1,162 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Regras de Acentuação Gráfica (Monossílabos e Oxítonas)",
+  "introducao": [
+    "A acentuação gráfica na língua portuguesa segue um conjunto de regras que visam indicar a sílaba tônica das palavras e diferenciar homógrafos. Compreender essas regras é fundamental para a escrita correta e para a comunicação eficaz.",
+    "As regras gerais de acentuação são baseadas na posição da sílaba tônica e na terminação das palavras. Neste tema, focaremos especificamente nos monossílabos tônicos e nas palavras oxítonas, que são categorias essenciais para dominar a ortografia."
+  ],
+  "secoes": [
+    {
+      "titulo": "Monossílabos Tônicos",
+      "destaque": "Bizú: Lembre-se da sequência A, E, O para monossílabos tônicos. Se terminar em uma dessas vogais (seguidas ou não de 's'), acentue!",
+      "conteudo": [
+        "São palavras que possuem apenas uma sílaba e que, quando pronunciadas isoladamente, têm sentido completo e forte. É importante notar que nem todos os monossílabos são acentuados, apenas os tônicos.",
+        "Acentuam-se os monossílabos tônicos terminados em A(S), E(S) e O(S)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Monossílabos Tônicos Terminados em A(S)",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em A ou AS.",
+            "Exemplos: CHÁ, MÁS, JÁ."
+          ]
+        },
+        {
+          "subtitulo": "Monossílabos Tônicos Terminados em E(S)",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em E ou ES.",
+            "Exemplos: PÉ, MÊS, CRÊS."
+          ]
+        },
+        {
+          "subtitulo": "Monossílabos Tônicos Terminados em O(S)",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em O ou OS.",
+            "Exemplos: NÓ, PÔS, SÓS."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Palavras Oxítonas",
+      "destaque": "Bizú: Para oxítonas, a regra é 'A, E, O, EM, ENS'. Memorize essa sequência para identificar rapidamente as palavras que devem ser acentuadas.",
+      "conteudo": [
+        "São palavras cuja sílaba tônica é a última. Assim como os monossílabos, nem todas as oxítonas são acentuadas, apenas aquelas que se encaixam em terminações específicas.",
+        "Acentuam-se as oxítonas terminadas em A(S), E(S), O(S), EM e ENS."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Oxítonas Terminadas em A(S)",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em A ou AS.",
+            "Exemplos: SOFÁ, VATAPÁS, ESTARÁ."
+          ]
+        },
+        {
+          "subtitulo": "Oxítonas Terminadas em E(S)",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em E ou ES.",
+            "Exemplos: CAFÉ, VOCÊS, JACARÉ."
+          ]
+        },
+        {
+          "subtitulo": "Oxítonas Terminadas em O(S)",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em O ou OS.",
+            "Exemplos: AVÔ, CIPÓS, ROBÔ."
+          ]
+        },
+        {
+          "subtitulo": "Oxítonas Terminadas em EM e ENS",
+          "itens": [
+            "Recebem acento agudo ou circunflexo quando terminam em EM ou ENS.",
+            "Exemplos: ALGUÉM, PARABÉNS, TAMBÉM."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exceções e Casos Especiais",
+      "destaque": "Atenção! A regra dos ditongos abertos ÉI, ÉU, ÓI em oxítonas é uma exceção importante. Não confunda com a regra geral de oxítonas terminadas em I(S) ou U(S) que não são acentuadas.",
+      "conteudo": [
+        "É crucial estar atento a algumas particularidades que podem gerar dúvidas na acentuação de oxítonas, pois nem todas as terminações seguem a regra geral.",
+        "Não se acentuam oxítonas terminadas em I(S) ou U(S), a menos que formem hiato com a vogal anterior. Nesses casos, a acentuação segue a regra dos hiatos, que possui critérios específicos e não é o foco principal deste tema.",
+        "Acentuam-se oxítonas com ditongos abertos ÉI, ÉU, ÓI, seguidos ou não de S. Esta é uma regra específica para ditongos abertos em oxítonas, importante para a correta grafia e frequentemente cobrada em concursos."
+      ],
+      "itens": [
+        "Exemplos de oxítonas não acentuadas em I(S) ou U(S): CAJU, TATU, SAIR.",
+        "Exemplos de oxítonas com ditongos abertos acentuados: ANÉIS, CHAPÉU, HERÓI."
+      ]
+    }
+  ],
+  "sintese": [
+    "A acentuação gráfica na língua portuguesa serve para indicar a sílaba tônica e diferenciar homógrafos.",
+    "Monossílabos tônicos são palavras de uma sílaba com sentido forte e são acentuados se terminados em A(S), E(S), O(S).",
+    "Palavras oxítonas têm a última sílaba tônica e são acentuadas se terminadas em A(S), E(S), O(S), EM, ENS.",
+    "Oxítonas terminadas em I(S) ou U(S) não são acentuadas pela regra geral, exceto em casos de hiato específico.",
+    "Oxítonas que contêm ditongos abertos ÉI, ÉU, ÓI (seguidos ou não de S) são acentuadas, constituindo uma regra especial."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras são monossílabos tônicos corretamente acentuados.",
+      "opcoes": [
+        "A) Luz, flor, mar.",
+        "B) Pé, nós, já.",
+        "C) Tu, mim, sem.",
+        "D) Sol, vem, por."
+      ],
+      "gabarito": "B",
+      "comentario": "A regra de acentuação para monossílabos tônicos estabelece que são acentuados aqueles terminados em A(S), E(S) e O(S). Na alternativa B, 'Pé' (terminado em E), 'nós' (terminado em OS) e 'já' (terminado em A) seguem essa regra. As demais alternativas apresentam monossílabos que não se enquadram nessa regra ou são átonos."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das alternativas apresenta apenas palavras oxítonas corretamente acentuadas?",
+      "opcoes": [
+        "A) Café, parabéns, caju.",
+        "B) Vatapás, ninguém, jacaré.",
+        "C) Robô, tatu, também.",
+        "D) Sofá, cipós, ruim."
+      ],
+      "gabarito": "B",
+      "comentario": "A regra de acentuação para oxítonas indica que são acentuadas as terminadas em A(S), E(S), O(S), EM e ENS. Na alternativa B, 'Vatapás' (terminado em AS), 'ninguém' (terminado em EM) e 'jacaré' (terminado em E) estão corretamente acentuadas. Nas outras alternativas, 'caju' e 'tatu' (terminadas em U) e 'ruim' (terminada em IM) não são acentuadas pela regra geral das oxítonas."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das frases a seguir a palavra destacada está *incorretamente* acentuada, considerando as regras de monossílabos e oxítonas?",
+      "opcoes": [
+        "A) Ele pôs o livro na mesa.",
+        "B) O chapéu é muito bonito.",
+        "C) Ninguém viu o que aconteceu.",
+        "D) O cajú estava maduro."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D apresenta a palavra 'cajú' incorretamente acentuada. 'Caju' é uma oxítona terminada em 'U', e as oxítonas terminadas em I(S) ou U(S) não são acentuadas pela regra geral, a menos que formem hiato (o que não é o caso aqui). As demais palavras ('pôs', 'chapéu', 'ninguém') estão corretamente acentuadas conforme as regras de monossílabos tônicos e oxítonas (incluindo a exceção para ditongos abertos)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as palavras: 'Mês', 'Sofá', 'Herói', 'Cantar'. De acordo com as regras de acentuação de monossílabos e oxítonas, quantas delas devem ser acentuadas?",
+      "opcoes": [
+        "A) Uma.",
+        "B) Duas.",
+        "C) Três.",
+        "D) Quatro."
+      ],
+      "gabarito": "C",
+      "comentario": "Vamos analisar cada palavra: 'Mês' é um monossílabo tônico terminado em ES, portanto, acentuado. 'Sofá' é uma oxítona terminada em A, portanto, acentuada. 'Herói' é uma oxítona com ditongo aberto ÓI, portanto, acentuada. 'Cantar' é uma oxítona terminada em AR, e oxítonas terminadas em R não são acentuadas. Assim, três palavras devem ser acentuadas."
+    },
+    {
+      "id": 5,
+      "enunciado": "Assinale a opção em que a acentuação da palavra 'também' segue a mesma regra de acentuação de 'parabéns'.",
+      "opcoes": [
+        "A) Café.",
+        "B) Ninguém.",
+        "C) Avô.",
+        "D) Pés."
+      ],
+      "gabarito": "B",
+      "comentario": "As palavras 'também' e 'parabéns' são oxítonas terminadas em 'EM' e 'ENS', respectivamente, e são acentuadas por essa regra específica das oxítonas. A palavra 'Ninguém' (alternativa B) também é uma oxítona terminada em 'EM', seguindo a mesma regra. 'Café' e 'Avô' são oxítonas terminadas em E e O, respectivamente, e 'Pés' é um monossílabo tônico terminado em ES, seguindo regras diferentes."
+    }
+  ]
+}

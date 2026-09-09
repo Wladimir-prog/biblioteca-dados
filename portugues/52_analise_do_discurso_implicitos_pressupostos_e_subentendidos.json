@@ -1,0 +1,134 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Análise do Discurso: Implícitos, Pressupostos e Subentendidos",
+  "introducao": [
+    "A análise do discurso é um campo de estudo que transcende a mera estrutura gramatical, investigando como os sentidos são construídos e interpretados no contexto de uso da linguagem. Ela se dedica a compreender como palavras e frases veiculam mensagens explícitas e, sobretudo, implícitas.",
+    "Compreender os implícitos é fundamental para uma leitura crítica e para a interpretação completa de qualquer texto ou fala, permitindo desvendar camadas mais profundas da comunicação."
+  ],
+  "secoes": [
+    {
+      "titulo": "Introdução aos Implícitos na Comunicação",
+      "conteudo": [
+        "Implícitos são informações que não são ditas diretamente, mas que podem ser inferidas a partir do que foi enunciado.",
+        "Eles exigem do interlocutor uma capacidade de leitura nas entrelinhas, baseada no conhecimento de mundo e no contexto da comunicação.",
+        "A presença de implícitos é uma característica fundamental da comunicação humana, tornando-a mais rica e complexa."
+      ]
+    },
+    {
+      "titulo": "Pressupostos: O Que Se Assume Como Verdade",
+      "destaque": "Bizú: Pressupostos são informações implícitas que o enunciado apresenta como verdades inquestionáveis. Se você negar o pressuposto, a frase principal perde o sentido ou fica estranha.",
+      "conteudo": [
+        "Os pressupostos são informações implícitas que são apresentadas como verdades inquestionáveis ou fatos estabelecidos dentro de um enunciado.",
+        "Eles são ativados por elementos linguísticos específicos, como verbos (parar de, começar a), advérbios (ainda, já), adjetivos, conjunções e estruturas sintáticas (como as construções com 'é que').",
+        "A negação de um pressuposto compromete a coerência ou o sentido lógico da frase principal, evidenciando sua natureza de verdade assumida."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos Práticos de Pressupostos",
+          "itens": [
+            "**'João parou de fumar.'** Pressuposto: João fumava antes. (Mesmo negando 'João não parou de fumar', ainda se pressupõe que ele fumava).",
+            "**'Ainda chove em São Paulo.'** Pressuposto: Chovia antes em São Paulo. (Mesmo negando 'Não chove mais em São Paulo', ainda se pressupõe que chovia).",
+            "**'Foi Pedro quem roubou o carro.'** Pressuposto: Alguém roubou o carro. (Mesmo negando 'Não foi Pedro quem roubou o carro', ainda se pressupõe que o carro foi roubado)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Subentendidos: As Inferências do Interlocutor",
+      "destaque": "Bizú: Subentendidos são inferências que o falante permite que o ouvinte faça. São mais facilmente negáveis pelo emissor, pois dependem da interpretação e do contexto, não da estrutura linguística.",
+      "conteudo": [
+        "Os subentendidos são informações implícitas que não são garantidas pelo enunciado em si, mas que o falante permite que o ouvinte infira.",
+        "Eles dependem fortemente do contexto, da intenção do falante e da interpretação do ouvinte, sendo mais facilmente negáveis pelo emissor.",
+        "Diferentemente dos pressupostos, os subentendidos podem ser negados sem que a frase perca seu sentido lógico, pois a responsabilidade pela inferência recai sobre o interlocutor."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Exemplos Práticos de Subentendidos",
+          "itens": [
+            "**'A porta está aberta.'** (dita por um pai ao filho que está com frio) Subentendido: Feche a porta. (O pai pode negar: 'Eu só disse que a porta está aberta, não pedi para fechar.')",
+            "**'Você tem horas?'** (dita por alguém na rua) Subentendido: Gostaria de saber as horas. (A pessoa pode negar: 'Eu só perguntei se você tem, não que eu queira saber.')",
+            "**'Seu quarto está uma bagunça!'** (dita por uma mãe ao filho) Subentendido: Arrume seu quarto. (A mãe pode negar: 'Eu só constatei o estado do quarto, não dei uma ordem.')"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Diferenças Cruciais entre Pressupostos e Subentendidos",
+      "destaque": "A chave está na responsabilidade pela inferência e na possibilidade de negação. Pressuposto é 'verdade' do enunciado; subentendido é 'sugestão' do falante.",
+      "conteudo": [
+        "A principal diferença entre pressupostos e subentendidos reside na responsabilidade pela inferência e na possibilidade de negação por parte do emissor.",
+        "**Pressupostos** são de responsabilidade do enunciado, ativados por marcas linguísticas, e são difíceis de negar sem comprometer o sentido da frase. Eles são assumidos como verdades.",
+        "**Subentendidos** são de responsabilidade do interlocutor, dependem do contexto e da intenção, e podem ser negados pelo falante sem prejuízo do sentido literal da frase. Eles são inferências permitidas."
+      ]
+    },
+    {
+      "titulo": "A Importância dos Implícitos na Interpretação de Textos",
+      "conteudo": [
+        "Reconhecer implícitos, pressupostos e subentendidos é fundamental para a compreensão profunda de textos e discursos, permitindo ir além da superfície do que é dito.",
+        "Em concursos e provas, muitas questões de interpretação exploram a capacidade do candidato de identificar essas informações não explícitas, testando a leitura crítica.",
+        "A análise dessas camadas de sentido permite desvendar intenções, ideologias, valores e nuances que a superfície do texto não revela, enriquecendo a interpretação."
+      ]
+    },
+    {
+      "titulo": "Implícitos e a Intenção Comunicativa",
+      "conteudo": [
+        "A comunicação eficaz muitas vezes se vale dos implícitos para transmitir mensagens de forma mais sutil ou indireta, seja para evitar confrontos, persuadir ou criar um senso de cumplicidade com o interlocutor.",
+        "A habilidade de decodificar essas intenções ocultas é um diferencial crucial na análise crítica de qualquer tipo de discurso, revelando o 'não dito' por trás das palavras."
+      ]
+    },
+    {
+      "titulo": "Implícitos e o Contexto Sócio-Histórico",
+      "conteudo": [
+        "Os implícitos estão intrinsecamente ligados ao contexto em que o discurso é produzido e recebido. Normas sociais, valores culturais e conhecimentos compartilhados influenciam diretamente a forma como as informações implícitas são construídas e interpretadas.",
+        "Uma análise aprofundada deve considerar esses fatores para uma compreensão completa do sentido veiculado, pois o que é implícito em um contexto pode não ser em outro."
+      ]
+    }
+  ],
+  "sintese": [
+    "A análise do discurso vai além do explícito, focando nos implícitos para uma compreensão profunda da comunicação.",
+    "Implícitos são informações inferidas, exigindo leitura nas entrelinhas e conhecimento de mundo do interlocutor.",
+    "Pressupostos são verdades inquestionáveis ativadas linguisticamente; sua negação compromete o sentido da frase.",
+    "Subentendidos são inferências permitidas pelo falante, dependendo do contexto e da intenção, e são facilmente negáveis.",
+    "A diferença crucial está na responsabilidade pela inferência: pressuposto é do enunciado, subentendido é do interlocutor.",
+    "Dominar a identificação de implícitos é essencial para a interpretação crítica de textos e para desvendar intenções e ideologias."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Ao afirmar 'O governo finalmente resolveu o problema da inflação', o pressuposto contido na frase é que:",
+      "opcoes": [
+        "A) O governo é eficiente na resolução de problemas.",
+        "B) A inflação era um problema existente e persistente.",
+        "C) O problema da inflação foi resolvido de forma definitiva.",
+        "D) O governo sempre busca resolver os problemas do país."
+      ],
+      "gabarito": "B",
+      "comentario": "O advérbio 'finalmente' pressupõe que o problema da inflação já existia e que sua resolução era esperada ou demorada. A frase assume a existência prévia do problema como um fato estabelecido."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em uma reunião, um colega diz: 'Já são 18h e ainda temos muitos pontos a discutir.' Qual é o subentendido mais provável dessa fala?",
+      "opcoes": [
+        "A) O colega está preocupado com o tempo e sugere acelerar a discussão ou encerrar.",
+        "B) O colega está apenas informando a hora atual aos presentes.",
+        "C) O colega deseja que a reunião se estenda por mais tempo.",
+        "D) O colega está criticando a lentidão da discussão."
+      ],
+      "gabarito": "A",
+      "comentario": "O subentendido depende do contexto e da intenção. Ao mencionar a hora avançada e a quantidade de pontos restantes, o colega provavelmente está sugerindo a necessidade de agilizar a reunião ou de considerar seu encerramento, dada a limitação de tempo. As outras opções são menos prováveis como a principal intenção subentendida."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise as frases a seguir e identifique qual delas contém um pressuposto e qual contém um subentendido, respectivamente:I. 'Você já terminou o relatório?'II. 'Ainda não recebi o e-mail com a pauta da reunião.'",
+      "opcoes": [
+        "A) I (subentendido), II (pressuposto)",
+        "B) I (pressuposto), II (subentendido)",
+        "C) I (pressuposto), II (pressuposto)",
+        "D) I (subentendido), II (subentendido)"
+      ],
+      "gabarito": "A",
+      "comentario": "Na frase I, 'Você já terminou o relatório?' subentende-se que a pessoa deveria ter feito ou está fazendo o relatório, e a pergunta pode ser uma cobrança ou lembrete (o falante pode negar que estava cobrando). Na frase II, 'Ainda não recebi o e-mail com a pauta da reunião', o advérbio 'ainda' pressupõe que o e-mail deveria ter sido enviado ou que se esperava recebê-lo. Se negarmos 'Não recebi o e-mail', a expectativa de recebimento permanece, evidenciando o pressuposto."
+    }
+  ]
+}

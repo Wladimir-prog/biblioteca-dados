@@ -1,0 +1,168 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Funções da Linguagem",
+  "introducao": [
+    "A linguagem é uma ferramenta complexa e multifacetada que utilizamos para interagir com o mundo e com os outros. Ela não serve apenas para transmitir informações, mas também para expressar emoções, influenciar comportamentos e até mesmo refletir sobre si mesma.",
+    "As funções da linguagem são as diferentes finalidades ou propósitos comunicativos que a linguagem pode assumir, dependendo da intenção do emissor e do elemento da comunicação em que o foco recai."
+  ],
+  "secoes": [
+    {
+      "titulo": "O que são as Funções da Linguagem?",
+      "destaque": "Em um mesmo texto, várias funções podem coexistir, mas uma delas geralmente se sobressai, indicando a intenção comunicativa principal.",
+      "conteudo": [
+        "As funções da linguagem foram sistematizadas pelo linguista Roman Jakobson, que as relacionou aos elementos do processo de comunicação: emissor, receptor, mensagem, código, canal e contexto.",
+        "Cada função destaca um desses elementos, revelando a intenção predominante na comunicação."
+      ]
+    },
+    {
+      "titulo": "Função Referencial ou Denotativa",
+      "destaque": "Foco no CONTEXTO (referente). Objetividade e informação pura.",
+      "conteudo": [
+        "Esta função tem como objetivo principal informar, descrever a realidade de forma objetiva e imparcial.",
+        "Suas características incluem o uso da linguagem denotativa (sentido literal), a predominância da terceira pessoa e a ausência de subjetividade. É comum em textos informativos, jornalísticos e científicos."
+      ],
+      "itens": [
+        "O Brasil é o quinto maior país do mundo em extensão territorial.",
+        "A temperatura média em São Paulo hoje é de 25 graus Celsius.",
+        "A reunião foi agendada para a próxima terça-feira às 10h."
+      ]
+    },
+    {
+      "titulo": "Função Emotiva ou Expressiva",
+      "destaque": "Foco no EMISSOR. Expressão de sentimentos e opiniões.",
+      "conteudo": [
+        "O principal propósito desta função é expressar os sentimentos, emoções, opiniões e estados de espírito do próprio falante (emissor).",
+        "Caracteriza-se pela linguagem subjetiva, uso da primeira pessoa, interjeições, exclamações e adjetivos valorativos."
+      ],
+      "itens": [
+        "Que alegria imensa em rever você!",
+        "Eu estou exausto depois de um dia tão longo.",
+        "Sinto uma profunda tristeza com essa notícia."
+      ]
+    },
+    {
+      "titulo": "Função Conativa ou Apelativa",
+      "destaque": "Foco no RECEPTOR. Persuasão e influência.",
+      "conteudo": [
+        "Esta função visa influenciar, persuadir ou convencer o interlocutor (receptor) a realizar uma ação ou a mudar seu comportamento.",
+        "É marcada pelo uso de vocativos, imperativos, a segunda pessoa (tu/você) e uma linguagem persuasiva, sendo muito presente em anúncios publicitários e discursos políticos."
+      ],
+      "itens": [
+        "Compre agora e aproveite o desconto!",
+        "Não jogue lixo na rua.",
+        "Vote consciente nas próximas eleições."
+      ]
+    },
+    {
+      "titulo": "Função Fática",
+      "destaque": "Foco no CANAL. Testar e manter o contato.",
+      "conteudo": [
+        "O objetivo da função fática é estabelecer, prolongar, interromper ou verificar a eficácia do canal de comunicação.",
+        "Suas características incluem frases curtas, perguntas retóricas, expressões de cumprimento e interjeições que servem para testar o contato entre emissor e receptor."
+      ],
+      "itens": [
+        "Alô? Você está me ouvindo?",
+        "Entendeu o que eu disse?",
+        "Certo? Podemos continuar?"
+      ]
+    },
+    {
+      "titulo": "Função Metalinguística",
+      "destaque": "Foco no CÓDIGO. A linguagem explicando a própria linguagem.",
+      "conteudo": [
+        "Esta função ocorre quando a linguagem é utilizada para explicar a própria linguagem, ou seja, o código utilizado na comunicação.",
+        "É comum em definições, explicações gramaticais, dicionários e aulas de língua portuguesa."
+      ],
+      "itens": [
+        "A palavra 'casa' é um substantivo comum.",
+        "'Sinônimo' significa palavra com sentido semelhante.",
+        "O verbo 'ser' é um verbo de ligação."
+      ]
+    },
+    {
+      "titulo": "Função Poética",
+      "destaque": "Foco na MENSAGEM. Valorização da forma e estética.",
+      "conteudo": [
+        "A função poética valoriza a forma da mensagem, a estética, a sonoridade e a escolha das palavras, indo além do mero conteúdo informativo.",
+        "Caracteriza-se pela linguagem conotativa (sentido figurado), uso de figuras de linguagem, rimas, ritmo e exploração da polissemia, sendo predominante em textos literários, poemas e letras de música."
+      ],
+      "itens": [
+        "O amor é um fogo que arde sem se ver.",
+        "Minha alma é um mar de melancolia.",
+        "A vida é uma dança, um balé de emoções."
+      ]
+    }
+  ],
+  "sintese": [
+    "As funções da linguagem, sistematizadas por Roman Jakobson, revelam a intenção comunicativa predominante, focando em um dos elementos do processo de comunicação (emissor, receptor, mensagem, código, canal, contexto).",
+    "A Função Referencial (ou Denotativa) foca no contexto, buscando a objetividade e a transmissão de informações de forma imparcial.",
+    "A Função Emotiva (ou Expressiva) centra-se no emissor, expressando seus sentimentos, emoções e opiniões de maneira subjetiva.",
+    "A Função Conativa (ou Apelativa) visa o receptor, buscando persuadir, influenciar ou convencer o interlocutor a uma ação ou mudança de comportamento.",
+    "A Função Fática tem como objetivo principal estabelecer, prolongar, interromper ou verificar a eficácia do canal de comunicação, mantendo o contato.",
+    "A Função Metalinguística utiliza a linguagem para explicar a própria linguagem, ou seja, o código, como em definições e explicações gramaticais.",
+    "A Função Poética valoriza a forma e a estética da mensagem, explorando a conotação, figuras de linguagem, rimas e ritmo, comum em textos literários."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual função da linguagem o foco principal está na expressão dos sentimentos e emoções do emissor?",
+      "opcoes": [
+        "A) Referencial",
+        "B) Conativa",
+        "C) Emotiva",
+        "D) Fática"
+      ],
+      "gabarito": "C",
+      "comentario": "A Função Emotiva (ou Expressiva) tem como foco o emissor e sua subjetividade, expressando sentimentos e opiniões. A Referencial foca no contexto, a Conativa no receptor e a Fática no canal."
+    },
+    {
+      "id": 2,
+      "enunciado": "Um manual de instruções de um eletrodoméstico, que busca transmitir informações claras e objetivas sobre o uso do aparelho, utiliza predominantemente qual função da linguagem?",
+      "opcoes": [
+        "A) Poética",
+        "B) Metalinguística",
+        "C) Referencial",
+        "D) Conativa"
+      ],
+      "gabarito": "C",
+      "comentario": "A Função Referencial (ou Denotativa) é caracterizada pela objetividade e pela transmissão de informações sobre o contexto, sem subjetividade, como ocorre em manuais e textos científicos."
+    },
+    {
+      "id": 3,
+      "enunciado": "A frase 'A palavra 'substantivo' é uma classe gramatical que nomeia seres, objetos e fenômenos' exemplifica qual função da linguagem?",
+      "opcoes": [
+        "A) Fática",
+        "B) Emotiva",
+        "C) Poética",
+        "D) Metalinguística"
+      ],
+      "gabarito": "D",
+      "comentario": "A Função Metalinguística ocorre quando a linguagem é usada para explicar a própria linguagem, o código. No exemplo, a palavra 'substantivo' é explicada, caracterizando essa função."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em um anúncio publicitário que diz 'Não perca essa chance! Ligue agora e garanta seu desconto!', a função da linguagem predominante é a:",
+      "opcoes": [
+        "A) Referencial",
+        "B) Conativa",
+        "C) Fática",
+        "D) Poética"
+      ],
+      "gabarito": "B",
+      "comentario": "A Função Conativa (ou Apelativa) tem como objetivo influenciar ou persuadir o receptor a realizar uma ação, utilizando imperativos e vocativos, como é comum em publicidade."
+    },
+    {
+      "id": 5,
+      "enunciado": "No verso 'O tempo é um rio que corre sem cessar', a função da linguagem que se destaca pela valorização da forma e da expressividade é a:",
+      "opcoes": [
+        "A) Emotiva",
+        "B) Referencial",
+        "C) Poética",
+        "D) Metalinguística"
+      ],
+      "gabarito": "C",
+      "comentario": "A Função Poética foca na mensagem em si, valorizando a forma, a estética e a expressividade, utilizando a linguagem conotativa e figuras de linguagem, como a metáfora presente no verso."
+    }
+  ]
+}

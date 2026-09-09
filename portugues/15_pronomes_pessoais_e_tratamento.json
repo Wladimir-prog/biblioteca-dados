@@ -1,0 +1,170 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Pronomes Pessoais e de Tratamento",
+  "introducao": [
+    "Os pronomes são elementos essenciais da língua portuguesa, atuando como substitutos ou acompanhantes de substantivos. Eles são cruciais para indicar as pessoas do discurso, situar termos no tempo e no espaço, e garantir a fluidez textual.",
+    "Sua função vai além da mera substituição, pois contribuem significativamente para a coesão e coerência, evitando repetições desnecessárias e estabelecendo relações claras entre os componentes da oração."
+  ],
+  "secoes": [
+    {
+      "titulo": "Introdução aos Pronomes",
+      "destaque": "Os pronomes são a 'cola' do texto, garantindo fluidez e clareza ao evitar redundâncias e conectar ideias.",
+      "conteudo": [
+        "Pronomes são palavras que substituem ou acompanham substantivos, indicando as pessoas do discurso ou situando-os no espaço e no tempo.",
+        "Eles desempenham um papel fundamental na coesão e coerência textual, evitando repetições e estabelecendo relações entre os termos da oração."
+      ]
+    },
+    {
+      "titulo": "Pronomes Pessoais",
+      "conteudo": [
+        "Os pronomes pessoais indicam as pessoas do discurso: quem fala (1ª pessoa), com quem se fala (2ª pessoa) e de quem ou do que se fala (3ª pessoa).",
+        "Eles se dividem em pronomes do caso reto e pronomes do caso oblíquo, cada um com funções sintáticas específicas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Pronomes Pessoais do Caso Reto",
+          "itens": [
+            "Os pronomes pessoais do caso reto exercem a função de sujeito ou predicativo do sujeito na oração.",
+            "São eles: eu, tu, ele, ela, nós, vós, eles, elas.",
+            "Ex.: Eu estudei para a prova de português.",
+            "Ex.: Nós viajaremos amanhã cedo.",
+            "Ex.: Elas são muito dedicadas aos estudos."
+          ]
+        },
+        {
+          "subtitulo": "Pronomes Pessoais do Caso Oblíquo",
+          "itens": [
+            "Os pronomes pessoais do caso oblíquo exercem a função de complemento verbal (objeto direto ou indireto) ou complemento nominal.",
+            "Dividem-se em átonos e tônicos, dependendo da presença ou ausência de preposição."
+          ]
+        },
+        {
+          "subtitulo": "Pronomes Oblíquos Átonos",
+          "itens": [
+            "Os pronomes oblíquos átonos não são precedidos de preposição e funcionam como objeto direto ou indireto.",
+            "São eles: me, te, o, a, lhe, nos, vos, os, as, lhes.",
+            "Ex.: Ele me chamou para a reunião.",
+            "Ex.: Entreguei-lhe o livro ontem.",
+            "Ex.: A professora nos explicou a matéria."
+          ]
+        },
+        {
+          "subtitulo": "Pronomes Oblíquos Tônicos",
+          "itens": [
+            "Os pronomes oblíquos tônicos são sempre precedidos de preposição e funcionam como objeto indireto ou complemento nominal.",
+            "São eles: mim, ti, ele, ela, nós, vós, eles, elas (sempre precedidos de preposição).",
+            "Ex.: Ela conversou comigo sobre o projeto.",
+            "Ex.: Trouxe um presente para ti.",
+            "Ex.: O trabalho foi feito por nós."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes de Tratamento",
+      "destaque": "Atenção! Pronomes de tratamento referem-se à 2ª pessoa, mas a concordância é sempre com a 3ª pessoa. Ex: Vossa Excelência *está*.",
+      "conteudo": [
+        "Os pronomes de tratamento são usados para nos dirigirmos às pessoas de forma cerimoniosa ou respeitosa, de acordo com sua posição social ou hierarquia.",
+        "Embora se refiram à 2ª pessoa do discurso (com quem se fala), a concordância verbal e nominal é feita com a 3ª pessoa."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Principais Pronomes de Tratamento",
+          "itens": [
+            "Você: Usado para tratamento informal, familiar.",
+            "Senhor(a): Usado para tratamento respeitoso, formal.",
+            "Vossa Excelência (V. Ex.ª): Usado para altas autoridades (Presidentes, Ministros, Embaixadores, Oficiais-Generais).",
+            "Vossa Senhoria (V. S.ª): Usado para autoridades em geral (diretores, chefes, vereadores) e para correspondências comerciais.",
+            "Vossa Majestade (V. M.): Usado para reis e imperadores.",
+            "Vossa Santidade (V. S.): Usado para o Papa.",
+            "Vossa Alteza (V. A.): Usado para príncipes, duques e arquiduques.",
+            "Vossa Eminência (V. Em.ª): Usado para cardeais.",
+            "Vossa Reverendíssima (V. Rev.ma): Usado para sacerdotes, bispos."
+          ]
+        },
+        {
+          "subtitulo": "Observações sobre o Uso",
+          "itens": [
+            "Concordância: O verbo e os adjetivos que se referem ao pronome de tratamento devem concordar com a 3ª pessoa.",
+            "Ex.: Vossa Excelência está atrasado para a reunião. (Se for homem)",
+            "Ex.: Vossa Excelência está atrasada para a reunião. (Se for mulher)",
+            "Ex.: Vossa Senhoria é muito gentil.",
+            "Uso de Vossa/Sua: Usa-se 'Vossa' quando se fala diretamente com a pessoa (2ª pessoa do discurso). Usa-se 'Sua' quando se fala da pessoa (3ª pessoa do discurso).",
+            "Ex.: Vossa Majestade deseja algo? (Falando diretamente ao rei)",
+            "Ex.: Sua Majestade está em seu trono. (Falando sobre o rei)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Pronomes são palavras que substituem ou acompanham substantivos, essenciais para a coesão e coerência textual.",
+    "Os pronomes pessoais indicam as pessoas do discurso e se dividem em caso reto (função de sujeito) e caso oblíquo (função de complemento).",
+    "Pronomes oblíquos átonos (me, te, o, a, lhe, nos, vos, os, as, lhes) não exigem preposição; tônicos (mim, ti, ele, ela, nós, vós, eles, elas) são sempre precedidos de preposição.",
+    "Pronomes de tratamento são usados para formalidade ou respeito, referindo-se à 2ª pessoa, mas com concordância verbal e nominal na 3ª pessoa.",
+    "A escolha entre 'Vossa' e 'Sua' depende se o interlocutor está presente ('Vossa') ou se está sendo referido ('Sua')."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o pronome pessoal do caso reto está empregado corretamente, exercendo a função de sujeito da oração.",
+      "opcoes": [
+        "A) Para mim, fazer a prova foi fácil.",
+        "B) Entre eu e você, não há segredos.",
+        "C) Ele pediu para mim resolver o problema.",
+        "D) Eu e ela estudamos juntos para o concurso."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa (D) está correta, pois 'Eu' e 'ela' são pronomes do caso reto que exercem a função de sujeito do verbo 'estudamos'. Nas demais opções, 'mim' é pronome oblíquo tônico e não pode ser sujeito de um verbo no infinitivo ('resolver') ou vir após preposição quando se refere ao sujeito de uma oração ('entre eu e você' deveria ser 'entre mim e você' se não houvesse verbo no infinitivo, ou 'para eu resolver' se 'eu' fosse sujeito do infinitivo)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases o pronome oblíquo átono foi empregado de forma inadequada ou deveria ter sido usado em vez de outra construção?",
+      "opcoes": [
+        "A) Ele me chamou para a reunião.",
+        "B) Entreguei-lhe o livro ontem.",
+        "C) A professora nos explicou a matéria.",
+        "D) Vi ele na rua e o cumprimentei."
+      ],
+      "gabarito": "D",
+      "comentario": "Na alternativa (D), o pronome 'ele' está sendo usado como objeto direto do verbo 'ver'. Nesse caso, o correto seria usar o pronome oblíquo átono 'o'. A frase deveria ser 'Vi-o na rua e o cumprimentei'. As demais alternativas utilizam os pronomes oblíquos átonos ('me', 'lhe', 'nos') de forma adequada."
+    },
+    {
+      "id": 3,
+      "enunciado": "Sobre os pronomes de tratamento, assinale a alternativa correta.",
+      "opcoes": [
+        "A) Vossa Excelência são muito competentes.",
+        "B) Sua Majestade, desejais algo?",
+        "C) Vossa Senhoria está atrasado para a reunião.",
+        "D) O Papa, Vossa Santidade, fará um discurso."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está correta. Pronomes de tratamento, embora se refiram à 2ª pessoa, exigem concordância verbal e nominal na 3ª pessoa ('está atrasado'). Em (A), a concordância está errada ('são' deveria ser 'é'). Em (B), 'Sua Majestade' é usado quando se fala *sobre* a pessoa, não *com* ela; além disso, 'desejais' é 2ª pessoa, quando deveria ser 3ª ('deseja'). Em (D), 'Vossa Santidade' é usado para falar *com* o Papa, não *sobre* ele; o correto seria 'Sua Santidade' se estivesse falando sobre ele, ou 'Vossa Santidade fará um discurso' se estivesse falando diretamente a ele."
+    },
+    {
+      "id": 4,
+      "enunciado": "Complete as lacunas com a forma adequada do pronome: 'O diretor pediu _____ e _____ para organizar os documentos para _____.'",
+      "opcoes": [
+        "A) eu / ela / mim",
+        "B) mim / ela / eu",
+        "C) para eu / ela / mim",
+        "D) a mim / ela / eu"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) é a correta. 'O diretor pediu *para eu* (sujeito do infinitivo 'organizar') e *ela* (também sujeito do infinitivo 'organizar') para organizar os documentos para *mim* (complemento preposicionado, indicando o beneficiário da ação, sem função de sujeito)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das frases abaixo apresenta um erro no uso do pronome pessoal?",
+      "opcoes": [
+        "A) Não se preocupe, eu o ajudarei com a tarefa.",
+        "B) Ele trouxe um presente para mim.",
+        "C) É para mim fazer o trabalho hoje.",
+        "D) Nós fomos ao cinema com eles."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está incorreta. Quando o pronome pessoal do caso oblíquo 'mim' é seguido de um verbo no infinitivo que tem 'mim' como sujeito, deve-se usar o pronome pessoal do caso reto 'eu'. O correto seria 'É para eu fazer o trabalho hoje', pois 'eu' é o sujeito da ação de 'fazer'. Nas demais opções, os pronomes estão empregados corretamente."
+    }
+  ]
+}

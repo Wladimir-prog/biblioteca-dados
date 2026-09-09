@@ -1,0 +1,142 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Acentuação de Hiatos",
+  "introducao": [
+    "A acentuação gráfica na língua portuguesa é um sistema complexo que visa garantir a correta pronúncia e clareza das palavras. Dentro desse sistema, a acentuação dos hiatos representa um ponto crucial que demanda atenção especial para evitar erros ortográficos e de prosódia.",
+    "Um hiato ocorre quando duas vogais consecutivas pertencem a sílabas diferentes, ou seja, são pronunciadas separadamente. A regra específica para a acentuação de hiatos tem como objetivo principal manter a tonicidade e a distinção fonética de certas vogais, especialmente o 'i' e o 'u', quando estas formam um hiato com a vogal anterior."
+  ],
+  "secoes": [
+    {
+      "titulo": "Regras Gerais de Acentuação de Hiatos",
+      "destaque": "Bizú para concursos: Lembre-se que a regra do hiato é 'salvadora' para o 'i' e o 'u' tônicos, garantindo que eles mantenham sua força na pronúncia, desde que não haja 'nh' ou ditongo anterior.",
+      "conteudo": [
+        "A acentuação dos hiatos é uma das regras mais importantes da ortografia da língua portuguesa, focando-se principalmente nas vogais 'i' e 'u' tônicas.",
+        "A regra geral estabelece que se acentuam o 'i' e o 'u' tônicos que formam hiato com a vogal anterior, desde que estejam sozinhos na sílaba ou seguidos apenas de 's'.",
+        "É fundamental que o 'i' ou 'u' não sejam seguidos de 'nh' e que não formem ditongo com a vogal que os precede, pois essas condições anulam a acentuação pelo hiato."
+      ]
+    },
+    {
+      "titulo": "'I' e 'U' Tônicos em Hiato",
+      "conteudo": [
+        "Quando as vogais 'i' e 'u' são tônicas e formam um hiato com a vogal anterior, elas recebem acento agudo. Essa acentuação é crucial para indicar que essas vogais devem ser pronunciadas com maior intensidade e em sílabas separadas.",
+        "A regra se aplica tanto quando o 'i' ou 'u' estão isolados na sílaba quanto quando são seguidos da consoante 's'."
+      ],
+      "itens": [
+        "sa-ú-de (o 'u' é tônico e forma hiato com 'a', sozinho na sílaba)",
+        "ca-í-da (o 'i' é tônico e forma hiato com 'a', sozinho na sílaba)",
+        "ba-la-ús-tre (o 'u' é tônico e forma hiato com 'a', seguido de 's')",
+        "e-go-ís-ta (o 'i' é tônico e forma hiato com 'o', seguido de 's')",
+        "pa-ís (o 'i' é tônico e forma hiato com 'a', seguido de 's')"
+      ]
+    },
+    {
+      "titulo": "Exceções à Regra Geral",
+      "destaque": "Atenção redobrada! As exceções são frequentemente cobradas em provas, pois testam a compreensão detalhada das regras de acentuação.",
+      "subsecoes": [
+        {
+          "subtitulo": "Seguidos de 'nh'",
+          "itens": [
+            "Não se acentuam o 'i' e o 'u' tônicos se forem seguidos do dígrafo 'nh', pois a presença do 'h' modifica a estrutura fonética da sílaba.",
+            "Ex.: ra-i-nha (o 'i' é tônico, mas seguido de 'nh', não é acentuado)",
+            "Ex.: mo-i-nho (o 'i' é tônico, mas seguido de 'nh', não é acentuado)",
+            "Ex.: cam-pa-i-nha (o 'i' é tônico, mas seguido de 'nh', não é acentuado)"
+          ]
+        },
+        {
+          "subtitulo": "Formando Ditongo com a Vogal Anterior",
+          "itens": [
+            "Não se acentuam o 'i' e o 'u' tônicos se formarem ditongo com a vogal anterior. Nesses casos, não há um hiato puro, mas sim uma sequência de vogais pronunciadas na mesma sílaba.",
+            "Ex.: fei-u-ra (o 'u' não é tônico sozinho e forma ditongo com 'ei', não há hiato com 'e')",
+            "Ex.: bai-u-ca (o 'u' não é tônico sozinho e forma ditongo com 'ai', não há hiato com 'a')",
+            "Ex.: cau-le (não é hiato, 'au' é ditongo)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Hiatos com Vogais Repetidas",
+      "conteudo": [
+        "Quando duas vogais idênticas formam um hiato, elas não recebem acento gráfico pela regra específica dos hiatos.",
+        "A acentuação de palavras com vogais repetidas em hiato só ocorrerá se elas se enquadrarem em outras regras de acentuação, como as de oxítonas, paroxítonas ou proparoxítonas, o que não é o caso para a maioria dos exemplos comuns.",
+        "A regra do hiato para 'i' e 'u' tônicos é exclusiva e não se aplica a outras vogais, nem mesmo quando repetidas."
+      ],
+      "itens": [
+        "vo-o (duas vogais 'o' em hiato, não acentuadas)",
+        "en-jo-o (duas vogais 'o' em hiato, não acentuadas)",
+        "cre-em (duas vogais 'e' em hiato, não acentuadas)",
+        "le-em (duas vogais 'e' em hiato, não acentuadas)"
+      ]
+    },
+    {
+      "titulo": "Hiatos com Ditongos Crescentes",
+      "conteudo": [
+        "É importante diferenciar os hiatos puros de sequências vocálicas que incluem ditongos crescentes. Em palavras como 'feiura' e 'baiuca', o 'u' não é acentuado porque não forma um hiato puro com a vogal anterior.",
+        "Nesses casos, o 'u' faz parte de um ditongo crescente que precede a sílaba tônica, e a regra de acentuação de hiatos é exclusiva para o 'i' e 'u' tônicos que se separam claramente da vogal anterior, formando sílabas distintas."
+      ],
+      "itens": [
+        "fei-u-ra (o 'u' não é tônico e não forma hiato com 'e'; 'ei' é ditongo)",
+        "bai-u-ca (o 'u' não é tônico e não forma hiato com 'a'; 'ai' é ditongo)",
+        "boi-u-na (o 'u' não é tônico e não forma hiato com 'o'; 'oi' é ditongo)"
+      ]
+    }
+  ],
+  "sintese": [
+    "A acentuação de hiatos é uma regra ortográfica que visa manter a tonicidade e a separação silábica de 'i' e 'u'.",
+    "Acentuam-se o 'i' e o 'u' tônicos que formam hiato com a vogal anterior, estando sozinhos na sílaba ou seguidos de 's'.",
+    "Exceções importantes incluem 'i' e 'u' seguidos de 'nh' (rainha) ou quando formam ditongo com a vogal anterior (feiura).",
+    "Vogais idênticas em hiato (como em 'voo' ou 'creem') não são acentuadas pela regra específica de hiatos.",
+    "A distinção entre hiato puro e ditongo crescente é crucial para a correta aplicação da regra.",
+    "Dominar a acentuação de hiatos é essencial para a escrita e pronúncia corretas na língua portuguesa."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas de acordo com a regra de acentuação de hiatos.",
+      "opcoes": [
+        "A) Saúva, baú, juíza",
+        "B) Raínha, caíste, egoísmo",
+        "C) Feiúra, balaústre, saída",
+        "D) Moínho, país, saúde"
+      ],
+      "gabarito": "A",
+      "comentario": "A alternativa (A) apresenta todas as palavras corretamente acentuadas pela regra do hiato: 'saúva' (u tônico em hiato), 'baú' (u tônico em hiato), 'juíza' (i tônico em hiato). Em (B), 'raínha' está incorreta (não se acentua 'i' seguido de 'nh'). Em (C), 'feiúra' está incorreta (o 'u' não forma hiato puro com 'ei'). Em (D), 'moínho' está incorreta (não se acentua 'i' seguido de 'nh')."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das palavras abaixo NÃO deve ser acentuada pela regra dos hiatos?",
+      "opcoes": [
+        "A) Saída",
+        "B) Ruína",
+        "C) Moinho",
+        "D) Paraíso"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'Moinho' (mo-i-nho) não é acentuada porque o 'i' tônico é seguido de 'nh', o que constitui uma exceção à regra de acentuação de hiatos. As demais palavras ('Saída', 'Ruína', 'Paraíso') são acentuadas porque o 'i' ou 'u' tônico formam hiato e não se enquadram nas exceções."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise as afirmações sobre a acentuação de hiatos:I. Acentuam-se o 'i' e o 'u' tônicos que formam hiato com a vogal anterior, desde que estejam sozinhos na sílaba ou seguidos de 's'.II. Palavras como 'voo' e 'creem' são acentuadas pela regra do hiato, pois apresentam vogais repetidas.III. O 'i' e o 'u' tônicos não são acentuados se forem seguidos de 'nh'.Está(ão) correta(s) apenas:",
+      "opcoes": [
+        "A) I",
+        "B) III",
+        "C) I e III",
+        "D) II e III"
+      ],
+      "gabarito": "C",
+      "comentario": "A afirmação I está correta, descrevendo a regra geral de acentuação de hiatos. A afirmação II está incorreta, pois vogais idênticas em hiato ('voo', 'creem') não são acentuadas pela regra específica de hiatos. A afirmação III está correta, pois a presença de 'nh' após o 'i' ou 'u' tônico impede a acentuação (ex: rainha, moinho). Portanto, apenas I e III estão corretas."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das opções a seguir a palavra está acentuada INCORRETAMENTE, considerando as regras de hiato?",
+      "opcoes": [
+        "A) Saúde",
+        "B) Caída",
+        "C) Baiúca",
+        "D) Egoísta"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'Baiúca' está incorretamente acentuada. O 'u' em 'baiuca' não forma hiato puro com a vogal anterior ('ai' é um ditongo), e o 'u' não é tônico sozinho na sílaba para ser acentuado pela regra do hiato. As palavras 'Saúde', 'Caída' e 'Egoísta' estão corretamente acentuadas pela regra do hiato ('u' ou 'i' tônicos, sozinhos ou seguidos de 's', formando hiato com a vogal anterior)."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Vícios de Linguagem",
+  "introducao": [
+    "Vícios de linguagem são desvios das normas gramaticais ou do bom uso da língua, que podem comprometer a clareza, a correção ou a elegância da comunicação. Eles ocorrem tanto na fala quanto na escrita, sendo armadilhas comuns que afetam a qualidade da expressão.",
+    "Compreender e evitar esses vícios é fundamental para uma comunicação eficaz e para o domínio da norma culta da Língua Portuguesa. Além disso, o reconhecimento e a correção desses desvios são frequentemente cobrados em concursos públicos e avaliações, tornando este estudo essencial para o sucesso acadêmico e profissional."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. Barbarismo",
+      "destaque": "Atenção à grafia, pronúncia e flexão! Erros de barbarismo são frequentemente explorados em questões de concursos, testando seu conhecimento da forma correta das palavras.",
+      "conteudo": [
+        "Consiste no uso incorreto de palavras quanto à grafia, pronúncia, flexão ou significado. Pode ser classificado em:",
+        "- Ortográfico: erro na escrita (ex: 'excessão' em vez de 'exceção').",
+        "- Prosódico: erro na pronúncia ou acentuação tônica (ex: 'rúbrica' em vez de 'rubrica').",
+        "- Morfológico: erro na flexão da palavra (ex: 'interviu' em vez de 'interveio').",
+        "- Semântico: erro no significado da palavra (ex: 'ratificar' no sentido de 'retificar')."
+      ],
+      "itens": [
+        "\"Menas\" pessoas compareceram ao evento. (Correto: Menos)",
+        "Ele \"rúbrica\" o documento sem ler. (Correto: rubrica)",
+        "A empresa \"interviu\" na situação. (Correto: interveio)"
+      ]
+    },
+    {
+      "titulo": "2. Solecismo",
+      "destaque": "Foco na sintaxe! Solecismos são erros de estrutura frasal, envolvendo concordância, regência e colocação pronominal. Domine essas regras para evitar esse vício.",
+      "conteudo": [
+        "É o erro de sintaxe, ou seja, o desvio das regras de concordância (verbal ou nominal), regência (verbal ou nominal) ou colocação pronominal. Afeta diretamente a estrutura gramatical da frase, tornando-a incorreta segundo a norma culta."
+      ],
+      "itens": [
+        "\"Faz\" muitos anos que não o vejo. (Correto: Fazem - erro de concordância verbal, verbo 'fazer' no sentido de tempo é impessoal)",
+        "Eu \"lhe\" vi ontem na rua. (Correto: Eu o vi - erro de colocação pronominal e regência, o verbo 'ver' é transitivo direto, exige 'o' ou 'a')",
+        "\"Houveram\" muitos problemas na reunião. (Correto: Houve - erro de concordância verbal, verbo 'haver' no sentido de 'existir' é impessoal)"
+      ]
+    },
+    {
+      "titulo": "3. Ambiguidade ou Anfibologia",
+      "destaque": "Cuidado com a dupla interpretação! Releia suas frases para garantir que a mensagem seja clara e unívoca, evitando que o leitor ou ouvinte tenha dúvidas sobre o sentido.",
+      "conteudo": [
+        "Ocorre quando uma frase ou expressão apresenta mais de uma interpretação possível, gerando falta de clareza e podendo levar a mal-entendidos. Geralmente, é causada por má construção sintática ou uso inadequado de pronomes."
+      ],
+      "itens": [
+        "O professor proibiu o aluno de usar seu celular. (De quem é o celular? Do professor ou do aluno?)",
+        "Vi o acidente da janela do ônibus. (Quem estava na janela? Eu ou o ônibus?)",
+        "Vende-se casa para casal com dois quartos. (A casa é para o casal ou a casa tem dois quartos?)"
+      ]
+    },
+    {
+      "titulo": "4. Cacofonia",
+      "destaque": "Evite sons desagradáveis! Leia em voz alta para identificar combinações de palavras que formam termos indesejados ou ridículos. A fluidez sonora é importante.",
+      "conteudo": [
+        "É a formação de um som desagradável ou ridículo pela combinação de palavras. Pode ser resultado de sílabas que se unem para formar outra palavra, muitas vezes de sentido pejorativo ou cômico, prejudicando a seriedade da comunicação."
+      ],
+      "itens": [
+        "Ela \"tinha tido\" um dia difícil. (Tinha tido)",
+        "\"Por cada\" um, um voto. (Porcada)",
+        "\"Boca dela\" é pequena. (Cadela)"
+      ]
+    },
+    {
+      "titulo": "5. Pleonasmo ou Redundância",
+      "destaque": "Seja conciso! Evite repetições desnecessárias de ideias. O pleonasmo vicioso não agrega informação e torna a expressão prolixa.",
+      "conteudo": [
+        "Consiste na repetição desnecessária de uma ideia já implícita ou explícita na expressão, tornando-a redundante. Embora exista o pleonasmo estilístico (com função expressiva), o vicioso deve ser evitado na norma culta."
+      ],
+      "itens": [
+        "Subir para cima.",
+        "Entrar para dentro.",
+        "Hemorragia de sangue."
+      ]
+    },
+    {
+      "titulo": "6. Eco",
+      "destaque": "Varie as terminações! Evite a monotonia sonora causada pela repetição de palavras com finais semelhantes. A diversidade lexical e sonora enriquece o texto.",
+      "conteudo": [
+        "É a repetição de palavras com terminações semelhantes (mesma rima ou sonoridade), criando um efeito sonoro desagradável, monótono e, por vezes, infantilizado, que prejudica a elegância do texto."
+      ],
+      "itens": [
+        "A \"situação\" da \"nação\" causa \"frustração\".",
+        "O \"canto\" do \"encanto\" do \"espanto\".",
+        "A \"conclusão\" da \"discussão\" gerou \"confusão\"."
+      ]
+    },
+    {
+      "titulo": "7. Colisão",
+      "destaque": "Observe o encontro de consoantes! A fluidez da leitura é essencial. Evite a repetição excessiva de sons consonantais idênticos ou muito parecidos.",
+      "conteudo": [
+        "Ocorre quando há o encontro de consoantes idênticas ou de sons consonantais muito parecidos em sequência, resultando em um som desagradável e que dificulta a pronúncia e a fluidez da leitura."
+      ],
+      "itens": [
+        "\"Três tigres tristes\".",
+        "\"O rato roeu a roupa do rei de Roma\".",
+        "\"Fez zumbido\"."
+      ]
+    },
+    {
+      "titulo": "8. Hiato",
+      "destaque": "Cuidado com o encontro de vogais! Evite a repetição de sons vocálicos idênticos ou muito próximos, que podem gerar um som arrastado ou desagradável.",
+      "conteudo": [
+        "É o encontro de vogais idênticas ou de sons vocálicos muito parecidos em sequência, que também causa um som desagradável e pode tornar a pronúncia menos fluida."
+      ],
+      "itens": [
+        "\"Eu o ouvi\".",
+        "\"A aula é ótima\".",
+        "\"Ele a ama\"."
+      ]
+    },
+    {
+      "titulo": "9. Obscuridade",
+      "destaque": "Clareza é a chave! Evite vocabulário excessivamente rebuscado, frases longas e complexas ou ambiguidades que dificultem a compreensão da sua mensagem.",
+      "conteudo": [
+        "Caracteriza-se pela falta de clareza na expressão, dificultando a compreensão da mensagem. Pode ser causada por vocabulário rebuscado, má construção frasal (frases muito longas ou com inversões desnecessárias) ou pela própria ambiguidade."
+      ],
+      "itens": [
+        "O proponente, em face da exegese do articulado, pugnou pela improcedência do pleito. (Linguagem excessivamente técnica e rebuscada para o contexto)",
+        "Ele disse que faria o trabalho, mas não o fez, o que causou problemas. (Falta de clareza sobre 'o que causou problemas' – o fato de não ter feito ou a promessa inicial?)",
+        "A complexidade da situação, que envolvia múltiplos atores e interesses divergentes, tornou a resolução do impasse uma tarefa hercúlea. (Frase longa e com excesso de informações intercaladas, dificultando a leitura e compreensão imediata)"
+      ]
+    },
+    {
+      "titulo": "10. Estrangeirismo",
+      "destaque": "Prefira o português! Use termos estrangeiros apenas se não houver equivalente adequado na Língua Portuguesa ou se o contexto exigir. O excesso empobrece o idioma.",
+      "conteudo": [
+        "Uso de palavras ou expressões de outras línguas sem necessidade ou sem adaptação à Língua Portuguesa. Embora alguns estrangeirismos sejam incorporados ao idioma, o uso excessivo e desnecessário é considerado um vício."
+      ],
+      "itens": [
+        "Vamos fazer um \"meeting\". (Correto: reunião)",
+        "Preciso de um \"feedback\". (Correto: retorno, opinião)",
+        "O \"delivery\" chegou. (Correto: entrega)"
+      ]
+    },
+    {
+      "titulo": "11. Arcaísmo",
+      "destaque": "Use a língua atual! Evite termos que caíram em desuso na língua contemporânea, a menos que o contexto (histórico, literário) os justifique.",
+      "conteudo": [
+        "Uso de palavras ou expressões que caíram em desuso na língua contemporânea. Embora possam ser encontrados em textos antigos, seu uso em contextos modernos pode soar artificial ou incompreensível."
+      ],
+      "itens": [
+        "Vossa mercê. (Correto: você)",
+        "Botica. (Correto: farmácia)",
+        "Fidalgo. (Correto: nobre)"
+      ]
+    },
+    {
+      "titulo": "12. Vulgarismo",
+      "destaque": "Mantenha a formalidade! Evite a linguagem popular em contextos formais. O vulgarismo desrespeita a norma culta e pode prejudicar a credibilidade da comunicação.",
+      "conteudo": [
+        "Uso de termos ou construções típicas da linguagem popular, informal, que desrespeitam a norma culta da Língua Portuguesa. É comum em ambientes de pouca formalidade, mas inadequado em contextos formais."
+      ],
+      "itens": [
+        "\"Nós vai\" ao cinema. (Correto: Nós vamos)",
+        "\"Pobrema\". (Correto: problema)",
+        "\"Mortandela\". (Correto: mortadela)"
+      ]
+    },
+    {
+      "titulo": "13. Precisionismo",
+      "destaque": "Simplicidade é elegância! Evite o excesso de erudição que dificulta a compreensão. A clareza deve prevalecer sobre a ostentação de vocabulário.",
+      "conteudo": [
+        "Uso excessivo de palavras rebuscadas, cultas ou pouco usuais, com o objetivo de demonstrar erudição, mas que acaba por dificultar a compreensão da mensagem. Ocorre quando a escolha lexical é mais complexa do que o necessário para o contexto."
+      ],
+      "itens": [
+        "\"Perlustrar\" as vias urbanas. (Correto: percorrer)",
+        "\"Obsequiar\" com um ósculo. (Correto: presentear com um beijo)",
+        "A \"idiossincrasia\" do indivíduo era \"patente\". (Correto: A particularidade do indivíduo era evidente)"
+      ]
+    }
+  ],
+  "sintese": [
+    "Vícios de linguagem são desvios da norma culta que comprometem a clareza, correção e elegância da comunicação.",
+    "Barbarismo refere-se a erros na forma (grafia, pronúncia, flexão) ou significado das palavras.",
+    "Solecismo é o erro de sintaxe, envolvendo desvios de concordância, regência ou colocação pronominal.",
+    "Ambiguidade (ou anfibologia) ocorre quando uma frase permite múltiplas interpretações, gerando falta de clareza.",
+    "Cacofonia, colisão e hiato são vícios sonoros que resultam em sons desagradáveis pela junção de palavras ou vogais/consoantes.",
+    "Pleonamo é a repetição desnecessária de uma ideia, enquanto obscuridade é a falta de clareza geral na expressão.",
+    "Estrangeirismo, arcaísmo, vulgarismo e precisionismo são vícios relacionados ao uso inadequado do vocabulário em diferentes contextos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa que apresenta um vício de linguagem do tipo solecismo.",
+      "opcoes": [
+        "A) \"Menas\" pessoas compareceram ao evento.",
+        "B) \"Faz\" muitos anos que não o vejo.",
+        "C) \"Subir para cima\" da montanha.",
+        "D) A \"situação\" da \"nação\" causa \"frustração\"."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa (B) apresenta solecismo. O verbo 'fazer', quando indica tempo transcorrido, é impessoal e deve permanecer na 3ª pessoa do singular, independentemente do plural do complemento. O correto seria 'Faz muitos anos que não o vejo'. A alternativa (A) é barbarismo (erro morfológico). A (C) é pleonasmo. A (D) é eco."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das frases a seguir contém um pleonasmo vicioso?",
+      "opcoes": [
+        "A) O professor proibiu o aluno de usar seu celular.",
+        "B) Entrar para dentro da sala.",
+        "C) A aula é ótima.",
+        "D) Preciso de um feedback."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa (B) \"Entrar para dentro da sala\" é um pleonasmo vicioso, pois o verbo 'entrar' já pressupõe o movimento para dentro, tornando a expressão 'para dentro' redundante e desnecessária. A (A) é ambiguidade. A (C) está correta. A (D) é estrangeirismo."
+    },
+    {
+      "id": 3,
+      "enunciado": "O vício de linguagem conhecido como cacofonia está presente em:",
+      "opcoes": [
+        "A) \"Eu o ouvi\" falar.",
+        "B) \"Por cada\" um, um voto.",
+        "C) \"Três tigres tristes\" no trigal.",
+        "D) \"Vossa mercê\" é muito gentil."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa (B) \"Por cada um, um voto\" forma a palavra 'porcada' pela junção dos sons, caracterizando a cacofonia, um som desagradável ou ridículo. A (A) é hiato. A (C) é colisão. A (D) é arcaísmo."
+    },
+    {
+      "id": 4,
+      "enunciado": "A frase que exemplifica o vício de linguagem denominado estrangeirismo é:",
+      "opcoes": [
+        "A) \"Nós vai\" ao cinema.",
+        "B) \"Vossa mercê\" é muito gentil.",
+        "C) \"Vamos fazer um meeting.\"",
+        "D) A complexidade da situação tornou a resolução hercúlea."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) \"Vamos fazer um meeting\" utiliza a palavra 'meeting' (reunião) sem necessidade, sendo um estrangeirismo. A (A) é vulgarismo. A (B) é arcaísmo. A (D) pode ser considerada obscuridade pelo uso de vocabulário rebuscado."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual dos vícios de linguagem abaixo se refere especificamente a erros de sintaxe, como desvios de concordância, regência ou colocação pronominal?",
+      "opcoes": [
+        "A) Barbarismo",
+        "B) Pleonasmo",
+        "C) Solecismo",
+        "D) Ambiguidade"
+      ],
+      "gabarito": "C",
+      "comentario": "O Solecismo é o vício de linguagem que consiste em erros de sintaxe, ou seja, desvios das normas gramaticais relacionadas à estrutura da frase, como concordância, regência e colocação pronominal. Barbarismo é erro na palavra, Pleonasmo é redundância e Ambiguidade é dupla interpretação."
+    }
+  ]
+}

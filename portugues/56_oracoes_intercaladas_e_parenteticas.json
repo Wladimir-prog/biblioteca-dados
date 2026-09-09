@@ -1,0 +1,139 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "TÓPICOS AVANÇADOS DE SINTAXE",
+  "tema": "Orações Intercaladas e Parentéticas",
+  "introducao": [
+    "No estudo da sintaxe da Língua Portuguesa, é fundamental compreender as estruturas que se inserem no meio de outras orações, enriquecendo o texto com informações adicionais sem comprometer a fluidez principal. Essas construções são conhecidas como orações intercaladas e parentéticas.",
+    "Elas desempenham um papel crucial na articulação de períodos complexos, fornecendo detalhes, explicações ou comentários. A correta identificação e, sobretudo, a adequada pontuação dessas orações são indispensáveis para garantir a clareza, a coesão e a correção gramatical de qualquer texto."
+  ],
+  "secoes": [
+    {
+      "titulo": "Orações Intercaladas",
+      "conteudo": [
+        "As orações intercaladas são aquelas que se inserem no interior de uma oração principal ou de outra oração, interrompendo sua sequência sintática natural para adicionar um comentário, uma explicação ou uma informação acessória.",
+        "Caracterizam-se por não possuírem uma função sintática essencial para a estrutura da oração em que estão inseridas, o que significa que podem ser removidas sem prejuízo da compreensão básica da mensagem. Sua principal função é a de adicionar um adendo, uma observação ou um detalhe.",
+        "A pontuação é um elemento crucial para delimitar as orações intercaladas. Geralmente, são isoladas por vírgulas, parênteses ou travessões, e a escolha do sinal pode indicar o grau de afastamento da informação em relação ao restante da frase."
+      ],
+      "itens": [
+        "O aluno, que estudou muito, obteve excelente nota.",
+        "A verdade – disse o professor – sempre prevalece.",
+        "Ele chegou (o que ninguém esperava) e surpreendeu a todos."
+      ]
+    },
+    {
+      "titulo": "Orações Parentéticas",
+      "conteudo": [
+        "As orações parentéticas representam um tipo específico de oração intercalada, distinguindo-se por apresentarem um comentário, uma observação à parte ou uma digressão que se integra ao período como um 'parêntese' no discurso.",
+        "Funcionam como um adendo explicativo ou opinativo, muitas vezes expressando a percepção ou o ponto de vista do enunciador sobre o que está sendo comunicado. Elas adicionam uma camada de informação que, embora não essencial, enriquece o sentido.",
+        "Assim como as intercaladas, as orações parentéticas são isoladas por sinais de pontuação que reforçam sua natureza acessória. Parênteses e travessões são os mais empregados para indicar um maior afastamento, mas vírgulas também podem ser utilizadas, dependendo da intenção do autor."
+      ],
+      "itens": [
+        "O livro (que comprei ontem) é fascinante.",
+        "Minha irmã – você sabe – é muito talentosa.",
+        "A reunião, segundo informaram, foi adiada."
+      ]
+    },
+    {
+      "titulo": "Diferenças e Semelhanças",
+      "conteudo": [
+        "O termo 'oração intercalada' possui um caráter mais abrangente, referindo-se a qualquer oração que se insere no meio de outra. Já 'oração parentética' é frequentemente empregado como sinônimo ou para designar um tipo particular de intercalação que tem a função de comentário ou explicação mais explícita, quase como um aparte.",
+        "Ambas as estruturas compartilham a característica fundamental de serem informações adicionais, não essenciais à estrutura sintática principal da frase, e são sempre isoladas por pontuação. A distinção, quando feita, reside na ênfase ou no grau de afastamento que a informação acessória possui.",
+        "As orações parentéticas, em particular, tendem a apresentar um caráter mais explicativo, opinativo ou de diálogo com o leitor/ouvinte, como se o autor fizesse uma pausa para um esclarecimento pessoal."
+      ],
+      "itens": [
+        "O presidente, que discursou por horas, cansou a plateia. (Exemplo de intercalada explicativa)",
+        "O presidente – e isso é importante – discursou por horas. (Exemplo de parentética com comentário)",
+        "O presidente (acredito eu) discursou por horas. (Exemplo de parentética com opinião)"
+      ]
+    },
+    {
+      "titulo": "Função Sintática e Pontuação",
+      "destaque": "Bizú para concursos: A escolha do sinal de pontuação (vírgula, travessão ou parêntese) para isolar orações intercaladas e parentéticas não é arbitrária. Ela reflete o grau de interrupção e o nível de destaque que o autor deseja dar à informação acessória. Dominar essa distinção é crucial para a clareza e a correção textual.",
+      "conteudo": [
+        "A função sintática das orações intercaladas e parentéticas é, em geral, de adjunto adnominal (quando qualificam um substantivo), adjunto adverbial (quando modificam um verbo, adjetivo ou advérbio, indicando uma circunstância) ou aposto (quando explicam ou especificam um termo anterior).",
+        "A pontuação é um aspecto crucial para a correta compreensão e delimitação dessas orações:"
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Vírgulas",
+          "itens": [
+            "Indicam uma pausa breve e uma separação menos enfática da informação. São frequentemente usadas para orações adjetivas explicativas ou para intercalações de menor impacto.",
+            "Ex.: A cidade, onde nasci, é linda."
+          ]
+        },
+        {
+          "subtitulo": "Travessões",
+          "itens": [
+            "Sinalizam uma interrupção mais abrupta e conferem um destaque maior à informação intercalada ou parentética. Podem ser empregados para substituir vírgulas ou parênteses, dependendo da ênfase desejada.",
+            "Ex.: O resultado – que era esperado – foi divulgado."
+          ]
+        },
+        {
+          "subtitulo": "Parênteses",
+          "itens": [
+            "Indicam um afastamento mais significativo da informação, como um aparte, uma observação secundária, uma explicação complementar ou uma opinião pessoal. A informação entre parênteses é vista como menos integrada ao fluxo principal da frase.",
+            "Ex.: Ele viajou (apesar do aviso) para o exterior."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Orações intercaladas e parentéticas são estruturas que se inserem no meio de outras orações, adicionando informações acessórias.",
+    "Elas não são essenciais para a compreensão básica da mensagem e podem ser removidas sem prejuízo sintático.",
+    "A principal diferença, quando há, é que as parentéticas tendem a ter um caráter mais explicativo, opinativo ou de aparte.",
+    "A pontuação (vírgulas, travessões, parênteses) é fundamental para isolá-las e indica o grau de afastamento da informação.",
+    "Sintaticamente, podem funcionar como adjunto adnominal, adjunto adverbial ou aposto, dependendo do contexto.",
+    "O domínio dessas estruturas é vital para a clareza, coesão e correção gramatical em textos complexos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases a oração destacada é classificada como intercalada explicativa?",
+      "opcoes": [
+        "A) O aluno que estudou muito passou no concurso.",
+        "B) O livro, que comprei ontem, é fascinante.",
+        "C) Ele chegou quando ninguém esperava.",
+        "D) A verdade disse o professor sempre prevalece."
+      ],
+      "gabarito": "B",
+      "comentario": "A oração 'que comprei ontem' é uma oração subordinada adjetiva explicativa, isolada por vírgulas, que adiciona uma informação sobre o livro. Na opção A, 'que estudou muito' é restritiva (sem vírgulas). Na C, 'quando ninguém esperava' é uma oração subordinada adverbial temporal. Na D, 'disse o professor' é uma oração intercalada, mas com função de aposto ou comentário, não especificamente explicativa de um termo anterior como a adjetiva explicativa."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que a pontuação da oração parentética está INCORRETA.",
+      "opcoes": [
+        "A) O diretor (que é muito exigente) aprovou o projeto.",
+        "B) Minha cidade – você sabe – é um lugar tranquilo.",
+        "C) A reunião, segundo informaram, foi adiada.",
+        "D) Os alunos que estudaram muito, foram aprovados."
+      ],
+      "gabarito": "D",
+      "comentario": "Na alternativa D, a oração 'que estudaram muito' é uma oração subordinada adjetiva restritiva, ou seja, ela restringe o sentido de 'alunos' e, por isso, NÃO deve ser isolada por vírgulas. As demais alternativas apresentam pontuação correta para orações parentéticas ou intercaladas."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual a função sintática mais comum das orações intercaladas e parentéticas?",
+      "opcoes": [
+        "A) Objeto direto.",
+        "B) Sujeito.",
+        "C) Adjunto adnominal, adjunto adverbial ou aposto.",
+        "D) Predicativo do sujeito."
+      ],
+      "gabarito": "C",
+      "comentario": "As orações intercaladas e parentéticas, por adicionarem informações acessórias, geralmente desempenham funções sintáticas de adjunto adnominal (qualificando um nome), adjunto adverbial (indicando uma circunstância) ou aposto (explicando ou especificando um termo anterior). Elas não são elementos essenciais da estrutura principal como sujeito, objeto direto ou predicativo."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das opções o uso dos travessões confere maior destaque e interrupção à informação acessória?",
+      "opcoes": [
+        "A) O novo projeto, que é ambicioso, será lançado em breve.",
+        "B) O novo projeto (que é ambicioso) será lançado em breve.",
+        "C) O novo projeto – que é ambicioso – será lançado em breve.",
+        "D) O novo projeto que é ambicioso será lançado em breve."
+      ],
+      "gabarito": "C",
+      "comentario": "Os travessões (opção C) são utilizados para indicar uma interrupção mais abrupta e conferir um destaque maior à informação intercalada ou parentética, em comparação com as vírgulas (opção A) ou os parênteses (opção B), que indicam um afastamento maior, mas com menor ênfase na interrupção. A opção D está incorreta por não pontuar uma oração adjetiva explicativa."
+    }
+  ]
+}

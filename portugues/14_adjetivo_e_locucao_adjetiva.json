@@ -1,0 +1,243 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Adjetivo e Locução Adjetiva",
+  "introducao": [
+    "O adjetivo é uma classe de palavras fundamental na Língua Portuguesa, responsável por qualificar ou caracterizar o substantivo. Ele atribui qualidades, estados, modos de ser ou aspectos, tornando a descrição mais rica e precisa.",
+    "Além do adjetivo, existe a locução adjetiva, uma expressão composta por duas ou mais palavras que desempenha a mesma função de um adjetivo. Compreender ambos é essencial para a construção de frases claras e expressivas, bem como para a análise morfológica."
+  ],
+  "secoes": [
+    {
+      "titulo": "O Adjetivo",
+      "conteudo": [
+        "O adjetivo é a classe de palavras que qualifica ou caracteriza o substantivo, atribuindo-lhe uma qualidade, estado, modo de ser ou aspecto. Ele concorda em gênero e número com o substantivo a que se refere.",
+        "Sua função principal é modificar o substantivo, tornando a descrição mais precisa e rica. Pode vir antes ou depois do substantivo."
+      ],
+      "itens": [
+        "Ex.: Casa bonita.",
+        "Ex.: Homem inteligente.",
+        "Ex.: Dia ensolarado."
+      ]
+    },
+    {
+      "titulo": "Classificação dos Adjetivos",
+      "subsecoes": [
+        {
+          "subtitulo": "Adjetivos Simples",
+          "itens": [
+            "Possuem apenas um radical em sua formação.",
+            "Ex.: Azul.",
+            "Ex.: Feliz.",
+            "Ex.: Grande."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos Compostos",
+          "itens": [
+            "Possuem dois ou mais radicais em sua formação. Geralmente são ligados por hífen.",
+            "Ex.: Luso-brasileiro.",
+            "Ex.: Verde-claro.",
+            "Ex.: Socioeconômico."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos Primitivos",
+          "itens": [
+            "Não derivam de outras palavras na língua portuguesa.",
+            "Ex.: Bom.",
+            "Ex.: Belo.",
+            "Ex.: Frio."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos Derivados",
+          "itens": [
+            "Derivam de substantivos, verbos ou outros adjetivos.",
+            "Ex.: Estudantil (de estudante).",
+            "Ex.: Amável (de amar).",
+            "Ex.: Tristonho (de triste)."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos Pátrios",
+          "itens": [
+            "Indicam a origem ou nacionalidade de seres ou coisas.",
+            "Ex.: Brasileiro.",
+            "Ex.: Paulista.",
+            "Ex.: Europeu."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Flexão dos Adjetivos",
+      "conteudo": [
+        "Os adjetivos flexionam-se em gênero (masculino e feminino), número (singular e plural) e grau (comparativo e superlativo)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Flexão de Gênero",
+          "itens": [
+            "Biformes: Possuem uma forma para o masculino e outra para o feminino.",
+            "Ex.: Ativo / Ativa.",
+            "Ex.: Belo / Bela.",
+            "Ex.: Bom / Boa.",
+            "Uniformes: Possuem uma única forma para ambos os gêneros.",
+            "Ex.: Feliz.",
+            "Ex.: Simples.",
+            "Ex.: Jovem."
+          ]
+        },
+        {
+          "subtitulo": "Flexão de Número",
+          "itens": [
+            "A maioria dos adjetivos forma o plural seguindo as mesmas regras dos substantivos.",
+            "Ex.: Carro novo / Carros novos.",
+            "Ex.: Mulher feliz / Mulheres felizes.",
+            "Ex.: Livro azul-claro / Livros azul-claros."
+          ]
+        },
+        {
+          "subtitulo": "Flexão de Grau",
+          "itens": [
+            "Grau Comparativo: Compara uma qualidade entre dois ou mais seres, ou duas ou mais qualidades de um mesmo ser.",
+            "De Igualdade: tão... quanto (ou como). Ex.: Ele é tão inteligente quanto o irmão.",
+            "De Superioridade: mais... que (ou do que). Ex.: Ela é mais alta que a irmã.",
+            "De Inferioridade: menos... que (ou do que). Ex.: O filme foi menos interessante que o livro.",
+            "Grau Superlativo: Expressa a qualidade em seu grau máximo.",
+            "Absoluto: A qualidade de um ser sem comparação.",
+            "Analítico: Adjetivo acompanhado de advérbio de intensidade. Ex.: Muito feliz, extremamente rápido.",
+            "Sintético: Adjetivo com sufixo. Ex.: Felicíssimo, rapidíssimo.",
+            "Relativo: A qualidade de um ser em relação a um grupo.",
+            "De Superioridade: o mais... de (ou dentre). Ex.: Ele é o mais inteligente da turma.",
+            "De Inferioridade: o menos... de (ou dentre). Ex.: Ela é a menos experiente do grupo."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A Locução Adjetiva",
+      "conteudo": [
+        "A locução adjetiva é uma expressão formada por duas ou mais palavras que, juntas, exercem a função de um adjetivo, caracterizando um substantivo. Geralmente é composta por uma preposição seguida de um substantivo ou advérbio.",
+        "Ela pode ser substituída por um adjetivo correspondente, quando este existe."
+      ],
+      "itens": [
+        "Ex.: Amor de mãe (amor materno).",
+        "Ex.: Água do rio (água fluvial).",
+        "Ex.: Luz do sol (luz solar)."
+      ]
+    },
+    {
+      "titulo": "Principais Locuções Adjetivas e Seus Adjetivos Correspondentes",
+      "itens": [
+        "de abelha = apícola",
+        "de aluno = discente",
+        "de ano = anual",
+        "de boca = bucal, oral",
+        "de boi = bovino",
+        "de cabelo = capilar",
+        "de cão = canino",
+        "de carneiro = ovino",
+        "de chumbo = plúmbeo",
+        "de chuva = pluvial",
+        "de costa = costeiro",
+        "de criança = pueril",
+        "de dedo = digital",
+        "de estômago = estomacal, gástrico",
+        "de estrela = estelar",
+        "de ferro = férreo",
+        "de fogo = ígneo",
+        "de gato = felino",
+        "de gelo = glacial",
+        "de guerra = bélico",
+        "de ilha = insular",
+        "de inverno = hibernal",
+        "de lago = lacustre",
+        "de leão = leonino",
+        "de lobo = lupino",
+        "de lua = lunar",
+        "de madeira = lígneo",
+        "de mãe = materno",
+        "de marfim = ebúrneo",
+        "de mestre = magistral",
+        "de monge = monacal",
+        "de neve = nival",
+        "de noite = noturno",
+        "de olho = ocular",
+        "de ouro = áureo",
+        "de ovelha = ovino",
+        "de pai = paterno",
+        "de pântano = palustre",
+        "de peixe = piscícola",
+        "de pedra = pétreo",
+        "de prata = argênteo",
+        "de rio = fluvial",
+        "de sol = solar",
+        "de sonho = onírico",
+        "de terra = terrestre",
+        "de verão = estival",
+        "de vento = eólico",
+        "de vidro = vítreo",
+        "de virgem = virginal",
+        "de voz = vocal"
+      ]
+    }
+  ],
+  "sintese": [
+    "O adjetivo é a palavra que qualifica ou caracteriza o substantivo, concordando com ele em gênero e número.",
+    "Os adjetivos classificam-se em simples, compostos, primitivos, derivados e pátrios, conforme sua estrutura e origem.",
+    "A flexão dos adjetivos ocorre em gênero (biformes e uniformes), número (singular e plural) e grau (comparativo e superlativo).",
+    "O grau comparativo estabelece comparação (igualdade, superioridade, inferioridade), enquanto o superlativo expressa a qualidade em grau máximo (absoluto ou relativo).",
+    "A locução adjetiva é uma expressão com função de adjetivo, geralmente formada por preposição + substantivo, e pode ser substituída por um adjetivo correspondente."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o adjetivo em destaque é classificado corretamente:",
+      "opcoes": [
+        "A) 'O aluno **estudantil** participou do evento.' (Adjetivo Primitivo)",
+        "B) 'A bandeira **verde-amarela** tremulava.' (Adjetivo Simples)",
+        "C) 'Ele é um cidadão **brasileiro**.' (Adjetivo Pátrio)",
+        "D) 'Aquele é um homem **bom**.' (Adjetivo Derivado)"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. 'Brasileiro' é um adjetivo pátrio, pois indica a nacionalidade. Em A, 'estudantil' é derivado de 'estudante'. Em B, 'verde-amarela' é composto. Em D, 'bom' é primitivo."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a locução adjetiva pode ser substituída pelo adjetivo 'fluvial'?",
+      "opcoes": [
+        "A) As águas **do mar** são salgadas.",
+        "B) A vida **do campo** é tranquila.",
+        "C) A poluição **do rio** é preocupante.",
+        "D) A luz **do sol** ilumina o dia."
+      ],
+      "gabarito": "C",
+      "comentario": "A locução adjetiva 'do rio' pode ser substituída pelo adjetivo 'fluvial' (poluição fluvial). As demais locuções não correspondem ao adjetivo 'fluvial'."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise as frases e identifique aquela em que o adjetivo está no grau superlativo absoluto sintético:",
+      "opcoes": [
+        "A) Ele é **muito inteligente**.",
+        "B) Ela é **a mais dedicada** da equipe.",
+        "C) O filme foi **menos interessante** que o livro.",
+        "D) A paisagem era **belíssima**."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D apresenta o adjetivo 'belíssima', que é o superlativo absoluto sintético de 'bela'. Em A, 'muito inteligente' é superlativo absoluto analítico. Em B, 'a mais dedicada' é superlativo relativo de superioridade. Em C, 'menos interessante' é comparativo de inferioridade."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das opções apresenta um adjetivo uniforme?",
+      "opcoes": [
+        "A) Ativo",
+        "B) Belo",
+        "C) Feliz",
+        "D) Bom"
+      ],
+      "gabarito": "C",
+      "comentario": "Adjetivos uniformes possuem uma única forma para ambos os gêneros. 'Feliz' é uniforme (o menino feliz, a menina feliz). 'Ativo', 'Belo' e 'Bom' são biformes (ativa, bela, boa)."
+    }
+  ]
+}

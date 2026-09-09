@@ -1,0 +1,165 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Período Composto por Coordenação",
+  "introducao": [
+    "O período composto por coordenação é uma estrutura sintática fundamental na Língua Portuguesa, caracterizado pela união de orações que possuem sentido completo e são sintaticamente independentes entre si. Diferentemente das orações subordinadas, nenhuma oração coordenada exerce função sintática em relação à outra.",
+    "Essas orações podem ser conectadas por conjunções coordenativas, sendo chamadas de sindéticas, ou simplesmente justapostas, sem o uso de conectivos, recebendo o nome de assindéticas. A compreensão de suas classificações e da pontuação adequada é crucial para a construção de textos claros e coesos."
+  ],
+  "secoes": [
+    {
+      "titulo": "O Período Composto por Coordenação",
+      "destaque": "Lembre-se: em um período coordenado, as orações 'conversam', mas não 'dependem' uma da outra sintaticamente. Cada uma tem sua própria vida!",
+      "conteudo": [
+        "O período composto por coordenação é formado por orações sintaticamente independentes.",
+        "Isso significa que cada oração possui sentido completo e não exerce função sintática em relação à outra.",
+        "Elas são ligadas por conjunções coordenativas (orações sindéticas) ou justapostas (orações assindéticas, sem conjunção)."
+      ]
+    },
+    {
+      "titulo": "Orações Coordenadas: Sindéticas e Assindéticas",
+      "destaque": "Assindéticas: sem síndeto (conjunção). Sindéticas: com síndeto (conjunção). Essa é a chave para diferenciá-las!",
+      "conteudo": [
+        "As orações coordenadas podem ser sindéticas (com conjunção) ou assindéticas (sem conjunção).",
+        "As orações assindéticas são apenas justapostas, separadas por vírgula, ponto e vírgula ou dois pontos.",
+        "As orações sindéticas são classificadas de acordo com o sentido da conjunção que as introduz."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Orações Coordenadas Aditivas",
+          "itens": [
+            "Expressam ideia de adição, soma, acréscimo.",
+            "Conjunções principais: e, nem, não só... mas também, mas ainda, bem como.",
+            "Ex.: Ele estudou muito e passou no concurso.",
+            "Ex.: Não só leu o livro, mas também fez um resumo.",
+            "Ex.: Ela não canta nem dança."
+          ]
+        },
+        {
+          "subtitulo": "2. Orações Coordenadas Adversativas",
+          "itens": [
+            "Expressam ideia de oposição, contraste, ressalva.",
+            "Conjunções principais: mas, porém, todavia, contudo, entretanto, no entanto.",
+            "Ex.: Choveu muito, mas não fez frio.",
+            "Ex.: Ele é inteligente, todavia preguiçoso.",
+            "Ex.: Gostaria de ir, porém estou ocupado."
+          ]
+        },
+        {
+          "subtitulo": "3. Orações Coordenadas Alternativas",
+          "itens": [
+            "Expressam ideia de alternância, escolha, exclusão.",
+            "Conjunções principais: ou, ou... ou, ora... ora, quer... quer, seja... seja.",
+            "Ex.: Ou você estuda, ou você trabalha.",
+            "Ex.: Ora chove, ora faz sol.",
+            "Ex.: Quer queira, quer não queira, terá de aceitar."
+          ]
+        },
+        {
+          "subtitulo": "4. Orações Coordenadas Conclusivas",
+          "itens": [
+            "Expressam ideia de conclusão, consequência, dedução.",
+            "Conjunções principais: logo, portanto, por isso, por conseguinte, assim.",
+            "Ex.: Ele estudou, logo será aprovado.",
+            "Ex.: Não se preparou, por isso foi mal na prova.",
+            "Ex.: Penso, logo existo."
+          ]
+        },
+        {
+          "subtitulo": "5. Orações Coordenadas Explicativas",
+          "itens": [
+            "Expressam ideia de explicação, justificativa, motivo.",
+            "Conjunções principais: que, porque, pois (antes do verbo), porquanto.",
+            "Ex.: Não saia, que está chovendo.",
+            "Ex.: Venha logo, porque preciso de você.",
+            "Ex.: Ele deve estar doente, pois não veio trabalhar."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pontuação nas Orações Coordenadas",
+      "destaque": "A vírgula é sua aliada! Ela ajuda a organizar o pensamento e a evitar ambiguidades, especialmente nas coordenadas. Atenção especial ao 'e'!",
+      "conteudo": [
+        "A vírgula é usada para separar orações coordenadas assindéticas.",
+        "Também se usa vírgula antes das conjunções adversativas, alternativas (exceto 'ou' repetido), conclusivas e explicativas.",
+        "Antes da conjunção 'e', a vírgula é facultativa, mas obrigatória quando há sujeitos diferentes ou quando 'e' tem valor adversativo."
+      ],
+      "itens": [
+        "Ex.: Ele chegou, sentou-se e comeu. (Assindética + Aditiva, sujeitos iguais, vírgula antes do 'e' facultativa)",
+        "Ex.: Os alunos estudaram, e os professores corrigiram as provas. (Aditiva com sujeitos diferentes, vírgula obrigatória)",
+        "Ex.: Ele é rico, e não ajuda ninguém. (Aditiva com valor adversativo, vírgula obrigatória)"
+      ]
+    }
+  ],
+  "sintese": [
+    "O período composto por coordenação é formado por orações sintaticamente independentes, cada uma com sentido completo.",
+    "As orações coordenadas podem ser assindéticas (justapostas, sem conjunção) ou sindéticas (com conjunção coordenativa).",
+    "As orações sindéticas classificam-se em aditivas (soma), adversativas (oposição), alternativas (escolha), conclusivas (conclusão) e explicativas (justificativa).",
+    "As principais conjunções são: e, nem (aditivas); mas, porém (adversativas); ou, ora (alternativas); logo, portanto (conclusivas); que, porque, pois (explicativas).",
+    "A vírgula é obrigatória para separar orações assindéticas e, geralmente, precede as conjunções adversativas, conclusivas e explicativas.",
+    "O uso da vírgula antes da conjunção 'e' é facultativo, exceto quando há sujeitos diferentes ou quando 'e' possui valor adversativo."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo há uma oração coordenada assindética?",
+      "opcoes": [
+        "A) Ele estudou muito e passou no concurso.",
+        "B) Choveu bastante, mas não fez frio.",
+        "C) Cheguei cedo, preparei o café, li o jornal.",
+        "D) Não saia, que está chovendo."
+      ],
+      "gabarito": "C",
+      "comentario": "A oração coordenada assindética é aquela que não possui conjunção coordenativa, sendo apenas justaposta às demais. Na opção C, as orações 'Cheguei cedo', 'preparei o café' e 'li o jornal' estão apenas separadas por vírgulas, sem o uso de conectivos. Nas demais opções, há conjunções coordenativas ('e', 'mas', 'que')."
+    },
+    {
+      "id": 2,
+      "enunciado": "Analise o período: 'Ele é inteligente, todavia preguiçoso.' A oração 'todavia preguiçoso' é classificada como coordenada sindética:",
+      "opcoes": [
+        "A) aditiva.",
+        "B) alternativa.",
+        "C) adversativa.",
+        "D) conclusiva."
+      ],
+      "gabarito": "C",
+      "comentario": "A conjunção 'todavia' expressa uma ideia de oposição ou contraste em relação à oração anterior ('Ele é inteligente'). Portanto, a oração 'todavia preguiçoso' é uma oração coordenada sindética adversativa."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a alternativa em que a pontuação está *incorreta*.",
+      "opcoes": [
+        "A) Ele estudou, logo será aprovado.",
+        "B) Choveu muito, mas não fez frio.",
+        "C) Os alunos estudaram e os professores corrigiram as provas.",
+        "D) Não saia, que está chovendo."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, a vírgula é obrigatória antes da conjunção 'e' quando as orações possuem sujeitos diferentes ('Os alunos' e 'os professores'). O correto seria: 'Os alunos estudaram, e os professores corrigiram as provas.' Nas demais opções, a pontuação está correta, seguindo as regras para orações conclusivas, adversativas e explicativas, respectivamente."
+    },
+    {
+      "id": 4,
+      "enunciado": "A conjunção 'nem' em 'Ela não canta nem dança' introduz uma oração coordenada sindética:",
+      "opcoes": [
+        "A) aditiva.",
+        "B) adversativa.",
+        "C) alternativa.",
+        "D) explicativa."
+      ],
+      "gabarito": "A",
+      "comentario": "A conjunção 'nem' (que significa 'e não') adiciona uma ideia negativa à oração anterior, caracterizando-se como uma conjunção coordenativa aditiva."
+    },
+    {
+      "id": 5,
+      "enunciado": "No período 'Ele deve estar doente, pois não veio trabalhar', a oração 'pois não veio trabalhar' é classificada como coordenada sindética:",
+      "opcoes": [
+        "A) conclusiva.",
+        "B) explicativa.",
+        "C) adversativa.",
+        "D) alternativa."
+      ],
+      "gabarito": "B",
+      "comentario": "A conjunção 'pois', quando vem antes do verbo (como neste caso, 'pois não *veio*'), introduz uma explicação ou justificativa para a oração anterior. Portanto, trata-se de uma oração coordenada sindética explicativa. Se 'pois' viesse depois do verbo, teria valor conclusivo."
+    }
+  ]
+}

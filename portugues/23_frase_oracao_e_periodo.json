@@ -1,0 +1,162 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Sintaxe da Oração e do Período",
+  "tema": "Frase, Oração e Período",
+  "introducao": [
+    "A sintaxe é a parte da gramática que estuda a disposição das palavras na frase e das frases no discurso, bem como a relação lógica e de dependência estabelecida entre elas. Analisa a função que cada termo exerce na construção do sentido do texto.",
+    "Para compreender a estrutura sintática da língua portuguesa, é fundamental dominar e distinguir com clareza três conceitos basilares: frase, oração e período."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. Frase",
+      "conteudo": [
+        "Frase é todo enunciado de sentido completo capaz de estabelecer comunicação. Pode ser constituída por uma única palavra ou por um conjunto delas, apresentando ou não verbo em sua estrutura."
+      ],
+      "itens": [
+        "Critério fundamental: Ter sentido completo no contexto de comunicação.",
+        "Classificação: A frase divide-se em nominal e verbal."
+      ]
+    },
+    {
+      "titulo": "1.1. Frase Nominal",
+      "conteudo": [
+        "É a frase que não possui verbo em sua estrutura. Expressa ideias, ordens, cumprimentos ou emoções de forma direta e concisa."
+      ],
+      "itens": [
+        "Exemplo 1: Que dia lindo!",
+        "Exemplo 2: Silêncio, por favor.",
+        "Exemplo 3: Fogo!",
+        "Exemplo 4: Bom dia a todos."
+      ]
+    },
+    {
+      "titulo": "1.2. Frase Verbal",
+      "conteudo": [
+        "É a frase que possui verbo ou locução verbal em sua estrutura. O verbo atua como o elemento central que organiza as informações e as relações sintáticas do enunciado."
+      ],
+      "itens": [
+        "Exemplo 1: Os alunos estudaram muito para o exame.",
+        "Exemplo 2: Choveu a noite toda na cidade.",
+        "Exemplo 3: Ele chegou cedo ao trabalho."
+      ]
+    },
+    {
+      "titulo": "2. Oração",
+      "conteudo": [
+        "Oração é todo enunciado que se estrutura obrigatoriamente em torno de um verbo ou de uma locução verbal. O verbo é o núcleo gramatical da oração, em torno do qual os outros termos (sujeito, complementos, adjuntos) se organizam."
+      ],
+      "itens": [
+        "Critério fundamental: Presença de verbo ou locução verbal.",
+        "Contagem: Cada verbo ou locução verbal corresponde a exatamente uma oração.",
+        "Autonomia: Uma oração não precisa ter sentido completo isoladamente (pode ser dependente de outra oração no período).",
+        "Exemplo 1: O sol brilha. (1 verbo -> 1 oração)",
+        "Exemplo 2: Os pássaros cantam alegremente. (1 verbo -> 1 oração)",
+        "Exemplo 3: Eu estou lendo um livro novo. (1 locução verbal \"estou lendo\" -> 1 oração)"
+      ]
+    },
+    {
+      "titulo": "3. Período",
+      "conteudo": [
+        "Período é a frase organizada em uma ou mais orações. Inicia-se com letra maiúscula e encerra-se com um ponto final, ponto de interrogação, ponto de exclamação ou reticências."
+      ],
+      "itens": [
+        "Classificação: O período divide-se em simples e composto."
+      ]
+    },
+    {
+      "titulo": "3.1. Período Simples",
+      "conteudo": [
+        "É o período constituído por apenas uma oração (possui um único verbo ou uma única locução verbal). A oração que forma o período simples é denominada oração absoluta."
+      ],
+      "itens": [
+        "Exemplo 1: Os estudantes leram o livro indicado. (1 verbo -> 1 oração -> Período Simples / Oração Absoluta)",
+        "Exemplo 2: A chuva parou ao anoitecer. (1 verbo -> 1 oração -> Período Simples)",
+        "Exemplo 3: Ela está muito feliz com o resultado. (1 locução verbal -> 1 oração -> Período Simples)"
+      ]
+    },
+    {
+      "titulo": "3.2. Período Composto",
+      "conteudo": [
+        "É o período constituído por duas ou mais orações (possui dois ou mais verbos ou locuções verbais). As orações de um período composto podem relacionar-se por coordenação ou por subordinação."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "A. Período Composto por Coordenação",
+          "itens": [
+            "As orações são sintaticamente independentes entre si, embora estejam unidas pelo sentido e possam vir ligadas por conjunções coordenativas ou apenas por pontuação.",
+            "Exemplo 1: Ele estudou muito, mas não passou no concurso. (2 verbos \"estudou\" / \"passou\" -> 2 orações)",
+            "Exemplo 2: Cheguei, vi e venci. (3 verbos -> 3 orações coordenadas)",
+            "Exemplo 3: Acordei cedo e fui trabalhar. (2 verbos -> 2 orações coordenadas)"
+          ]
+        },
+        {
+          "subtitulo": "B. Período Composto por Subordinação",
+          "itens": [
+            "As orações mantêm uma relação de dependência sintática entre si. Uma oração (subordinada) exerce função sintática em relação à outra (oração principal).",
+            "Exemplo 1: Espero [que você venha]. (2 verbos -> \"que você venha\" é oração subordinada que funciona como objeto direto de \"Espero\")",
+            "Exemplo 2: Ele disse [que viria amanhã]. (2 verbos -> oração subordinada dependente da oração principal \"Ele disse\")",
+            "Exemplo 3: É necessário [que todos participem]. (2 verbos -> oração subordinada exercendo função de sujeito da oração principal \"É necessário\")"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Toda oração que possui sentido completo é uma frase, mas nem toda frase é uma oração (frases nominais não possuem verbo).",
+    "Todo período é uma frase, pois possui sentido completo e pontuação final.",
+    "Toda oração integra um período (seja ele simples, formado por uma oração absoluta, ou composto).",
+    "A frase é a unidade comunicativa de sentido completo.",
+    "A oração é a unidade estruturada em torno de um verbo.",
+    "O período é a unidade sintática delimitada por pontuação final que abriga uma ou mais orações."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que há apenas frases nominais.",
+      "opcoes": [
+        "A) Que dia lindo! / Choveu muito.",
+        "B) Silêncio, por favor. / Fogo!",
+        "C) Os alunos estudaram. / Bom dia a todos.",
+        "D) Ele chegou cedo. / Que susto!"
+      ],
+      "gabarito": "B",
+      "comentario": "Frases nominais são aquelas que não possuem verbo. Em \"Silêncio, por favor.\" e \"Fogo!\", não há verbos, apenas nomes ou interjeições que expressam sentido completo. Nas demais opções, há a presença de verbos (\"choveu\", \"estudaram\", \"chegou\")."
+    },
+    {
+      "id": 2,
+      "enunciado": "No período \"Quando cheguei em casa, percebi que havia esquecido as chaves.\", quantas orações há?",
+      "opcoes": [
+        "A) Uma oração.",
+        "B) Duas orações.",
+        "C) Três orações.",
+        "D) Quatro orações."
+      ],
+      "gabarito": "C",
+      "comentario": "Para contar as orações, identificamos o número de verbos ou locuções verbais. No período dado, temos: \"cheguei\" (1º verbo), \"percebi\" (2º verbo) e \"havia esquecido\" (locução verbal, contando como 1 verbo, o 3º). Portanto, há três orações."
+    },
+    {
+      "id": 3,
+      "enunciado": "Marque a opção que apresenta um período composto por subordinação.",
+      "opcoes": [
+        "A) Ele estudou muito, mas não passou no concurso.",
+        "B) Cheguei, vi e venci.",
+        "C) É necessário que todos participem.",
+        "D) Acordei cedo e fui trabalhar."
+      ],
+      "gabarito": "C",
+      "comentario": "Um período composto por subordinação ocorre quando uma oração depende sintaticamente da outra. Na opção C, \"que todos participem\" é uma oração subordinada substantiva subjetiva, que funciona como sujeito da oração principal \"É necessário\". As opções A, B e D são exemplos de período composto por coordenação, onde as orações são sintaticamente independentes."
+    },
+    {
+      "id": 4,
+      "enunciado": "Considere as afirmações sobre frase, oração e período:\nI. Toda frase é uma oração.\nII. Toda oração é um período.\nIII. Toda oração integra um período.\nIV. Uma frase nominal não possui verbo.\n\nEstão corretas apenas:",
+      "opcoes": [
+        "A) I e II",
+        "B) II e III",
+        "C) III e IV",
+        "D) I, III e IV"
+      ],
+      "gabarito": "C",
+      "comentario": "I. Incorreta. Nem toda frase é uma oração (ex: frases nominais).\nII. Incorreta. Uma oração pode ser parte de um período composto; apenas uma oração absoluta forma um período simples.\nIII. Correta. Uma oração sempre fará parte de um período, seja ele simples (como oração absoluta) ou composto.\nIV. Correta. Por definição, a frase nominal não possui verbo.\nPortanto, as afirmações corretas são III e IV."
+    }
+  ]
+}

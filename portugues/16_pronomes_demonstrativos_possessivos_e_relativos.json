@@ -1,0 +1,185 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Pronomes Demonstrativos, Possessivos e Relativos",
+  "introducao": [
+    "Os pronomes são classes de palavras que acompanham ou substituem substantivos, indicando as pessoas do discurso ou situando-as no espaço e no tempo. Neste memento, focaremos em três tipos essenciais para a coesão e clareza textual: os pronomes demonstrativos, possessivos e relativos.",
+    "Compreender o uso correto desses pronomes é fundamental para a construção de frases bem estruturadas e para a interpretação precisa de textos, além de ser um tópico recorrente em exames e concursos."
+  ],
+  "secoes": [
+    {
+      "titulo": "Pronomes Demonstrativos",
+      "destaque": "Bizú: Os pronomes demonstrativos são cruciais para a coesão textual, evitando repetições e situando elementos no discurso. Atenção especial ao uso de 'este', 'esse' e 'aquele' no tempo e no texto!",
+      "conteudo": [
+        "São palavras que situam os seres no espaço, no tempo ou no próprio texto, em relação às pessoas do discurso (quem fala, com quem se fala, de quem/do que se fala)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Formas dos Pronomes Demonstrativos",
+          "itens": [
+            "Variáveis: este, esta, estes, estas, esse, essa, esses, essas, aquele, aquela, aqueles, aquelas.",
+            "Invariáveis: isto, isso, aquilo."
+          ]
+        },
+        {
+          "subtitulo": "Uso no Espaço",
+          "itens": [
+            "Indicam a posição de algo em relação às pessoas do discurso.",
+            "Este(s), esta(s), isto: perto da 1ª pessoa (quem fala). Ex.: Este livro que está comigo é interessante. Esta caneta aqui é minha. Isto que vejo é incrível.",
+            "Esse(s), essa(s), isso: perto da 2ª pessoa (com quem se fala). Ex.: Esse carro que está com você é novo? Essa ideia que você teve é ótima. Isso que você me disse é verdade.",
+            "Aquele(s), aquela(s), aquilo: longe da 1ª e da 2ª pessoa. Ex.: Aquele prédio lá no fundo é o meu. Aquela montanha é muito alta. Aquilo que está distante é um navio."
+          ]
+        },
+        {
+          "subtitulo": "Uso no Tempo",
+          "itens": [
+            "Este(s), esta(s), isto: presente ou futuro próximo. Ex.: Este ano está sendo desafiador. Esta semana farei a prova. Isto que vivemos agora é histórico.",
+            "Esse(s), essa(s), isso: passado recente ou futuro não muito distante. Ex.: Nesse mês passado, viajei muito. Essa época de férias é a melhor. Isso que aconteceu ontem foi inesperado.",
+            "Aquele(s), aquela(s), aquilo: passado distante. Ex.: Naquele tempo, tudo era diferente. Aquela infância foi feliz. Aquilo que se passou há anos ainda me emociona."
+          ]
+        },
+        {
+          "subtitulo": "Uso no Texto (Anáfora e Catáfora)",
+          "itens": [
+            "Anáfora: Retoma algo já mencionado. Ex.: Ele estudou muito. Isso garantiu sua aprovação. A cidade é linda. Aquela que visitamos no verão. Os alunos chegaram. Estes estavam animados.",
+            "Catáfora: Antecipa algo que será mencionado. Ex.: Preste atenção nisto: a prova será amanhã. Ele disse aquilo: 'Não desistam!'. Os seguintes itens serão abordados: este, esse e aquele."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes Possessivos",
+      "destaque": "Bizú: O pronome 'seu/sua' pode gerar ambiguidade. Para evitar isso, use 'dele/dela' ou 'deles/delas'. Ex.: 'Ele pegou seu livro' (de quem? dele ou do interlocutor?) vs. 'Ele pegou o livro dele'.",
+      "conteudo": [
+        "Indicam posse, estabelecendo uma relação entre o possuidor (pessoa do discurso) e a coisa possuída."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Formas dos Pronomes Possessivos",
+          "itens": [
+            "Meu, minha, meus, minhas (1ª pessoa do singular)",
+            "Teu, tua, teus, tuas (2ª pessoa do singular)",
+            "Seu, sua, seus, suas (3ª pessoa do singular)",
+            "Nosso, nossa, nossos, nossas (1ª pessoa do plural)",
+            "Vosso, vossa, vossos, vossas (2ª pessoa do plural)",
+            "Seu, sua, seus, suas (3ª pessoa do plural)"
+          ]
+        },
+        {
+          "subtitulo": "Uso dos Pronomes Possessivos",
+          "itens": [
+            "Concordam em gênero e número com a coisa possuída, e em pessoa com o possuidor. Ex.: Minha casa é grande. (casa feminina singular, minha feminina singular). Nossos amigos chegaram. (amigos masculino plural, nossos masculino plural). Seu livro está na mesa. (livro masculino singular, seu masculino singular).",
+            "Podem indicar não apenas posse, mas também afeto, respeito ou generalização. Ex.: Meu caro amigo, como vai? (afeto). Vossa Excelência, sua decisão é aguardada. (respeito). Cada um com seus problemas. (generalização)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Pronomes Relativos",
+      "destaque": "Bizú: A regência verbal ou nominal do termo antecedente ou da oração subordinada adjetiva é crucial para a escolha da preposição que acompanha o pronome relativo. Ex.: 'O livro A QUE me refiro' (referir-se A algo).",
+      "conteudo": [
+        "São palavras que retomam um termo anterior (antecedente) e introduzem uma oração subordinada adjetiva, evitando repetições e conectando ideias."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Formas dos Pronomes Relativos",
+          "itens": [
+            "Variáveis: o qual, a qual, os quais, as quais, cujo, cuja, cujos, cujas, quanto, quanta, quantos, quantas.",
+            "Invariáveis: que, quem, onde."
+          ]
+        },
+        {
+          "subtitulo": "Uso dos Pronomes Relativos",
+          "itens": [
+            "Que: O mais comum, pode substituir pessoas ou coisas. Ex.: O livro que comprei é interessante. A moça que chegou é minha irmã. O problema que enfrentamos é complexo.",
+            "Quem: Refere-se apenas a pessoas. Ex.: O aluno a quem me referi passou. A pessoa de quem gosto mora longe. Ele é o professor com quem aprendi muito.",
+            "Onde: Refere-se a lugar. Ex.: A cidade onde nasci é linda. O parque onde nos encontramos está fechado. A casa onde moro é antiga.",
+            "Cujo(a)(s): Indica posse entre o antecedente e o termo posterior. Concorda com o termo posterior. Ex.: O autor cujo livro li é famoso. (o livro do autor). A aluna cujos pais conheço é dedicada. (os pais da aluna). As árvores cujas folhas caem são belas. (as folhas das árvores).",
+            "O qual (e variações): Pode substituir 'que', especialmente após preposições ou para evitar ambiguidade. Ex.: O homem ao qual me dirigi era o diretor. As ideias pelas quais lutamos são nobres. O rio em cujas margens passei é poluído.",
+            "Quanto(a)(s): Usado após pronomes indefinidos como 'tudo', 'todos', 'tantos'. Ex.: Ele fez tudo quanto pôde. Trouxe tantos livros quantos cabiam. Ela comeu tudo o quanto havia na mesa."
+          ]
+        },
+        {
+          "subtitulo": "Função Sintática dos Pronomes Relativos",
+          "itens": [
+            "O pronome relativo exerce uma função sintática na oração subordinada adjetiva que introduz.",
+            "Pode ser sujeito, objeto direto, objeto indireto, complemento nominal, adjunto adnominal, adjunto adverbial.",
+            "Ex.: O aluno que estuda passa. (que = sujeito de 'estuda').",
+            "Ex.: O livro que comprei é bom. (que = objeto direto de 'comprei').",
+            "Ex.: A cidade onde moro é tranquila. (onde = adjunto adverbial de lugar de 'moro')."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Pronomes Demonstrativos situam seres no espaço, tempo ou texto (anáfora/catáfora) em relação às pessoas do discurso, com formas variáveis (este, esse, aquele) e invariáveis (isto, isso, aquilo).",
+    "Pronomes Possessivos indicam posse, concordando em gênero e número com a coisa possuída e em pessoa com o possuidor (meu, teu, seu, nosso, vosso).",
+    "Pronomes Relativos retomam um antecedente e introduzem orações subordinadas adjetivas, promovendo coesão textual.",
+    "Os principais pronomes relativos são 'que' (pessoas/coisas), 'quem' (pessoas), 'onde' (lugar), 'cujo(a)(s)' (posse) e 'o qual' (evita ambiguidade/após preposição).",
+    "A escolha do pronome demonstrativo depende da proximidade em relação ao falante (este), ao ouvinte (esse) ou a ambos (aquele).",
+    "Pronomes relativos exercem funções sintáticas dentro da oração subordinada adjetiva que introduzem, como sujeito, objeto direto ou adjunto adverbial."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o pronome demonstrativo está empregado corretamente, considerando a situação de que o objeto está próximo da pessoa com quem se fala.",
+      "opcoes": [
+        "A) Este livro que está com você é interessante.",
+        "B) Aquele livro que está com você é interessante.",
+        "C) Esse livro que está com você é interessante.",
+        "D) Isto livro que está com você é interessante."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. O pronome 'esse' (e suas variações) é utilizado para indicar algo que está próximo da 2ª pessoa do discurso, ou seja, da pessoa com quem se fala. As demais opções estão incorretas: 'este' indica proximidade da 1ª pessoa, 'aquele' indica distância de ambas as pessoas, e 'isto' é invariável e não acompanha substantivos."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases o pronome possessivo 'seu' gera ambiguidade?",
+      "opcoes": [
+        "A) Meu carro está na garagem.",
+        "B) Nossos amigos chegaram cedo.",
+        "C) Ele pediu para você pegar seu casaco.",
+        "D) Minha mãe é muito gentil."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. Na frase 'Ele pediu para você pegar seu casaco', o pronome 'seu' pode se referir tanto ao casaco da pessoa com quem se fala (você) quanto ao casaco de 'ele' (a 3ª pessoa). Essa ambiguidade é comum com 'seu/sua' e pode ser desfeita usando 'o casaco dele' ou 'o seu casaco'."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise a frase: 'O professor ______ aulas assisti é muito didático.' Qual pronome relativo preenche corretamente a lacuna, considerando a regência verbal?",
+      "opcoes": [
+        "A) que",
+        "B) quem",
+        "C) cujas",
+        "D) a cujas"
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa correta é a D. O verbo 'assistir', no sentido de 'ver', é transitivo indireto e exige a preposição 'a' (assistir a algo). Além disso, o pronome relativo 'cujas' indica posse ('as aulas do professor') e concorda em gênero e número com 'aulas' (feminino plural). Portanto, a forma correta é 'a cujas', retomando 'professor' e introduzindo a posse das 'aulas'."
+    },
+    {
+      "id": 4,
+      "enunciado": "No trecho 'Ele fez tudo ______ pôde para ajudar.', qual pronome relativo completa a lacuna de forma adequada?",
+      "opcoes": [
+        "A) que",
+        "B) o qual",
+        "C) quanto",
+        "D) onde"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. O pronome relativo 'quanto' (e suas variações) é utilizado após pronomes indefinidos como 'tudo', 'todos', 'tantos'. Neste caso, 'tudo' antecede a lacuna, indicando que 'quanto' é a escolha apropriada para retomar 'tudo' e introduzir a oração subordinada."
+    },
+    {
+      "id": 5,
+      "enunciado": "Em qual das opções o pronome demonstrativo 'este' é usado para indicar um tempo presente ou futuro próximo?",
+      "opcoes": [
+        "A) Naquele tempo, a vida era mais simples.",
+        "B) Esse mês passado foi muito corrido.",
+        "C) Este ano promete muitas novidades.",
+        "D) Aquilo que aconteceu ontem foi inesperado."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. O pronome 'este' (e suas variações) é usado para se referir ao tempo presente ou a um futuro muito próximo. 'Este ano' claramente se refere ao ano atual. As outras opções utilizam pronomes demonstrativos para se referir a tempos passados ('naquele tempo', 'esse mês passado', 'aquilo que aconteceu ontem')."
+    }
+  ]
+}

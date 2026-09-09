@@ -1,0 +1,103 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Denotação e Conotação",
+  "introducao": [
+    "A língua portuguesa possui uma riqueza de significados que vai além do sentido literal das palavras. Compreender a diferença entre denotação e conotação é fundamental para a interpretação e produção textual eficaz.",
+    "Esses conceitos são pilares da semântica e da estilística, permitindo-nos explorar as múltiplas camadas de sentido que uma palavra ou expressão pode carregar, dependendo do contexto de uso."
+  ],
+  "secoes": [
+    {
+      "titulo": "Denotação: O Sentido Literal e Objetivo",
+      "conteudo": [
+        "Denotação refere-se ao sentido literal, objetivo e dicionarizado de uma palavra. É o significado primário, universalmente reconhecido e desprovido de qualquer interpretação subjetiva ou emocional.",
+        "O uso denotativo é comum em textos informativos, científicos e jornalísticos, onde a clareza e a precisão da informação são essenciais. A linguagem denotativa busca a objetividade e a univocidade."
+      ],
+      "itens": [
+        "O coração é um órgão vital do corpo humano.",
+        "A palavra \"casa\" significa moradia.",
+        "O sol é uma estrela do sistema solar."
+      ]
+    },
+    {
+      "titulo": "Conotação: O Sentido Figurado e Subjetivo",
+      "conteudo": [
+        "Conotação, por sua vez, refere-se ao sentido figurado, subjetivo e contextual de uma palavra. É o significado secundário, que evoca associações, emoções, sentimentos e interpretações pessoais.",
+        "O uso conotativo é predominante em textos literários, poéticos, publicitários e em conversas do dia a dia, onde a expressividade e a capacidade de sugerir são valorizadas. A linguagem conotativa é plurissignificativa."
+      ],
+      "itens": [
+        "Meu coração está em pedaços. (coração = sentimento, dor)",
+        "Aquela casa é um lar de amor. (casa = refúgio, afeto)",
+        "Você é o sol da minha vida. (sol = alegria, importância)"
+      ]
+    },
+    {
+      "titulo": "Diferenças Fundamentais e a Importância do Contexto",
+      "conteudo": [
+        "A principal diferença reside na objetividade (denotação) versus subjetividade (conotação). Enquanto a denotação busca um único sentido, a conotação abre um leque de possibilidades interpretativas.",
+        "A escolha entre um e outro depende do propósito comunicativo. Em um manual de instruções, a denotação é crucial. Em um poema, a conotação enriquece a experiência do leitor.",
+        "É importante notar que uma mesma palavra pode ter tanto sentido denotativo quanto conotativo, dependendo do contexto em que é empregada. A análise do contexto é sempre fundamental."
+      ],
+      "itens": [
+        "O leão é um felino selvagem. (Denotação) / Ele é um leão na defesa de seus ideais. (Conotação)",
+        "A cobra rasteja pelo chão. (Denotação) / Aquela pessoa é uma cobra. (Conotação)",
+        "O ouro é um metal precioso. (Denotação) / Seu sorriso vale ouro. (Conotação)"
+      ]
+    },
+    {
+      "titulo": "A Relevância de Denotação e Conotação para a Comunicação e Concursos",
+      "destaque": "BIZU: Em provas, observe o gênero textual e o contexto da frase. Textos informativos tendem à denotação; textos literários e expressivos, à conotação. O contexto é a chave para desvendar o sentido!",
+      "conteudo": [
+        "No cotidiano, a compreensão desses conceitos evita mal-entendidos e enriquece a comunicação. Permite apreciar a beleza da linguagem figurada e a precisão da linguagem técnica.",
+        "Em concursos, questões sobre denotação e conotação são frequentes, exigindo do candidato a capacidade de identificar o sentido das palavras em diferentes contextos e de analisar a intencionalidade do autor.",
+        "Dominar esses conceitos é essencial para a interpretação de textos, a análise de figuras de linguagem e a produção de redações claras e adequadas ao gênero textual proposto."
+      ]
+    }
+  ],
+  "sintese": [
+    "Denotação é o sentido literal, objetivo e dicionarizado da palavra, comum em textos informativos.",
+    "Conotação é o sentido figurado, subjetivo e contextual da palavra, predominante em textos literários.",
+    "A denotação busca clareza e univocidade, enquanto a conotação visa expressividade e plurissignificação.",
+    "O contexto de uso é o fator determinante para identificar se uma palavra está sendo empregada denotativa ou conotativamente.",
+    "Compreender a distinção entre denotação e conotação é crucial para a interpretação textual e para a produção de uma comunicação eficaz e adequada.",
+    "Esses conceitos são frequentemente cobrados em concursos, exigindo do candidato a análise do sentido das palavras em diferentes contextos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a palavra destacada é empregada em sentido denotativo.",
+      "opcoes": [
+        "A) \"Seu olhar era um mar de mistérios.\"",
+        "B) \"O tempo voa quando estamos felizes.\"",
+        "C) \"O coração humano é um órgão muscular que bombeia sangue.\"",
+        "D) \"Ele tem um coração de ouro, sempre ajudando a todos.\""
+      ],
+      "gabarito": "C",
+      "comentario": "A opção C apresenta o termo \"coração\" em seu sentido literal, biológico, como um órgão do corpo humano, caracterizando o uso denotativo. Nas demais opções, \"mar\", \"voa\" e \"coração de ouro\" são empregados em sentido figurado, conotativo."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases abaixo a palavra \"pedra\" é utilizada em sentido conotativo?",
+      "opcoes": [
+        "A) \"A pedra rolou montanha abaixo.\"",
+        "B) \"Construíram a casa com pedras resistentes.\"",
+        "C) \"Sua indiferença era uma pedra no meu caminho.\"",
+        "D) \"Encontramos uma pedra preciosa no rio.\""
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, \"pedra\" é usada para expressar um obstáculo ou dificuldade (\"uma pedra no meu caminho\"), um sentido figurado e subjetivo, característico da conotação. Nas outras opções, \"pedra\" refere-se ao material rochoso em seu sentido literal (denotativo)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise o trecho: \"A vida é uma peça de teatro que não permite ensaios. Por isso, cante, chore, dance, ria e viva intensamente, antes que a cortina se feche e a peça termine sem aplausos.\" (Charles Chaplin) As palavras \"peça de teatro\", \"cortina\" e \"peça\" são empregadas, predominantemente, em sentido:",
+      "opcoes": [
+        "A) Denotativo, pois se referem diretamente ao universo teatral.",
+        "B) Conotativo, pois estabelecem uma analogia com a vida humana.",
+        "C) Denotativo, pois descrevem elementos concretos do palco.",
+        "D) Misto, com \"peça de teatro\" denotativo e \"cortina\" conotativo."
+      ],
+      "gabarito": "B",
+      "comentario": "O trecho utiliza os termos \"peça de teatro\", \"cortina\" e \"peça\" para criar uma metáfora estendida, comparando a vida a uma encenação. O sentido é figurado, subjetivo e simbólico, caracterizando o uso conotativo, que busca expressar a efemeridade e a intensidade da existência humana."
+    }
+  ]
+}

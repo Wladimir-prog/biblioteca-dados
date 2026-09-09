@@ -1,0 +1,191 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Regência Verbal",
+  "introducao": [
+    "A regência verbal é o estudo da relação de dependência entre um verbo (termo regente) e seus complementos (termos regidos). Essa relação pode exigir ou não uma preposição, e a escolha correta da preposição é fundamental para a clareza e correção da frase.",
+    "É importante notar que o sentido do verbo pode mudar significativamente conforme a regência empregada, o que exige atenção especial aos contextos de uso."
+  ],
+  "secoes": [
+    {
+      "titulo": "Verbos Transitivos Diretos (VTD)",
+      "conteudo": [
+        "São verbos que exigem um complemento sem a necessidade de preposição. O complemento é conhecido como objeto direto."
+      ],
+      "itens": [
+        "Eu comprei um livro novo.",
+        "Ela leu o artigo rapidamente.",
+        "Nós vimos o filme ontem."
+      ]
+    },
+    {
+      "titulo": "Verbos Transitivos Indiretos (VTI)",
+      "conteudo": [
+        "São verbos que exigem um complemento introduzido por uma preposição. O complemento é chamado de objeto indireto.",
+        "As preposições mais comuns que acompanham esses verbos são 'a', 'de', 'em', 'para', 'com'."
+      ],
+      "itens": [
+        "Ele precisa de ajuda.",
+        "Eu obedeço aos meus pais.",
+        "Nós acreditamos em você."
+      ]
+    },
+    {
+      "titulo": "Verbos Transitivos Diretos e Indiretos (VTDI)",
+      "conteudo": [
+        "São verbos que exigem dois complementos simultaneamente: um objeto direto (sem preposição) e um objeto indireto (com preposição)."
+      ],
+      "itens": [
+        "Entreguei o trabalho ao professor.",
+        "Informei a notícia aos alunos.",
+        "Ofereci flores à minha mãe."
+      ]
+    },
+    {
+      "titulo": "Verbos Intransitivos (VI)",
+      "conteudo": [
+        "São verbos que possuem sentido completo por si mesmos, não necessitando de complemento para a compreensão da mensagem."
+      ],
+      "itens": [
+        "O pássaro voou.",
+        "As crianças dormiram.",
+        "Ele nasceu em Minas Gerais."
+      ]
+    },
+    {
+      "titulo": "Casos Especiais de Regência Verbal",
+      "destaque": "Atenção! Muitos verbos mudam de sentido e, consequentemente, de regência, dependendo do contexto. Fique atento às preposições!",
+      "subsecoes": [
+        {
+          "subtitulo": "1. Verbo Aspirar",
+          "itens": [
+            "No sentido de 'respirar', 'sorver', 'sugar': é VTD. Ex.: Aspiramos o ar puro da montanha. O aspirador aspirou toda a sujeira.",
+            "No sentido de 'desejar ardentemente', 'almejar': é VTI, exigindo a preposição 'a'. Ex.: Aspiramos a um futuro melhor. Muitos jovens aspiram ao sucesso."
+          ]
+        },
+        {
+          "subtitulo": "2. Verbo Assistir",
+          "itens": [
+            "No sentido de 'ver', 'presenciar', 'estar presente': é VTI, exigindo a preposição 'a'. Ex.: Assistimos ao jogo pela televisão. Ele assistiu à peça de teatro.",
+            "No sentido de 'prestar socorro', 'ajudar', 'auxiliar': é VTD. Ex.: O médico assistiu o paciente. A instituição assiste famílias carentes.",
+            "No sentido de 'caber', 'pertencer': é VTI, exigindo a preposição 'a'. Ex.: Assiste ao juiz julgar o caso. Assiste a você decidir."
+          ]
+        },
+        {
+          "subtitulo": "3. Verbo Visar",
+          "itens": [
+            "No sentido de 'mirar', 'apontar', 'colocar visto': é VTD. Ex.: O atirador visou o alvo. O gerente visou o cheque.",
+            "No sentido de 'ter em vista', 'almejar', 'objetivar': é VTI, exigindo a preposição 'a'. Ex.: Visamos ao progresso social. A empresa visa ao lucro."
+          ]
+        },
+        {
+          "subtitulo": "4. Verbos Pagar e Perdoar",
+          "itens": [
+            "Quando o objeto é 'coisa': são VTD. Ex.: Paguei a conta. Perdoei a dívida.",
+            "Quando o objeto é 'pessoa': são VTI, exigindo a preposição 'a'. Ex.: Paguei ao vendedor. Perdoei ao meu amigo."
+          ]
+        },
+        {
+          "subtitulo": "5. Verbo Implicar",
+          "itens": [
+            "No sentido de 'acarretar', 'resultar', 'ter como consequência': é VTD. Ex.: Sua atitude implicou sérias consequências. A decisão implicou mudanças.",
+            "No sentido de 'envolver', 'comprometer': é VTD. Ex.: Implicaram-no no crime. Ele implicou o colega na confusão.",
+            "No sentido de 'ter implicância', 'antipatia' (com alguém): é VTI, exigindo a preposição 'com'. Ex.: Ele implica com tudo. A criança implica com o irmão."
+          ]
+        },
+        {
+          "subtitulo": "6. Verbos Obedecer e Desobedecer",
+          "itens": [
+            "São sempre VTI, exigindo a preposição 'a'. Ex.: Obedeça aos sinais de trânsito. Desobedecemos às regras."
+          ]
+        },
+        {
+          "subtitulo": "7. Verbo Preferir",
+          "itens": [
+            "É VTDI, exigindo a preposição 'a' para o objeto indireto. Não se usa 'do que' ou 'mais que'. Ex.: Prefiro café a chá. Prefiro ler a assistir televisão."
+          ]
+        },
+        {
+          "subtitulo": "8. Verbo Querer",
+          "itens": [
+            "No sentido de 'desejar', 'ter vontade': é VTD. Ex.: Quero um sorvete. Ele quer a verdade.",
+            "No sentido de 'estimar', 'ter afeto', 'amar': é VTI, exigindo a preposição 'a'. Ex.: Quero muito aos meus pais. Ele quer bem aos amigos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Crase na Regência Verbal",
+      "conteudo": [
+        "A crase ocorre na regência verbal quando o verbo exige a preposição 'a' e o complemento é um substantivo feminino que aceita o artigo 'a' ou 'as'.",
+        "É importante lembrar que, se o complemento for masculino, não haverá crase, mas a preposição 'a' pode aparecer, formando 'ao' ou 'aos'."
+      ],
+      "itens": [
+        "Fui à feira. (Ir a + a feira)",
+        "Obedeço à lei. (Obedecer a + a lei)",
+        "Assisti à peça. (Assistir a + a peça)",
+        "Fui ao mercado. (Ir a + o mercado)",
+        "Obedeço ao regulamento. (Obedecer a + o regulamento)",
+        "Assisti ao filme. (Assistir a + o filme)"
+      ]
+    }
+  ],
+  "sintese": [
+    "A regência verbal estabelece a relação entre o verbo e seus complementos, determinando a necessidade ou não de preposição.",
+    "Os verbos são classificados em Transitivos Diretos (VTD), Transitivos Indiretos (VTI), Transitivos Diretos e Indiretos (VTDI) e Intransitivos (VI), conforme a exigência de complementos.",
+    "Muitos verbos, como 'aspirar', 'assistir', 'visar' e 'querer', possuem regências distintas que alteram seu sentido, exigindo atenção ao contexto.",
+    "Verbos como 'obedecer' e 'desobedecer' são sempre VTI, exigindo a preposição 'a'.",
+    "O verbo 'preferir' é VTDI e exige a preposição 'a' para o objeto indireto, sem o uso de 'do que' ou 'mais que'.",
+    "A crase na regência verbal ocorre quando um verbo exige a preposição 'a' e o complemento é um substantivo feminino que aceita o artigo 'a'."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a regência verbal está INCORRETA:",
+      "opcoes": [
+        "A) Ele aspirava a uma vida tranquila no campo.",
+        "B) O médico assistiu o paciente com dedicação.",
+        "C) Visamos o cargo de gerência com afinco.",
+        "D) Prefiro estudar a sair com os amigos."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está incorreta. O verbo 'visar', no sentido de 'almejar', 'objetivar', é transitivo indireto e exige a preposição 'a'. O correto seria 'Visamos ao cargo de gerência com afinco'. As demais alternativas apresentam regência verbal correta: 'aspirar' (desejar) é VTI com 'a'; 'assistir' (socorrer) é VTD; 'preferir' é VTDI com 'a'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases o uso da crase está correto, de acordo com a regência verbal?",
+      "opcoes": [
+        "A) Obedeço a todas as regras do jogo.",
+        "B) Fomos a cidade vizinha para o evento.",
+        "C) Assistimos o filme que você indicou.",
+        "D) Ele se referiu à professora com respeito."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa (D) está correta. O verbo 'referir-se' é VTI e exige a preposição 'a'. Como 'professora' é um substantivo feminino que aceita o artigo 'a', ocorre a crase (a + a = à). Em (A), 'obedecer' é VTI com 'a', mas 'todas as regras' já inclui o artigo, então não há crase antes de 'todas'. Em (B), 'cidade' exige artigo 'a', e 'ir' exige preposição 'a', então o correto seria 'Fomos à cidade vizinha'. Em (C), 'assistir' no sentido de 'ver' é VTI e exige 'a', então o correto seria 'Assistimos ao filme'."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise as sentenças abaixo e assinale a que apresenta regência verbal adequada:",
+      "opcoes": [
+        "A) Implicaram-no com o roubo da loja.",
+        "B) Ele implica em tudo que eu faço.",
+        "C) O atraso implicou a perda do prazo.",
+        "D) Quero muito meus amigos de infância."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está correta. O verbo 'implicar' no sentido de 'acarretar', 'resultar em' é VTD, ou seja, não exige preposição. 'O atraso implicou a perda do prazo' está perfeito. Em (A), 'implicar' no sentido de 'envolver' é VTD, então o correto seria 'Implicaram-no no roubo da loja' (com a preposição 'em' para o complemento nominal). Em (B), 'implicar' no sentido de 'ter implicância' exige a preposição 'com', então o correto seria 'Ele implica com tudo que eu faço'. Em (D), 'querer' no sentido de 'estimar', 'ter afeto' é VTI e exige a preposição 'a', então o correto seria 'Quero muito aos meus amigos de infância'."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das opções abaixo apresenta um verbo transitivo indireto (VTI) com sua regência correta?",
+      "opcoes": [
+        "A) Paguei o boleto.",
+        "B) Perdoei a dívida.",
+        "C) Obedeço ao regulamento.",
+        "D) Quero um café."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está correta. O verbo 'obedecer' é sempre VTI e exige a preposição 'a'. 'Ao regulamento' (a + o regulamento) é o objeto indireto. Em (A) e (B), 'pagar' e 'perdoar' quando o objeto é 'coisa' são VTD. Em (D), 'querer' no sentido de 'desejar' é VTD."
+    }
+  ]
+}

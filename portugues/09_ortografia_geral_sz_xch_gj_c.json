@@ -1,0 +1,162 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Ortografia Geral (S/Z, X/CH, G/J, Ç)",
+  "introducao": [
+    "A ortografia é a parte fundamental da gramática normativa que estabelece as regras para a escrita correta das palavras na língua portuguesa.",
+    "Dominar a ortografia é crucial para garantir a clareza, a credibilidade e a eficácia da comunicação escrita, sendo um diferencial indispensável em contextos acadêmicos, profissionais e, especialmente, em concursos públicos."
+  ],
+  "secoes": [
+    {
+      "titulo": "Uso do S e Z",
+      "conteudo": [
+        "A escolha entre as letras S e Z é uma das fontes mais comuns de dúvidas ortográficas em português. Frequentemente, a grafia correta está ligada à etimologia da palavra ou à posição do som na estrutura vocabular."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Uso do S",
+          "itens": [
+            "Em substantivos derivados de verbos terminados em -nder, -ndir, -verter, -pelir. Ex.: Pretender - pretensão; Expandir - expansão; Expelir - expulsão.",
+            "Em substantivos derivados de verbos terminados em -er, -ir, -ar, quando o S tem som de Z. Ex.: Analisar - análise; Pesquisar - pesquisa; Defender - defesa.",
+            "Em sufixos -ês, -esa (gentílicos, títulos, femininos). Ex.: Português, portuguesa; Marquês, marquesa; Burguês, burguesa.",
+            "Em sufixos -oso, -osa (adjetivos). Ex.: Gostoso, gostosa; Cheiroso, cheirosa; Poderoso, poderosa.",
+            "Após ditongos. Ex.: Coisa; Lousa; Náusea."
+          ]
+        },
+        {
+          "subtitulo": "2. Uso do Z",
+          "itens": [
+            "Em substantivos derivados de adjetivos, com o sufixo -eza (formando substantivos abstratos). Ex.: Belo - beleza; Rico - riqueza; Pobre - pobreza.",
+            "Em verbos terminados em -izar, quando o radical não possui S. Ex.: Civil - civilizar; Real - realizar; Final - finalizar.",
+            "Em palavras de origem tupi-guarani, africana ou árabe. Ex.: Buzina; Azar; Vazio."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Uso do X e CH",
+      "conteudo": [
+        "A distinção entre X e CH é outra fonte frequente de erros ortográficos. Muitas palavras de origem diversa seguem regras específicas ou simplesmente convenções históricas da língua."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Uso do X",
+          "itens": [
+            "Após ditongos. Ex.: Caixa; Baixo; Peixe.",
+            "Após a sílaba inicial “en-”. Ex.: Enxame; Enxugar; Enxoval.",
+            "Após a sílaba inicial “me-”. Ex.: Mexer; México; Mexilhão.",
+            "Em palavras de origem indígena ou africana. Ex.: Xavante; Xará; Abacaxi.",
+            "Em algumas palavras com som de Z, S ou SS. Ex.: Exato (som de Z); Texto (som de S); Próximo (som de SS)."
+          ]
+        },
+        {
+          "subtitulo": "2. Uso do CH",
+          "itens": [
+            "Em palavras de origem francesa ou de outras línguas que foram aportuguesadas. Ex.: Chique; Cachê; Champagne (aportuguesado para champanhe).",
+            "Em palavras que não se encaixam nas regras do X. Ex.: Chave; Chuva; Mochila."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Uso do G e J",
+      "conteudo": [
+        "A sonoridade das letras G e J é idêntica quando seguidas das vogais E ou I, o que frequentemente gera dúvidas. Nesses casos, a etimologia da palavra é a principal guia para a grafia correta."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Uso do G",
+          "itens": [
+            "Em palavras terminadas em -agem, -igem, -ugem. Ex.: Viagem; Origem; Ferrugem.",
+            "Em palavras terminadas em -ágio, -égio, -ígio, -ógio, -úgio. Ex.: Estágio; Colégio; Refúgio.",
+            "Em palavras de origem grega ou latina. Ex.: Gesso; Gíria; Geometria."
+          ]
+        },
+        {
+          "subtitulo": "2. Uso do J",
+          "itens": [
+            "Em palavras de origem tupi, africana, árabe ou exótica. Ex.: Pajé; Canjica; Manjericão.",
+            "Em verbos terminados em -jar ou -jear. Ex.: Viajar; Gorjear; Arrojar.",
+            "Em palavras derivadas de outras que já possuem J. Ex.: Laranja - laranjeira; Loja - lojista; Sujo - sujeira."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Uso do Ç (Cedilha)",
+      "destaque": "ATENÇÃO: O Ç é usado para representar o som de /s/ antes de A, O, U. Nunca se usa Ç antes de E ou I, pois o C já tem som de /s/ nessas posições (ex: cena, cinco).",
+      "conteudo": [
+        "O Ç (cedilha) é um grafema exclusivo da língua portuguesa, sempre empregado antes das vogais A, O, U e nunca no início de palavras. Sua função é indicar o som de /s/."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Regras de Uso",
+          "itens": [
+            "Em substantivos derivados de verbos terminados em -ter, -tir, -tor, -tivo. Ex.: Deter - detenção; Agir - ação; Redator - redação.",
+            "Em substantivos derivados de verbos terminados em -andir, -ender, -verter, -pelir. Ex.: Expandir - expansão; Compreender - compreensão; Converter - conversão. (Nesses casos, o som de /s/ é grafado com S, não Ç).",
+            "Em palavras de origem árabe ou tupi-guarani que foram aportuguesadas. Ex.: Açúcar; Caçula; Muçulmano.",
+            "Em sufixos -aça, -aço, -iço, -uça. Ex.: Barcaça; Ricaço; Feitiço; Carapuça."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A ortografia geral é fundamental para a clareza e credibilidade da comunicação escrita.",
+    "A escolha entre S e Z, X e CH, G e J, e o uso do Ç, frequentemente depende da etimologia da palavra ou de regras específicas de formação.",
+    "O S é comum em sufixos como -ês, -esa, -oso, -osa e após ditongos, enquanto o Z aparece em substantivos abstratos (-eza) e verbos (-izar) sem S no radical.",
+    "O X é usado após ditongos, sílabas 'en-' e 'me-', e em palavras de origem indígena/africana; o CH, em palavras de origem francesa ou que não se encaixam nas regras do X.",
+    "O G é empregado em terminações como -agem, -igem, -ugem e -ágio, enquanto o J é comum em palavras de origem tupi/africana e em verbos terminados em -jar ou -jear.",
+    "O Ç é exclusivo para o som de /s/ antes de A, O, U, nunca no início de palavras, e é frequente em substantivos derivados de verbos específicos e em sufixos como -aça, -aço, -iço, -uça."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas corretamente, de acordo com as regras de uso do S e Z.",
+      "opcoes": [
+        "A) Análise, beleza, pretensão, buzina.",
+        "B) Pesquiza, riqueza, expulsão, vazio.",
+        "C) Defeza, pobreza, expansão, azár.",
+        "D) Português, marquesa, civilisar, gostoso."
+      ],
+      "gabarito": "A",
+      "comentario": "A alternativa (A) apresenta todas as palavras grafadas corretamente: 'análise' (derivado de analisar, com S som de Z), 'beleza' (derivado de belo, com sufixo -eza), 'pretensão' (derivado de pretender, com S) e 'buzina' (palavra de origem africana, com Z). As demais alternativas contêm erros de grafia."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das opções a seguir todas as palavras com X ou CH estão corretamente empregadas?",
+      "opcoes": [
+        "A) Enxame, chique, mecher, abacaxi.",
+        "B) Caixa, chuva, enxugar, xará.",
+        "C) Peixe, champanhe, mexilhão, chave.",
+        "D) Baixo, enxoval, cachê, mochila."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa (D) apresenta todas as palavras grafadas corretamente: 'baixo' (após ditongo, com X), 'enxoval' (após sílaba 'en-', com X), 'cachê' (origem francesa, com CH) e 'mochila' (com CH, não se encaixa nas regras do X). As outras alternativas contêm erros como 'mecher' (correto: mexer) em (A), 'champanhe' em (C) que está correto, mas 'chique' em (A) e 'chuva' em (B) também estão corretos, porém as outras palavras nas alternativas A, B e C possuem erros."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considerando as regras de uso do G e J, assinale a frase em que há um erro de grafia.",
+      "opcoes": [
+        "A) A viagem para o colégio foi tranquila.",
+        "B) O pajé da tribo fez um gesto de aprovação.",
+        "C) A lojista arrumou a sujeira da loja.",
+        "D) Ele gosta de gorjear e de viajar para o refúgio."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa (B) contém um erro de grafia. A palavra 'gesto' é grafada com G, pois é de origem latina, e não 'jesto'. As demais frases estão corretas: 'viagem' (terminado em -agem, com G), 'colégio' (terminado em -égio, com G), 'lojista' (derivado de loja, com J), 'sujeira' (derivado de sujo, com J), 'gorjear' (verbo terminado em -jear, com J), 'viajar' (verbo terminado em -jar, com J) e 'refúgio' (terminado em -úgio, com G)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das alternativas apresenta uma palavra com Ç grafada incorretamente?",
+      "opcoes": [
+        "A) Detenção.",
+        "B) Ação.",
+        "C) Redação.",
+        "D) Expansão."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa (D) apresenta a palavra 'expansão', que é grafada com S, e não com Ç. Embora derive de 'expandir' e tenha som de /s/, a regra para verbos terminados em -ndir, -ender, -verter, -pelir é o uso do S. As palavras 'detenção' (de deter), 'ação' (de agir) e 'redação' (de redator) estão corretamente grafadas com Ç, seguindo as regras de derivação de verbos terminados em -ter, -tir, -tor."
+    }
+  ]
+}

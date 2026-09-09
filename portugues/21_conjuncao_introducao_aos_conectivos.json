@@ -1,0 +1,219 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Conjunção: Introdução aos Conectivos",
+  "introducao": [
+    "A conjunção é uma das dez classes de palavras da Língua Portuguesa, caracterizada por ser invariável, ou seja, não sofre flexão de gênero, número, grau, tempo, modo ou pessoa. Sua principal função é conectar orações ou termos de mesma função sintática, atuando como um elo fundamental para a construção de sentido.",
+    "Essenciais para a coesão e coerência textual, as conjunções estabelecem relações de sentido entre as partes do enunciado, como adição, oposição, causa, consequência, tempo, entre outras. Compreender o seu uso é fundamental para a interpretação e produção de textos claros e bem articulados."
+  ],
+  "secoes": [
+    {
+      "titulo": "Introdução à Conjunção",
+      "conteudo": [
+        "A conjunção é uma das dez classes de palavras da Língua Portuguesa, caracterizada por ser invariável, ou seja, não sofre flexão de gênero, número, grau, tempo, modo ou pessoa.",
+        "Sua principal função é conectar orações ou termos de mesma função sintática, atuando como um elo fundamental para a construção de sentido."
+      ],
+      "itens": [
+        "Essencial para a coesão e coerência textual.",
+        "Estabelece relações de sentido (adição, oposição, causa, consequência, tempo, etc.).",
+        "Fundamental para a interpretação e produção de textos claros e bem articulados."
+      ]
+    },
+    {
+      "titulo": "Conectivos e Sua Função",
+      "conteudo": [
+        "Conectivos são palavras ou expressões que ligam elementos em uma frase ou entre frases, e as conjunções são os conectivos mais comuns e importantes na gramática.",
+        "Elas atuam como pontes, unindo ideias e mostrando a relação lógica entre elas."
+      ],
+      "itens": [
+        "Ex.: Ele estudou muito, MAS não passou no concurso. (oposição)",
+        "Ex.: Fui ao mercado E comprei frutas. (adição)",
+        "Ex.: Não veio PORQUE estava doente. (causa)"
+      ]
+    },
+    {
+      "titulo": "Classificação Geral das Conjunções",
+      "destaque": "Lembre-se: Coordenativas ligam orações 'lado a lado' (independentes); Subordinativas ligam orações onde uma 'depende' da outra para ter sentido completo.",
+      "conteudo": [
+        "As conjunções são tradicionalmente classificadas em dois grandes grupos: coordenativas e subordinativas.",
+        "Essa classificação depende do tipo de relação que estabelecem entre as orações: as coordenativas ligam orações independentes ou termos de mesma função, enquanto as subordinativas ligam orações dependentes."
+      ]
+    },
+    {
+      "titulo": "Conjunções Coordenativas",
+      "conteudo": [
+        "As conjunções coordenativas ligam orações sintaticamente independentes, ou seja, que fazem sentido sozinhas. Também podem ligar termos que exercem a mesma função sintática na oração."
+      ],
+      "itens": [
+        "São divididas em aditivas, adversativas, alternativas, conclusivas e explicativas."
+      ]
+    },
+    {
+      "titulo": "Tipos de Conjunções Coordenativas",
+      "subsecoes": [
+        {
+          "subtitulo": "1. Aditivas",
+          "itens": [
+            "Expressam ideia de adição, soma.",
+            "Principais: e, nem, mas também, como também, bem como.",
+            "Ex.: Ele canta E dança muito bem.",
+            "Ex.: Não só estuda, MAS TAMBÉM trabalha.",
+            "Ex.: Não comeu NEM bebeu nada."
+          ]
+        },
+        {
+          "subtitulo": "2. Adversativas",
+          "itens": [
+            "Expressam ideia de oposição, contraste, ressalva.",
+            "Principais: mas, porém, contudo, todavia, entretanto, no entanto.",
+            "Ex.: Queria ir à festa, MAS estava doente.",
+            "Ex.: Estudou bastante, CONTUDO não se sentia seguro.",
+            "Ex.: A proposta é boa, ENTRETANTO exige muito investimento."
+          ]
+        },
+        {
+          "subtitulo": "3. Alternativas",
+          "itens": [
+            "Expressam ideia de alternância, escolha, exclusão.",
+            "Principais: ou, ou...ou, ora...ora, quer...quer, seja...seja.",
+            "Ex.: OU você estuda, OU você trabalha.",
+            "Ex.: ORA chove, ORA faz sol.",
+            "Ex.: QUER faça sol, QUER chova, iremos viajar."
+          ]
+        },
+        {
+          "subtitulo": "4. Conclusivas",
+          "itens": [
+            "Expressam ideia de conclusão, consequência.",
+            "Principais: logo, portanto, por isso, assim, pois (depois do verbo).",
+            "Ex.: Ele é inteligente, LOGO será aprovado.",
+            "Ex.: Choveu muito, PORTANTO as ruas estão molhadas.",
+            "Ex.: Não estudou, ASSIM não passou."
+          ]
+        },
+        {
+          "subtitulo": "5. Explicativas",
+          "itens": [
+            "Expressam ideia de explicação, justificativa.",
+            "Principais: porque, que, pois (antes do verbo), porquanto.",
+            "Ex.: Não saia, PORQUE está chovendo.",
+            "Ex.: Venha logo, QUE o filme vai começar.",
+            "Ex.: Deve estar cansado, POIS trabalhou o dia todo."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conjunções Subordinativas",
+      "conteudo": [
+        "As conjunções subordinativas ligam orações que são sintaticamente dependentes de outra (oração principal). A oração subordinada complementa ou modifica o sentido da principal."
+      ],
+      "itens": [
+        "São divididas em integrantes e adverbiais."
+      ]
+    },
+    {
+      "titulo": "Tipos de Conjunções Subordinativas",
+      "subsecoes": [
+        {
+          "subtitulo": "1. Integrantes",
+          "itens": [
+            "Introduzem orações subordinadas substantivas, que funcionam como substantivos.",
+            "Principais: que, se.",
+            "Ex.: Espero QUE você venha.",
+            "Ex.: Perguntou SE eu estava bem.",
+            "Ex.: É fundamental QUE todos participem."
+          ]
+        },
+        {
+          "subtitulo": "2. Adverbiais",
+          "itens": [
+            "Introduzem orações subordinadas adverbiais, que funcionam como advérbios, expressando diversas circunstâncias.",
+            "Principais circunstâncias: causa, comparação, concessão, condição, conformidade, consequência, finalidade, proporção, tempo.",
+            "Principais conjunções (exemplos): porque, como, embora, se, conforme, tão...que, para que, à medida que, quando.",
+            "Ex.: Ele não veio PORQUE estava doente. (causa)",
+            "Ex.: Estudou COMO se fosse a última prova. (comparação)",
+            "Ex.: EMBORA estivesse cansado, continuou trabalhando. (concessão)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Importância dos Conectivos",
+      "conteudo": [
+        "Os conectivos são a 'cola' da língua, garantindo a fluidez e a lógica do texto. Sem eles, as frases seriam desconexas e o sentido, fragmentado.",
+        "Dominar o uso das conjunções é crucial para a proficiência na escrita e na leitura, permitindo a construção de argumentos claros e a compreensão aprofundada de qualquer texto."
+      ]
+    }
+  ],
+  "sintese": [
+    "Conjunções são palavras invariáveis que conectam orações ou termos de mesma função sintática, essenciais para a coesão e coerência textual.",
+    "Elas estabelecem diversas relações de sentido, como adição, oposição, causa, consequência, tempo, entre outras.",
+    "As conjunções são classificadas em dois grandes grupos: coordenativas (ligam orações independentes) e subordinativas (ligam orações dependentes).",
+    "As coordenativas subdividem-se em aditivas, adversativas, alternativas, conclusivas e explicativas.",
+    "As subordinativas são integrantes (introduzem orações substantivas) e adverbiais (introduzem orações adverbiais de diversas circunstâncias).",
+    "O domínio dos conectivos é fundamental para a clareza, a lógica e a fluidez na comunicação escrita e oral."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em 'Ele não só estuda, mas também trabalha', a conjunção destacada é classificada como:",
+      "opcoes": [
+        "A) Aditiva",
+        "B) Adversativa",
+        "C) Alternativa",
+        "D) Conclusiva"
+      ],
+      "gabarito": "A",
+      "comentario": "A locução conjuntiva 'mas também' adiciona uma informação à anterior, caracterizando-se como aditiva. Ela soma a ideia de estudar com a ideia de trabalhar."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que a conjunção 'pois' possui valor explicativo.",
+      "opcoes": [
+        "A) Ele deve estar cansado, pois trabalhou o dia todo.",
+        "B) Choveu muito, pois as ruas estão molhadas.",
+        "C) Não estudou, pois não passou.",
+        "D) Ele é inteligente, pois será aprovado."
+      ],
+      "gabarito": "A",
+      "comentario": "A conjunção 'pois' tem valor explicativo quando vem antes do verbo da oração que introduz, justificando a oração anterior. Na opção A, 'trabalhou' é o verbo e 'pois' o antecede, justificando o cansaço. Nas demais opções (B, C, D), 'pois' tem valor conclusivo, vindo depois do verbo ou introduzindo uma consequência."
+    },
+    {
+      "id": 3,
+      "enunciado": "Na frase 'Embora estivesse cansado, continuou trabalhando', a conjunção 'Embora' estabelece uma relação de:",
+      "opcoes": [
+        "A) Causa",
+        "B) Concessão",
+        "C) Condição",
+        "D) Consequência"
+      ],
+      "gabarito": "B",
+      "comentario": "A conjunção 'Embora' introduz uma oração subordinada adverbial concessiva, indicando uma ideia contrária à da oração principal (o cansaço), mas que não impede sua realização (continuar trabalhando)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das frases abaixo apresenta uma conjunção coordenativa adversativa?",
+      "opcoes": [
+        "A) Ele canta e dança muito bem.",
+        "B) Ou você estuda, ou você trabalha.",
+        "C) Queria ir à festa, mas estava doente.",
+        "D) Não saia, porque está chovendo."
+      ],
+      "gabarito": "C",
+      "comentario": "A conjunção 'mas' expressa oposição ou contraste entre as duas orações ('queria ir' versus 'estava doente'), sendo, portanto, uma conjunção coordenativa adversativa. As outras opções apresentam conjunções aditiva (A), alternativa (B) e explicativa (D)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Em qual das opções a conjunção 'que' atua como integrante?",
+      "opcoes": [
+        "A) Espero que você venha.",
+        "B) Venha logo, que o filme vai começar.",
+        "C) Ele é tão inteligente que sempre se destaca.",
+        "D) O livro que comprei é interessante."
+      ],
+      "gabarito": "A",
+      "comentario": "A conjunção 'que' é integrante quando introduz uma oração subordinada substantiva, que pode ser substituída por 'isso'. Em 'Espero que você venha', podemos dizer 'Espero isso'. Nas outras opções, 'que' tem valor explicativo (B), consecutivo (C, parte da locução 'tão...que') ou pronome relativo (D)."
+    }
+  ]
+}

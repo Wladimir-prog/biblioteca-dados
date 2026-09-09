@@ -1,0 +1,221 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "TÓPICOS AVANÇADOS DE SINTAXE",
+  "tema": "Orações Reduzidas (Infinitivo, Gerúndio e Particípio)",
+  "introducao": [
+    "As orações reduzidas representam um recurso sintático fundamental na Língua Portuguesa, caracterizadas pela presença do verbo em uma de suas formas nominais: infinitivo, gerúndio ou particípio. Diferentemente das orações desenvolvidas, elas prescindem de conjunções ou pronomes relativos para sua introdução, o que lhes confere concisão e elegância.",
+    "Dominar a identificação e o emprego das orações reduzidas é crucial para a análise sintática avançada e para a produção de textos mais fluidos, econômicos e sofisticados, demonstrando proficiência e domínio da norma culta."
+  ],
+  "secoes": [
+    {
+      "titulo": "Características Essenciais das Orações Reduzidas",
+      "destaque": "As orações reduzidas são marcadas pela concisão e pela ausência de conectivos explícitos, exigindo atenção à forma nominal do verbo.",
+      "subsecoes": [
+        {
+          "subtitulo": "Ausência de Conjunção ou Pronome Relativo",
+          "itens": [
+            "Ao contrário das orações desenvolvidas, as reduzidas não são introduzidas por conjunções subordinativas (como 'que', 'se', 'quando', 'embora') ou pronomes relativos (como 'que', 'quem', 'onde').",
+            "Essa particularidade as torna mais compactas e diretas, evitando repetições e conectivos explícitos, o que contribui para a economia textual.",
+            "A relação sintática entre a oração principal e a reduzida é inferida pelo contexto e pela forma verbal, demandando uma leitura atenta.",
+            "Ex.: Para passar no concurso, é preciso dedicação. (Desenvolvida: Para que você passe no concurso...)",
+            "Ex.: Chegando ao local, avistou a multidão. (Desenvolvida: Quando chegou ao local...)",
+            "Ex.: A tarefa, entregue ontem, estava perfeita. (Desenvolvida: A tarefa que foi entregue ontem...)"
+          ]
+        },
+        {
+          "subtitulo": "Verbo em Forma Nominal",
+          "itens": [
+            "O verbo da oração reduzida sempre se apresenta em uma das três formas nominais: infinitivo (cantar, vender, partir), gerúndio (cantando, vendendo, partindo) ou particípio (cantado, vendido, partido).",
+            "Essas formas verbais não indicam tempo, modo ou pessoa de forma explícita, mas sim a ação ou estado de maneira mais abstrata ou como um processo em andamento ou concluído.",
+            "A forma nominal do verbo é o elemento central que define a natureza da oração reduzida e sua classificação.",
+            "Ex.: É importante estudar todos os dias. (Infinitivo)",
+            "Ex.: Ele vive reclamando da vida. (Gerúndio)",
+            "Ex.: A porta, fechada com força, quebrou. (Particípio)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação e Funções Sintáticas das Orações Reduzidas",
+      "destaque": "Cada forma nominal (infinitivo, gerúndio, particípio) confere à oração reduzida características e funções sintáticas específicas, que devem ser analisadas no contexto.",
+      "subsecoes": [
+        {
+          "subtitulo": "Oração Reduzida de Infinitivo",
+          "itens": [
+            "A oração reduzida de infinitivo possui seu verbo no infinitivo (pessoal ou impessoal) e é extremamente versátil, podendo exercer diversas funções sintáticas.",
+            "É frequentemente empregada em construções que expressam finalidade, causa, consequência, condição ou tempo.",
+            "Pode ser facilmente convertida em uma oração desenvolvida utilizando conjunções como 'para que', 'que', 'se', 'quando', entre outras.",
+            "Ex.: É essencial aprender a gramática. (Infinitivo impessoal)",
+            "Ex.: Ao sair, feche a porta. (Infinitivo impessoal)",
+            "Ex.: Ele foi o primeiro a chegar. (Infinitivo impessoal)"
+          ]
+        },
+        {
+          "subtitulo": "Infinitivo Pessoal e Impessoal",
+          "itens": [
+            "Infinitivo Impessoal: Não se refere a uma pessoa específica, mantendo-se invariável (ex.: 'Estudar é bom').",
+            "Infinitivo Pessoal: Refere-se a uma pessoa específica, sendo flexionado para concordar com o sujeito (ex.: 'Para eles estudarem, é preciso silêncio').",
+            "A escolha entre o infinitivo pessoal e o impessoal depende do sujeito da oração reduzida e da clareza que se deseja dar à frase.",
+            "O infinitivo pessoal é utilizado quando o sujeito da oração reduzida é diferente do sujeito da oração principal.",
+            "Ex.: É proibido fumar aqui. (Impessoal)",
+            "Ex.: É importante vocês lerem mais. (Pessoal)",
+            "Ex.: Pediu para eu ir embora. (Pessoal)"
+          ]
+        },
+        {
+          "subtitulo": "Principais Funções Sintáticas do Infinitivo",
+          "itens": [
+            "Pode funcionar como sujeito, objeto direto, objeto indireto, complemento nominal, adjunto adnominal, adjunto adverbial (de causa, finalidade, tempo, condição, concessão, consequência) ou predicativo.",
+            "A identificação da função sintática é crucial para a análise completa da frase e para a compreensão do sentido.",
+            "A função é determinada pela relação que a oração reduzida estabelece com a oração principal no contexto.",
+            "Ex.: Sujeito: 'É fundamental estudar.' (Desenvolvida: Que se estude é fundamental.)",
+            "Ex.: Adjunto Adverbial de Finalidade: 'Ele veio para ajudar.' (Desenvolvida: Ele veio para que ajudasse.)",
+            "Ex.: Objeto Direto: 'Vi-o sair.' (Desenvolvida: Vi que ele saiu.)"
+          ]
+        },
+        {
+          "subtitulo": "Oração Reduzida de Gerúndio",
+          "itens": [
+            "A oração reduzida de gerúndio tem seu verbo na forma nominal do gerúndio (terminado em -ndo) e geralmente expressa uma ideia de ação contínua, simultaneidade, causa, condição ou modo.",
+            "É amplamente utilizada para indicar ações que ocorrem ao mesmo tempo que a ação da oração principal ou que são a causa dela.",
+            "Pode ser desenvolvida com conjunções como 'quando', 'enquanto', 'como', 'se', 'já que', entre outras.",
+            "Ex.: Caminhando pela rua, encontrei um amigo. (Simultaneidade)",
+            "Ex.: Estudando com afinco, você passará. (Condição)",
+            "Ex.: Ele, sentindo-se mal, foi ao médico. (Causa)"
+          ]
+        },
+        {
+          "subtitulo": "Principais Funções Sintáticas do Gerúndio",
+          "itens": [
+            "Geralmente funciona como adjunto adverbial (de tempo, modo, causa, condição, concessão) ou, mais raramente, como adjunto adnominal.",
+            "A função adverbial é a mais comum, indicando as circunstâncias em que a ação principal ocorre.",
+            "A identificação da função é feita pela pergunta que a oração reduzida responde em relação à principal (Quando? Como? Por quê? Se?).",
+            "Ex.: Adjunto Adverbial de Tempo: 'Chegando em casa, ligou a TV.' (Desenvolvida: Quando chegou em casa...)",
+            "Ex.: Adjunto Adverbial de Causa: 'Não estudando, ele reprovou.' (Desenvolvida: Porque não estudou...)",
+            "Ex.: Adjunto Adverbial de Modo: 'Ele aprendeu lendo muito.' (Desenvolvida: Ele aprendeu como? Lendo muito.)"
+          ]
+        },
+        {
+          "subtitulo": "Oração Reduzida de Particípio",
+          "itens": [
+            "A oração reduzida de particípio tem seu verbo na forma nominal do particípio (terminado em -ado, -ido, ou formas irregulares como -to, -so, -go) e expressa uma ideia de estado, resultado de uma ação, tempo, causa ou condição.",
+            "O particípio, por ter valor adjetivo, muitas vezes concorda em gênero e número com o substantivo a que se refere, funcionando como um adjetivo verbal.",
+            "Pode ser desenvolvida com conjunções como 'quando', 'porque', 'se', 'embora', ou com um pronome relativo ('que', 'o qual').",
+            "Ex.: Terminada a reunião, todos foram embora. (Tempo/Causa)",
+            "Ex.: Feita a lição, ele pôde brincar. (Condição/Tempo)",
+            "Ex.: O livro, lido por muitos, é um sucesso. (Adjetivo/Pronome relativo)"
+          ]
+        },
+        {
+          "subtitulo": "Principais Funções Sintáticas do Particípio",
+          "itens": [
+            "Funciona predominantemente como adjunto adnominal (com valor de adjetivo) ou como adjunto adverbial (de tempo, causa, condição, concessão).",
+            "A função adjetiva é evidente quando o particípio se refere diretamente a um substantivo, qualificando-o.",
+            "A função adverbial é percebida quando a oração reduzida indica uma circunstância da oração principal, respondendo a perguntas como 'Quando?', 'Por quê?', 'Se?'.",
+            "Ex.: Adjunto Adnominal: 'A carta, escrita à mão, emocionou.' (Desenvolvida: A carta que foi escrita à mão...)",
+            "Ex.: Adjunto Adverbial de Tempo: 'Concluído o trabalho, descansou.' (Desenvolvida: Quando o trabalho foi concluído...)",
+            "Ex.: Adjunto Adverbial de Causa: 'Ferido na briga, foi hospitalizado.' (Desenvolvida: Porque foi ferido na briga...)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Transformação e Relevância Textual das Orações Reduzidas",
+      "destaque": "Dominar a conversão entre orações desenvolvidas e reduzidas é um diferencial para a concisão e a elegância da escrita, essencial em contextos formais.",
+      "subsecoes": [
+        {
+          "subtitulo": "Transformação de Orações Desenvolvidas em Reduzidas",
+          "itens": [
+            "A transformação de uma oração desenvolvida em reduzida envolve a eliminação da conjunção ou pronome relativo e a colocação do verbo na forma nominal adequada (infinitivo, gerúndio ou particípio).",
+            "Este é um recurso estilístico valioso que confere concisão, fluidez e elegância ao texto, sendo amplamente explorado em textos formais, acadêmicos e literários.",
+            "A prática dessa transformação não só aprimora a escrita, mas também consolida o entendimento das complexas relações sintáticas entre as orações.",
+            "Ex.: Quando ele chegou, todos aplaudiram. -> Chegando ele, todos aplaudiram. (Gerúndio)",
+            "Ex.: Para que você seja aprovado, estude. -> Para ser aprovado, estude. (Infinitivo)",
+            "Ex.: O aluno que foi elogiado sorriu. -> O aluno elogiado sorriu. (Particípio)"
+          ]
+        },
+        {
+          "subtitulo": "Importância das Orações Reduzidas na Construção Textual",
+          "itens": [
+            "As orações reduzidas são um recurso valioso para a coesão e coerência textual, permitindo a variação sintática e a construção de períodos mais complexos e articulados.",
+            "Seu uso adequado demonstra um domínio avançado da norma culta e a capacidade de expressar ideias de forma mais sofisticada e precisa.",
+            "Elas contribuem significativamente para a fluidez da leitura e para a clareza da mensagem, evitando redundâncias e tornando o texto mais dinâmico.",
+            "Evitam repetições desnecessárias de conjunções e pronomes relativos.",
+            "Tornam o texto mais conciso e direto, otimizando o espaço e a atenção do leitor.",
+            "Conferem elegância e maturidade à escrita, elevando o nível estilístico do discurso."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Orações reduzidas utilizam verbos nas formas nominais (infinitivo, gerúndio, particípio) e não são introduzidas por conjunções ou pronomes relativos.",
+    "A ausência de conectivos explícitos e o uso de formas nominais são suas características distintivas, promovendo concisão e economia textual.",
+    "Oração Reduzida de Infinitivo: Pode ser pessoal ou impessoal e exerce diversas funções sintáticas, como sujeito, objeto direto, adjunto adverbial (finalidade, causa, tempo, etc.).",
+    "Oração Reduzida de Gerúndio: Expressa ações contínuas, simultaneidade, causa, condição ou modo, funcionando predominantemente como adjunto adverbial.",
+    "Oração Reduzida de Particípio: Indica estado, resultado, tempo, causa ou condição, atuando como adjunto adnominal (com valor adjetivo) ou adjunto adverbial.",
+    "A transformação de orações desenvolvidas em reduzidas é um recurso estilístico que aprimora a coesão, a fluidez e a elegância textual, essencial para a proficiência na escrita."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a oração reduzida de infinitivo exerce a função de sujeito da oração principal.",
+      "opcoes": [
+        "A) Ele veio para nos ajudar.",
+        "B) É fundamental estudar para o concurso.",
+        "C) Vi-o sair apressado.",
+        "D) Ao chegar em casa, ligou a televisão."
+      ],
+      "gabarito": "B",
+      "comentario": "Na alternativa B, 'estudar para o concurso' é o sujeito da oração 'É fundamental'. Podemos substituir por 'O estudo para o concurso é fundamental' ou desenvolver para 'Que se estude para o concurso é fundamental'. Nas demais opções, 'para nos ajudar' é adjunto adverbial de finalidade (A), 'sair apressado' é objeto direto (C) e 'Ao chegar em casa' é adjunto adverbial de tempo (D)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a oração reduzida de gerúndio expressa uma ideia de causa?",
+      "opcoes": [
+        "A) Caminhando pela rua, encontrei um amigo.",
+        "B) Estudando com afinco, você passará no exame.",
+        "C) Sentindo-se mal, ele foi ao médico.",
+        "D) Ele aprendeu a ler lendo muito."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, 'Sentindo-se mal' indica a causa pela qual ele foi ao médico (Porque se sentia mal, ele foi ao médico). Em A, 'Caminhando pela rua' indica tempo/simultaneidade. Em B, 'Estudando com afinco' indica condição. Em D, 'lendo muito' indica modo."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise a frase: 'Concluído o trabalho, os alunos puderam descansar.' A oração reduzida de particípio 'Concluído o trabalho' pode ser desenvolvida corretamente como:",
+      "opcoes": [
+        "A) Embora o trabalho tenha sido concluído, os alunos puderam descansar.",
+        "B) Quando o trabalho foi concluído, os alunos puderam descansar.",
+        "C) Para que o trabalho fosse concluído, os alunos puderam descansar.",
+        "D) O trabalho que foi concluído, os alunos puderam descansar."
+      ],
+      "gabarito": "B",
+      "comentario": "A oração reduzida de particípio 'Concluído o trabalho' expressa uma circunstância de tempo, indicando que o descanso ocorreu após a conclusão do trabalho. A forma desenvolvida mais adequada é com a conjunção temporal 'Quando': 'Quando o trabalho foi concluído, os alunos puderam descansar.' As outras opções alteram o sentido original da frase."
+    },
+    {
+      "id": 4,
+      "enunciado": "Considere a frase: 'É importante vocês lerem o edital com atenção.' A oração reduzida de infinitivo 'vocês lerem o edital com atenção' é classificada como:",
+      "opcoes": [
+        "A) Oração Subordinada Substantiva Subjetiva Reduzida de Infinitivo Pessoal.",
+        "B) Oração Subordinada Adjetiva Restritiva Reduzida de Infinitivo Pessoal.",
+        "C) Oração Subordinada Adverbial Final Reduzida de Infinitivo Pessoal.",
+        "D) Oração Subordinada Substantiva Objetiva Direta Reduzida de Infinitivo Impessoal."
+      ],
+      "gabarito": "A",
+      "comentario": "A oração 'É importante vocês lerem o edital com atenção' pode ser desenvolvida como 'É importante QUE VOCÊS LEIAM o edital com atenção'. O 'que vocês leiam o edital com atenção' funciona como sujeito do verbo 'é' (ser importante). Como o infinitivo 'lerem' está flexionado para concordar com o sujeito 'vocês', trata-se de um infinitivo pessoal. Portanto, é uma Oração Subordinada Substantiva Subjetiva Reduzida de Infinitivo Pessoal."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das alternativas apresenta uma oração reduzida de particípio com função de adjunto adnominal?",
+      "opcoes": [
+        "A) Terminada a prova, os alunos saíram.",
+        "B) Ferido na perna, o jogador foi substituído.",
+        "C) A casa, construída há anos, precisa de reforma.",
+        "D) Visto de longe, o monumento impressiona."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, 'construída há anos' qualifica diretamente o substantivo 'casa', funcionando como um adjetivo. Pode ser desenvolvida como 'A casa QUE FOI CONSTRUÍDA há anos'. Em A, 'Terminada a prova' é adjunto adverbial de tempo. Em B, 'Ferido na perna' é adjunto adverbial de causa. Em D, 'Visto de longe' é adjunto adverbial de condição ou modo."
+    }
+  ]
+}

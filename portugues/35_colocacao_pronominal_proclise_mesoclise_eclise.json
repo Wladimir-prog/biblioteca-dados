@@ -1,0 +1,168 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Colocação Pronominal (Próclise, Mesóclise, Êclise)",
+  "introducao": [
+    "A colocação pronominal é um tópico fundamental da sintaxe da língua portuguesa, que estuda a posição dos pronomes oblíquos átonos (me, te, se, o, a, os, as, lhe, lhes, nos, vos) em relação ao verbo.",
+    "Existem três posições principais: próclise (antes do verbo), mesóclise (no meio do verbo) e ênclise (depois do verbo). A escolha da posição correta é determinada por fatores sintáticos, como a presença de palavras atrativas e o tempo verbal, garantindo a clareza e a correção gramatical da frase."
+  ],
+  "secoes": [
+    {
+      "titulo": "Próclise: O Pronome Antes do Verbo",
+      "destaque": "A próclise é a posição preferencial na língua portuguesa, especialmente na presença de palavras atrativas, que 'puxam' o pronome para antes do verbo.",
+      "conteudo": [
+        "A próclise ocorre quando o pronome oblíquo átono é colocado antes do verbo. Esta é a posição mais comum na língua portuguesa, tanto na fala quanto na escrita, e é obrigatória em diversas situações."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Palavras Atrativas",
+          "itens": [
+            "Advérbios (exceto em início de frase): Nunca me disseram a verdade. Aqui se faz, aqui se paga. Ontem o vi no parque.",
+            "Pronomes indefinidos: Alguém me ligou. Ninguém o ajudou. Tudo se resolveu.",
+            "Pronomes demonstrativos: Isso me incomoda. Aquilo nos pertence. Este se arrependeu.",
+            "Conjunções subordinativas: Embora se esforçasse, não conseguiu. Quando o encontrei, sorri. Se me chamarem, irei.",
+            "Negações: Não me importo. Jamais o perdoarei. Nem se lembrou.",
+            "Em frases exclamativas ou interrogativas: Quem te contou isso? Como se atreve! Quanto lhe custou?"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Mesóclise: O Pronome no Meio do Verbo",
+      "destaque": "A mesóclise é exclusiva para verbos no futuro do presente ou futuro do pretérito do indicativo, na ausência de palavras atrativas.",
+      "conteudo": [
+        "A mesóclise ocorre quando o pronome oblíquo átono é colocado no meio do verbo. Esta colocação é mais formal e restrita a contextos específicos, sendo utilizada apenas com verbos em tempos futuros do indicativo, desde que não haja uma palavra atrativa que force a próclise."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Futuro do Presente",
+          "itens": [
+            "O pronome é inserido entre o radical e a terminação do verbo, mantendo a terminação verbal após o pronome. Ex.: Convidar-me-ão para a festa. Far-lhe-ei um favor. Ajudar-te-ei amanhã."
+          ]
+        },
+        {
+          "subtitulo": "Futuro do Pretérito",
+          "itens": [
+            "Assim como no futuro do presente, o pronome é inserido entre o radical e a terminação do verbo, que é mantida. Ex.: Dir-se-ia que era mentira. Faria-o se pudesse. Entregar-lhe-ia o livro."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Ênclise: O Pronome Depois do Verbo",
+      "destaque": "A ênclise é a colocação padrão quando não há fatores para próclise ou mesóclise, sendo obrigatória em início de frase e com verbos no imperativo afirmativo.",
+      "conteudo": [
+        "A ênclise ocorre quando o pronome oblíquo átono é colocado depois do verbo. É a posição padrão e mais comum quando não há nenhum fator que justifique a próclise ou a mesóclise."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Início de Frase",
+          "itens": [
+            "É proibido iniciar frase com pronome oblíquo átono. Nesses casos, a ênclise é obrigatória. Ex.: Entreguei-lhe o pacote. Diga-me a verdade. Chamaram-no para a reunião."
+          ]
+        },
+        {
+          "subtitulo": "Verbo no Imperativo Afirmativo",
+          "itens": [
+            "Com verbos no imperativo afirmativo, a ênclise é a regra. Ex.: Sente-se aqui. Ajude-me, por favor. Façam-no agora."
+          ]
+        },
+        {
+          "subtitulo": "Verbo no Infinitivo Impessoal",
+          "itens": [
+            "Quando o verbo está no infinitivo impessoal e não há palavra atrativa. Ex.: É preciso ajudá-lo. Quero vê-lo feliz. Decidi fazê-lo."
+          ]
+        },
+        {
+          "subtitulo": "Verbo no Gerúndio",
+          "itens": [
+            "Quando o verbo está no gerúndio e não é precedido pela preposição 'em'. Ex.: Olhando-o, percebi a tristeza. Escrevendo-lhe, senti saudade. Abraçando-a, consolou-a."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Especiais e Proibições na Colocação Pronominal",
+      "destaque": "Lembre-se: Nunca inicie uma frase com pronome oblíquo átono e evite ênclise com verbos no futuro do presente ou do pretérito, e com verbos no particípio.",
+      "conteudo": [
+        "Além das regras básicas, existem proibições e casos especiais que merecem atenção para evitar erros comuns na colocação pronominal.",
+        "Proibições gerais: Não se usa ênclise com verbos no futuro do presente ou do pretérito (a menos que haja palavra atrativa que force a próclise). Não se usa ênclise quando o verbo está no particípio. Não se usa próclise em início de frase."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Verbo no Particípio",
+          "itens": [
+            "Com verbos no particípio, o pronome oblíquo átono não se liga diretamente a ele. Geralmente, o pronome aparece antes do verbo auxiliar. Ex.: Tinha-o encontrado. Havia-lhe falado. Foram-nos apresentados."
+          ]
+        },
+        {
+          "subtitulo": "Locuções Verbais",
+          "itens": [
+            "Em locuções verbais, a colocação depende do verbo auxiliar e da presença de palavra atrativa. Se o auxiliar for particípio, o pronome vai antes do auxiliar ou depois do principal (se este for infinitivo/gerúndio e não houver atrativo).",
+            "a) Com auxiliar no infinitivo ou gerúndio e sem atrativo: Vou-te ajudar. Estou-o esperando. Quero-lhe falar.",
+            "b) Com auxiliar no infinitivo ou gerúndio e com atrativo: Não te vou ajudar. Sempre o estou esperando. Nunca lhe quero falar.",
+            "c) Com auxiliar no particípio: Haviam-no convidado. Tinham-se esquecido. Ter-lhe-iam dito."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A colocação pronominal estuda a posição dos pronomes oblíquos átonos em relação ao verbo: próclise (antes), mesóclise (meio) e ênclise (depois).",
+    "A próclise é a posição preferencial e obrigatória na presença de palavras atrativas (advérbios, pronomes indefinidos/demonstrativos, conjunções subordinativas, negações, frases exclamativas/interrogativas).",
+    "A mesóclise é restrita a verbos no futuro do presente ou futuro do pretérito do indicativo, desde que não haja palavra atrativa.",
+    "A ênclise é a posição padrão quando não há fatores para próclise ou mesóclise, sendo obrigatória em início de frase e com verbos no imperativo afirmativo.",
+    "É proibido iniciar frases com pronomes oblíquos átonos. Também não se usa ênclise com verbos no futuro ou no particípio.",
+    "Em locuções verbais, a colocação varia conforme o verbo auxiliar e a presença de atrativos, com o pronome geralmente antes do auxiliar ou depois do principal (se infinitivo/gerúndio e sem atrativo)."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a colocação pronominal está CORRETA:",
+      "opcoes": [
+        "A) Me disseram a verdade sobre o ocorrido.",
+        "B) Far-lhe-ei o favor, se possível.",
+        "C) Não importo-me com sua opinião.",
+        "D) Quando encontrei-o, sorri."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa correta é a B. A mesóclise (far-lhe-ei) está corretamente empregada com o verbo no futuro do presente ('farei') e na ausência de palavra atrativa. Na alternativa A, 'Me disseram' está incorreto, pois não se inicia frase com pronome oblíquo átono; o correto seria 'Disseram-me'. Na alternativa C, 'Não importo-me' está incorreto, pois a palavra negativa 'Não' atrai o pronome para antes do verbo (próclise); o correto seria 'Não me importo'. Na alternativa D, 'Quando encontrei-o' está incorreto, pois a conjunção subordinativa 'Quando' é uma palavra atrativa que exige a próclise; o correto seria 'Quando o encontrei'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a seguir a próclise é obrigatória?",
+      "opcoes": [
+        "A) Entreguei-lhe o livro ontem.",
+        "B) Sente-se aqui, por favor.",
+        "C) Ninguém o viu sair da sala.",
+        "D) Ajudar-me-ia se pudesse."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. A próclise é obrigatória devido à presença do pronome indefinido 'Ninguém', que é uma palavra atrativa. Nas demais opções, a colocação pronominal está correta, mas não há obrigatoriedade de próclise: em A, 'Entreguei-lhe' é ênclise em início de frase; em B, 'Sente-se' é ênclise com imperativo afirmativo; em D, 'Ajudar-me-ia' é mesóclise com futuro do pretérito."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a opção em que a colocação pronominal está de acordo com a norma-padrão da língua portuguesa.",
+      "opcoes": [
+        "A) Haviam-se esquecido do compromisso.",
+        "B) Se me chamarem, irei à reunião.",
+        "C) Quero vê-lo feliz, sempre.",
+        "D) Tinha-o encontrado na rua."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa correta é a B. A conjunção subordinativa 'Se' atrai o pronome 'me' para antes do verbo ('chamarem'), configurando uma próclise obrigatória. Na alternativa A, 'Haviam-se esquecido' está incorreto; com auxiliar no particípio, o pronome deve vir antes do auxiliar: 'Tinham-se esquecido' ou 'Haviam-se esquecido' (se o pronome estivesse antes do auxiliar). A forma 'Haviam-se esquecido' é aceitável em alguns contextos, mas 'Tinham-se esquecido' é mais comum. No entanto, a questão pede a que está de acordo com a norma-padrão, e a próclise em B é inquestionável. Na alternativa C, 'Quero vê-lo feliz, sempre' está correto, mas 'Sempre o quero ver feliz' também seria possível devido ao advérbio 'sempre'. Na alternativa D, 'Tinha-o encontrado' está correto, com o pronome antes do verbo auxiliar no particípio."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das frases apresenta erro de colocação pronominal?",
+      "opcoes": [
+        "A) Jamais o perdoarei por isso.",
+        "B) Dir-se-ia que era um engano.",
+        "C) É preciso ajudá-lo a sair.",
+        "D) Me empreste seu livro, por favor."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D apresenta erro de colocação pronominal. Não se pode iniciar uma frase com pronome oblíquo átono ('Me'). O correto seria 'Empreste-me seu livro, por favor' (ênclise, pois é início de frase e imperativo afirmativo). As demais alternativas estão corretas: A) 'Jamais o perdoarei' – próclise obrigatória devido ao advérbio de negação 'Jamais'. B) 'Dir-se-ia' – mesóclise correta com verbo no futuro do pretérito. C) 'É preciso ajudá-lo' – ênclise correta com verbo no infinitivo impessoal."
+    }
+  ]
+}

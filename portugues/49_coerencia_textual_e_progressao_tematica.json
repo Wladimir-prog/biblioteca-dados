@@ -1,0 +1,113 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Coerência Textual e Progressão Temática",
+  "introducao": [
+    "A coerência textual e a progressão temática são pilares essenciais para a construção de textos claros, compreensíveis e eficazes. Elas garantem que o leitor consiga seguir o raciocínio do autor sem dificuldades, tornando a leitura fluida e a mensagem assimilável.",
+    "Enquanto a coerência se relaciona com o sentido lógico e a não contradição das ideias, a progressão temática assegura que o texto avance, apresentando novas informações de forma organizada e mantendo o interesse do leitor."
+  ],
+  "secoes": [
+    {
+      "titulo": "Coerência Textual",
+      "destaque": "A coerência é a alma do texto, garantindo que todas as partes se encaixem logicamente para formar um sentido completo e compreensível, sem contradições ou lacunas.",
+      "conteudo": [
+        "A coerência refere-se à relação lógica entre as ideias, frases e parágrafos de um texto, garantindo que ele faça sentido como um todo. É a propriedade que permite ao leitor compreender a mensagem global.",
+        "Ela se manifesta em diversos níveis: semântico (sentido das palavras), sintático (estrutura das frases), pragmático (intenção comunicativa) e estilístico (adequação da linguagem).",
+        "A ausência de contradições, a relevância das informações e a não repetição desnecessária são características de um texto coerente."
+      ],
+      "itens": [
+        "Ex.: O aluno estudou muito para a prova e, por isso, obteve um excelente resultado.",
+        "Ex.: A cidade estava em festa, com ruas decoradas e muita música.",
+        "Ex.: Apesar da chuva, o evento foi um sucesso, atraindo grande público."
+      ]
+    },
+    {
+      "titulo": "Fatores de Coerência",
+      "subsecoes": [
+        {
+          "subtitulo": "Principais Fatores",
+          "itens": [
+            "Conhecimento de Mundo: O texto deve estar alinhado com o conhecimento geral do leitor sobre o assunto, evitando informações que fujam à realidade ou ao senso comum.",
+            "Não Contradição: As ideias apresentadas não podem se opor umas às outras, mantendo a lógica interna do discurso.",
+            "Relevância: Todas as informações devem contribuir para o tema central do texto, sem desvios desnecessários.",
+            "Não Repetição: Evitar a reiteração desnecessária de ideias ou palavras, o que pode tornar o texto cansativo e redundante.",
+            "Progressão: O texto deve avançar, adicionando novas informações e desenvolvendo o tema de forma contínua."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Progressão Temática",
+      "destaque": "A progressão temática é o motor do texto, impulsionando a narrativa e introduzindo novas informações para manter o leitor engajado e o conteúdo em constante evolução.",
+      "conteudo": [
+        "A progressão temática é o modo como as informações são introduzidas e desenvolvidas ao longo do texto, garantindo que ele não fique estagnado ou repetitivo. É a evolução do conteúdo.",
+        "Ela se baseia na relação entre o TEMA (informação já conhecida ou dada) e o REMA (informação nova ou que se acrescenta ao tema).",
+        "Um texto com boa progressão temática apresenta um equilíbrio entre o que já foi dito e o que ainda será dito, mantendo o interesse do leitor e a clareza da mensagem."
+      ],
+      "itens": [
+        "Ex.: O Brasil é um país de grande diversidade. Sua cultura reflete essa riqueza.",
+        "Ex.: A internet revolucionou a comunicação. Ela permite a conexão global instantânea.",
+        "Ex.: O aquecimento global é uma preocupação mundial. Suas consequências são alarmantes."
+      ]
+    },
+    {
+      "titulo": "Tipos de Progressão Temática",
+      "subsecoes": [
+        {
+          "subtitulo": "Modelos de Desenvolvimento",
+          "itens": [
+            "Progressão com Tema Constante: O mesmo tema é retomado em diferentes frases, mas com remas distintos, adicionando novas informações sobre o mesmo assunto. Ex.: João é um bom aluno. Ele sempre tira notas altas. Ele estuda com dedicação.",
+            "Progressão Linear: O rema (informação nova) de uma frase torna-se o tema (informação conhecida) da frase seguinte, criando uma cadeia de informações. Ex.: Comprei um livro novo. O livro trata de história. A história é sobre a Revolução Francesa.",
+            "Progressão com Temas Derivados: Um tema geral é desdobrado em vários subtemas, explorando diferentes aspectos de um assunto principal. Ex.: A escola oferece diversas atividades. Há aulas de música, teatro e esportes."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Coerência textual e progressão temática são interdependentes e cruciais para a clareza e eficácia de qualquer texto.",
+    "A coerência garante o sentido lógico, a não contradição e a unidade das ideias apresentadas no texto.",
+    "A progressão temática assegura o avanço do texto, introduzindo novas informações de forma organizada e evitando a estagnação.",
+    "Fatores como conhecimento de mundo, não contradição, relevância e não repetição são essenciais para a coerência.",
+    "A progressão se baseia na relação entre o tema (informação conhecida) e o rema (informação nova).",
+    "Os principais tipos de progressão temática são: com tema constante, linear e com temas derivados."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das opções abaixo a frase apresenta um problema de coerência textual?",
+      "opcoes": [
+        "A) Apesar da chuva intensa, o piquenique foi cancelado.",
+        "B) Ele estudou muito para a prova, por isso foi reprovado.",
+        "C) O sol brilhava forte, e as crianças brincavam no parque.",
+        "D) Comprei um livro novo, que aborda temas de ficção científica."
+      ],
+      "gabarito": "B",
+      "comentario": "A opção B apresenta uma contradição lógica. Estudar muito geralmente leva à aprovação, não à reprovação. A relação de causa e consequência expressa por 'por isso' está incoerente com o resultado apresentado, quebrando a lógica interna da frase."
+    },
+    {
+      "id": 2,
+      "enunciado": "Analise o trecho a seguir: 'O professor explicou a matéria. A matéria era complexa. A complexidade exigiu muita atenção dos alunos.' Qual tipo de progressão temática está presente?",
+      "opcoes": [
+        "A) Progressão com tema constante.",
+        "B) Progressão linear.",
+        "C) Progressão com temas derivados.",
+        "D) Progressão por enumeração."
+      ],
+      "gabarito": "B",
+      "comentario": "Na progressão linear, o rema (informação nova) de uma oração torna-se o tema (informação conhecida) da oração seguinte. Neste caso, 'a matéria' (rema da primeira frase) vira tema da segunda, e 'a complexidade' (rema da segunda) vira tema da terceira, estabelecendo uma sequência encadeada de informações."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considerando os conceitos de coerência textual e progressão temática, assinale a alternativa correta.",
+      "opcoes": [
+        "A) Um texto pode ser coerente sem apresentar progressão temática, pois são conceitos independentes.",
+        "B) A progressão temática é responsável por garantir que o texto não tenha contradições internas.",
+        "C) A coerência textual refere-se à lógica interna do texto, enquanto a progressão temática garante o avanço das informações.",
+        "D) O conhecimento de mundo do leitor não influencia a coerência de um texto, apenas a sua interpretação."
+      ],
+      "gabarito": "C",
+      "comentario": "A coerência textual está ligada à lógica e ao sentido global do texto, evitando contradições e garantindo que as ideias se conectem de forma significativa. A progressão temática, por sua vez, assegura que o texto evolua, introduzindo novas informações e desenvolvendo o tema de maneira contínua. A opção C define corretamente ambos os conceitos e suas funções essenciais na construção textual."
+    }
+  ]
+}

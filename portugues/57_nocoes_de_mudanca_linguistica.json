@@ -1,0 +1,269 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "LINGUÍSTICA E VALÊNCIA",
+  "tema": "Noções de Mudança Linguística",
+  "introducao": [
+    "A língua portuguesa, como qualquer idioma vivo, é um sistema dinâmico e em constante evolução. Longe de ser estática, ela se adapta e se transforma continuamente, refletindo as necessidades e o uso de seus falantes ao longo do tempo.",
+    "A mudança linguística abrange alterações em todos os níveis da língua: fonético (sons), morfológico (estrutura das palavras), sintático (estrutura das frases), semântico (significado) e lexical (vocabulário). Compreender esses processos é fundamental para entender a história e a diversidade do nosso idioma."
+  ],
+  "secoes": [
+    {
+      "titulo": "Fatores da Mudança Linguística",
+      "conteudo": [
+        "A mudança linguística é um fenômeno complexo, impulsionado por uma série de fatores que podem ser classificados como internos ou externos à própria estrutura da língua."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Fatores Internos",
+          "itens": [
+            "São aqueles que decorrem da própria estrutura e funcionamento do sistema linguístico, buscando maior economia, regularidade ou clareza."
+          ]
+        },
+        {
+          "subtitulo": "Analogia",
+          "itens": [
+            "É a tendência de regularizar formas irregulares, baseando-se em padrões já existentes na língua, visando à simetria e à simplificação.",
+            "Ex.: A forma “eu trago” (do verbo trazer) por analogia com “eu faço” (do verbo fazer).",
+            "Ex.: A criação de verbos regulares a partir de substantivos, como “tuitar” (de Twitter) ou “googlear” (de Google).",
+            "Ex.: A conjugação de verbos irregulares como “caber” seguindo o padrão de “saber” (eu caibo)."
+          ]
+        },
+        {
+          "subtitulo": "Reanálise",
+          "itens": [
+            "Consiste na interpretação diferente de uma estrutura linguística existente, levando à criação de novas formas ou construções gramaticais.",
+            "Ex.: A expressão “a gente” (originalmente pronome indefinido + substantivo) reanalisada como pronome pessoal de primeira pessoa do plural, equivalente a “nós”.",
+            "Ex.: O prefixo “des-” em “desligar” que, historicamente, era “dis-”.",
+            "Ex.: A palavra “embora” que se originou da locução “em boa hora”."
+          ]
+        },
+        {
+          "subtitulo": "Simplificação",
+          "itens": [
+            "Refere-se à busca por economia de esforço na pronúncia ou na estrutura gramatical, resultando em formas mais curtas ou menos complexas.",
+            "Ex.: A queda de fonemas em palavras, como “estar” virando “tá” ou “você” virando “cê”.",
+            "Ex.: A redução de preposições, como “para” para “pra” ou “de” para “di” (em algumas variantes).",
+            "Ex.: A omissão de preposições em certas construções informais, como “ir casa” em vez de “ir para casa”."
+          ]
+        },
+        {
+          "subtitulo": "Fatores Externos",
+          "itens": [
+            "São aqueles que vêm de fora do sistema linguístico, relacionados ao contexto social, cultural, histórico e geográfico dos falantes."
+          ]
+        },
+        {
+          "subtitulo": "Contato Linguístico",
+          "itens": [
+            "Resulta da interação entre diferentes línguas ou dialetos, levando a empréstimos, influências mútuas e, por vezes, à formação de novas línguas ou dialetos.",
+            "Ex.: A incorporação de palavras indígenas ao português, como “abacaxi”, “tatu” e “caju”.",
+            "Ex.: A adoção de termos ingleses (estrangeirismos), como “internet”, “marketing”, “delivery” e “feedback”.",
+            "Ex.: A influência do francês no vocabulário da moda e culinária, como “sutiã”, “croissant” e “menu”."
+          ]
+        },
+        {
+          "subtitulo": "Fatores Sociais",
+          "itens": [
+            "Mudanças impulsionadas por grupos sociais específicos, gírias, modismos, prestígio social e estratificação social.",
+            "Ex.: O uso de gírias específicas de grupos jovens, como “top”, “lacrou” ou “flopar”.",
+            "Ex.: A adoção de termos técnicos ou jargões por influência profissional, como “briefing” ou “deadline” no ambiente corporativo.",
+            "Ex.: A variação na pronúncia de certas vogais ou consoantes em diferentes classes sociais ou regiões."
+          ]
+        },
+        {
+          "subtitulo": "Fatores Culturais",
+          "itens": [
+            "Influência de novas tecnologias, descobertas científicas, eventos históricos, mudanças de costumes e valores da sociedade.",
+            "Ex.: O surgimento de novas palavras para descrever tecnologias e conceitos modernos, como “smartphone”, “podcast” e “streaming”.",
+            "Ex.: A evolução do significado de palavras como “navegar” (antes em barcos, agora na internet) ou “rede” (de pesca para social).",
+            "Ex.: A mudança no tratamento formal e informal, com o declínio do uso de “vós” e a ascensão de “vocês” e “a gente”."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tipos de Mudança Linguística",
+      "conteudo": [
+        "As transformações na língua podem ser classificadas de acordo com o nível da estrutura linguística que é afetado."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Mudanças Fonéticas e Fonológicas",
+          "itens": [
+            "Alterações na pronúncia dos sons da fala (fonética) ou no sistema de sons da língua (fonologia), que podem levar à perda, adição ou modificação de fonemas.",
+            "Ex.: A monotongação de ditongos, como “coisa” para “cosa” em algumas variantes regionais.",
+            "Ex.: A palatalização de “t” e “d” antes de “i” em algumas regiões do Brasil (ex: “leite” pronunciado como “leitchi”, “dia” como “djia”).",
+            "Ex.: A queda do “l” em final de sílaba, como “Brasil” para “Brasiu” ou “sol” para “sóu”."
+          ]
+        },
+        {
+          "subtitulo": "Mudanças Morfológicas",
+          "itens": [
+            "Alterações na estrutura interna das palavras, como flexões, derivações, formação de novas palavras ou perda de elementos morfológicos.",
+            "Ex.: A perda de desinências verbais ao longo da história do português, simplificando a conjugação.",
+            "Ex.: A criação de novos sufixos ou prefixos produtivos, como o sufixo “-eiro” em “blogueiro” ou “youtuber”.",
+            "Ex.: A simplificação de formas verbais complexas, como a substituição de mesóclises por próclises ou ênclises."
+          ]
+        },
+        {
+          "subtitulo": "Mudanças Sintáticas",
+          "itens": [
+            "Alterações na ordem das palavras e na estrutura das frases, afetando a organização e a relação entre os elementos da oração.",
+            "Ex.: A posição do pronome oblíquo átono (próclise, ênclise, mesóclise) que varia ao longo do tempo e entre as variantes do português.",
+            "Ex.: A construção de frases com sujeito oculto ou indeterminado, que se tornou mais comum em detrimento de formas explícitas.",
+            "Ex.: A preferência por certas construções passivas ou ativas em diferentes épocas ou contextos."
+          ]
+        },
+        {
+          "subtitulo": "Mudanças Semânticas",
+          "itens": [
+            "Alterações no significado das palavras, que podem se expandir, restringir, mudar completamente ou adquirir conotações diferentes.",
+            "Ex.: A palavra “vilão” que antes significava “morador da vila” e hoje significa “malvado” ou “antagonista”.",
+            "Ex.: A palavra “azulejo” que antes se referia apenas a peças azuis e hoje designa revestimentos cerâmicos de qualquer cor.",
+            "Ex.: O termo “navegar” que expandiu seu sentido de “viajar por água” para “explorar a internet”."
+          ]
+        },
+        {
+          "subtitulo": "Mudanças Lexicais",
+          "itens": [
+            "Adição, perda ou substituição de palavras no vocabulário da língua, refletindo novas realidades, conceitos ou influências culturais.",
+            "Ex.: O surgimento de neologismos para nomear novas tecnologias ou fenômenos, como “blogar”, “zap” ou “selfie”.",
+            "Ex.: A obsolescência de palavras antigas que caem em desuso, como “botica” (farmácia) ou “alvíssaras” (boas notícias).",
+            "Ex.: A incorporação de estrangeirismos, como “download”, “feedback” ou “e-mail”."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Consequências da Mudança Linguística",
+      "conteudo": [
+        "A mudança linguística não é um processo isolado; ela é a força motriz por trás da variação e da evolução contínua das línguas, com impactos significativos."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Variação Linguística",
+          "itens": [
+            "É a coexistência de diferentes formas de uma mesma língua em um dado momento e espaço, manifestando-se em níveis regional, social, estilístico e histórico.",
+            "Ex.: As diferenças de vocabulário, pronúncia e sintaxe entre o português do Brasil e o de Portugal.",
+            "Ex.: As variações regionais na pronúncia de certas palavras ou na entonação em diferentes estados brasileiros.",
+            "Ex.: As gírias e jargões específicos de grupos sociais, profissionais ou etários."
+          ]
+        },
+        {
+          "subtitulo": "Formação de Dialetos",
+          "itens": [
+            "Com o tempo e a acentuação das variações, podem-se formar dialetos distintos dentro de uma mesma língua, que, em casos extremos, podem evoluir para línguas separadas.",
+            "Ex.: O português e o espanhol, que se originaram do latim vulgar, mas se diferenciaram ao longo dos séculos.",
+            "Ex.: As diferenças marcantes entre o português falado no Nordeste e no Sul do Brasil, que constituem dialetos regionais.",
+            "Ex.: A formação de línguas crioulas a partir do contato intenso entre línguas de diferentes origens."
+          ]
+        },
+        {
+          "subtitulo": "Evolução das Línguas",
+          "itens": [
+            "A mudança é o processo contínuo que permite às línguas se adaptarem às novas realidades, tecnologias e necessidades comunicativas de seus falantes ao longo das gerações.",
+            "Ex.: A transformação do latim em diversas línguas românicas (português, espanhol, francês, italiano, romeno).",
+            "Ex.: A constante atualização do léxico para incorporar novas realidades e conceitos, mantendo a língua relevante.",
+            "Ex.: A simplificação de estruturas gramaticais complexas ao longo do tempo, tornando a língua mais acessível."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A Prescrição Gramatical e a Mudança",
+      "destaque": "A gramática normativa busca estabilizar a língua, mas a realidade do uso é dinâmica. Para concursos, é crucial dominar a norma culta, mas entender que a língua viva está em constante transformação.",
+      "conteudo": [
+        "A gramática normativa, ou prescritiva, tem como objetivo estabelecer um padrão de uso considerado 'correto' ou 'culto' para a língua. No entanto, a língua viva está sempre em movimento, gerando uma tensão entre a norma e o uso real."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Norma Culta vs. Uso Real",
+          "itens": [
+            "A norma culta representa um ideal de língua, geralmente associado a contextos formais e à escrita, enquanto o uso real reflete a diversidade, a espontaneidade e a dinâmica da fala cotidiana.",
+            "Ex.: A regra de concordância verbal (ex: 'os meninos foram') que nem sempre é seguida na fala informal ('os menino foi').",
+            "Ex.: O uso de “eu vi ele” em vez de “eu o vi” em contextos coloquiais, apesar da prescrição gramatical.",
+            "Ex.: A preferência por “a gente vai” em vez de “nós vamos” em muitas situações de comunicação oral."
+          ]
+        },
+        {
+          "subtitulo": "Atitudes Frente à Mudança",
+          "itens": [
+            "Existem diferentes posturas em relação à mudança linguística: os puristas, que resistem a qualquer alteração e defendem a 'pureza' da língua, e os linguistas, que a veem como um processo natural, inevitável e essencial para a vitalidade do idioma.",
+            "Ex.: A resistência a neologismos ou estrangeirismos por parte de alguns falantes, que os consideram 'deturpações' da língua.",
+            "Ex.: A aceitação gradual de formas antes consideradas 'erradas' pela norma, que com o tempo podem ser incorporadas à gramática.",
+            "Ex.: O estudo da mudança linguística como forma de compreender a história, a evolução e a diversidade das línguas, sem juízos de valor."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A língua é um sistema vivo e dinâmico, em constante mudança em todos os seus níveis (fonético, morfológico, sintático, semântico e lexical).",
+    "Os fatores de mudança podem ser internos (analogia, reanálise, simplificação) ou externos (contato linguístico, fatores sociais e culturais).",
+    "As mudanças linguísticas são classificadas de acordo com o nível da língua que afetam, como fonéticas/fonológicas, morfológicas, sintáticas, semânticas e lexicais.",
+    "As principais consequências da mudança linguística são a variação linguística, a formação de dialetos e a evolução contínua das línguas.",
+    "Há uma tensão entre a norma culta (prescritiva) e o uso real da língua, com diferentes atitudes frente às transformações linguísticas."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "A mudança linguística é um fenômeno natural e inevitável. Dentre os fatores internos que impulsionam essa transformação, qual deles se refere à tendência de regularizar formas irregulares, baseando-se em padrões existentes na língua?",
+      "opcoes": [
+        "A) Reanálise",
+        "B) Simplificação",
+        "C) Analogia",
+        "D) Contato Linguístico"
+      ],
+      "gabarito": "C",
+      "comentario": "A analogia é a tendência de regularizar formas irregulares, como 'eu trago' por 'eu faço'. A reanálise é a interpretação diferente de uma estrutura, a simplificação é a busca por economia de esforço, e o contato linguístico é um fator externo."
+    },
+    {
+      "id": 2,
+      "enunciado": "A palavra 'vilão', que antes significava 'morador da vila', hoje significa 'malvado' ou 'antagonista'. Esse é um exemplo clássico de qual tipo de mudança linguística?",
+      "opcoes": [
+        "A) Mudança Fonética",
+        "B) Mudança Morfológica",
+        "C) Mudança Semântica",
+        "D) Mudança Lexical"
+      ],
+      "gabarito": "C",
+      "comentario": "A mudança no significado de uma palavra é classificada como mudança semântica. A palavra em si não foi alterada em sua forma (lexical) ou estrutura (morfológica), nem em sua pronúncia (fonética), mas sim em seu sentido."
+    },
+    {
+      "id": 3,
+      "enunciado": "A incorporação de termos como 'internet', 'marketing' e 'delivery' ao vocabulário da língua portuguesa é um exemplo de mudança linguística impulsionada por qual fator?",
+      "opcoes": [
+        "A) Fatores Sociais",
+        "B) Fatores Culturais",
+        "C) Analogia",
+        "D) Contato Linguístico"
+      ],
+      "gabarito": "D",
+      "comentario": "A incorporação de palavras de outras línguas (estrangeirismos) é uma consequência direta do contato linguístico, que ocorre quando diferentes idiomas interagem e influenciam-se mutuamente. Embora possa ter implicações sociais e culturais, o fator primário é o contato entre as línguas."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das alternativas abaixo apresenta uma consequência direta da mudança linguística?",
+      "opcoes": [
+        "A) A estagnação da língua.",
+        "B) A padronização total do idioma.",
+        "C) A formação de dialetos e a variação linguística.",
+        "D) A eliminação de todas as irregularidades gramaticais."
+      ],
+      "gabarito": "C",
+      "comentario": "A mudança linguística é a força motriz por trás da variação linguística (diferentes formas de uma língua) e, a longo prazo, pode levar à formação de dialetos e até mesmo de novas línguas. A língua não estagna, não se padroniza totalmente e as irregularidades podem ser criadas ou mantidas, não eliminadas por completo."
+    },
+    {
+      "id": 5,
+      "enunciado": "A frase 'A gente fomos no cinema ontem' é um exemplo de uso comum na fala informal brasileira que diverge da norma culta. Essa situação ilustra a tensão entre:",
+      "opcoes": [
+        "A) Mudança fonética e mudança morfológica.",
+        "B) Fatores internos e fatores externos da língua.",
+        "C) Norma culta e uso real da língua.",
+        "D) Variação diacrônica e variação sincrônica."
+      ],
+      "gabarito": "C",
+      "comentario": "A frase exemplifica a diferença entre o que é prescrito pela gramática normativa ('Nós fomos' ou 'A gente foi') e o que é efetivamente usado na fala cotidiana ('A gente fomos'). Isso demonstra a tensão constante entre a norma culta e o uso real da língua pelos falantes."
+    }
+  ]
+}

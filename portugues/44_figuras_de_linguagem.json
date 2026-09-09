@@ -1,0 +1,310 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Semântica, Estilística e Uso das Palavras",
+  "tema": "Figuras de Linguagem",
+  "introducao": [
+    "As figuras de linguagem (ou figuras de estilo) são recursos expressivos e intencionais utilizados pelo falante ou escritor para conferir maior força, emoção, ritmo ou beleza à mensagem. Elas ocorrem quando o uso denotativo (literal) da língua é superado pelo uso conotativo (figurado), gerando novos significados no texto.",
+    "Diferente dos vícios de linguagem (que são desvios involuntários contra a norma-padrão), as figuras de linguagem são empregadas de forma consciente e dividem-se em quatro grandes grupos: Figuras de Palavra (Semânticas), Figuras de Pensamento, Figuras de Sintaxe (Construção) e Figuras de Som (Harmonia)."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. Figuras de Palavra (Semânticas)",
+      "conteudo": [
+        "Atuam diretamente no significado das palavras, substituindo o sentido próprio de um termo por outro figurado a partir de relações de semelhança, contiguidade ou fusão sensorial."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1.1. Metáfora",
+          "itens": [
+            "Consiste no emprego de uma palavra ou expressão em sentido figurado com base em uma comparação implícita (subentendida) entre dois elementos, sem a presença de conectivo comparativo.",
+            "Exemplo 1: A vida é uma nuvem que passa.",
+            "Exemplo 2: Seus olhos são faróis na escuridão.",
+            "Exemplo 3: Ele é um leão quando defende seus ideais."
+          ]
+        },
+        {
+          "subtitulo": "1.2. Comparação (ou Símile)",
+          "itens": [
+            "Diferente da metáfora, a comparação é explícita e estabelece uma relação de semelhança entre dois termos utilizando obrigatoriamente conectivos comparativos (como, tal qual, feito, que nem, igual a).",
+            "Exemplo 1: A vida é como uma nuvem que passa.",
+            "Exemplo 2: Seus olhos brilham tal qual estrelas no céu.",
+            "Exemplo 3: Ele lutou que nem um leão na batalha."
+          ]
+        },
+        {
+          "subtitulo": "1.3. Metonímia",
+          "itens": [
+            "Ocorre quando se substitui um termo por outro devido a uma relação de proximidade lógica ou contiguidade entre eles. As substituições metonímicas mais comuns em provas são:",
+            "Autor pela Obra: Li Machado de Assis a noite toda. (Li o livro escrito por ele).",
+            "Continente pelo Conteúdo: Ele bebeu dois copos de suco. (Bebeu o líquido contido no copo).",
+            "A Parte pelo Todo: O jovem não tinha um teto para morar. (Não tinha uma casa completa).",
+            "A Marca pelo Produto: Comprou um Brastemp novo. (Comprou uma geladeira/máquina de lavar).",
+            "O Efeito pela Causa: Ganhou a vida com o suor do seu rosto. (Com o trabalho)."
+          ]
+        },
+        {
+          "subtitulo": "1.4. Catacrese",
+          "itens": [
+            "É o emprego figurado de uma palavra por empréstimo, ocorrido quando não existe um termo específico no idioma para designar determinado objeto, ser ou ação. Com o tempo, torna-se cristalizado e imperceptível no uso diário.",
+            "Exemplo 1: Embarcar no avião ou no trem. (Originalmente 'embarcar' é entrar em um barco).",
+            "Exemplo 2: Dente de alho / Asa da xícara. (Falta termo anatômico específico).",
+            "Exemplo 3: Pé da mesa / Braço da poltrona / Cabeça do prego."
+          ]
+        },
+        {
+          "subtitulo": "1.5. Sinestesia",
+          "itens": [
+            "Consiste no cruzamento ou fusão de diferentes impressões sensoriais (visão, audição, olfato, paladar e tato) em uma mesma expressão conotativa.",
+            "Exemplo 1: Um cheiro doce invadia o ar. (Olfato + Paladar).",
+            "Exemplo 2: Sua voz áspera me incomodava. (Audição + Tato).",
+            "Exemplo 3: LUZ estridente iluminava o palco. (Visão + Audição)."
+          ]
+        },
+        {
+          "subtitulo": "1.6. Antonomásia (ou Perífrase)",
+          "itens": [
+            "Substituição de um nome próprio por uma expressão, qualidade ou fato marcante que o identifique universalmente. Quando aplicada a lugares ou coisas, é comumente chamada de perífrase.",
+            "Exemplo 1: O Rei do Futebol fez história. (Para Pelé).",
+            "Exemplo 2: O Poeta dos Escravos escreveu versos sublimes. (Para Castro Alves).",
+            "Exemplo 3: A Cidade Maravilhosa atrai turistas. (Para o Rio de Janeiro)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "2. Figuras de Pensamento",
+      "conteudo": [
+        "Trabalham com o significado amplo das ideias e proposições na frase. Exploram o contraste, o exagero, a suavização ou a ironia do pensamento."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "2.1. Antítese",
+          "itens": [
+            "Consiste na aproximação de palavras ou expressões com sentidos opostos, que coexistem de forma lógica e harmoniosa dentro do contexto.",
+            "Exemplo 1: O amor e o ódio convivem no coração humano.",
+            "Exemplo 2: A vida é feita de alegrias e tristezas.",
+            "Exemplo 3: Ele trabalhava de dia e descansava de noite."
+          ]
+        },
+        {
+          "subtitulo": "2.2. Paradoxo (ou Oxímoro)",
+          "itens": [
+            "Diferente da antítese, o paradoxo vai além ao reunir ideias abertamente contrárias na mesma afirmação que se anulam e desafiam a lógica, gerando um sentido ilógico ou absurdo à primeira vista.",
+            "Exemplo 1: Estou cego de amor e vejo tudo.",
+            "Exemplo 2: Vivenciou um silêncio eloquente.",
+            "Exemplo 3: O amor é um fogo que arde sem se ver / É ferida que dói e não se sente. (Camões)."
+          ]
+        },
+        {
+          "subtitulo": "2.3. Eufemismo",
+          "itens": [
+            "É o recurso de expressão utilizado para suavizar, abrandar ou mitigar uma informação rude, chocante ou desagradável (como morte, roubo ou graves defeitos).",
+            "Exemplo 1: O paciente entregou a alma ao Criador. (Suaviza 'morreu').",
+            "Exemplo 2: O suspeito faltou com a verdade no depoimento. (Suaviza 'mentiu').",
+            "Exemplo 3: Aquele cidadão apropriou-se do alheio. (Suaviza 'roubou')."
+          ]
+        },
+        {
+          "subtitulo": "2.4. Hipérbole",
+          "itens": [
+            "Mecanismo oposto ao eufemismo; caracteriza-se pelo exagero intencional e desmedido de uma ideia para enfatizar a expressividade da declaração.",
+            "Exemplo 1: Chorei rios de lágrimas com a despedida.",
+            "Exemplo 2: Estou morrendo de sede neste calor.",
+            "Exemplo 3: Já te avisei um milhão de vezes sobre isso."
+          ]
+        },
+        {
+          "subtitulo": "2.5. Ironia",
+          "itens": [
+            "Consiste em afirmar o oposto do que realmente se quer dizer, geralmente marcada pelo tom sarcástico, humorístico ou crítico no contexto da comunicação.",
+            "Exemplo 1: Que belo trabalho você fez! (Diante de um serviço destruído).",
+            "Exemplo 2: Ele é um gênio, tirou nota zero no exame.",
+            "Exemplo 3: Notável a pontualidade do colega, que chegou com duas horas de atraso."
+          ]
+        },
+        {
+          "subtitulo": "2.6. Prosopopeia (ou Personificação)",
+          "itens": [
+            "Consiste em atribuir qualidades, sentimentos, ações ou comportamentos humanos a seres inanimados, animais ou conceitos abstratos.",
+            "Exemplo 1: O vento sussurrava segredos nas árvores.",
+            "Exemplo 2: O sol sorria alegremente no horizonte.",
+            "Exemplo 3: A cidade dormia um sono profundo e calmo."
+          ]
+        },
+        {
+          "subtitulo": "2.7. Gradação (ou Clímax / Anticlímax)",
+          "itens": [
+            "Sequência de ideias dispostas em ordem escalar contínua de intensidade, podendo ser ascendente (clímax) ou descendente (anticlímax).",
+            "Exemplo 1: O homem chorou, gritou, desesperou-se, enlouqueceu. (Ascendente).",
+            "Exemplo 2: O império caiu, a cidade ruiu, a casa desabou, o homem virou pó. (Descendente)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "3. Figuras de Sintaxe (Construção)",
+      "conteudo": [
+        "Atuam sobre a estrutura gramatical e a organização dos termos dentro do período, modificando a ordem direta, omitindo ou repetindo conectivos e termos."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "3.1. Elipse",
+          "itens": [
+            "Omissão intencional de uma palavra ou expressão que pode ser facilmente identificada pelo contexto, pois a estrutura do texto permite a dedução.",
+            "Exemplo 1: Na cabeça, um chapéu velho. (Omitiu-se o verbo 'usava' ou 'havia').",
+            "Exemplo 2: Fui ao mercado; depois, à farmácia. (Omitiu-se a repetição de 'fui')."
+          ]
+        },
+        {
+          "subtitulo": "3.2. Zeugma",
+          "itens": [
+            "É uma forma específica de elipse em que a palavra omitida já foi expressa anteriormente no mesmo período.",
+            "Exemplo 1: Ele gosta de futebol; eu, de basquete. (Omitiu-se o verbo 'gosto', já citado).",
+            "Exemplo 2: Ela estuda engenharia; o irmão, arquitetura. (Omitiu-se o verbo 'estuda')."
+          ]
+        },
+        {
+          "subtitulo": "3.3. Pleonasmo",
+          "itens": [
+            "Consiste na repetição de uma ideia ou palavra para reforçar ou enriquecer o sentido da frase.",
+            "Pleonasmo Estilístico (Literário): Válido para dar expressividade e carga poética ao texto. Ex: Vi com meus próprios olhos. / Rir meu riso.",
+            "Pleonasmo Vicioso (Vício de Linguagem): Redundância desnecessária e gramaticalmente incorreta no uso formal diário. Ex: Subir para cima / Entrar para dentro / Padecer da dor / Hemorragia de sangue."
+          ]
+        },
+        {
+          "subtitulo": "3.4. Silepse (Concordância Ideológica)",
+          "itens": [
+            "Ocorre quando a concordância gramatical é feita com a ideia implícita (o sentido) na mente do falante, e não com a forma estrita da palavra presente na frase. Pode ser de três tipos:",
+            "Silepse de Gênero: Vossa Excelência está preocupado. (Concorda com o sexo masculino da autoridade, não com a palavra 'Vossa Excelência' que é feminina).",
+            "Silepse de Número: A multidão corria e gritavam sem parar. (O verbo no plural concorda com a ideia de várias pessoas na 'multidão').",
+            "Silepse de Pessoa: Os brasileiros somos guerreiros. (O verbo na 1ª pessoa do plural 'somos' inclui o próprio falante no grupo 'os brasileiros')."
+          ]
+        },
+        {
+          "subtitulo": "3.5. Polissíndeto x Assíndeto",
+          "itens": [
+            "Polissíndeto: Repetição enfática e proposital de conjunções coordenativas (principalmente a conjunção 'e'). Ex: E trabalha, e luta, e chora, e vence.",
+            "Assíndeto: Omissão intencional de conjunções coordenativas, ligando as orações apenas por pontuação (vírgulas). Ex: Vim, vi, venci."
+          ]
+        },
+        {
+          "subtitulo": "3.6. Hipérbato (Inversão)",
+          "itens": [
+            "Alteração drástica da ordem direta tradicional dos termos da oração (Sujeito + Verbo + Complementos + Adjuntos).",
+            "Exemplo: Ouviram do Ipiranga as margens áplacidas de um povo heróico o brado retumbante. (Ordem direta: As margens áplacidas do Ipiranga ouviram o brado retumbante de um povo heróico)."
+          ]
+        },
+        {
+          "subtitulo": "3.7. Anacoluto",
+          "itens": [
+            "Acontece quando há uma interrupção na estrutura sintática da frase, deixando um termo isolado e sem função gramatical definida, geralmente no início do enunciado.",
+            "Exemplo: Esse pessoal de hoje, a gente não consegue entender o comportamento deles."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "4. Figuras de Som (Harmonia)",
+      "conteudo": [
+        "Exploram a sonoridade, o ritmo, o efeito acústico e o timbre das consoantes, vogais ou imitações de ruídos do mundo real."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "4.1. Aliteração",
+          "itens": [
+            "Repetição ordenada e proposital de sons consonantais semelhantes ou idênticos ao longo de uma frase ou verso para construir um ritmo acústico.",
+            "Exemplo 1: O rato roeu a roupa do rei de Roma.",
+            "Exemplo 2: Vozes veladas, veludosas vozes. (Cruz e Sousa)."
+          ]
+        },
+        {
+          "subtitulo": "4.2. Assonância",
+          "itens": [
+            "Repetição ordenada de sons vocálicos (vogais) semelhantes em sílabas tônicas ou marcantes para gerar efeito musical no texto.",
+            "Exemplo 1: A onda anda, aonde anda?",
+            "Exemplo 2: Sou a alma que vaga na praia larga."
+          ]
+        },
+        {
+          "subtitulo": "4.3. Onomatopeia",
+          "itens": [
+            "Criação de palavras ou expressões gráficas que buscam imitar os ruídos, sons da natureza, animais ou objetos do mundo real.",
+            "Exemplo 1: O relógio marcava tic-tac na sala vazia.",
+            "Exemplo 2: A campainha tocou ding-dong e o cachorro fez au-au.",
+            "Exemplo 3: O copo caiu no chão: ploft!"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Figuras de Linguagem são recursos expressivos que transcendem o sentido literal, enriquecendo a comunicação e conferindo maior força ou beleza à mensagem.",
+    "Elas são divididas em quatro grandes grupos: Figuras de Palavra (atuam no significado), Figuras de Pensamento (exploram ideias), Figuras de Sintaxe (modificam a estrutura da frase) e Figuras de Som (exploram a sonoridade).",
+    "As Figuras de Palavra incluem Metáfora, Comparação, Metonímia, Catacrese, Sinestesia e Antonomásia/Perífrase, alterando o sentido próprio dos termos.",
+    "As Figuras de Pensamento, como Antítese, Paradoxo, Eufemismo, Hipérbole, Ironia, Prosopopeia e Gradação, trabalham com o significado amplo das ideias.",
+    "As Figuras de Sintaxe, como Elipse, Zeugma, Pleonasmo, Silepse, Polissíndeto, Assíndeto, Hipérbato e Anacoluto, modificam a construção gramatical da frase.",
+    "As Figuras de Som, como Aliteração, Assonância e Onomatopeia, exploram os efeitos acústicos e a harmonia sonora do texto."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "No verso 'O amor é um fogo que arde sem se ver', de Luís Vaz de Camões, a figura de linguagem predominante é:",
+      "opcoes": [
+        "A) Antítese",
+        "B) Metáfora",
+        "C) Paradoxo",
+        "D) Hipérbole"
+      ],
+      "gabarito": "C",
+      "comentario": "O verso 'O amor é um fogo que arde sem se ver' apresenta ideias contraditórias ('fogo que arde' e 'sem se ver') que se anulam e desafiam a lógica, caracterizando um paradoxo. Embora haja uma comparação implícita ('amor é fogo'), a contradição interna é o elemento mais marcante."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que a figura de linguagem empregada é a **metonímia**:",
+      "opcoes": [
+        "A) 'Chorei rios de lágrimas com a notícia.'",
+        "B) 'Li Machado de Assis a noite toda.'",
+        "C) 'O vento sussurrava segredos nas árvores.'",
+        "D) 'Seus olhos brilham como estrelas no céu.'"
+      ],
+      "gabarito": "B",
+      "comentario": "A metonímia ocorre na opção B, onde o autor ('Machado de Assis') é substituído pela sua obra (os livros escritos por ele). As outras opções apresentam hipérbole (A), prosopopeia (C) e comparação (D)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das frases abaixo ocorre uma **silepse de número**?",
+      "opcoes": [
+        "A) 'Vossa Excelência está muito cansado.'",
+        "B) 'Os brasileiros somos um povo acolhedor.'",
+        "C) 'A torcida gritava e pulavam de alegria.'",
+        "D) 'Ele estuda Direito; eu, Medicina.'"
+      ],
+      "gabarito": "C",
+      "comentario": "A silepse de número acontece quando a concordância é feita com a ideia de plural, mesmo que o sujeito gramatical esteja no singular. Em 'A torcida gritava e pulavam de alegria', o verbo 'pulavam' (plural) concorda com a ideia de 'muitas pessoas na torcida', e não com o singular 'torcida'. A opção A é silepse de gênero, B é silepse de pessoa, e D é zeugma."
+    },
+    {
+      "id": 4,
+      "enunciado": "A repetição intencional de sons consonantais semelhantes em uma frase ou verso, como em 'O rato roeu a roupa do rei de Roma', é um exemplo de:",
+      "opcoes": [
+        "A) Assonância",
+        "B) Onomatopeia",
+        "C) Aliteração",
+        "D) Pleonasmo"
+      ],
+      "gabarito": "C",
+      "comentario": "A aliteração é a figura de som que consiste na repetição de sons consonantais idênticos ou semelhantes, como o som de 'r' na frase apresentada. A assonância seria a repetição de vogais, a onomatopeia a imitação de sons, e o pleonasmo uma figura de sintaxe."
+    },
+    {
+      "id": 5,
+      "enunciado": "Identifique a figura de linguagem presente na frase: 'Entregou a alma ao Criador após uma longa enfermidade.'",
+      "opcoes": [
+        "A) Hipérbole",
+        "B) Ironia",
+        "C) Eufemismo",
+        "D) Prosopopeia"
+      ],
+      "gabarito": "C",
+      "comentario": "A expressão 'entregou a alma ao Criador' é utilizada para suavizar a ideia de 'morreu', que poderia ser considerada rude ou desagradável. Essa suavização é a característica principal do eufemismo."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Concordância Nominal",
+  "introducao": [
+    "A concordância nominal é um dos pilares da norma culta da Língua Portuguesa, garantindo a harmonia e a clareza na construção das frases. Ela estabelece a relação de concordância em gênero (masculino/feminino) e número (singular/plural) entre o substantivo (ou pronome substantivo) e seus determinantes, como artigos, adjetivos, pronomes adjetivos e numerais adjetivos.",
+    "Dominar suas regras é essencial para uma comunicação escrita e oral eficaz e correta, evitando ambiguidades e garantindo a precisão gramatical."
+  ],
+  "secoes": [
+    {
+      "titulo": "Regras Gerais da Concordância Nominal",
+      "conteudo": [
+        "A concordância nominal segue princípios básicos que regem a relação entre o substantivo e seus modificadores. Compreender essas regras é fundamental para evitar erros comuns na escrita e na fala."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Um Adjetivo Referindo-se a Vários Substantivos",
+          "itens": [
+            "Se o adjetivo se refere a vários substantivos de *mesmo gênero*, ele concorda com eles no plural. Ex.: Comprei livros e cadernos *novos*. (masculino plural) / As mesas e cadeiras estavam *quebradas*. (feminino plural)",
+            "Se o adjetivo se refere a vários substantivos de *gêneros diferentes*, ele concorda no *masculino plural*. Ex.: Comprei livros e canetas *novos*. (livros - masc, canetas - fem, adjetivo no masc plural)",
+            "Se o adjetivo vier *antes* dos substantivos, ele pode concordar com o mais próximo ou, se houver substantivos de gêneros diferentes, ir para o masculino plural. Ex.: *Lindas* flores e jardins. (concorda com 'flores') / *Lindos* jardins e flores. (concorda com 'jardins') / *Belos* jardins e flores. (masculino plural, abrangendo ambos)."
+          ]
+        },
+        {
+          "subtitulo": "Vários Adjetivos Referindo-se a Um Único Substantivo",
+          "itens": [
+            "O substantivo pode ficar no singular e os adjetivos acompanhados de artigo. Ex.: Estudo a língua *portuguesa* e *a inglesa*. (língua no singular, adjetivos com artigo)",
+            "Ou o substantivo pode ir para o plural e os adjetivos sem artigo. Ex.: Estudo as *línguas portuguesa e inglesa*. (línguas no plural, adjetivos sem artigo)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Especiais e Particularidades",
+      "destaque": "Atenção! Muitos erros de concordância nominal em provas de concurso ocorrem nos casos especiais. Memorize as regras de invariabilidade e variabilidade!",
+      "conteudo": [
+        "Além das regras gerais, a Língua Portuguesa apresenta casos específicos que exigem atenção redobrada para a correta concordância nominal."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "ANEXO, INCLUSO, APENSO, OBRIGADO, MESMO, PRÓPRIO, QUITE",
+          "itens": [
+            "Essas palavras funcionam como adjetivos e, portanto, concordam em gênero e número com o substantivo a que se referem.",
+            "Ex.: As fotos seguem *anexas*. (feminino plural, concordando com 'fotos')",
+            "Ex.: Os documentos estão *inclusos*. (masculino plural, concordando com 'documentos')",
+            "Ex.: Ela *mesma* fez o trabalho. (feminino singular, concordando com 'Ela')",
+            "Ex.: Muito *obrigada*, disse a moça. (feminino singular, concordando com 'moça')"
+          ]
+        },
+        {
+          "subtitulo": "MEIO, BASTANTE, MUITO, POUCO, LONGE, CARO, BARATO",
+          "itens": [
+            "Quando funcionam como *adjetivos*, concordam com o substantivo. Quando funcionam como *advérbios*, são invariáveis.",
+            "**Meio**:",
+            "Adjetivo (metade): Ela bebeu *meio* copo de água. (concorda com 'copo')",
+            "Advérbio (um pouco): Ela está *meio* cansada. (invariável, modificando 'cansada')",
+            "**Bastante**:",
+            "Adjetivo (muitos/muitas): Havia *bastantes* pessoas na festa. (concorda com 'pessoas')",
+            "Advérbio (muito): Eles estudaram *bastante*. (invariável, modificando 'estudaram')",
+            "**Caro/Barato**:",
+            "Adjetivo (preço): As frutas estavam *caras*. (concorda com 'frutas')",
+            "Advérbio (custo): Pagamos *caro* pela viagem. (invariável, modificando 'pagamos')"
+          ]
+        },
+        {
+          "subtitulo": "É BOM, É NECESSÁRIO, É PROIBIDO",
+          "itens": [
+            "Essas expressões são *invariáveis* quando o substantivo não é determinado por artigo ou outro determinante. Ex.: *É proibido* entrada. / *É necessário* paciência. / *É bom* estudar.",
+            "Se o substantivo for determinado, a expressão *concorda*. Ex.: *É proibida a* entrada. / *É necessária a* paciência. / *A leitura é boa*."
+          ]
+        },
+        {
+          "subtitulo": "MENOS, ALERTA, PSEUDO",
+          "itens": [
+            "São palavras *invariáveis*, independentemente do contexto.",
+            "Ex.: Havia *menos* pessoas. (nunca 'menas')",
+            "Ex.: Os soldados estavam *alerta*. (nunca 'alertas')",
+            "Ex.: Ele é um *pseudo*-intelectual. (prefixo invariável)"
+          ]
+        },
+        {
+          "subtitulo": "POSSÍVEL",
+          "itens": [
+            "A expressão 'o mais... possível' ou 'os mais... possíveis' concorda com o *artigo* que a precede.",
+            "Se o artigo for singular ('o'/'a'), 'possível' fica no singular. Ex.: Fizeram os trabalhos *o mais rápido possível*. (o artigo 'o' está no singular)",
+            "Se o artigo for plural ('os'/'as'), 'possível' vai para o plural. Ex.: Compraram as casas *as mais baratas possíveis*. (o artigo 'as' está no plural)"
+          ]
+        },
+        {
+          "subtitulo": "SÓ",
+          "itens": [
+            "Quando significa '*sozinho*', é *adjetivo* e varia. Ex.: Eles estavam *sós* na sala. / Ela estava *só*.",
+            "Quando significa '*somente*', é *advérbio* e é *invariável*. Ex.: *Só* eles vieram. / *Só* quero um café."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A concordância nominal estabelece a harmonia entre o substantivo e seus determinantes (artigos, adjetivos, pronomes, numerais) em gênero e número.",
+    "Um adjetivo que se refere a vários substantivos de gêneros diferentes concorda no masculino plural.",
+    "Quando vários adjetivos se referem a um substantivo, pode-se usar o substantivo no singular com artigos antes dos adjetivos, ou o substantivo no plural sem artigos.",
+    "Palavras como 'anexo', 'incluso', 'obrigado', 'mesmo', 'próprio' e 'quite' funcionam como adjetivos e variam.",
+    "Palavras como 'meio', 'bastante', 'caro' e 'barato' variam quando adjetivos e são invariáveis quando advérbios.",
+    "Expressões como 'é proibido' são invariáveis se o substantivo não for determinado, mas variam se houver um determinante (ex: 'é proibida a entrada'). 'Menos', 'alerta' e 'pseudo' são sempre invariáveis. A palavra 'só' varia quando significa 'sozinho' e é invariável quando significa 'somente'."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a concordância nominal está *incorreta*.",
+      "opcoes": [
+        "A) Anexas seguem as certidões solicitadas.",
+        "B) É proibido entrada de pessoas não autorizadas.",
+        "C) Os alunos ficaram sós na sala de aula.",
+        "D) Compramos bastantes livros para a biblioteca."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa B está incorreta. A expressão 'É proibido' só é invariável quando o substantivo não é determinado. Como 'entrada' não está acompanhada de artigo ou outro determinante, a forma correta seria 'É proibida a entrada' ou 'É proibido entrada'. No entanto, a frase 'É proibido entrada' é a forma correta quando não há determinante. A questão pede a incorreta, e a frase 'É proibido entrada de pessoas não autorizadas' está correta. Vamos reavaliar a questão para garantir que haja uma opção incorreta clara. A frase 'É proibido entrada' está correta. Se fosse 'É proibida a entrada', também estaria correta. A questão pede a *incorreta*. Vamos ajustar a opção B para ser claramente incorreta.  A frase 'É proibido entrada de pessoas não autorizadas' está gramaticalmente correta.  Vamos mudar a opção B para 'É proibida entrada de pessoas não autorizadas' para que seja incorreta."
+    },
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a concordância nominal está *incorreta*.",
+      "opcoes": [
+        "A) Anexas seguem as certidões solicitadas.",
+        "B) É proibida entrada de pessoas não autorizadas.",
+        "C) Os alunos ficaram sós na sala de aula.",
+        "D) Compramos bastantes livros para a biblioteca."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa B está incorreta. A expressão 'É proibido' é invariável quando o substantivo não é determinado por artigo ou outro determinante. Como 'entrada' não está acompanhada de artigo, a forma correta seria 'É proibido entrada'. A forma 'É proibida' só seria usada se houvesse um determinante, como em 'É proibida a entrada'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a palavra 'meio' foi empregada corretamente?",
+      "opcoes": [
+        "A) Ela estava meia nervosa com a apresentação.",
+        "B) Bebeu meio garrafa de suco.",
+        "C) A porta estava meio aberta.",
+        "D) Comprou meia dúzia de pães."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa C está correta. Em 'A porta estava meio aberta', 'meio' funciona como advérbio de intensidade (um pouco), sendo, portanto, invariável. Em A, 'meia nervosa' está incorreto; o correto seria 'meio nervosa' (advérbio). Em B, 'meio garrafa' está incorreto; o correto seria 'meia garrafa' (adjetivo, metade). Em D, 'meia dúzia' está correto, mas a questão busca a alternativa em que 'meio' foi empregado corretamente, e C é um exemplo claro do uso correto de 'meio' como advérbio."
+    },
+    {
+      "id": 3,
+      "enunciado": "Preencha as lacunas com a forma adequada das palavras entre parênteses, mantendo a concordância nominal: 'As informações seguem _______ aos documentos, que estavam _______ desorganizados. É _______ a atenção para os detalhes _______.'",
+      "opcoes": [
+        "A) anexas, meio, necessário, menos",
+        "B) anexos, meia, necessária, menos",
+        "C) anexas, meio, necessária, menos",
+        "D) anexos, meio, necessário, menas"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa C é a correta. 'As informações seguem *anexas*' (concorda com 'informações'). 'que estavam *meio* desorganizados' ('meio' como advérbio, invariável). 'É *necessária* a atenção' (a expressão concorda com o substantivo determinado 'a atenção'). 'para os detalhes *menos*' ('menos' é sempre invariável)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Assinale a frase em que a concordância nominal está *incorreta*.",
+      "opcoes": [
+        "A) As crianças estavam bastantes agitadas.",
+        "B) Ela comprou um carro e uma moto caros.",
+        "C) As entradas e saídas estavam proibidas.",
+        "D) Eles mesmos resolveram os problemas."
+      ],
+      "gabarito": "A",
+      "comentario": "A alternativa A está incorreta. A palavra 'bastante', quando funciona como advérbio de intensidade (modificando 'agitadas'), é invariável. O correto seria 'As crianças estavam *bastante* agitadas'. Nas demais opções, a concordância está correta: B) 'caros' concorda com 'carro e moto' (masculino plural); C) 'proibidas' concorda com 'entradas e saídas' (feminino plural); D) 'mesmos' concorda com 'Eles' (masculino plural)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das alternativas apresenta erro de concordância nominal?",
+      "opcoes": [
+        "A) É necessário muita calma para resolver a situação.",
+        "B) As provas seguiram anexas ao e-mail.",
+        "C) Os atletas estavam alerta durante a competição.",
+        "D) Fizeram os exercícios o mais rápido possível."
+      ],
+      "gabarito": "A",
+      "comentario": "A alternativa A apresenta erro de concordância. A expressão 'É necessário' concorda com o substantivo quando este é determinado. Como 'calma' está determinada por 'muita', a forma correta seria 'É *necessária* muita calma'. Se fosse 'É necessário calma', estaria correto, pois 'calma' não estaria determinada. Nas demais opções, a concordância está correta: B) 'anexas' concorda com 'provas'; C) 'alerta' é invariável; D) 'possível' concorda com o artigo 'o' (singular)."
+    }
+  ]
+}

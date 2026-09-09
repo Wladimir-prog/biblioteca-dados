@@ -1,0 +1,144 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "LINGUÍSTICA E VALÊNCIA",
+  "tema": "Gramática de Valência Verbal",
+  "introducao": [
+    "A valência verbal é um conceito linguístico essencial que descreve a capacidade intrínseca de um verbo de exigir um número e tipo específicos de argumentos (complementos) para formar uma oração gramaticalmente completa e semanticamente coerente. Ela transcende a noção tradicional de transitividade, focando na estrutura argumental que o próprio verbo impõe.",
+    "Compreender a valência verbal é crucial para a análise sintática aprofundada das frases, permitindo prever os elementos que devem acompanhar um verbo e, consequentemente, construir sentenças mais precisas e bem estruturadas na Língua Portuguesa."
+  ],
+  "secoes": [
+    {
+      "titulo": "Conceito de Valência Verbal",
+      "conteudo": [
+        "A valência verbal refere-se ao número de 'lugares' ou 'espaços' que um verbo 'abre' para serem preenchidos por seus argumentos. Esses argumentos são os elementos sintáticos (como sujeito, objetos e outros complementos) que são semanticamente exigidos pelo verbo para que a frase tenha um sentido completo e não pareça truncada.",
+        "Trata-se de uma propriedade lexical do verbo, ou seja, faz parte de seu significado inerente e de seu comportamento sintático, determinando a estrutura mínima da oração em que ele se insere."
+      ],
+      "itens": [
+        "Ex.: O menino comeu a maçã. (O verbo 'comer' exige um sujeito ('O menino') e um objeto direto ('a maçã').)",
+        "Ex.: Ela gosta de chocolate. (O verbo 'gostar' exige um sujeito ('Ela') e um objeto indireto ('de chocolate').)",
+        "Ex.: O professor explicou a matéria aos alunos. (O verbo 'explicar' exige um sujeito ('O professor'), um objeto direto ('a matéria') e um objeto indireto ('aos alunos').)"
+      ]
+    },
+    {
+      "titulo": "Tipos de Valência Verbal",
+      "conteudo": [
+        "Os verbos podem ser classificados de acordo com o número de argumentos que exigem. Esta classificação é mais detalhada que a tradicional transitividade, pois considera o sujeito como um dos argumentos. A valência pode ser zero, um, dois ou três, indicando a complexidade da estrutura argumental do verbo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Verbos Avalentes (Valência Zero)",
+          "itens": [
+            "São verbos que não exigem nenhum argumento, nem mesmo um sujeito explícito. Geralmente, são verbos impessoais que expressam fenômenos da natureza ou tempo, e não possuem sujeito gramatical.",
+            "Ex.: Choveu muito ontem.",
+            "Ex.: Nevou na serra.",
+            "Ex.: Faz calor no verão."
+          ]
+        },
+        {
+          "subtitulo": "Verbos Monovalentes (Valência Um)",
+          "itens": [
+            "São verbos que exigem apenas um argumento, que é geralmente o sujeito. Correspondem aos verbos intransitivos na gramática tradicional, mas aqui o sujeito é contado como argumento. O verbo expressa uma ação ou estado que não transita para outro elemento além do sujeito.",
+            "Ex.: O bebê dorme.",
+            "Ex.: O pássaro voa.",
+            "Ex.: Ele morreu."
+          ]
+        },
+        {
+          "subtitulo": "Verbos Bivalentes (Valência Dois)",
+          "itens": [
+            "São verbos que exigem dois argumentos. Podem ser um sujeito e um objeto direto (equivalente a transitivo direto), ou um sujeito e um objeto indireto (equivalente a transitivo indireto). A maioria dos verbos na língua portuguesa se encaixa nesta categoria.",
+            "Ex.: Ela comprou um livro. (Sujeito + Objeto Direto)",
+            "Ex.: Nós precisamos de ajuda. (Sujeito + Objeto Indireto)",
+            "Ex.: O aluno estudou a lição. (Sujeito + Objeto Direto)"
+          ]
+        },
+        {
+          "subtitulo": "Verbos Trivalentes (Valência Três)",
+          "itens": [
+            "São verbos que exigem três argumentos. Geralmente, são um sujeito, um objeto direto e um objeto indireto. Correspondem aos verbos transitivos diretos e indiretos, que demandam dois complementos além do sujeito.",
+            "Ex.: O professor entregou o trabalho aos alunos. (Sujeito + Objeto Direto + Objeto Indireto)",
+            "Ex.: Eu dei um presente a ela. (Sujeito + Objeto Direto + Objeto Indireto)",
+            "Ex.: A empresa ofereceu um bônus aos funcionários. (Sujeito + Objeto Direto + Objeto Indireto)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Argumentos e Adjuntos",
+      "destaque": "Bizú para concursos: Argumentos são essenciais para o sentido do verbo; adjuntos são informações extras e opcionais. Se a frase 'perde o sentido' sem o termo, é argumento!",
+      "conteudo": [
+        "É crucial distinguir entre argumentos e adjuntos para uma análise sintática precisa. Argumentos são elementos exigidos pelo verbo para completar seu sentido; sem eles, a frase fica incompleta ou agramatical. Eles preenchem os 'lugares' abertos pela valência verbal.",
+        "Adjuntos, por outro lado, são elementos opcionais que adicionam informações extras à oração (como tempo, lugar, modo, causa), mas não são exigidos pelo verbo para que a frase tenha sentido completo. Sua remoção não compromete a gramaticalidade ou o sentido essencial da sentença."
+      ],
+      "itens": [
+        "Ex.: Ele comeu (o bolo) rapidamente. ('o bolo' é argumento do verbo 'comer'; 'rapidamente' é adjunto adverbial de modo, opcional).",
+        "Ex.: Ela viajou (para Paris) ontem. ('para Paris' é adjunto adverbial de lugar; 'ontem' é adjunto adverbial de tempo. Ambos são opcionais).",
+        "Ex.: O médico atendeu o paciente (com atenção). ('o paciente' é argumento do verbo 'atender'; 'com atenção' é adjunto adverbial de modo, opcional)."
+      ]
+    },
+    {
+      "titulo": "Importância da Valência Verbal",
+      "conteudo": [
+        "A valência verbal é um conceito fundamental e essencial para a análise sintática e semântica aprofundada das frases. Ela nos permite ir além da classificação superficial dos verbos, identificando os papéis temáticos (agente, paciente, beneficiário, etc.) dos constituintes da oração.",
+        "Dominar a valência verbal facilita a compreensão da estrutura profunda das sentenças, aprimora a capacidade de produção de textos mais claros e precisos, e é um conceito chave para o estudo de teorias linguísticas modernas, como a sintaxe gerativa."
+      ]
+    }
+  ],
+  "sintese": [
+    "A valência verbal descreve a capacidade de um verbo de exigir um número e tipo específico de argumentos (complementos) para formar uma oração completa.",
+    "Ela vai além da transitividade tradicional, considerando o sujeito como um argumento e focando na estrutura argumental intrínseca do verbo.",
+    "Os verbos são classificados em avalentes (valência zero), monovalentes (valência um), bivalentes (valência dois) e trivalentes (valência três), de acordo com o número de argumentos exigidos.",
+    "Argumentos são elementos essenciais exigidos pelo verbo para completar seu sentido, enquanto adjuntos são elementos opcionais que adicionam informações extras.",
+    "A compreensão da valência verbal é crucial para a análise sintática e semântica, auxiliando na identificação de papéis temáticos e na produção de textos claros e precisos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o verbo em destaque apresenta valência zero (avalente):",
+      "opcoes": [
+        "A) O aluno **estudou** a lição.",
+        "B) **Choveu** muito durante a noite.",
+        "C) Ela **gosta** de música clássica.",
+        "D) O pássaro **voa** alto no céu."
+      ],
+      "gabarito": "B",
+      "comentario": "Verbos avalentes são aqueles que não exigem nenhum argumento, nem mesmo um sujeito explícito, sendo geralmente impessoais e expressando fenômenos da natureza. Na opção B, 'Choveu' é um verbo impessoal que indica um fenômeno natural e não possui sujeito, caracterizando valência zero. Nas demais opções, os verbos exigem argumentos (sujeito, objeto)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases abaixo o verbo em destaque é bivalente?",
+      "opcoes": [
+        "A) O bebê **dorme** tranquilamente.",
+        "B) A empresa **ofereceu** um bônus aos funcionários.",
+        "C) Nós **precisamos** de ajuda.",
+        "D) **Nevou** na serra ontem."
+      ],
+      "gabarito": "C",
+      "comentario": "Verbos bivalentes exigem dois argumentos. Na opção C, o verbo 'precisamos' exige um sujeito ('Nós') e um objeto indireto ('de ajuda'), totalizando dois argumentos. Na opção A, 'dorme' é monovalente (apenas sujeito). Na B, 'ofereceu' é trivalente (sujeito, OD, OI). Na D, 'Nevou' é avalente (valência zero)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considere a frase: 'O professor entregou o livro ao aluno com carinho.' Qual dos termos sublinhados é um adjunto?",
+      "opcoes": [
+        "A) O professor",
+        "B) o livro",
+        "C) ao aluno",
+        "D) com carinho"
+      ],
+      "gabarito": "D",
+      "comentario": "Argumentos são elementos essenciais exigidos pelo verbo, enquanto adjuntos são opcionais e adicionam informações extras. 'O professor' é o sujeito (argumento), 'o livro' é o objeto direto (argumento), e 'ao aluno' é o objeto indireto (argumento). 'Com carinho' é um adjunto adverbial de modo, que adiciona uma informação sobre como a ação foi realizada, mas não é exigido pelo verbo 'entregar' para que a frase tenha sentido completo. Portanto, é um adjunto."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das afirmações sobre a valência verbal está INCORRETA?",
+      "opcoes": [
+        "A) A valência verbal considera o sujeito como um dos argumentos do verbo.",
+        "B) Verbos monovalentes exigem apenas um argumento, geralmente o sujeito.",
+        "C) A valência verbal é sinônimo de transitividade verbal.",
+        "D) Verbos trivalentes exigem três argumentos, como sujeito, objeto direto e objeto indireto."
+      ],
+      "gabarito": "C",
+      "comentario": "A valência verbal não é sinônimo de transitividade verbal; ela é um conceito mais abrangente que vai além da transitividade, focando na estrutura argumental intrínseca do verbo e considerando o sujeito como um argumento. As demais afirmações estão corretas de acordo com o conceito de valência verbal."
+    }
+  ]
+}

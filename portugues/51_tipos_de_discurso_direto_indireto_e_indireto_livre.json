@@ -1,0 +1,152 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Tipos de Discurso: Direto, Indireto e Indireto Livre",
+  "introducao": [
+    "Os tipos de discurso são formas de reproduzir a fala ou o pensamento de personagens em um texto narrativo.",
+    "Compreender essas modalidades é essencial para a interpretação e a produção textual, especialmente em concursos, pois influenciam diretamente a clareza e a perspectiva da narrativa."
+  ],
+  "secoes": [
+    {
+      "titulo": "Discurso Direto",
+      "destaque": "Reprodução fiel da fala original, com marcadores claros como aspas, travessão e verbos de elocução. Fique atento à pontuação!",
+      "conteudo": [
+        "O discurso direto reproduz fielmente as palavras da personagem, como se ela estivesse falando no momento exato da narração.",
+        "É sempre marcado por verbos de elocução (como 'dizer', 'perguntar', 'responder', 'afirmar'), seguidos de dois-pontos, e a fala é introduzida por aspas ou travessão."
+      ],
+      "itens": [
+        "Ex.: A professora perguntou: \"Quem fez a lição de casa?\"",
+        "Ex.: Ele afirmou: \"Chegarei cedo amanhã.\"",
+        "Ex.: \"Não irei à festa\", disse ela, decidida."
+      ]
+    },
+    {
+      "titulo": "Discurso Indireto",
+      "destaque": "O narrador 'conta' o que a personagem disse. Há subordinação da fala e adaptação de tempos verbais, pronomes e advérbios. Cuidado com as transformações!",
+      "conteudo": [
+        "O discurso indireto narra as palavras da personagem por meio da voz do narrador, sem reproduzi-las literalmente.",
+        "Há uma subordinação da fala à voz do narrador, geralmente introduzida por conjunções como 'que' ou 'se'.",
+        "Ocorre a adaptação de pronomes (eu para ele/ela), tempos verbais (presente para pretérito imperfeito, futuro para futuro do pretérito) e advérbios de tempo e lugar (agora para naquele momento, aqui para lá)."
+      ],
+      "itens": [
+        "Ex.: A professora perguntou quem havia feito a lição de casa.",
+        "Ex.: Ele afirmou que chegaria cedo no dia seguinte.",
+        "Ex.: Ela disse, decidida, que não iria à festa."
+      ]
+    },
+    {
+      "titulo": "Discurso Indireto Livre",
+      "destaque": "A fusão sutil das vozes do narrador e da personagem, sem marcadores explícitos. Gera ambiguidade e imersão. É o mais complexo de identificar!",
+      "conteudo": [
+        "O discurso indireto livre é uma fusão entre o discurso direto e o indireto, sem marcadores explícitos de transição, como verbos de elocução, dois-pontos, aspas ou travessão.",
+        "As falas e pensamentos da personagem são inseridos na narrativa do narrador, mantendo características da fala original (como interjeições, exclamações, tom), mas sem a pontuação específica do discurso direto.",
+        "Caracteriza-se pela ausência de pontuação específica e pela mistura de vozes, gerando uma maior subjetividade e fluidez narrativa, muitas vezes com ambiguidade sobre quem é o 'dono' da fala ou pensamento."
+      ],
+      "itens": [
+        "Ex.: A professora olhou para a turma. Quem havia feito a lição de casa?",
+        "Ex.: Ele estava ansioso. Chegaria cedo amanhã, pensava.",
+        "Ex.: Ela estava decidida. Não iria à festa de jeito nenhum."
+      ]
+    },
+    {
+      "titulo": "Características e Diferenças Essenciais",
+      "destaque": "Domine as particularidades de cada tipo para não confundir! A pontuação e a voz predominante são as chaves.",
+      "subsecoes": [
+        {
+          "subtitulo": "Discurso Direto",
+          "itens": [
+            "Reprodução exata da fala da personagem.",
+            "Uso de aspas, travessão ou dois-pontos para introduzir a fala.",
+            "Presença de verbos de elocução (dizer, perguntar, responder, etc.).",
+            "A voz da personagem é claramente distinguível."
+          ]
+        },
+        {
+          "subtitulo": "Discurso Indireto",
+          "itens": [
+            "Reprodução da fala da personagem pelo narrador.",
+            "Uso de conjunções subordinativas (que, se) para introduzir a fala.",
+            "Adaptação de tempos verbais, pronomes e advérbios de tempo/lugar.",
+            "Predominância da voz do narrador."
+          ]
+        },
+        {
+          "subtitulo": "Discurso Indireto Livre",
+          "itens": [
+            "Fusão das vozes do narrador e da personagem.",
+            "Ausência de marcadores gráficos (aspas, travessão, dois-pontos) ou conjunções.",
+            "Mantém características da fala da personagem (interjeições, exclamações, tom).",
+            "Maior subjetividade, fluidez narrativa e imersão na mente da personagem."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Importância e Efeitos no Texto",
+      "destaque": "A escolha do discurso não é aleatória! Ela molda a perspectiva, o ritmo e a profundidade psicológica da sua narrativa.",
+      "conteudo": [
+        "A escolha do tipo de discurso influencia diretamente o ritmo da narrativa, a profundidade psicológica dos personagens e a perspectiva do leitor sobre os eventos.",
+        "O discurso direto confere vivacidade, autenticidade e imediatismo às falas, aproximando o leitor da personagem.",
+        "O discurso indireto permite ao narrador maior controle sobre a história, resumindo ou interpretando as falas, e mantendo um fluxo narrativo mais homogêneo.",
+        "O discurso indireto livre cria uma imersão profunda na mente da personagem, permitindo que seus pensamentos e sentimentos se misturem à narração sem quebrar o fluxo, gerando um efeito de intimidade e subjetividade."
+      ]
+    }
+  ],
+  "sintese": [
+    "Discurso Direto: Reprodução exata da fala, com aspas/travessão e verbos de elocução.",
+    "Discurso Indireto: Narrador reproduz a fala, com conjunções 'que'/'se' e adaptação de tempos/pronomes.",
+    "Discurso Indireto Livre: Fusão das vozes do narrador e personagem, sem marcadores explícitos, gerando fluidez e subjetividade.",
+    "A pontuação e a presença/ausência de conjunções são cruciais para diferenciar os tipos de discurso.",
+    "A escolha do discurso impacta a vivacidade, o controle narrativo e a profundidade psicológica da história."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o discurso direto está empregado corretamente?",
+      "opcoes": [
+        "A) Ele disse que não iria à festa.",
+        "B) A professora perguntou quem havia feito a lição.",
+        "C) \"Não irei à festa\", disse ele.",
+        "D) Ela estava cansada. Não aguentava mais."
+      ],
+      "gabarito": "C",
+      "comentario": "O discurso direto reproduz a fala exata da personagem, geralmente com aspas ou travessão e um verbo de elocução. Na opção C, a fala \"Não irei à festa\" é apresentada literalmente, introduzida por travessão e seguida do verbo 'disse'. As demais opções representam discurso indireto (A e B) ou indireto livre (D)."
+    },
+    {
+      "id": 2,
+      "enunciado": "A frase 'O aluno perguntou: \"Posso sair mais cedo hoje?\"' está em discurso direto. Qual a forma correta no discurso indireto?",
+      "opcoes": [
+        "A) O aluno perguntou se podia sair mais cedo hoje.",
+        "B) O aluno perguntou se podia sair mais cedo naquele dia.",
+        "C) O aluno perguntou que podia sair mais cedo hoje.",
+        "D) O aluno perguntou: ele podia sair mais cedo naquele dia?"
+      ],
+      "gabarito": "B",
+      "comentario": "Na transformação do discurso direto para o indireto, é necessário adaptar o tempo verbal (Posso -> podia), o pronome (eu implícito -> ele implícito) e o advérbio de tempo (hoje -> naquele dia), além de introduzir a fala com uma conjunção (se, para perguntas). A opção B realiza todas essas adaptações corretamente."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a alternativa em que há um exemplo de discurso indireto livre.",
+      "opcoes": [
+        "A) Ela afirmou: \"Estou muito feliz!\"",
+        "B) Ele disse que estava muito feliz.",
+        "C) Ela estava muito feliz. A vida sorria para ela.",
+        "D) O professor perguntou: \"Quem terminou a prova?\""
+      ],
+      "gabarito": "C",
+      "comentario": "O discurso indireto livre caracteriza-se pela fusão das vozes do narrador e da personagem, sem marcadores explícitos (aspas, travessão, conjunções). Na opção C, a frase 'A vida sorria para ela' expressa um pensamento ou sentimento da personagem, inserido diretamente na narração, sem que haja uma introdução formal. As opções A e D são discurso direto, e a opção B é discurso indireto."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das seguintes características é predominante no discurso indireto livre?",
+      "opcoes": [
+        "A) Uso obrigatório de aspas e travessão.",
+        "B) Subordinação da fala por conjunções como 'que' ou 'se'.",
+        "C) Fusão das vozes do narrador e da personagem, sem marcadores explícitos.",
+        "D) Adaptação rigorosa de todos os tempos verbais para o pretérito perfeito."
+      ],
+      "gabarito": "C",
+      "comentario": "O discurso indireto livre é marcado pela ausência de marcadores gráficos ou conjunções, permitindo que a voz da personagem se misture à do narrador de forma fluida, criando uma fusão de perspectivas. As outras opções descrevem características do discurso direto (A) ou indireto (B e D)."
+    }
+  ]
+}

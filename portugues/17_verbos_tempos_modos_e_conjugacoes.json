@@ -1,0 +1,269 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Verbos: Tempos, Modos e Conjugações",
+  "introducao": [
+    "Os verbos são palavras dinâmicas e essenciais na Língua Portuguesa, atuando como o coração das frases. Eles são responsáveis por indicar ação, estado, fenômeno da natureza ou uma mudança de estado, conferindo movimento e sentido às nossas expressões.",
+    "Sua importância reside na capacidade de se flexionar em número, pessoa, tempo e modo, adaptando-se ao contexto e transmitindo nuances precisas sobre o que está sendo comunicado. Compreender os verbos é fundamental para a construção de sentenças claras e gramaticalmente corretas."
+  ],
+  "secoes": [
+    {
+      "titulo": "As Três Conjugações Verbais",
+      "destaque": "A vogal temática é a chave para identificar a qual conjugação um verbo pertence.",
+      "conteudo": [
+        "Na Língua Portuguesa, os verbos são classificados em três conjugações distintas, baseando-se na vogal temática que aparece em sua forma infinitiva."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Primeira Conjugação (-AR)",
+          "itens": [
+            "Inclui todos os verbos cujo infinitivo termina em -AR.",
+            "A vogal temática característica é 'a'.",
+            "Exemplos: CANTAR, AMAR, ESTUDAR."
+          ]
+        },
+        {
+          "subtitulo": "Segunda Conjugação (-ER)",
+          "itens": [
+            "Abrange os verbos cujo infinitivo termina em -ER.",
+            "A vogal temática característica é 'e'.",
+            "Exemplos: COMER, VENDER, ESCREVER."
+          ]
+        },
+        {
+          "subtitulo": "Terceira Conjugação (-IR)",
+          "itens": [
+            "Compreende os verbos cujo infinitivo termina em -IR.",
+            "A vogal temática característica é 'i'.",
+            "Exemplos: PARTIR, SORRIR, DORMIR."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Modos Verbais",
+      "destaque": "Os modos verbais revelam a intenção e a atitude do falante em relação ao que está sendo dito.",
+      "conteudo": [
+        "Os modos verbais são categorias gramaticais que expressam a atitude do falante em relação ao fato verbal, indicando se ele é uma certeza, uma dúvida, um desejo ou uma ordem."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Modo Indicativo",
+          "itens": [
+            "Expressa certeza, realidade, um fato que realmente acontece, aconteceu ou acontecerá.",
+            "Exemplos: Eu ESTUDO todos os dias. Nós VIAJAMOS no ano passado. Eles CHEGARÃO amanhã."
+          ]
+        },
+        {
+          "subtitulo": "Modo Subjuntivo",
+          "itens": [
+            "Expressa dúvida, desejo, hipótese, possibilidade, incerteza.",
+            "Exemplos: TALVEZ eu ESTUDE mais tarde. É IMPORTANTE que ele VENHA. SE eu TIVESSE dinheiro, viajaria."
+          ]
+        },
+        {
+          "subtitulo": "Modo Imperativo",
+          "itens": [
+            "Expressa ordem, pedido, conselho, súplica.",
+            "Exemplos: ESTUDE agora! VENHA aqui, por favor. NÃO CORRA na rua."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tempos Verbais",
+      "destaque": "Os tempos verbais são cruciais para situar a ação no eixo temporal: presente, passado (pretérito) ou futuro.",
+      "conteudo": [
+        "Os tempos verbais são responsáveis por situar a ação, o estado ou o fenômeno no tempo, indicando quando eles ocorrem em relação ao momento da fala."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Tempos do Indicativo",
+          "itens": [
+            "O Modo Indicativo possui seis tempos verbais que expressam fatos com certeza e objetividade."
+          ]
+        },
+        {
+          "subtitulo": "Presente do Indicativo",
+          "itens": [
+            "Indica uma ação que ocorre no momento da fala ou uma verdade universal.",
+            "Exemplos: Eu LEIO um livro. A Terra GIRA em torno do Sol. Nós TRABALHAMOS muito."
+          ]
+        },
+        {
+          "subtitulo": "Pretérito Perfeito do Indicativo",
+          "itens": [
+            "Indica uma ação que foi concluída em um passado recente ou distante.",
+            "Exemplos: Eu LI um livro ontem. Eles VIAJARAM para a Europa. Ela ESTUDOU a matéria."
+          ]
+        },
+        {
+          "subtitulo": "Pretérito Imperfeito do Indicativo",
+          "itens": [
+            "Indica uma ação habitual no passado ou uma ação que estava em andamento quando outra ocorreu.",
+            "Exemplos: Eu LIA um livro todos os dias. Enquanto eu DORMIA, ele chegou. Nós BRINCÁVAMOS no parque."
+          ]
+        },
+        {
+          "subtitulo": "Pretérito Mais-que-Perfeito do Indicativo",
+          "itens": [
+            "Indica uma ação que ocorreu antes de outra ação passada.",
+            "Exemplos: Quando cheguei, ele JÁ SAÍRA. Eu JÁ LERA o livro antes de você. Eles JÁ COMERAM quando os convidei."
+          ]
+        },
+        {
+          "subtitulo": "Futuro do Presente do Indicativo",
+          "itens": [
+            "Indica uma ação que ocorrerá no futuro, com certeza.",
+            "Exemplos: Eu LEREI o livro amanhã. Eles VIAJARÃO nas férias. Nós ESTUDAREMOS para a prova."
+          ]
+        },
+        {
+          "subtitulo": "Futuro do Pretérito do Indicativo",
+          "itens": [
+            "Indica uma ação futura em relação a um ponto no passado, ou uma hipótese.",
+            "Exemplos: Eu LERIA o livro se tivesse tempo. Eles VIAJARIAM se pudessem. Nós ESTUDARÍAMOS mais se fosse preciso."
+          ]
+        },
+        {
+          "subtitulo": "Tempos do Subjuntivo",
+          "itens": [
+            "O Modo Subjuntivo possui três tempos verbais que expressam fatos incertos, desejos ou hipóteses."
+          ]
+        },
+        {
+          "subtitulo": "Presente do Subjuntivo",
+          "itens": [
+            "Expressa desejo, dúvida, possibilidade no presente ou futuro.",
+            "Exemplos: QUE eu LEIA mais. É possível QUE ele VENHA. ESPERO QUE você ESTUDE."
+          ]
+        },
+        {
+          "subtitulo": "Pretérito Imperfeito do Subjuntivo",
+          "itens": [
+            "Expressa uma condição ou desejo no passado, ou uma hipótese.",
+            "Exemplos: SE eu LESSE mais, aprenderia. QUERIA QUE ele VIESSE. SE nós ESTUDÁSSEMOS, passaríamos."
+          ]
+        },
+        {
+          "subtitulo": "Futuro do Subjuntivo",
+          "itens": [
+            "Expressa uma ação futura incerta, dependente de uma condição.",
+            "Exemplos: QUANDO eu LER o livro, te empresto. SE ele VIER, avisarei. QUANDO nós ESTUDARMOS, entenderemos."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Formas Nominais do Verbo",
+      "destaque": "As formas nominais são versáteis, atuando como nomes e não indicando tempo ou modo específicos.",
+      "conteudo": [
+        "As formas nominais do verbo são aquelas que não se flexionam em tempo e modo, mas podem desempenhar funções de substantivo, adjetivo ou advérbio na frase."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Infinitivo",
+          "itens": [
+            "Termina em -AR, -ER, -IR. Indica a ação em si, sem referência a tempo ou pessoa. Pode ser pessoal ou impessoal.",
+            "Exemplos: CORRER é bom para a saúde. É preciso ESTUDAR. Ao SAIR, feche a porta."
+          ]
+        },
+        {
+          "subtitulo": "Gerúndio",
+          "itens": [
+            "Termina em -NDO. Indica uma ação em andamento.",
+            "Exemplos: Ele está ESTUDANDO. Ela estava LENDO um livro. Nós estamos TRABALHANDO."
+          ]
+        },
+        {
+          "subtitulo": "Particípio",
+          "itens": [
+            "Termina em -ADO ou -IDO (regular) ou possui formas irregulares. Indica uma ação concluída.",
+            "Exemplos: O livro foi LIDO. A tarefa está FEITA. Ele havia ESTUDADO muito."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Verbos Regulares e Irregulares",
+      "destaque": "A regularidade ou irregularidade de um verbo é definida pela manutenção ou alteração de seu radical e desinências.",
+      "conteudo": [
+        "Os verbos podem ser classificados como regulares ou irregulares, dependendo de como se comportam em sua conjugação."
+      ],
+      "itens": [
+        "Verbos regulares: Mantêm o radical e as desinências padrão ao longo de toda a conjugação, seguindo um modelo fixo. Exemplo: AMAR (amo, amas, ama).",
+        "Verbos irregulares: Sofrem alterações no radical ou nas desinências, ou em ambos, afastando-se do modelo padrão. Exemplo: FAZER (faço, fazes, faz); IR (vou, vais, vai)."
+      ]
+    }
+  ],
+  "sintese": [
+    "Verbos são palavras que expressam ação, estado, fenômeno da natureza ou mudança de estado, flexionando-se em número, pessoa, tempo e modo.",
+    "Existem três conjugações verbais, definidas pela terminação do infinitivo: 1ª (-AR), 2ª (-ER) e 3ª (-IR).",
+    "Os modos verbais indicam a atitude do falante: Indicativo (certeza), Subjuntivo (dúvida/hipótese) e Imperativo (ordem/pedido).",
+    "Os tempos verbais situam a ação no presente, passado (pretérito) ou futuro, com variações em cada modo.",
+    "As formas nominais (Infinitivo, Gerúndio, Particípio) não indicam tempo ou modo, mas funcionam como nomes.",
+    "Verbos regulares mantêm o radical e desinências, enquanto os irregulares sofrem alterações em sua conjugação."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases o verbo em destaque expressa uma certeza ou um fato real?",
+      "opcoes": [
+        "A) Talvez ele VENHA à festa amanhã.",
+        "B) SE eu TIVESSE tempo, viajaria mais.",
+        "C) Nós ESTUDAMOS para a prova todos os dias.",
+        "D) ESTUDE agora para garantir seu futuro!"
+      ],
+      "gabarito": "C",
+      "comentario": "A opção (C) apresenta o verbo 'ESTUDAMOS' no Presente do Indicativo, que expressa uma ação habitual e real, característica do Modo Indicativo. As outras opções utilizam verbos no Subjuntivo (A e B, indicando dúvida/hipótese) ou no Imperativo (D, indicando ordem)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que todos os verbos pertencem à mesma conjugação.",
+      "opcoes": [
+        "A) Correr, partir, vender",
+        "B) Amar, estudar, cantar",
+        "C) Sorrir, comer, dormir",
+        "D) Fazer, ir, pôr"
+      ],
+      "gabarito": "B",
+      "comentario": "A opção (B) apresenta os verbos 'Amar', 'Estudar' e 'Cantar', todos terminados em -AR, pertencendo, portanto, à Primeira Conjugação. As outras opções misturam verbos de diferentes conjugações."
+    },
+    {
+      "id": 3,
+      "enunciado": "Na frase 'Quando cheguei, ele JÁ SAÍRA.', o verbo em destaque está conjugado no:",
+      "opcoes": [
+        "A) Pretérito Perfeito do Indicativo",
+        "B) Pretérito Imperfeito do Indicativo",
+        "C) Pretérito Mais-que-Perfeito do Indicativo",
+        "D) Futuro do Pretérito do Indicativo"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'SAÍRA' indica uma ação que ocorreu antes de outra ação passada ('cheguei'), sendo essa a característica do Pretérito Mais-que-Perfeito do Indicativo. É uma forma simples desse tempo verbal."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das frases abaixo contém um verbo na forma nominal de Gerúndio?",
+      "opcoes": [
+        "A) É preciso ESTUDAR para passar no concurso.",
+        "B) O trabalho foi CONCLUÍDO com sucesso.",
+        "C) Ela está LENDO um livro interessante.",
+        "D) Ao SAIR, apague as luzes."
+      ],
+      "gabarito": "C",
+      "comentario": "A opção (C) apresenta o verbo 'LENDO', que termina em -NDO e indica uma ação em andamento, características do Gerúndio. (A) é Infinitivo, (B) é Particípio, e (D) é Infinitivo."
+    },
+    {
+      "id": 5,
+      "enunciado": "Identifique a alternativa que apresenta um verbo irregular.",
+      "opcoes": [
+        "A) Falar",
+        "B) Vender",
+        "C) Partir",
+        "D) Fazer"
+      ],
+      "gabarito": "D",
+      "comentario": "O verbo 'Fazer' é irregular porque sofre alterações no radical ('faço', 'fiz', 'farei') e/ou nas desinências ao ser conjugado, não seguindo o modelo padrão de sua conjugação. 'Falar', 'Vender' e 'Partir' são verbos regulares."
+    }
+  ]
+}

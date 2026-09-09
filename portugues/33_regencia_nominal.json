@@ -1,0 +1,229 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Regência Nominal",
+  "introducao": [
+    "A regência nominal é o estudo da relação de dependência entre um nome (substantivo, adjetivo ou advérbio) e seu complemento. Essa conexão é estabelecida por meio de uma preposição, que atua como elo entre o termo regente (o nome) e o termo regido (o complemento).",
+    "Dominar a regência nominal é crucial para garantir a clareza, a correção e a elegância na construção de frases, tanto na modalidade escrita quanto na oral da língua portuguesa."
+  ],
+  "secoes": [
+    {
+      "titulo": "Conceito de Regência Nominal",
+      "conteudo": [
+        "A regência nominal ocorre quando um nome (substantivo, adjetivo ou advérbio) necessita de um complemento para ter seu sentido plenamente compreendido.",
+        "Esse complemento é sempre introduzido por uma preposição específica, cuja escolha depende diretamente do nome regente.",
+        "A preposição funciona como uma 'ponte' sintática, ligando o nome ao seu termo dependente e completando sua significação."
+      ],
+      "itens": [
+        "Ex.: Ele tem medo DE altura.",
+        "Ex.: Ela é apta PARA o cargo.",
+        "Ex.: Estamos próximos DE casa."
+      ]
+    },
+    {
+      "titulo": "Termos Regentes e Regidos",
+      "conteudo": [
+        "Para entender a regência, é fundamental distinguir os dois elementos envolvidos na relação de dependência:",
+        "TERMO REGENTE: É o nome (substantivo, adjetivo ou advérbio) que, por sua natureza semântica, 'pede' ou exige um complemento para completar seu sentido.",
+        "TERMO REGIDO: É o complemento que, introduzido por uma preposição, completa a significação do termo regente."
+      ],
+      "itens": [
+        "Ex.: O professor estava ansioso POR notícias. (ansioso = regente; POR notícias = regido)",
+        "Ex.: Tenho orgulho DE você. (orgulho = regente; DE você = regido)",
+        "Ex.: A cidade é acessível A todos. (acessível = regente; A todos = regido)"
+      ]
+    },
+    {
+      "titulo": "Principais Preposições na Regência Nominal",
+      "destaque": "Bizú: A preposição é a 'chave' que destrava o sentido completo do nome. Fique atento à preposição exigida, pois ela é o coração da regência nominal!",
+      "conteudo": [
+        "As preposições mais frequentemente empregadas na regência nominal são: A, DE, COM, EM, PARA e POR.",
+        "A escolha da preposição não é aleatória; ela é determinada pelo nome regente e pelo contexto específico da frase.",
+        "É de suma importância conhecer as preposições que acompanham os nomes mais comuns da língua portuguesa para evitar erros de concordância e sentido."
+      ],
+      "itens": [
+        "Ex.: Capacidade DE trabalho.",
+        "Ex.: Dúvida SOBRE o assunto.",
+        "Ex.: Respeito Aos mais velhos."
+      ]
+    },
+    {
+      "titulo": "Regência de Substantivos",
+      "conteudo": [
+        "Muitos substantivos, especialmente os abstratos, exigem um complemento preposicionado para expressar seu sentido completo.",
+        "Frequentemente, a preposição utilizada na regência do substantivo é a mesma que seria empregada pelo verbo do qual o substantivo deriva."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Substantivos que regem 'A'",
+          "itens": [
+            "Exemplos: acesso A, obediência A, referência A.",
+            "O acesso À informação é um direito.",
+            "Sua obediência Às regras é notável.",
+            "Fiz uma referência AO seu trabalho."
+          ]
+        },
+        {
+          "subtitulo": "Substantivos que regem 'DE'",
+          "itens": [
+            "Exemplos: necessidade DE, medo DE, orgulho DE.",
+            "Tenho necessidade DE descanso.",
+            "O medo DE falhar o paralisou.",
+            "Sinto orgulho DE sua conquista."
+          ]
+        },
+        {
+          "subtitulo": "Substantivos que regem 'COM'",
+          "itens": [
+            "Exemplos: compatibilidade COM, relação COM, preocupação COM.",
+            "Sua compatibilidade COM o grupo é alta.",
+            "A relação COM os colegas é boa.",
+            "Tenho preocupação COM o futuro."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Regência de Adjetivos",
+      "conteudo": [
+        "A grande maioria dos adjetivos que expressam sentimentos, qualidades, estados ou características necessitam de complementos para completar seu sentido.",
+        "A preposição exigida pelos adjetivos é bastante variada e, em muitos casos, requer consulta ou memorização para o uso correto."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Adjetivos que regem 'A'",
+          "itens": [
+            "Exemplos: acessível A, apto A, fiel A, grato A, obediente A.",
+            "O local é acessível A cadeirantes.",
+            "Ele é apto AO cargo.",
+            "Mantenha-se fiel AOS seus princípios."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos que regem 'DE'",
+          "itens": [
+            "Exemplos: capaz DE, digno DE, cheio DE, consciente DE, orgulhoso DE.",
+            "Ela é capaz DE grandes feitos.",
+            "Ele é digno DE confiança.",
+            "O copo estava cheio DE água."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos que regem 'COM'",
+          "itens": [
+            "Exemplos: compatível COM, contente COM, preocupado COM.",
+            "Seu estilo é compatível COM o meu.",
+            "Estou contente COM os resultados.",
+            "Ele está preocupado COM a prova."
+          ]
+        },
+        {
+          "subtitulo": "Adjetivos que regem 'EM'",
+          "itens": [
+            "Exemplos: hábil EM, versado EM, residente EM.",
+            "Ela é hábil EM matemática.",
+            "O professor é versado EM literatura.",
+            "Sou residente EM São Paulo."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Regência de Advérbios",
+      "conteudo": [
+        "Alguns advérbios, especialmente os de lugar, modo ou intensidade, também podem exigir complementos preposicionados.",
+        "Os casos mais notáveis envolvem advérbios que indicam noções de proximidade ou distância."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Advérbios que regem 'DE'",
+          "itens": [
+            "Exemplos: perto DE, longe DE.",
+            "Moramos perto DA escola.",
+            "A loja fica longe DO centro.",
+            "Ele estava longe DE casa."
+          ]
+        },
+        {
+          "subtitulo": "Advérbios que regem 'A'",
+          "itens": [
+            "Exemplos: paralelamente A, contrariamente A.",
+            "Agiu paralelamente Às ordens.",
+            "Falou contrariamente AO que pensava.",
+            "O carro estacionou paralelamente AO muro."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A regência nominal estabelece a relação de dependência entre um nome (substantivo, adjetivo ou advérbio) e seu complemento.",
+    "Essa relação é mediada por uma preposição, que conecta o termo regente ao termo regido.",
+    "As preposições mais comuns são A, DE, COM, EM, PARA, POR, e sua escolha depende do nome regente e do contexto.",
+    "Substantivos, adjetivos e advérbios possuem regências específicas, muitas vezes ligadas à regência do verbo de origem ou ao sentido que expressam.",
+    "A consulta a dicionários de regência e a prática constante são ferramentas essenciais para o domínio da regência nominal.",
+    "A clareza e a correção na comunicação dependem diretamente do uso adequado das preposições na regência nominal."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a regência nominal está CORRETA:",
+      "opcoes": [
+        "A) Tenho aversão por mentiras.",
+        "B) Ele é apto a qualquer função.",
+        "C) Estamos próximos da verdade.",
+        "D) Sinto orgulho em sua dedicação."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) está correta, pois o adjetivo 'próximos' rege a preposição 'de' ('próximos de algo'). As demais estão incorretas: (A) 'aversão A' (e não 'por'); (B) 'apto PARA' (e não 'a', quando se refere a uma função); (D) 'orgulho DE' (e não 'em')."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das frases abaixo apresenta um erro de regência nominal?",
+      "opcoes": [
+        "A) Ele é consciente de suas responsabilidades.",
+        "B) Tenho necessidade de um bom descanso.",
+        "C) A cidade é acessível para todos.",
+        "D) Sou grato a você pela ajuda."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa (C) apresenta erro de regência. O adjetivo 'acessível' rege a preposição 'a', e não 'para'. O correto seria 'A cidade é acessível A todos'. As demais frases estão com a regência nominal correta: 'consciente de', 'necessidade de' e 'grato a'."
+    },
+    {
+      "id": 3,
+      "enunciado": "Complete a frase com a preposição adequada: 'Sua atitude foi compatível _______ os princípios da empresa.'",
+      "opcoes": [
+        "A) a",
+        "B) de",
+        "C) com",
+        "D) em"
+      ],
+      "gabarito": "C",
+      "comentario": "O adjetivo 'compatível' rege a preposição 'com'. Portanto, a forma correta é 'compatível COM os princípios da empresa'."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das opções o substantivo 'dúvida' está empregado com a regência nominal correta?",
+      "opcoes": [
+        "A) Tenho dúvida em relação ao resultado.",
+        "B) Tenho dúvida sobre o resultado.",
+        "C) Tenho dúvida do resultado.",
+        "D) Tenho dúvida para o resultado."
+      ],
+      "gabarito": "B",
+      "comentario": "O substantivo 'dúvida' pode reger as preposições 'sobre' ou 'acerca de'. A opção (B) 'Tenho dúvida sobre o resultado' está gramaticalmente correta e é a regência mais direta e comum. Embora 'dúvida em relação a' seja aceitável, 'dúvida sobre' é a forma mais precisa."
+    },
+    {
+      "id": 5,
+      "enunciado": "Assinale a frase em que o advérbio está corretamente regido:",
+      "opcoes": [
+        "A) Moramos perto da escola.",
+        "B) Ele estava longe para casa.",
+        "C) Agiu paralelamente com as ordens.",
+        "D) Falou contrariamente de que pensava."
+      ],
+      "gabarito": "A",
+      "comentario": "A alternativa (A) está correta, pois o advérbio 'perto' rege a preposição 'de' ('perto da escola'). As demais estão incorretas: (B) 'longe DE casa'; (C) 'paralelamente Às ordens'; (D) 'contrariamente AO que pensava'."
+    }
+  ]
+}

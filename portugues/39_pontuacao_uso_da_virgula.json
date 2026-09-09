@@ -1,0 +1,189 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Pontuação: Uso da Vírgula",
+  "introducao": [
+    "A vírgula é um dos sinais de pontuação mais importantes da Língua Portuguesa, essencial para a clareza e a correção sintática de um texto. Longe de ser um mero indicador de pausas respiratórias, seu uso é regido por normas gramaticais precisas que garantem a correta interpretação das frases e períodos.",
+    "Dominar as regras de pontuação, especialmente o uso da vírgula, é fundamental para evitar ambiguidades e construir uma comunicação eficaz, seja na escrita formal ou informal. Este memento abordará os principais casos de uso obrigatório e as situações em que sua aplicação é vedada."
+  ],
+  "secoes": [
+    {
+      "titulo": "A Vírgula: Conceito e Função",
+      "destaque": "A vírgula é um sinal sintático, não respiratório. Seu uso é regido por regras gramaticais, não por pausas na fala.",
+      "conteudo": [
+        "A vírgula (,) é um sinal de pontuação que indica uma pausa breve na leitura e serve para separar termos da oração ou orações no período, evitando ambiguidades e conferindo clareza ao texto.",
+        "Seu uso é determinado por regras sintáticas, não meramente por pausas respiratórias."
+      ]
+    },
+    {
+      "titulo": "Usos Obrigatórios da Vírgula",
+      "destaque": "Dominar estes dez casos é crucial para a correção gramatical e a clareza textual em qualquer contexto.",
+      "subsecoes": [
+        {
+          "subtitulo": "Para Separar Termos da Mesma Função Sintática em uma Enumeração",
+          "itens": [
+            "Utiliza-se a vírgula para separar elementos de uma sequência que exercem a mesma função sintática, exceto quando unidos por conjunções aditivas (e, nem, ou) ou alternativas (ou, ou...ou).",
+            "Ex.: Comprei pão, leite, queijo e café.",
+            "Ex.: Ele é inteligente, dedicado, honesto.",
+            "Ex.: Gosto de ler, escrever, estudar."
+          ]
+        },
+        {
+          "subtitulo": "Para Isolar o Vocativo",
+          "itens": [
+            "O vocativo é um termo que serve para chamar ou interpelar o interlocutor. Ele deve ser sempre isolado por vírgulas.",
+            "Ex.: Maria, venha aqui.",
+            "Ex.: Por favor, professor, repita a explicação.",
+            "Ex.: Amigos, vamos celebrar!"
+          ]
+        },
+        {
+          "subtitulo": "Para Isolar o Aposto Explicativo",
+          "itens": [
+            "O aposto explicativo é um termo que acrescenta uma informação adicional sobre um substantivo ou pronome já mencionado, geralmente um substantivo.",
+            "Ex.: Machado de Assis, o maior escritor brasileiro, nasceu no Rio de Janeiro.",
+            "Ex.: Brasília, capital do Brasil, é conhecida por sua arquitetura.",
+            "Ex.: Meu irmão, um excelente médico, viajou."
+          ]
+        },
+        {
+          "subtitulo": "Para Isolar o Adjunto Adverbial Deslocado",
+          "itens": [
+            "Quando o adjunto adverbial (de tempo, lugar, modo, causa, etc.) é de longa extensão ou está deslocado de sua posição natural (final da frase), ele deve ser isolado por vírgula.",
+            "Adjuntos adverbiais curtos e deslocados podem ter a vírgula facultativa.",
+            "Ex.: Naquela manhã fria de inverno, todos se reuniram. (longa extensão)",
+            "Ex.: Com muita calma, ele resolveu o problema. (curta extensão, deslocado)",
+            "Ex.: Ontem, fomos ao cinema. (curta extensão, facultativa)"
+          ]
+        },
+        {
+          "subtitulo": "Para Isolar Expressões Explicativas ou Retificativas",
+          "itens": [
+            "Expressões como 'isto é', 'ou seja', 'por exemplo', 'aliás', 'isto posto', 'a propósito', 'com efeito', 'enfim', 'ou melhor' devem ser isoladas por vírgulas.",
+            "Ex.: Ele é muito estudioso, isto é, dedica-se bastante.",
+            "Ex.: A reunião será amanhã, ou melhor, depois de amanhã.",
+            "Ex.: Muitos alunos, por exemplo, não entenderam a questão."
+          ]
+        },
+        {
+          "subtitulo": "Para Separar o Nome do Lugar na Indicação de Datas e Endereços",
+          "itens": [
+            "Em datas, a vírgula separa o nome da localidade do dia. Em endereços, separa o logradouro do número, e o bairro da cidade.",
+            "Ex.: São Paulo, 15 de maio de 2024.",
+            "Ex.: Rua das Flores, 123, Centro, Rio de Janeiro.",
+            "Ex.: Curitiba, 20 de abril."
+          ]
+        },
+        {
+          "subtitulo": "Para Marcar a Elipse do Verbo",
+          "itens": [
+            "A vírgula pode ser usada para indicar a omissão de um verbo que já foi mencionado anteriormente na frase, evitando a repetição.",
+            "Ex.: Eu gosto de café; ele, de chá. (omissão do verbo 'gosta')",
+            "Ex.: João estuda matemática; Pedro, física. (omissão do verbo 'estuda')",
+            "Ex.: Ela prefere praia; eu, montanha. (omissão do verbo 'prefere')"
+          ]
+        },
+        {
+          "subtitulo": "Para Separar Orações Coordenadas Sindéticas e Assindéticas",
+          "itens": [
+            "Orações coordenadas assindéticas (sem conjunção) são sempre separadas por vírgulas.",
+            "Orações coordenadas sindéticas (com conjunção) são separadas por vírgulas, exceto as aditivas iniciadas por 'e' (a não ser que os sujeitos sejam diferentes ou haja ênfase).",
+            "Ex.: Cheguei, vi, venci. (assindéticas)",
+            "Ex.: Ele estudou muito, mas não passou. (sindética adversativa)",
+            "Ex.: Choveu, ventou, fez frio. (assindéticas)"
+          ]
+        },
+        {
+          "subtitulo": "Para Separar Orações Subordinadas Adverbiais Deslocadas",
+          "itens": [
+            "Orações subordinadas adverbiais, quando vêm antes da oração principal ou intercaladas, devem ser separadas por vírgula. Se vierem depois, a vírgula é facultativa (se a oração for curta) ou obrigatória (se for longa).",
+            "Ex.: Quando você chegou, todos já haviam saído. (deslocada)",
+            "Ex.: Embora estivesse cansado, ele continuou trabalhando. (deslocada)",
+            "Ex.: Ele não veio, porque estava doente. (depois, facultativa)"
+          ]
+        },
+        {
+          "subtitulo": "Para Separar Orações Subordinadas Adjetivas Explicativas",
+          "itens": [
+            "As orações subordinadas adjetivas explicativas (que adicionam uma informação extra sobre o antecedente, sem restringi-lo) são sempre isoladas por vírgulas.",
+            "Ex.: O homem, que é um ser racional, comete erros.",
+            "Ex.: Meu pai, que mora no interior, virá nos visitar.",
+            "Ex.: O livro, que comprei ontem, é excelente."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos em que Não se Usa a Vírgula",
+      "destaque": "Evite o erro crasso! Jamais separe o sujeito do predicado ou o verbo de seus complementos com vírgula.",
+      "itens": [
+        "Não se usa vírgula para separar o sujeito do predicado.",
+        "Não se usa vírgula para separar o verbo de seus complementos (objeto direto, objeto indireto).",
+        "Não se usa vírgula para separar o nome de seu complemento nominal ou adjunto adnominal.",
+        "Não se usa vírgula para separar o agente da passiva.",
+        "Ex.: Os alunos estudaram a matéria. (Sujeito e Predicado)",
+        "Ex.: Ele comprou um carro novo. (Verbo e Objeto Direto)",
+        "Ex.: Tenho necessidade de silêncio. (Nome e Complemento Nominal)"
+      ]
+    }
+  ],
+  "sintese": [
+    "A vírgula (,) indica pausa breve e separa termos ou orações, garantindo clareza e evitando ambiguidades. Seu uso é sintático, não respiratório.",
+    "É obrigatória para separar termos de mesma função em enumerações (exceto com 'e', 'nem', 'ou'), isolar vocativos e apostos explicativos.",
+    "Deve ser usada para isolar adjuntos adverbiais deslocados de longa extensão ou expressões explicativas/retificativas ('isto é', 'ou seja').",
+    "Separa o nome do lugar em datas e endereços, e marca a elipse de um verbo já mencionado.",
+    "Fundamental na separação de orações coordenadas assindéticas e sindéticas (exceto aditivas com 'e' e mesmo sujeito), e orações subordinadas adverbiais deslocadas.",
+    "Sempre isola orações subordinadas adjetivas explicativas, que adicionam informações extras sem restringir o antecedente.",
+    "Nunca se usa vírgula para separar sujeito de predicado, verbo de seus complementos, ou nome de seu complemento/adjunto adnominal."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o uso da vírgula está *incorreto*.",
+      "opcoes": [
+        "A) Maria, traga-me um copo d'água.",
+        "B) Comprei pão, leite, ovos e café.",
+        "C) Ele é um aluno dedicado, inteligente, e muito esforçado.",
+        "D) São Paulo, 20 de junho de 2024."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, a vírgula antes da conjunção aditiva 'e' é desnecessária, pois os termos 'dedicado', 'inteligente' e 'muito esforçado' exercem a mesma função sintática (adjuntos adnominais) e são unidos pela conjunção 'e' sem que haja mudança de sujeito ou intenção de ênfase. Nas demais opções, o uso da vírgula está correto: isolando vocativo (A), separando elementos de uma enumeração (B) e separando localidade em data (D)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a vírgula foi empregada para isolar um aposto explicativo?",
+      "opcoes": [
+        "A) Ontem, fomos ao parque.",
+        "B) Pedro, venha cá!",
+        "C) O Rio de Janeiro, cidade maravilhosa, encanta a todos.",
+        "D) Ele estuda muito, mas não aprende."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'cidade maravilhosa' é um aposto explicativo que adiciona uma informação sobre 'O Rio de Janeiro', sendo corretamente isolado por vírgulas. Em A, a vírgula isola um adjunto adverbial de tempo deslocado. Em B, isola um vocativo. Em D, separa orações coordenadas sindéticas adversativas."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise as sentenças abaixo e identifique aquela em que a vírgula marca a elipse do verbo.",
+      "opcoes": [
+        "A) Cheguei, vi, venci.",
+        "B) Eu gosto de pizza; ele, de lasanha.",
+        "C) Embora chovesse, saímos.",
+        "D) O professor, que é muito paciente, explicou novamente."
+      ],
+      "gabarito": "B",
+      "comentario": "Na opção B, a vírgula após 'ele' indica a omissão do verbo 'gosta', que já foi mencionado na primeira parte da frase ('Eu gosto de pizza'). Este é um caso clássico de elipse verbal. Em A, as vírgulas separam orações coordenadas assindéticas. Em C, a vírgula isola uma oração subordinada adverbial deslocada. Em D, a vírgula isola uma oração subordinada adjetiva explicativa."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das alternativas a vírgula é *proibida*?",
+      "opcoes": [
+        "A) Os alunos, estudaram a matéria com afinco.",
+        "B) Com muita dedicação, ele alcançou seus objetivos.",
+        "C) Ele é inteligente, ou seja, compreende rápido.",
+        "D) Meu pai, que é engenheiro, viajou."
+      ],
+      "gabarito": "A",
+      "comentario": "A vírgula é proibida na opção A porque separa o sujeito ('Os alunos') do predicado ('estudaram a matéria com afinco'). Esta é uma das regras fundamentais de não uso da vírgula. Nas demais opções, o uso da vírgula está correto: isolando adjunto adverbial deslocado (B), isolando expressão explicativa (C) e isolando oração subordinada adjetiva explicativa (D)."
+    }
+  ]
+}

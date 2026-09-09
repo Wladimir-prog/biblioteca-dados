@@ -1,0 +1,203 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Sujeito: Tipos e Classificação",
+  "introducao": [
+    "O sujeito é o termo essencial da oração que estabelece uma relação de concordância com o verbo, indicando quem pratica ou sofre a ação verbal, ou sobre quem se declara algo. Ele é o pilar sintático em torno do qual o predicado se organiza, sendo fundamental para a construção do sentido completo da frase.",
+    "A correta identificação do sujeito é um passo crucial na análise sintática, pois dela dependem a concordância verbal e a clareza da mensagem. Para localizá-lo, basta perguntar ao verbo 'Quem?' ou 'O quê?', e a resposta será o sujeito da oração."
+  ],
+  "secoes": [
+    {
+      "titulo": "Introdução aos Tipos de Sujeito",
+      "conteudo": [
+        "A classificação do sujeito é um dos pilares da análise sintática, permitindo compreender a estrutura das orações e a relação entre os termos. Basicamente, o sujeito pode ser determinado (quando é possível identificá-lo), indeterminado (quando existe, mas não se quer ou não se pode identificar) ou inexistente (quando a oração não possui um sujeito gramatical).",
+        "Dominar essas classificações é essencial para a correta concordância verbal e para a interpretação textual."
+      ]
+    },
+    {
+      "titulo": "Sujeito Determinado",
+      "destaque": "Bizú: O sujeito determinado sempre pode ser identificado na oração, seja ele expresso ou subentendido pelo contexto ou pela desinência verbal.",
+      "conteudo": [
+        "O sujeito determinado é aquele que pode ser claramente identificado na oração, seja porque está explícito ou porque pode ser inferido pelo contexto ou pela flexão verbal. Ele se subdivide em três categorias: simples, composto e oculto (ou elíptico)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Sujeito Simples",
+          "itens": [
+            "Possui apenas um núcleo, ou seja, uma única palavra principal que representa o sujeito.",
+            "Ex.: O professor explicou a matéria. (Núcleo: professor)",
+            "Ex.: Ela viajou ontem. (Núcleo: Ela)",
+            "Ex.: A chuva caiu forte. (Núcleo: chuva)"
+          ]
+        },
+        {
+          "subtitulo": "Sujeito Composto",
+          "itens": [
+            "Apresenta dois ou mais núcleos, todos eles relacionados ao mesmo verbo.",
+            "Ex.: Pedro e Maria foram ao cinema. (Núcleos: Pedro, Maria)",
+            "Ex.: Livros e cadernos estavam sobre a mesa. (Núcleos: Livros, cadernos)",
+            "Ex.: O sol e a lua iluminam o universo. (Núcleos: sol, lua)"
+          ]
+        },
+        {
+          "subtitulo": "Sujeito Oculto (Elíptico ou Desinencial)",
+          "itens": [
+            "Não está expresso na oração, mas pode ser facilmente identificado pela desinência verbal (a terminação do verbo) ou pelo contexto da frase.",
+            "Ex.: Viajamos para o litoral. (Sujeito: Nós, inferido pela desinência '-mos')",
+            "Ex.: Estudei muito para a prova. (Sujeito: Eu, inferido pela desinência '-ei')",
+            "Ex.: Chegou cedo. (Sujeito: Ele/Ela, inferido pela desinência '-ou')"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Sujeito Indeterminado",
+      "destaque": "Bizú: O sujeito indeterminado existe, mas não se quer ou não se pode nomeá-lo. Cuidado para não confundir com oração sem sujeito!",
+      "conteudo": [
+        "O sujeito indeterminado ocorre quando a ação verbal é atribuída a alguém, mas não há interesse ou possibilidade de identificar quem é esse 'alguém'. A indeterminação pode ser expressa de duas maneiras principais:"
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Verbo na 3ª pessoa do plural",
+          "itens": [
+            "Utiliza-se o verbo na 3ª pessoa do plural, sem que haja um termo anterior na frase ou no contexto que possa ser o sujeito.",
+            "Ex.: Roubaram meu carro. (Não se sabe quem roubou)",
+            "Ex.: Falaram mal de você. (Não se sabe quem falou)",
+            "Ex.: Bateram na porta. (Não se sabe quem bateu)"
+          ]
+        },
+        {
+          "subtitulo": "Verbo na 3ª pessoa do singular + 'se' (Índice de Indeterminação do Sujeito - IIS)",
+          "itens": [
+            "Ocorre com verbos na 3ª pessoa do singular acompanhados do pronome 'se'. Para que o 'se' seja um IIS, o verbo não pode ser transitivo direto (VTD) nem de ligação (VL). Geralmente, são verbos intransitivos (VI), transitivos indiretos (VTI) ou de ligação (VL) com predicativo do sujeito.",
+            "Ex.: Precisa-se de funcionários. (Verbo transitivo indireto 'precisar de')",
+            "Ex.: Vive-se bem aqui. (Verbo intransitivo 'viver')",
+            "Ex.: Era-se feliz naquela época. (Verbo de ligação 'ser' com predicativo 'feliz')"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Oração Sem Sujeito (Sujeito Inexistente)",
+      "destaque": "Bizú: A oração sem sujeito não tem um agente para a ação verbal. O verbo é impessoal e não se refere a ninguém, expressando fenômenos ou tempo.",
+      "conteudo": [
+        "A oração sem sujeito, também conhecida como sujeito inexistente, ocorre quando o verbo não se refere a nenhum ser ou elemento, expressando um processo que não é atribuído a um agente. Isso acontece com verbos impessoais, que não admitem sujeito."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Verbos que indicam fenômenos da natureza",
+          "itens": [
+            "Verbos como chover, nevar, ventar, gear, trovejar, amanhecer, anoitecer, etc., quando usados em sentido denotativo.",
+            "Ex.: Choveu muito ontem.",
+            "Ex.: Nevou na serra.",
+            "Ex.: Ventou forte."
+          ]
+        },
+        {
+          "subtitulo": "Verbo 'haver' (existir, ocorrer, tempo decorrido)",
+          "itens": [
+            "O verbo 'haver' é impessoal quando significa 'existir', 'ocorrer' ou indica tempo decorrido.",
+            "Ex.: Há muitos livros na biblioteca. (Significa 'Existem')",
+            "Ex.: Houve um acidente na estrada. (Significa 'Ocorreu')",
+            "Ex.: Faz anos que não o vejo. (Indica tempo decorrido)"
+          ]
+        },
+        {
+          "subtitulo": "Verbo 'fazer' (tempo ou clima)",
+          "itens": [
+            "O verbo 'fazer' é impessoal quando indica tempo cronológico ou fenômenos climáticos.",
+            "Ex.: Faz calor no verão.",
+            "Ex.: Faz dez anos que moro aqui.",
+            "Ex.: Faz frio hoje."
+          ]
+        },
+        {
+          "subtitulo": "Verbos 'ser', 'estar', 'ficar' (tempo ou clima)",
+          "itens": [
+            "Esses verbos são impessoais quando indicam tempo, clima ou distância.",
+            "Ex.: É tarde. (Tempo)",
+            "Ex.: Está quente. (Clima)",
+            "Ex.: Fica frio à noite. (Clima)"
+          ]
+        },
+        {
+          "subtitulo": "Verbos 'passar' e 'estar' (tempo)",
+          "itens": [
+            "Quando indicam tempo, especialmente em expressões de horas.",
+            "Ex.: Passa das dez. (Tempo)",
+            "Ex.: Está na hora. (Tempo)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "O sujeito é o termo da oração que pratica/sofre a ação ou sobre o qual se declara algo, sendo essencial para a concordância verbal.",
+    "Sujeito Determinado é aquele que pode ser identificado, subdividindo-se em Simples (um núcleo), Composto (dois ou mais núcleos) e Oculto (inferido pela desinência verbal ou contexto).",
+    "Sujeito Indeterminado ocorre quando não se quer ou não se pode identificar o agente da ação, manifestando-se com verbo na 3ª pessoa do plural sem referência anterior ou com verbo na 3ª pessoa do singular + 'se' (IIS).",
+    "Oração Sem Sujeito (Sujeito Inexistente) acontece com verbos impessoais, como os que indicam fenômenos da natureza, o verbo 'haver' (no sentido de existir/ocorrer/tempo) e o verbo 'fazer' (indicando tempo/clima).",
+    "A identificação correta do sujeito é fundamental para a análise sintática e para evitar erros de concordância verbal."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das alternativas o sujeito é classificado como oculto (elíptico)?",
+      "opcoes": [
+        "A) Choveu muito durante a noite.",
+        "B) Precisa-se de bons profissionais.",
+        "C) Estudamos para a prova de português.",
+        "D) O professor e os alunos conversaram."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, o verbo 'Estudamos' está na 1ª pessoa do plural, indicando que o sujeito é 'Nós', mesmo não estando expresso na oração. Portanto, é um sujeito oculto (elíptico). Em A, temos oração sem sujeito (fenômeno da natureza). Em B, o sujeito é indeterminado (verbo + 'se'). Em D, o sujeito é composto ('O professor e os alunos')."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que a oração apresenta sujeito indeterminado.",
+      "opcoes": [
+        "A) Faz frio no sul do país.",
+        "B) Vende-se casas nesta rua.",
+        "C) Falaram sobre o novo projeto.",
+        "D) Os livros e as canetas sumiram."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, o verbo 'Falaram' está na 3ª pessoa do plural e não há um sujeito expresso ou que possa ser inferido no contexto, caracterizando um sujeito indeterminado. Em A, 'Faz frio' é oração sem sujeito (verbo 'fazer' indicando clima). Em B, 'Vende-se casas' tem o 'se' como partícula apassivadora, e 'casas' é o sujeito paciente (sujeito simples). Em D, 'Os livros e as canetas' é um sujeito composto."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das orações abaixo é classificada como oração sem sujeito?",
+      "opcoes": [
+        "A) Os alunos chegaram atrasados.",
+        "B) Havia muitas pessoas na festa.",
+        "C) Precisa-se de ajuda urgente.",
+        "D) Eu e você faremos o trabalho."
+      ],
+      "gabarito": "B",
+      "comentario": "Na alternativa B, o verbo 'haver' está no sentido de 'existir' ('Existiam muitas pessoas na festa'), sendo, portanto, um verbo impessoal e a oração é sem sujeito. Em A, 'Os alunos' é sujeito simples. Em C, 'Precisa-se de ajuda' tem sujeito indeterminado (verbo transitivo indireto + 'se'). Em D, 'Eu e você' é sujeito composto."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em 'No Brasil, vive-se com muita alegria.', o sujeito é classificado como:",
+      "opcoes": [
+        "A) Simples",
+        "B) Composto",
+        "C) Indeterminado",
+        "D) Inexistente"
+      ],
+      "gabarito": "C",
+      "comentario": "Na oração 'No Brasil, vive-se com muita alegria.', o verbo 'viver' é intransitivo e está acompanhado do pronome 'se' na 3ª pessoa do singular. O 'se' atua como Índice de Indeterminação do Sujeito (IIS), tornando o sujeito indeterminado. Não se especifica quem vive, apenas que se vive."
+    },
+    {
+      "id": 5,
+      "enunciado": "Analise as frases e identifique a que possui sujeito simples.",
+      "opcoes": [
+        "A) Faz anos que não nos vemos.",
+        "B) Neve e chuva caíram na serra.",
+        "C) A verdade sempre prevalece.",
+        "D) Contaram-me uma história interessante."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, 'A verdade' é o sujeito e possui apenas um núcleo ('verdade'), sendo, portanto, um sujeito simples. Em A, 'Faz anos' é oração sem sujeito (verbo 'fazer' indicando tempo). Em B, 'Neve e chuva' é sujeito composto. Em D, 'Contaram-me' tem sujeito indeterminado (verbo na 3ª pessoa do plural sem referência)."
+    }
+  ]
+}

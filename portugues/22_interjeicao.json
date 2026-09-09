@@ -1,0 +1,215 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Morfologia (Estrutura e Classes de Palavras)",
+  "tema": "Interjeição: Expressão de Sentimentos e Emoções",
+  "introducao": [
+    "A interjeição é uma classe de palavras invariável que se destaca por sua capacidade de expressar, de forma instantânea e intensa, emoções, sentimentos, sensações e estados de espírito. Diferente de outras classes, ela não estabelece relações sintáticas com os demais termos da oração, funcionando como um elemento autônomo e expressivo.",
+    "Sua principal função é comunicar uma reação imediata do falante, seja ela de alegria, dor, espanto, advertência ou desejo, conferindo vivacidade e espontaneidade à linguagem. Compreender as interjeições é fundamental para a interpretação textual e para a produção de discursos mais ricos e autênticos."
+  ],
+  "secoes": [
+    {
+      "titulo": "Definição e Função da Interjeição",
+      "destaque": "Lembre-se: a interjeição é o 'grito' da alma na gramática, expressando emoções puras sem se ligar sintaticamente a outros termos!",
+      "conteudo": [
+        "A interjeição é uma palavra invariável que tem como principal função exprimir emoções, sentimentos, sensações, estados de espírito, ou até mesmo um apelo, uma ordem ou um aviso.",
+        "Ela atua como um elemento autônomo na frase, funcionando como um desabafo, um lamento, uma manifestação de alegria ou dor, entre outros. Sua natureza é puramente expressiva, não possuindo função sintática na oração."
+      ],
+      "itens": [
+        "Ah! (Expressa alívio, surpresa, dor)",
+        "Ufa! (Expressa alívio)",
+        "Oba! (Expressa alegria)"
+      ]
+    },
+    {
+      "titulo": "Características Principais das Interjeições",
+      "destaque": "A autonomia e a invariabilidade são as marcas registradas da interjeição. Ela é um 'solo' expressivo, pontuado por exclamação!",
+      "subsecoes": [
+        {
+          "subtitulo": "Invariabilidade",
+          "itens": [
+            "As interjeições não sofrem flexão de gênero (masculino/feminino), número (singular/plural), grau (aumentativo/diminutivo), tempo ou modo. Elas mantêm sua forma original independentemente do contexto.",
+            "Ex.: 'Ai!' sempre será 'Ai!', nunca 'Ais' ou 'Aia'."
+          ]
+        },
+        {
+          "subtitulo": "Autonomia",
+          "itens": [
+            "Geralmente, as interjeições aparecem isoladas na frase, pontuadas por um ponto de exclamação (!), o que reforça sua independência sintática.",
+            "Elas formam por si só uma unidade de sentido, comunicando uma mensagem completa de emoção ou estado de espírito.",
+            "Ex.: 'Silêncio!' (Pede silêncio de forma imperativa)."
+          ]
+        },
+        {
+          "subtitulo": "Expressividade",
+          "itens": [
+            "O sentido de uma interjeição é fortemente ligado ao contexto em que é utilizada e à entonação com que é pronunciada.",
+            "Uma mesma interjeição pode expressar diferentes sentimentos dependendo da situação e da forma como é dita.",
+            "Ex.: 'Ah!' pode ser de dor, surpresa, alívio ou desapontamento, conforme a entonação."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação das Interjeições",
+      "destaque": "A classificação das interjeições é um guia para entender a intenção do falante. Cada 'Ah!' ou 'Ufa!' carrega um universo de sentimentos!",
+      "conteudo": [
+        "As interjeições são classificadas de acordo com a emoção, o sentimento ou a intenção que expressam. Essa categorização ajuda a compreender a riqueza de nuances que essa classe de palavras pode transmitir."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Interjeições de Alegria",
+          "itens": [
+            "Expressam contentamento, satisfação, felicidade.",
+            "Exemplos: Ah!, Oba!, Viva!, Que bom!",
+            "Ex.: Oba! Ganhamos o jogo!",
+            "Ex.: Viva! Férias!",
+            "Ex.: Que bom! Você chegou!"
+          ]
+        },
+        {
+          "subtitulo": "Interjeições de Dor",
+          "itens": [
+            "Indicam sofrimento físico ou emocional.",
+            "Exemplos: Ai!, Ui!, Oh!, Ah!",
+            "Ex.: Ai! Que dor!",
+            "Ex.: Ui! Que susto!",
+            "Ex.: Oh! Que pena!"
+          ]
+        },
+        {
+          "subtitulo": "Interjeições de Espanto/Surpresa",
+          "itens": [
+            "Manifestam admiração, choque, inesperado.",
+            "Exemplos: Oh!, Ah!, Uau!, Puxa!, Caramba!",
+            "Ex.: Uau! Que carro!",
+            "Ex.: Puxa! Não esperava por isso.",
+            "Ex.: Caramba! Que reviravolta!"
+          ]
+        },
+        {
+          "subtitulo": "Interjeições de Advertência/Aviso",
+          "itens": [
+            "Alertam para um perigo ou chamam a atenção.",
+            "Exemplos: Cuidado!, Atenção!, Alerta!, Fogo!",
+            "Ex.: Cuidado! Chão molhado.",
+            "Ex.: Atenção! Próxima parada.",
+            "Ex.: Alerta! Perigo à vista."
+          ]
+        },
+        {
+          "subtitulo": "Interjeições de Chamamento/Apelo",
+          "itens": [
+            "Utilizadas para chamar alguém ou pedir atenção.",
+            "Exemplos: Olá!, Ei!, Psiu!, Alô!",
+            "Ex.: Olá! Como vai?",
+            "Ex.: Ei! Espere um pouco!",
+            "Ex.: Psiu! Venha cá."
+          ]
+        },
+        {
+          "subtitulo": "Interjeições de Desejo",
+          "itens": [
+            "Expressam um anseio, uma vontade.",
+            "Exemplos: Oxalá!, Tomara!, Ah! (com sentido de desejo)",
+            "Ex.: Oxalá! Que tudo dê certo.",
+            "Ex.: Tomara! Que ele venha.",
+            "Ex.: Ah! Se eu pudesse!"
+          ]
+        },
+        {
+          "subtitulo": "Interjeições de Silêncio",
+          "itens": [
+            "Indicam a necessidade de silêncio ou quietude.",
+            "Exemplos: Psiu!, Shhh!, Silêncio!",
+            "Ex.: Shhh! O bebê está dormindo.",
+            "Ex.: Silêncio! Por favor.",
+            "Ex.: Psiu! Não faça barulho."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Locuções Interjetivas",
+      "destaque": "Quando duas ou mais palavras se unem para expressar uma emoção, temos uma locução interjetiva. Elas ampliam o repertório expressivo da língua!",
+      "conteudo": [
+        "As locuções interjetivas são conjuntos de duas ou mais palavras que, juntas, funcionam com o valor de uma interjeição.",
+        "Geralmente, são formadas por uma preposição e um substantivo, ou por um advérbio e um substantivo, mas podem ter outras formações. Elas enriquecem a expressividade da língua portuguesa."
+      ],
+      "itens": [
+        "Que pena! (Expressa lamento)",
+        "Graças a Deus! (Expressa alívio, gratidão)",
+        "Pelo amor de Deus! (Expressa súplica, espanto)",
+        "Ora bolas! (Expressa impaciência, contrariedade)"
+      ]
+    }
+  ],
+  "sintese": [
+    "A interjeição é uma palavra invariável que exprime emoções, sentimentos e sensações de forma instantânea.",
+    "Não possui função sintática na oração, atuando como um elemento autônomo e expressivo, geralmente pontuado por exclamação.",
+    "Suas principais características são a invariabilidade (não flexiona) e a expressividade (sentido ligado ao contexto e entonação).",
+    "As interjeições são classificadas conforme a emoção que expressam: alegria, dor, espanto, advertência, chamamento, desejo, silêncio, entre outras.",
+    "Locuções interjetivas são grupos de palavras que funcionam como uma única interjeição, ampliando as possibilidades de expressão emocional."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a palavra destacada NÃO é uma interjeição.",
+      "opcoes": [
+        "A) Ufa! Que alívio!",
+        "B) Ai! Que dor insuportável!",
+        "C) Silêncio! O professor está falando.",
+        "D) Ele disse sim à proposta."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa 'D' apresenta a palavra 'sim', que é um advérbio de afirmação, e não uma interjeição. As demais alternativas ('Ufa!', 'Ai!', 'Silêncio!') são exemplos clássicos de interjeições que expressam alívio, dor e ordem, respectivamente."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das opções abaixo apresenta uma locução interjetiva?",
+      "opcoes": [
+        "A) Oba!",
+        "B) Puxa!",
+        "C) Que pena!",
+        "D) Alô!"
+      ],
+      "gabarito": "C",
+      "comentario": "Locuções interjetivas são formadas por duas ou mais palavras que, juntas, funcionam como uma interjeição. 'Que pena!' é um exemplo claro de locução interjetiva, expressando lamento. As outras opções ('Oba!', 'Puxa!', 'Alô!') são interjeições simples, formadas por uma única palavra."
+    },
+    {
+      "id": 3,
+      "enunciado": "A interjeição 'Psiu!' pode expressar diferentes sentimentos dependendo do contexto. Em qual das frases abaixo ela expressa chamamento/apelo?",
+      "opcoes": [
+        "A) Psiu! Não faça barulho na biblioteca.",
+        "B) Psiu! Venha cá, preciso falar com você.",
+        "C) Psiu! O bebê está dormindo.",
+        "D) Psiu! Que susto você me deu!"
+      ],
+      "gabarito": "B",
+      "comentario": "Na frase 'Psiu! Venha cá, preciso falar com você.', a interjeição 'Psiu!' é utilizada para chamar a atenção de alguém, configurando um chamamento ou apelo. Nas outras opções, 'Psiu!' expressa silêncio (A e C) ou espanto (D), demonstrando a expressividade contextual da interjeição."
+    },
+    {
+      "id": 4,
+      "enunciado": "Sobre as características da interjeição, é correto afirmar que:",
+      "opcoes": [
+        "A) É uma palavra variável que sofre flexão de gênero e número.",
+        "B) Possui função sintática de sujeito ou objeto na oração.",
+        "C) Seu sentido é fortemente ligado ao contexto e à entonação.",
+        "D) Geralmente aparece ligada a um verbo, modificando-o."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa 'C' está correta. Uma das principais características da interjeição é sua expressividade, cujo sentido é intrinsecamente ligado ao contexto e à entonação. As interjeições são invariáveis (A), não possuem função sintática (B) e não se ligam a verbos para modificá-los (D), sendo autônomas."
+    },
+    {
+      "id": 5,
+      "enunciado": "Identifique a frase em que a interjeição expressa um desejo.",
+      "opcoes": [
+        "A) Ai! Que dor de cabeça!",
+        "B) Oba! Férias finalmente!",
+        "C) Oxalá! Que tudo dê certo para você.",
+        "D) Cuidado! O chão está escorregadio."
+      ],
+      "gabarito": "C",
+      "comentario": "Na frase 'Oxalá! Que tudo dê certo para você.', a interjeição 'Oxalá!' é utilizada para expressar um desejo ou anseio. 'Ai!' expressa dor (A), 'Oba!' expressa alegria (B) e 'Cuidado!' expressa advertência (D)."
+    }
+  ]
+}

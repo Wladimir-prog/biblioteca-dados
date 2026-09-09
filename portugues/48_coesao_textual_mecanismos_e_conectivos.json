@@ -1,0 +1,179 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Coesão Textual: Mecanismos e Conectivos",
+  "introducao": [
+    "A coesão textual é um dos pilares fundamentais para a construção de um texto claro, coerente e compreensível. Ela se manifesta na conexão lógica e semântica entre as diversas partes de um texto, abrangendo desde palavras e frases até parágrafos inteiros.",
+    "Ao garantir que as ideias estejam bem articuladas e interligadas, a coesão evita repetições desnecessárias, estabelece relações de sentido precisas e facilita a progressão temática, tornando a leitura e a interpretação do conteúdo mais fluidas e eficazes."
+  ],
+  "secoes": [
+    {
+      "titulo": "Mecanismos Essenciais de Coesão",
+      "conteudo": [
+        "A coesão textual é alcançada por meio de diferentes mecanismos que atuam na superfície do texto, garantindo a ligação entre seus elementos. Compreender esses mecanismos é crucial para produzir e analisar textos de forma eficaz."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Coesão Referencial",
+          "itens": [
+            "Refere-se à forma como os elementos do texto remetem a outros elementos já mencionados (anáfora) ou que serão mencionados (catáfora). Seu principal objetivo é evitar a repetição de termos e manter a fluidez textual.",
+            "Pode ser realizada por: pronomes (pessoais, possessivos, demonstrativos, relativos), advérbios de lugar, numerais ou substantivos sinônimos/hiperônimos.",
+            "Ex.: Maria comprou um livro. Ela o leu em um dia. (Ela e o referem-se a Maria e livro)",
+            "Ex.: O carro estava quebrado. O veículo precisava de conserto. (Veículo retoma carro)",
+            "Ex.: Fui ao parque. Lá encontrei meus amigos. (Lá refere-se ao parque)"
+          ]
+        },
+        {
+          "subtitulo": "2. Coesão Lexical",
+          "itens": [
+            "Relaciona-se com a escolha e o uso de vocabulário para estabelecer ligações entre as partes do texto. Envolve a repetição de palavras (reiteração), o uso de sinônimos, hiperônimos (termo de sentido mais amplo) e hipônimos (termo de sentido mais específico).",
+            "Contribui para a riqueza vocabular e para a manutenção do tema central, sem cair na monotonia da repetição exata de termos.",
+            "Ex.: O professor explicou a matéria. O docente foi muito claro. (Docente é sinônimo de professor)",
+            "Ex.: Comprei frutas: maçãs, bananas e uvas. As frutas estavam frescas. (Frutas é hiperônimo de maçãs, bananas e uvas)",
+            "Ex.: A casa era grande. A residência tinha muitos cômodos. (Residência é sinônimo de casa)"
+          ]
+        },
+        {
+          "subtitulo": "3. Coesão Sequencial",
+          "itens": [
+            "Diz respeito à forma como as partes do texto se encadeiam, estabelecendo relações de sentido como tempo, causa, consequência, adição, oposição, finalidade, entre outras. É realizada principalmente por conectivos.",
+            "Os conectivos são palavras ou expressões que ligam orações, períodos ou parágrafos, indicando a relação de sentido entre eles e garantindo a progressão das ideias.",
+            "Ex.: Choveu muito, por isso o rio transbordou. (Por isso indica consequência)",
+            "Ex.: Ele estudou bastante; contudo, não passou no exame. (Contudo indica oposição)",
+            "Ex.: Além disso, precisamos considerar outros fatores. (Além disso indica adição)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conectivos: Funções e Classificações",
+      "conteudo": [
+        "Conectivos são elementos linguísticos essenciais que estabelecem a ligação entre palavras, orações, períodos e parágrafos, conferindo sentido, fluidez e progressão ao texto. Podem ser conjunções, preposições, advérbios ou expressões adverbiais."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "A) Conjunções",
+          "itens": [
+            "Ligam duas orações ou dois termos de mesma função sintática, estabelecendo relações de sentido específicas. São classificadas de acordo com a relação que estabelecem:"
+          ]
+        },
+        {
+          "subtitulo": "Tipos de Conjunções",
+          "itens": [
+            "Aditivas: e, nem, mas também, como também, bem como, não só... mas também. Ex.: Ele canta e dança muito bem. Ex.: Não só estuda, mas também trabalha. Ex.: Não come nem dorme direito.",
+            "Adversativas: mas, porém, contudo, todavia, entretanto, no entanto, não obstante. Ex.: Queria ir, mas não pude. Ex.: Estudou muito; contudo, não foi aprovado. Ex.: A proposta é boa, porém cara.",
+            "Alternativas: ou, ou...ou, ora...ora, quer...quer, seja...seja. Ex.: Ou você estuda, ou você trabalha. Ex.: Ora chora, ora ri. Ex.: Quer faça sol, quer chova, iremos.",
+            "Conclusivas: logo, portanto, por isso, assim, pois (depois do verbo), por conseguinte, dessarte. Ex.: Penso, logo existo. Ex.: Ele é inteligente, portanto será aprovado. Ex.: Choveu muito, por isso as ruas estão molhadas.",
+            "Explicativas: que, porque, pois (antes do verbo), porquanto. Ex.: Não saia, que está chovendo. Ex.: Venha logo, porque preciso de você. Ex.: Não demore, pois o tempo urge.",
+            "Causais: porque, já que, visto que, como (no início da frase), uma vez que, porquanto. Ex.: Como estava doente, não foi à festa. Ex.: Ele faltou porque estava gripado. Ex.: Visto que chovia, adiamos o passeio.",
+            "Consecutivas: tão...que, tanto...que, tamanho...que, de modo que, de sorte que, de forma que. Ex.: Falou tanto que ficou rouco. Ex.: Correu tanto que se cansou. Ex.: A dor era tamanha que ele desmaiou.",
+            "Concessivas: embora, ainda que, mesmo que, posto que, conquanto, se bem que, apesar de que. Ex.: Embora chovesse, saímos. Ex.: Mesmo que ele peça, não irei. Ex.: Conquanto estivesse cansado, continuou.",
+            "Condicionais: se, caso, contanto que, desde que, a menos que, sem que, exceto se. Ex.: Se você vier, eu irei. Ex.: Caso chova, não sairemos. Ex.: Desde que estude, passará.",
+            "Conformativas: conforme, como, segundo, consoante. Ex.: Fiz o trabalho conforme o professor pediu. Ex.: Agiu como esperávamos. Ex.: Segundo a previsão, fará sol.",
+            "Finais: para que, a fim de que, que (com sentido de para que). Ex.: Estudou para que passasse no exame. Ex.: Trabalha a fim de que tenha uma vida melhor. Ex.: Abriu a porta para que eu entrasse.",
+            "Proporcionais: à medida que, à proporção que, ao passo que, quanto mais...mais, quanto menos...menos. Ex.: À medida que envelhecemos, ficamos mais sábios. Ex.: Quanto mais estuda, mais aprende. Ex.: Ao passo que o tempo passava, a ansiedade aumentava.",
+            "Temporais: quando, enquanto, logo que, assim que, desde que, antes que, depois que, mal, apenas. Ex.: Quando ele chegou, todos se calaram. Ex.: Enquanto eu lia, ela dormia. Ex.: Assim que terminar, me avise."
+          ]
+        },
+        {
+          "subtitulo": "B) Preposições",
+          "itens": [
+            "Ligam palavras, estabelecendo relações de sentido e dependência sintática entre elas. São invariáveis e essenciais para a regência verbal e nominal.",
+            "Ex.: de, em, para, com, por, sobre, sob, entre, contra, sem, após, até, desde.",
+            "Ex.: Livro de português. (relação de posse/assunto)",
+            "Ex.: Fui a pé. (relação de meio)",
+            "Ex.: Casa com telhado vermelho. (relação de companhia/característica)"
+          ]
+        },
+        {
+          "subtitulo": "C) Advérbios e Expressões Adverbiais",
+          "itens": [
+            "Modificam verbos, adjetivos ou outros advérbios, indicando circunstâncias (tempo, lugar, modo, intensidade, etc.) e também atuando como elementos de ligação e progressão textual.",
+            "Ex.: assim, então, depois, antes, aqui, lá, hoje, amanhã, certamente, talvez, realmente, consequentemente, por conseguinte.",
+            "Ex.: Ele chegou tarde. Depois, foi dormir. (Depois indica sequência temporal)",
+            "Ex.: Certamente, ele virá. (Certamente indica afirmação)",
+            "Ex.: Assim, concluímos que... (Assim indica conclusão/modo)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "A Relevância da Coesão para a Compreensão e Avaliação Textual",
+      "destaque": "BIZU PARA CONCURSOS: Em redações, utilize uma variedade de conectivos para demonstrar domínio da língua e evitar repetições. A coesão sequencial bem empregada é um diferencial que garante pontos!",
+      "conteudo": [
+        "A coesão é vital para a clareza e a coerência de um texto. Sem ela, o leitor pode se perder na sequência de ideias, dificultando a compreensão da mensagem e a assimilação do conteúdo.",
+        "Em provas e concursos, a ausência de coesão é um dos principais fatores de penalização na redação, pois compromete a progressão lógica, a unidade temática e a capacidade de argumentação do texto."
+      ]
+    }
+  ],
+  "sintese": [
+    "A coesão textual é a conexão lógica e semântica entre as partes de um texto, essencial para sua clareza e compreensão.",
+    "Os principais mecanismos de coesão são: Referencial (remissão a elementos), Lexical (uso de vocabulário e sinônimos) e Sequencial (encadeamento de ideias por conectivos).",
+    "Conectivos são palavras ou expressões que ligam termos, orações ou parágrafos, estabelecendo relações de sentido.",
+    "Conjunções são os conectivos mais variados, classificadas em aditivas, adversativas, alternativas, conclusivas, explicativas, causais, consecutivas, concessivas, condicionais, conformativas, finais, proporcionais e temporais.",
+    "Preposições e advérbios/expressões adverbiais também atuam como conectivos, ligando palavras e indicando circunstâncias.",
+    "A boa coesão é crucial para a progressão temática, a unidade do texto e é um critério fundamental de avaliação em exames e concursos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das alternativas o termo em destaque NÃO exerce função de coesão referencial?",
+      "opcoes": [
+        "A) João comprou um carro novo. Ele estava muito feliz com a aquisição.",
+        "B) A cidade de São Paulo é enorme. Lá vivem milhões de pessoas.",
+        "C) Os alunos estudaram muito. Contudo, a prova estava difícil.",
+        "D) Maria e Pedro são irmãos. Ambos moram no interior."
+      ],
+      "gabarito": "C",
+      "comentario": "A coesão referencial ocorre quando um termo remete a outro já mencionado no texto. Em (A), 'Ele' refere-se a João. Em (B), 'Lá' refere-se a São Paulo. Em (D), 'Ambos' refere-se a Maria e Pedro. Já em (C), 'Contudo' é uma conjunção adversativa que estabelece uma relação de oposição entre as orações, sendo um elemento de coesão sequencial, e não referencial."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que o conectivo sublinhado estabelece uma relação de CAUSA.",
+      "opcoes": [
+        "A) Ele não veio à festa, PORQUE estava doente.",
+        "B) Embora chovesse, saímos para passear.",
+        "C) Estudei muito, MAS não fui aprovado.",
+        "D) Penso, LOGO existo."
+      ],
+      "gabarito": "A",
+      "comentario": "Na alternativa (A), a conjunção 'porque' introduz a causa da ausência dele na festa. Em (B), 'Embora' indica concessão. Em (C), 'Mas' indica adversidade/oposição. Em (D), 'Logo' indica conclusão."
+    },
+    {
+      "id": 3,
+      "enunciado": "No trecho 'O professor explicou a matéria. O docente foi muito claro.', o mecanismo de coesão utilizado é predominantemente:",
+      "opcoes": [
+        "A) Coesão referencial por pronome.",
+        "B) Coesão lexical por sinonímia.",
+        "C) Coesão sequencial por conjunção.",
+        "D) Coesão referencial por advérbio."
+      ],
+      "gabarito": "B",
+      "comentario": "O termo 'docente' é um sinônimo de 'professor', utilizado para evitar a repetição e manter a ligação entre as frases. Este é um exemplo clássico de coesão lexical por sinonímia."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das opções apresenta um conectivo que expressa ideia de TEMPO?",
+      "opcoes": [
+        "A) Ele é inteligente, PORTANTO, será aprovado.",
+        "B) CASO chova, não sairemos.",
+        "C) QUANDO ele chegou, todos se calaram.",
+        "D) A proposta é boa, PORÉM cara."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa (C), 'Quando' é uma conjunção temporal que indica o momento em que a ação ocorreu. Em (A), 'Portanto' é conclusiva. Em (B), 'Caso' é condicional. Em (D), 'Porém' é adversativa."
+    },
+    {
+      "id": 5,
+      "enunciado": "A frase 'Trabalha A FIM DE QUE tenha uma vida melhor.' utiliza um conectivo que expressa qual relação de sentido?",
+      "opcoes": [
+        "A) Causa",
+        "B) Consequência",
+        "C) Finalidade",
+        "D) Condição"
+      ],
+      "gabarito": "C",
+      "comentario": "A expressão 'a fim de que' é uma locução conjuntiva final, indicando o objetivo ou a finalidade da ação de trabalhar. Portanto, a relação de sentido expressa é de finalidade."
+    }
+  ]
+}

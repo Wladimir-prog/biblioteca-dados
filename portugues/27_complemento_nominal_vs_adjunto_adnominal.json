@@ -1,0 +1,185 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Complemento Nominal e Adjunto Adnominal: Distinções Essenciais",
+  "introducao": [
+    "A sintaxe da língua portuguesa frequentemente apresenta termos que, embora se assemelhem superficialmente, possuem funções sintáticas e semânticas distintas. Entre eles, destacam-se o complemento nominal e o adjunto adnominal.",
+    "Dominar a distinção entre esses dois termos é fundamental para uma análise sintática precisa e para a construção de sentenças claras e coesas, uma vez que ambos se ligam a um nome, mas com naturezas de relação fundamentalmente diferentes."
+  ],
+  "secoes": [
+    {
+      "titulo": "Complemento Nominal",
+      "destaque": "Bizú: O Complemento Nominal 'sofre' a ação ou 'recebe' a qualidade do nome. Pense nele como o 'paciente' da relação.",
+      "conteudo": [
+        "O complemento nominal é o termo que completa o sentido de um nome (substantivo abstrato, adjetivo ou advérbio), sempre por meio de uma preposição. Ele expressa o alvo, o paciente ou o objeto da ação ou qualidade expressa pelo nome.",
+        "É um termo integrante da oração, essencial para a compreensão do sentido completo do nome a que se refere. Sem ele, o sentido do nome ficaria incompleto ou ambíguo.",
+        "O complemento nominal tem valor passivo ou de alvo em relação ao nome. Ele 'sofre' a ação ou 'recebe' a qualidade."
+      ],
+      "itens": [
+        "Ex.: A construção DA CASA foi rápida. (DA CASA completa 'construção', que é um substantivo abstrato, e 'casa' é o que foi construído)",
+        "Ex.: Tenho necessidade DE PAZ. (DE PAZ completa 'necessidade', substantivo abstrato, e 'paz' é o que é necessário)",
+        "Ex.: Ele estava consciente DE SEUS ATOS. (DE SEUS ATOS completa 'consciente', adjetivo, e 'seus atos' é o que ele estava consciente)"
+      ]
+    },
+    {
+      "titulo": "Características do Complemento Nominal",
+      "conteudo": [],
+      "subsecoes": [
+        {
+          "subtitulo": "Completa Nomes",
+          "itens": [
+            "Refere-se a substantivos abstratos, adjetivos ou advérbios.",
+            "Nunca completa verbos."
+          ]
+        },
+        {
+          "subtitulo": "Sempre Preposicionado",
+          "itens": [
+            "É obrigatoriamente introduzido por uma preposição.",
+            "A preposição é um elo indispensável entre o nome e seu complemento."
+          ]
+        },
+        {
+          "subtitulo": "Valor Passivo ou de Alvo",
+          "itens": [
+            "O termo preposicionado é o 'alvo' ou 'paciente' da ação ou qualidade expressa pelo nome.",
+            "Ex.: Medo DE ALTURA (a altura é o objeto do medo)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Adjunto Adnominal",
+      "destaque": "Bizú: O Adjunto Adnominal 'pratica' a ação ou 'possui' a qualidade do nome. Pense nele como o 'agente' da relação.",
+      "conteudo": [
+        "O adjunto adnominal é o termo que acompanha e caracteriza um substantivo (concreto ou abstrato), determinando-o, especificando-o ou qualificando-o. Ele pode ser expresso por artigos, adjetivos, locuções adjetivas, pronomes adjetivos ou numerais.",
+        "É um termo acessório da oração, ou seja, sua retirada não compromete a estrutura sintática básica da frase, embora possa alterar o sentido ou a especificidade do substantivo.",
+        "O adjunto adnominal tem valor ativo ou de agente em relação ao nome. Ele 'pratica' a ação ou 'possui' a qualidade."
+      ],
+      "itens": [
+        "Ex.: A casa DE PEDRO é grande. (DE PEDRO caracteriza 'casa', indicando posse)",
+        "Ex.: Os alunos DEDICADOS passaram. (DEDICADOS qualifica 'alunos')",
+        "Ex.: O livro DE HISTÓRIA está na mesa. (DE HISTÓRIA especifica 'livro', indicando o tipo)"
+      ]
+    },
+    {
+      "titulo": "Características do Adjunto Adnominal",
+      "conteudo": [],
+      "subsecoes": [
+        {
+          "subtitulo": "Acompanha Substantivos",
+          "itens": [
+            "Refere-se apenas a substantivos (concreto ou abstrato).",
+            "Nunca completa adjetivos ou advérbios."
+          ]
+        },
+        {
+          "subtitulo": "Pode Ser ou Não Preposicionado",
+          "itens": [
+            "Pode ser introduzido por preposição (locução adjetiva) ou não (artigos, adjetivos, pronomes, numerais).",
+            "Quando preposicionado, a preposição não é obrigatória para a relação sintática, mas sim para a formação da locução."
+          ]
+        },
+        {
+          "subtitulo": "Valor Ativo ou de Agente",
+          "itens": [
+            "O termo preposicionado é o 'agente' ou 'possuidor' da ação ou qualidade expressa pelo nome.",
+            "Ex.: Amor DE MÃE (a mãe pratica o amor)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Diferenças Fundamentais",
+      "conteudo": [
+        "Para solidificar a compreensão, é essencial comparar diretamente as características de cada termo:"
+      ],
+      "itens": [
+        "Termo Complementado: Complemento Nominal completa substantivos abstratos, adjetivos e advérbios. Adjunto Adnominal acompanha apenas substantivos (concretos ou abstratos).",
+        "Preposição: Complemento Nominal é sempre preposicionado. Adjunto Adnominal pode ser ou não preposicionado.",
+        "Valor Semântico: Complemento Nominal tem valor passivo (sofre a ação ou é o alvo). Adjunto Adnominal tem valor ativo (pratica a ação ou é o possuidor).",
+        "Essencialidade: Complemento Nominal é termo integrante, essencial para o sentido do nome. Adjunto Adnominal é termo acessório, sua retirada não compromete a estrutura básica."
+      ]
+    },
+    {
+      "titulo": "Quadro Comparativo",
+      "conteudo": [
+        "A tabela a seguir resume as principais distinções entre Complemento Nominal e Adjunto Adnominal:"
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Complemento Nominal",
+          "itens": [
+            "Completa: Substantivo abstrato, adjetivo, advérbio.",
+            "Preposição: Sempre.",
+            "Valor: Passivo (alvo).",
+            "Essencialidade: Integrante.",
+            "Ex.: Tenho orgulho DE VOCÊ. (você é o alvo do orgulho)"
+          ]
+        },
+        {
+          "subtitulo": "Adjunto Adnominal",
+          "itens": [
+            "Completa: Substantivo (concreto ou abstrato).",
+            "Preposição: Pode ou não ter.",
+            "Valor: Ativo (agente/possuidor).",
+            "Essencialidade: Acessório.",
+            "Ex.: O amor DE MÃE é incondicional. (a mãe pratica o amor)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Conclusão",
+      "conteudo": [
+        "A distinção entre complemento nominal e adjunto adnominal é um dos pontos mais desafiadores da análise sintática. No entanto, ao focar nos tipos de nomes que eles completam, na presença ou ausência obrigatória da preposição e, principalmente, no valor semântico (ativo ou passivo), torna-se possível identificar corretamente cada um.",
+        "A prática constante e a análise cuidadosa do contexto são as melhores ferramentas para dominar essa distinção e aprimorar a compreensão da estrutura da língua portuguesa."
+      ]
+    }
+  ],
+  "sintese": [
+    "O Complemento Nominal (CN) completa substantivos abstratos, adjetivos ou advérbios, enquanto o Adjunto Adnominal (AA) acompanha apenas substantivos (concretos ou abstratos).",
+    "O CN é sempre introduzido por preposição, sendo esta indispensável. O AA pode ser ou não preposicionado (ex: artigos, adjetivos, locuções adjetivas).",
+    "Semanticamente, o CN possui valor passivo (é o alvo ou paciente da ação/qualidade). O AA, por sua vez, tem valor ativo (é o agente ou possuidor da ação/qualidade).",
+    "Em termos de essencialidade, o CN é um termo integrante da oração, fundamental para o sentido do nome. O AA é um termo acessório, e sua remoção não compromete a estrutura sintática básica da frase.",
+    "A análise do contexto, do tipo de nome complementado e do valor semântico (ativo ou passivo) são cruciais para diferenciar corretamente CN e AA."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o termo em destaque funciona como Complemento Nominal?",
+      "opcoes": [
+        "A) A casa DE PEDRO foi vendida.",
+        "B) Tenho orgulho DE SUA CONQUISTA.",
+        "C) Os livros DA BIBLIOTECA são novos.",
+        "D) O amor DE MÃE é eterno."
+      ],
+      "gabarito": "B",
+      "comentario": "Na opção B, 'DE SUA CONQUISTA' completa o sentido do substantivo abstrato 'orgulho', indicando o alvo do orgulho, e é obrigatoriamente preposicionado, caracterizando-o como Complemento Nominal. Nas demais opções, os termos preposicionados são adjuntos adnominais: 'DE PEDRO' (posse), 'DA BIBLIOTECA' (especificação/lugar) e 'DE MÃE' (agente do amor), todos acompanhando substantivos e com valor ativo ou de posse/especificação."
+    },
+    {
+      "id": 2,
+      "enunciado": "Analise as frases e assinale a alternativa em que o termo sublinhado é um Adjunto Adnominal com valor de agente.",
+      "opcoes": [
+        "A) A leitura DO LIVRO foi prazerosa.",
+        "B) A invenção DO RÁDIO revolucionou a comunicação.",
+        "C) O ataque DO LEÃO foi feroz.",
+        "D) Ele tem medo DE ALTURA."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'DO LEÃO' indica quem praticou a ação de atacar (o leão atacou), conferindo-lhe valor de agente e caracterizando-o como Adjunto Adnominal. Em A, 'DO LIVRO' é o que foi lido (paciente), Complemento Nominal. Em B, 'DO RÁDIO' é o que foi inventado (paciente), Complemento Nominal. Em D, 'DE ALTURA' é o objeto do medo (alvo/paciente), Complemento Nominal."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considere as afirmações sobre Complemento Nominal (CN) e Adjunto Adnominal (AA):I. O CN sempre completa substantivos abstratos, adjetivos ou advérbios.II. O AA é um termo integrante da oração, essencial para o sentido do nome.III. O CN pode ser retirado da frase sem prejuízo sintático, alterando apenas o sentido.IV. O AA pode ser ou não preposicionado.Estão corretas apenas:",
+      "opcoes": [
+        "A) I e II",
+        "B) I e IV",
+        "C) II e III",
+        "D) III e IV"
+      ],
+      "gabarito": "B",
+      "comentario": "A afirmação I está correta, pois o CN completa substantivos abstratos, adjetivos ou advérbios. A afirmação II está incorreta, pois é o CN que é integrante e essencial, não o AA. A afirmação III está incorreta, pois é o AA que pode ser retirado sem prejuízo sintático, não o CN. A afirmação IV está correta, pois o AA pode ser preposicionado (em locuções adjetivas) ou não (artigos, adjetivos, etc.). Portanto, as corretas são I e IV."
+    }
+  ]
+}

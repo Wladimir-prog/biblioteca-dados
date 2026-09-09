@@ -1,0 +1,188 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Gêneros e Tipologias Textuais",
+  "introducao": [
+    "A comunicação eficaz depende da compreensão textual, que por sua vez exige a distinção entre gêneros e tipologias textuais. Embora interligados, esses conceitos desempenham papéis distintos na organização e classificação dos textos, sendo cruciais para a interpretação e produção textual.",
+    "Este memento interativo visa esclarecer as particularidades de cada um, fornecendo as ferramentas necessárias para identificar e aplicar corretamente essas classificações."
+  ],
+  "secoes": [
+    {
+      "titulo": "Tipologias Textuais",
+      "destaque": "As tipologias são a 'estrutura' fundamental do texto, classificações fixas que definem a forma linguística predominante e os recursos verbais utilizados.",
+      "conteudo": [
+        "As tipologias textuais dizem respeito à estrutura linguística interna de um texto, ou seja, à sua organização e aos recursos verbais que predominam. São classificações mais abrangentes e estáveis, servindo como base para a construção de diversos gêneros textuais.",
+        "Elas são definidas pela intenção comunicativa principal e pelos elementos gramaticais e semânticos recorrentes."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Narração",
+          "itens": [
+            "Caracteriza-se por relatar fatos, eventos ou ações que se sucedem no tempo e no espaço.",
+            "Envolve elementos como personagens, enredo (sequência de fatos), narrador e um tempo verbal predominante (geralmente o passado).",
+            "Exemplos: 'O menino correu pela rua, tropeçou e caiu, mas logo se levantou.'",
+            "Exemplos: 'A história da Branca de Neve é um clássico narrativo.'",
+            "Exemplos: 'O detetive investigou o caso, coletou pistas e desvendou o mistério.'"
+          ]
+        },
+        {
+          "subtitulo": "2. Descrição",
+          "itens": [
+            "Tem como objetivo apresentar características de seres, objetos, lugares, sentimentos ou situações, criando um 'retrato verbal'.",
+            "Predominam adjetivos, advérbios de modo e verbos de ligação (ser, estar, parecer, permanecer, etc.), detalhando aspectos visuais, auditivos, olfativos, táteis e gustativos.",
+            "Exemplos: 'A casa antiga possuía janelas grandes, paredes descascadas e um jardim florido.'",
+            "Exemplos: 'Seus olhos eram azuis como o céu, e seu sorriso, cativante.'",
+            "Exemplos: 'O dia estava ensolarado, com uma brisa suave e pássaros cantando.'"
+          ]
+        },
+        {
+          "subtitulo": "3. Dissertação",
+          "itens": [
+            "Visa expor ideias, defender um ponto de vista ou argumentar sobre um tema, buscando convencer o leitor.",
+            "Pode ser expositiva (apresenta informações de forma objetiva) ou argumentativa (defende uma tese com argumentos, provas e exemplos).",
+            "Exemplos: 'A educação é a base para o desenvolvimento de uma sociedade justa.'",
+            "Exemplos: 'É fundamental debater a importância da sustentabilidade ambiental.'",
+            "Exemplos: 'A tecnologia, embora útil, exige uso consciente para evitar problemas.'"
+          ]
+        },
+        {
+          "subtitulo": "4. Injunção (ou Instrucional)",
+          "itens": [
+            "Tem a finalidade de instruir, orientar ou persuadir o leitor a realizar uma ação ou seguir um procedimento.",
+            "Utiliza verbos no imperativo ou no infinitivo, com linguagem clara, direta e objetiva, muitas vezes em formato de lista ou passo a passo.",
+            "Exemplos: 'Lave as mãos antes das refeições.'",
+            "Exemplos: 'Para montar o móvel, siga as instruções do manual.'",
+            "Exemplos: 'Misture os ingredientes, leve ao forno e sirva quente.'"
+          ]
+        },
+        {
+          "subtitulo": "5. Exposição",
+          "itens": [
+            "Apresenta informações sobre um determinado assunto de forma clara e objetiva, sem a intenção de persuadir ou defender um ponto de vista.",
+            "Predomina a linguagem denotativa, com foco na transmissão de conhecimento e na explicação de conceitos, fatos ou fenômenos.",
+            "Exemplos: 'O ciclo da água envolve evaporação, condensação e precipitação.'",
+            "Exemplos: 'A fotossíntese é o processo pelo qual as plantas produzem seu alimento.'",
+            "Exemplos: 'O coração humano é um órgão muscular que bombeia sangue para o corpo.'"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Gêneros Textuais",
+      "destaque": "Os gêneros são as 'roupagens' sociais do texto, flexíveis e variadas, moldadas pelas necessidades comunicativas e culturais de cada situação.",
+      "conteudo": [
+        "Os gêneros textuais são as manifestações concretas dos textos em situações comunicativas específicas. São formas mais flexíveis e variadas, moldadas pelas necessidades sociais e culturais de interação.",
+        "Cada gênero possui características próprias de conteúdo, estilo, estrutura e função social, sendo reconhecido e utilizado pelos falantes em seu dia a dia."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "a) Gêneros Narrativos",
+          "itens": [
+            "Conto: Narrativa curta com poucos personagens e um único conflito, geralmente com desfecho surpreendente.",
+            "Crônica: Narrativa breve sobre fatos do cotidiano, com tom pessoal, reflexivo ou humorístico.",
+            "Romance: Narrativa longa e complexa, com múltiplos enredos, personagens e ambientes, explorando diversas camadas da experiência humana."
+          ]
+        },
+        {
+          "subtitulo": "b) Gêneros Descritivos",
+          "itens": [
+            "Relato de viagem: Descrição de lugares, experiências e sensações vivenciadas durante uma viagem.",
+            "Cardápio: Descrição de pratos e bebidas oferecidos em um estabelecimento, com detalhes sobre ingredientes e preparo.",
+            "Retrato: Descrição detalhada das características físicas e psicológicas de uma pessoa, buscando criar uma imagem vívida."
+          ]
+        },
+        {
+          "subtitulo": "c) Gêneros Dissertativos",
+          "itens": [
+            "Artigo de opinião: Texto que defende um ponto de vista sobre um tema atual, com argumentos e exemplos.",
+            "Editorial: Texto que expressa a opinião de um veículo de comunicação (jornal, revista) sobre um assunto relevante.",
+            "Resenha crítica: Análise e avaliação de uma obra (livro, filme, peça, exposição), apresentando pontos positivos e negativos."
+          ]
+        },
+        {
+          "subtitulo": "d) Gêneros Injuntivos",
+          "itens": [
+            "Receita culinária: Instruções detalhadas para preparar um prato, com ingredientes e modo de preparo.",
+            "Manual de instruções: Orientações passo a passo para o uso, montagem ou funcionamento de um produto.",
+            "Bula de remédio: Informações sobre dosagem, modo de uso, indicações, contraindicações e efeitos colaterais de um medicamento."
+          ]
+        },
+        {
+          "subtitulo": "e) Gêneros Expositivos",
+          "itens": [
+            "Notícia: Relato objetivo de um fato recente e relevante, com informações claras e concisas.",
+            "Verbete de enciclopédia: Texto que define e explica um conceito, termo, pessoa ou evento de forma sistemática e informativa.",
+            "Seminário: Apresentação oral de um tema, com informações, dados e análises, geralmente com o objetivo de transmitir conhecimento."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Relação entre Gêneros e Tipologias",
+      "destaque": "Lembre-se: um gênero textual pode conter mais de uma tipologia, mas sempre haverá uma predominante. As tipologias são as ferramentas linguísticas; os gêneros são as construções sociais que as utilizam.",
+      "conteudo": [
+        "É crucial entender que um gênero textual raramente se manifesta em sua forma 'pura', contendo frequentemente elementos de mais de uma tipologia. No entanto, uma delas será sempre a predominante, definindo a intenção comunicativa principal do texto.",
+        "Por exemplo, uma notícia (gênero) é predominantemente expositiva, pois visa informar. Contudo, pode conter trechos narrativos (ao relatar a sequência de fatos) e descritivos (ao descrever um local ou pessoa envolvida).",
+        "As tipologias textuais funcionam como as ferramentas linguísticas básicas, os 'modos de dizer'. Já os gêneros textuais são as construções sociais que utilizam essas ferramentas de forma adaptada para cumprir suas diversas funções comunicativas no dia a dia."
+      ]
+    }
+  ],
+  "sintese": [
+    "Tipologias textuais referem-se à estrutura linguística predominante (narração, descrição, dissertação, injunção, exposição), sendo classificações fixas e abrangentes.",
+    "Gêneros textuais são as manifestações concretas dos textos em situações comunicativas específicas (notícia, receita, conto), sendo flexíveis e moldados socialmente.",
+    "A Narração relata fatos em sequência temporal, a Descrição detalha características, a Dissertação expõe ideias ou argumenta, a Injunção instrui e a Exposição informa objetivamente.",
+    "Cada gênero possui características próprias de conteúdo, estilo e função social, adaptando-se ao contexto de uso e às necessidades comunicativas.",
+    "Um gênero textual pode apresentar elementos de diversas tipologias, mas sempre haverá uma tipologia predominante que define sua natureza principal.",
+    "As tipologias são as 'formas de organizar o discurso', enquanto os gêneros são as 'formas de usar o discurso' em contextos reais de interação social."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Qual das alternativas abaixo apresenta a correta distinção entre tipologia textual e gênero textual?",
+      "opcoes": [
+        "A) Tipologia textual é a forma como o texto se estrutura linguisticamente, enquanto gênero textual é a manifestação concreta do texto em uma situação comunicativa.",
+        "B) Gênero textual é a estrutura fixa e abrangente do texto, e tipologia textual é a sua manifestação flexível e social.",
+        "C) Ambos os termos são sinônimos e podem ser usados indistintamente para classificar qualquer tipo de texto.",
+        "D) Tipologia textual refere-se apenas a textos literários, e gênero textual, a textos não literários."
+      ],
+      "gabarito": "A",
+      "comentario": "A tipologia textual diz respeito à estrutura linguística predominante (narrar, descrever, dissertar, instruir, expor), sendo uma classificação mais abstrata e fixa. Já o gênero textual é a forma concreta que o texto assume em uma situação comunicativa específica (notícia, receita, conto), sendo mais flexível e adaptado ao contexto social."
+    },
+    {
+      "id": 2,
+      "enunciado": "Um manual de instruções de um aparelho eletrônico, uma receita culinária e uma bula de remédio são exemplos de gêneros textuais que têm como tipologia predominante a:",
+      "opcoes": [
+        "A) Narração",
+        "B) Descrição",
+        "C) Dissertação",
+        "D) Injunção"
+      ],
+      "gabarito": "D",
+      "comentario": "Manual de instruções, receita culinária e bula de remédio são gêneros que têm como principal objetivo instruir, orientar ou persuadir o leitor a realizar uma ação ou seguir um procedimento. Essa finalidade é característica da tipologia injuntiva (ou instrucional), que utiliza verbos no imperativo ou infinitivo."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise o trecho a seguir: 'A casa, antiga e imponente, possuía janelas grandes com vitrais coloridos, paredes descascadas que revelavam a passagem do tempo e um jardim florido, onde o aroma de jasmins pairava no ar.' Qual a tipologia textual predominante neste trecho?",
+      "opcoes": [
+        "A) Narrativa",
+        "B) Descritiva",
+        "C) Dissertativa",
+        "D) Expositiva"
+      ],
+      "gabarito": "B",
+      "comentario": "O trecho apresenta características de um ser (a casa) e de um lugar (o jardim), utilizando adjetivos ('antiga', 'imponente', 'grandes', 'coloridos', 'descascadas', 'florido') e verbos de ligação ('possuía', 'revelavam', 'pairava') para criar um retrato verbal detalhado. Essa é a principal característica da tipologia descritiva."
+    },
+    {
+      "id": 4,
+      "enunciado": "Considere a seguinte afirmação: 'A sustentabilidade ambiental é um tema crucial para o futuro da humanidade, exigindo ações urgentes de governos e cidadãos para a preservação dos recursos naturais.' Este enunciado é um exemplo claro de qual tipologia textual?",
+      "opcoes": [
+        "A) Narração",
+        "B) Descrição",
+        "C) Dissertação",
+        "D) Injunção"
+      ],
+      "gabarito": "C",
+      "comentario": "O enunciado apresenta uma ideia ('A sustentabilidade ambiental é um tema crucial'), defende um ponto de vista ('exigindo ações urgentes') e argumenta sobre a importância do tema. Essa exposição de ideias e defesa de uma tese são características da tipologia dissertativa, que pode ser expositiva ou argumentativa."
+    }
+  ]
+}

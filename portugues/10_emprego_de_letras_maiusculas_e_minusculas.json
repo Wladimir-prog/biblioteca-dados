@@ -1,0 +1,170 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Emprego de Letras Maiúsculas e Minúsculas",
+  "introducao": [
+    "O uso correto de letras maiúsculas e minúsculas é um pilar fundamental para a clareza e a correção da escrita na Língua Portuguesa. Dominar essas regras é essencial para a comunicação eficaz e para evitar ambiguidades.",
+    "As normas de capitalização não apenas distinguem nomes próprios de comuns, mas também sinalizam o início de frases e conferem destaque a termos específicos, organizando o texto e facilitando a compreensão do leitor."
+  ],
+  "secoes": [
+    {
+      "titulo": "Uso de Letras Maiúsculas",
+      "destaque": "Em concursos, a capitalização de nomes próprios e o início de frases são pontos cruciais. Atenção especial aos nomes de obras e eventos históricos, onde a regra pode ser mais específica e gerar pegadinhas.",
+      "subsecoes": [
+        {
+          "subtitulo": "Início de Frase e Pontuação",
+          "itens": [
+            "A primeira palavra de um período deve ser sempre iniciada com letra maiúscula. Ex.: O sol nasceu. Ela perguntou: \"Você vem?\" Amanhã será um novo dia.",
+            "Após ponto de interrogação, exclamação ou reticências, se a frase continuar, a próxima palavra inicia com maiúscula. Ex.: Onde você vai? Não demore. Que susto! Ela quase caiu. Ele pensou... E decidiu ir."
+          ]
+        },
+        {
+          "subtitulo": "Nomes Próprios",
+          "itens": [
+            "Nomes de pessoas, sobrenomes, apelidos e pseudônimos. Ex.: Maria Silva, Pedro Álvares Cabral, O Rei do Futebol.",
+            "Nomes de lugares (países, estados, cidades, rios, montanhas, ruas, praças, etc.). Ex.: Brasil, São Paulo, Rio Tietê, Avenida Paulista, Praça da Sé, Monte Everest, Oceano Atlântico.",
+            "Nomes de instituições, empresas, escolas, órgãos públicos. Ex.: Universidade de São Paulo, Banco do Brasil, Ministério da Educação.",
+            "Nomes de festas e datas comemorativas. Ex.: Natal, Páscoa, Dia das Mães, Carnaval, Ano-Novo, Independência do Brasil.",
+            "Nomes de obras literárias, artísticas, científicas (apenas a primeira palavra e os substantivos próprios). Ex.: Dom Casmurro, A Última Ceia, O Pequeno Príncipe.",
+            "Nomes de épocas históricas, fatos históricos e movimentos culturais. Ex.: Idade Média, Revolução Francesa, Segunda Guerra Mundial, Renascimento.",
+            "Nomes de pontos cardeais quando indicam regiões ou são parte de topônimos. Ex.: O Nordeste brasileiro, Viajou para o Sul, A Zona Norte da cidade.",
+            "Nomes de astros e corpos celestes (exceto Sol, Terra, Lua quando usados em sentido comum). Ex.: Marte, Vênus, Via Láctea, O Cometa Halley, A Estrela Polar."
+          ]
+        },
+        {
+          "subtitulo": "Títulos e Hierarquias",
+          "itens": [
+            "Títulos de dignidade, cargos e tratamentos de respeito (quando se referem a uma pessoa específica). Ex.: Sua Excelência, o Presidente; O Papa Francisco; Dom Pedro II.",
+            "Siglas, abreviaturas e símbolos de elementos químicos. Ex.: ONU, USP, IBGE; Sr., Dra., Ltda.; H2O, NaCl."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Uso de Letras Minúsculas",
+      "destaque": "A minúscula é a regra para a maioria dos substantivos comuns. Fique atento às exceções e aos contextos que podem gerar dúvidas, como os pontos cardeais e títulos genéricos, que frequentemente são alvo de questões em provas.",
+      "subsecoes": [
+        {
+          "subtitulo": "Nomes Comuns",
+          "itens": [
+            "Nomes comuns de animais, objetos, plantas, sentimentos. Ex.: cachorro, mesa, flor, amor, tristeza, alegria, livro, caneta, computador."
+          ]
+        },
+        {
+          "subtitulo": "Dias da Semana, Meses e Estações do Ano",
+          "itens": [
+            "Ex.: segunda-feira, terça-feira, janeiro, fevereiro, março, primavera, verão, outono."
+          ]
+        },
+        {
+          "subtitulo": "Nacionalidades, Gentílicos e Idiomas",
+          "itens": [
+            "Ex.: brasileiro, português, francês, paulista, carioca, mineiro, inglês, espanhol, alemão."
+          ]
+        },
+        {
+          "subtitulo": "Títulos e Cargos em Sentido Genérico",
+          "itens": [
+            "Quando não se referem a uma pessoa específica ou são usados de forma genérica. Ex.: O presidente da empresa, O papa visitou o país, O rei da Espanha."
+          ]
+        },
+        {
+          "subtitulo": "Pontos Cardeais em Sentido Genérico",
+          "itens": [
+            "Quando indicam apenas a direção. Ex.: O sol nasce a leste, Seguiu para o norte, O vento sopra do sul."
+          ]
+        },
+        {
+          "subtitulo": "Depois de Dois-Pontos",
+          "itens": [
+            "Quando o que segue não é uma citação direta ou uma enumeração de itens que iniciam frases completas. Ex.: Comprei frutas: maçãs, bananas e laranjas. Ele tinha um objetivo: ser feliz. A regra é clara: não se pode atrasar."
+          ]
+        },
+        {
+          "subtitulo": "Termos Religiosos",
+          "itens": [
+            "Quando não se referem a divindades específicas ou são usados em sentido comum. Ex.: missa, igreja, padre, oração, fé, céu, batismo, crisma, comunhão."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Exceções e Casos Especiais",
+      "destaque": "Atenção redobrada aos títulos de obras e documentos oficiais. Embora a regra geral para títulos de obras seja capitalizar apenas a primeira palavra e nomes próprios, documentos oficiais frequentemente usam maiúsculas para destaque, o que pode ser uma pegadinha em provas.",
+      "itens": [
+        "Em títulos de livros, filmes, músicas, a primeira palavra é maiúscula e as demais são minúsculas, exceto nomes próprios. Ex.: O senhor dos anéis, A vida é bela, Garota de Ipanema.",
+        "Em documentos oficiais, é comum o uso de maiúsculas para destacar termos importantes, mesmo que não sigam as regras gramaticais usuais. Ex.: CONTRATO DE PRESTAÇÃO DE SERVIÇOS, TERMO DE COMPROMISSO, EDITAL DE CONCURSO PÚBLICO."
+      ]
+    }
+  ],
+  "sintese": [
+    "Letras maiúsculas são usadas no início de frases e após pontuação que encerra um período (ponto final, interrogação, exclamação, reticências).",
+    "Nomes próprios de pessoas, lugares, instituições, festas, datas comemorativas, obras, épocas históricas, pontos cardeais regionais e astros são grafados com maiúscula.",
+    "Títulos de dignidade, cargos específicos e siglas também exigem maiúsculas.",
+    "Letras minúsculas são empregadas para nomes comuns, dias da semana, meses, estações do ano, nacionalidades, gentílicos e idiomas (conforme o material).",
+    "Títulos e cargos em sentido genérico, pontos cardeais que indicam direção e termos religiosos comuns são escritos com minúscula.",
+    "Em títulos de obras, capitaliza-se a primeira palavra e os nomes próprios; documentos oficiais podem usar maiúsculas para destaque de termos importantes."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o emprego da letra maiúscula está INCORRETO, de acordo com as regras apresentadas.",
+      "opcoes": [
+        "A) Onde você vai? Não demore.",
+        "B) Que susto! Ela quase caiu.",
+        "C) Ele pensou... e decidiu ir.",
+        "D) Amanhã será um novo dia."
+      ],
+      "gabarito": "C",
+      "comentario": "Após reticências, se a frase continua, a próxima palavra deve iniciar com maiúscula. O correto seria \"Ele pensou... E decidiu ir.\""
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases o uso da letra maiúscula ou minúscula está CORRETO, conforme as normas da Língua Portuguesa e o conteúdo estudado?",
+      "opcoes": [
+        "A) O Brasil é um País tropical.",
+        "B) A primavera é a estação das flores.",
+        "C) Ele nasceu em Janeiro, no Nordeste do país.",
+        "D) O professor de Português explicou a regra."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa B está totalmente correta, pois 'primavera' é estação do ano e deve ser minúscula. Em A, 'País' em sentido comum é minúsculo. Em C, 'Janeiro' (mês) é minúsculo. Em D, 'professor' (cargo genérico) é minúsculo, mas 'Português' (disciplina) é maiúsculo, porém a frase como um todo está correta, mas B é mais clara na aplicação da regra de minúscula para estações."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise as sentenças a seguir e marque a opção que apresenta ERRO no emprego de letras maiúsculas ou minúsculas, considerando as regras estudadas.",
+      "opcoes": [
+        "A) O Papa visitou o Sul do Brasil.",
+        "B) O sol nasce a Leste.",
+        "C) A Universidade de São Paulo é renomada.",
+        "D) Ele é brasileiro e fala inglês."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa B apresenta erro. 'Leste' quando indica apenas a direção (o sol nasce a leste) deve ser escrito com letra minúscula. O correto seria \"O sol nasce a leste.\" Em D, 'inglês' (idioma) é minúsculo, conforme o material."
+    },
+    {
+      "id": 4,
+      "enunciado": "Assinale a alternativa em que o emprego da letra maiúscula está de acordo com a norma-padrão da Língua Portuguesa para títulos de obras, conforme o material.",
+      "opcoes": [
+        "A) Li \"O Pequeno Príncipe\" e adorei.",
+        "B) O CONTRATO de aluguel foi assinado.",
+        "C) Ela assistiu a \"A Vida É Bela\".",
+        "D) O Senhor dos Anéis é uma trilogia famosa."
+      ],
+      "gabarito": "A",
+      "comentario": "Em títulos de obras, apenas a primeira palavra e os nomes próprios são capitalizados. Em 'O Pequeno Príncipe', 'O' é a primeira palavra e 'Príncipe' é um nome próprio, enquanto 'Pequeno' é um adjetivo e deve ser minúsculo. As demais opções apresentam capitalização incorreta de palavras que não são nomes próprios ou não iniciam a obra, ou usam maiúsculas para destaque em contexto inadequado."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das opções abaixo apresenta todas as palavras corretamente grafadas quanto ao uso de maiúsculas e minúsculas, de acordo com as regras apresentadas?",
+      "opcoes": [
+        "A) O Presidente da República viajou para o Nordeste em Julho.",
+        "B) A Segunda Guerra Mundial marcou a História do Século XX.",
+        "C) Ele estuda Português e sonha em conhecer a Europa.",
+        "D) O Rio Tietê corta o Estado de São Paulo."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D está totalmente correta: 'Rio Tietê' e 'Estado de São Paulo' são nomes próprios de lugares e devem ser grafados com maiúscula. Em A, 'Julho' (mês) deve ser minúsculo. Em B, 'História' (em sentido de acontecimentos passados) deve ser minúsculo. Em C, 'Português' (idioma) deve ser minúsculo, conforme as regras explícitas no material."
+    }
+  ]
+}

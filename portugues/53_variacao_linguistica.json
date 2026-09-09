@@ -1,0 +1,146 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Variação Linguística",
+  "introducao": [
+    "A variação linguística é um fenômeno inerente a qualquer idioma, referindo-se às múltiplas formas de uso da língua que se manifestam em diferentes contextos. Longe de ser um desvio, essa diversidade reflete a riqueza cultural e social dos falantes, demonstrando que a língua é um sistema vivo e dinâmico, em constante transformação.",
+    "Compreender a variação linguística é essencial para reconhecer que não existe uma única forma 'certa' de falar ou escrever, mas sim adequações a situações específicas, grupos sociais e regiões geográficas. É a capacidade da língua de se moldar e expressar a complexidade do mundo."
+  ],
+  "secoes": [
+    {
+      "titulo": "Tipos de Variação Linguística",
+      "conteudo": [
+        "A língua portuguesa, como qualquer idioma vivo, apresenta diversas formas de manifestação que se adaptam a diferentes contextos. Essas variações podem ser classificadas em quatro tipos principais, que serão detalhados a seguir."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Variação Diatópica (Geográfica)",
+          "itens": [
+            "Refere-se às diferenças regionais na fala, no vocabulário e na pronúncia, caracterizando os sotaques e regionalismos.",
+            "É a variação que distingue, por exemplo, o português falado no Nordeste do português falado no Sul do Brasil.",
+            "Exemplos: 'Mandioca' (Sudeste), 'Aipim' (Rio de Janeiro), 'Macaxeira' (Nordeste)."
+          ]
+        },
+        {
+          "subtitulo": "Variação Diastrática (Social)",
+          "itens": [
+            "Diz respeito às diferenças linguísticas que ocorrem entre os grupos sociais, influenciadas por fatores como idade, gênero, nível de escolaridade e profissão.",
+            "Inclui jargões profissionais, gírias de grupos específicos e diferenças entre a fala de jovens e idosos.",
+            "Exemplos: 'Mano, essa parada é irada!' (Gíria jovem); 'Prezado senhor, solicito sua atenção.' (Linguagem formal); 'O paciente apresentou dispneia e cianose.' (Jargão médico)."
+          ]
+        },
+        {
+          "subtitulo": "Variação Diafásica (Situacional ou Estilística)",
+          "itens": [
+            "Relaciona-se com as diferentes situações de comunicação, onde o falante adapta sua linguagem ao contexto, ao interlocutor e à finalidade da interação.",
+            "Pode ser formal ou informal, dependendo da necessidade, demonstrando a capacidade de transitar entre diferentes registros linguísticos.",
+            "Exemplos: 'Poderia, por gentileza, informar as horas?' (Situação formal); 'Que horas são, meu chapa?' (Situação informal); 'O réu foi condenado por dolo eventual.' (Linguagem jurídica)."
+          ]
+        },
+        {
+          "subtitulo": "Variação Diacrônica (Histórica)",
+          "itens": [
+            "Corresponde às mudanças que a língua sofre ao longo do tempo, com palavras caindo em desuso, outras surgindo e alterações gramaticais.",
+            "Permite observar a evolução da língua portuguesa desde suas origens até os dias atuais.",
+            "Exemplos: 'Pharmacia' (Português antigo) para 'Farmácia' (Português atual); 'Vossa mercê' (Origem) para 'Você' (Forma atual)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Preconceito Linguístico",
+      "destaque": "Bizú: O preconceito linguístico é a desvalorização de uma variedade da língua em detrimento de outra, geralmente a norma culta, ignorando a riqueza e a validade de todas as formas de expressão.",
+      "conteudo": [
+        "O preconceito linguístico manifesta-se quando uma forma de falar é considerada 'errada' ou 'inferior' em relação a outra, frequentemente a norma culta, gerando estigmas sociais.",
+        "Essa visão equivocada desconsidera a diversidade natural da língua e a adequação das variações a seus respectivos contextos de uso."
+      ],
+      "itens": [
+        "Criticar o uso de 'nós vai' como erro absoluto, sem considerar o contexto sociolinguístico.",
+        "Associar sotaques regionais à falta de inteligência ou escolaridade.",
+        "Desvalorizar a fala de comunidades rurais ou periféricas, impondo uma única forma 'correta' de expressão."
+      ]
+    },
+    {
+      "titulo": "Norma Culta e Norma Padrão",
+      "destaque": "Bizú: A norma culta e a norma padrão são variedades de prestígio, mas não são superiores. Elas são adequadas para contextos formais e servem como referência, coexistindo com outras variações linguísticas.",
+      "conteudo": [
+        "A norma culta é o conjunto de regras e padrões linguísticos considerados de prestígio em uma sociedade, geralmente associados à escrita e à fala formal, utilizada por falantes com maior acesso à educação formal.",
+        "A norma padrão, por sua vez, é a variedade linguística codificada e utilizada em contextos formais, na educação, na mídia e em documentos oficiais, servindo como modelo de referência para o ensino da língua.",
+        "É crucial entender que a norma culta e a norma padrão não são superiores às outras variações, mas sim uma das muitas formas de uso da língua, adequadas a certos contextos de comunicação."
+      ],
+      "itens": [
+        "Redação de um documento oficial ou jurídico.",
+        "Apresentação de um trabalho acadêmico ou científico.",
+        "Noticiário de televisão ou rádio, buscando clareza e formalidade."
+      ]
+    }
+  ],
+  "sintese": [
+    "A variação linguística é um fenômeno natural e dinâmico da língua, que se manifesta em diferentes formas de uso conforme fatores geográficos, sociais, situacionais e históricos.",
+    "Os quatro tipos principais de variação são: diatópica (regional), diastrática (social), diafásica (situacional/estilística) e diacrônica (histórica).",
+    "O preconceito linguístico ocorre ao se julgar uma variedade da língua como 'errada' ou 'inferior', desconsiderando a validade e adequação de todas as formas de expressão.",
+    "A norma culta e a norma padrão são variedades de prestígio, utilizadas em contextos formais e na educação, mas coexistem com outras variações e não são as únicas formas 'corretas' da língua."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Sobre a variação linguística, assinale a alternativa CORRETA.",
+      "opcoes": [
+        "A) A língua ideal é aquela que não apresenta variações, mantendo-se homogênea em todos os contextos.",
+        "B) A variação linguística é um desvio da norma culta e deve ser evitada para garantir a clareza da comunicação.",
+        "C) A diversidade linguística é um fenômeno natural e reflete a riqueza cultural e social dos falantes.",
+        "D) Apenas a variação diacrônica é relevante para o estudo da língua, pois as demais são meros regionalismos."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa C está correta, pois a variação linguística é um aspecto intrínseco e positivo da língua, que se adapta a diferentes realidades e contextos, refletindo a pluralidade cultural e social. As demais alternativas apresentam visões equivocadas sobre a natureza da variação."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual tipo de variação linguística é exemplificado pela diferença entre 'você' e 'vossa mercê'?",
+      "opcoes": [
+        "A) Variação Diatópica",
+        "B) Variação Diastrática",
+        "C) Variação Diafásica",
+        "D) Variação Diacrônica"
+      ],
+      "gabarito": "D",
+      "comentario": "A transição de 'vossa mercê' para 'você' ao longo do tempo é um exemplo clássico de variação diacrônica, que se refere às mudanças que a língua sofre através das gerações e séculos."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considere as seguintes frases:\nI. 'O paciente apresentou cefaleia intensa e febre.' (Linguagem médica)\nII. 'E aí, beleza? Partiu pro rolê?' (Gíria jovem)\nIII. 'Prezados senhores, informamos que a reunião foi adiada.' (Linguagem formal)\nQual tipo de variação linguística é predominantemente ilustrado nos exemplos I, II e III?",
+      "opcoes": [
+        "A) Diatópica",
+        "B) Diastrática",
+        "C) Diafásica",
+        "D) Diacrônica"
+      ],
+      "gabarito": "B",
+      "comentario": "Os exemplos I (jargão profissional), II (gíria de grupo social) e III (linguagem formal de um grupo social/profissional) ilustram a variação diastrática. Esta variação refere-se às diferenças linguísticas entre grupos sociais, influenciadas por fatores como profissão, idade e nível de escolaridade, que moldam os códigos e registros utilizados por cada grupo."
+    },
+    {
+      "id": 4,
+      "enunciado": "O uso da palavra 'aipim' no Rio de Janeiro, 'macaxeira' no Nordeste e 'mandioca' no Sudeste é um exemplo claro de:",
+      "opcoes": [
+        "A) Preconceito linguístico.",
+        "B) Variação diacrônica.",
+        "C) Variação diatópica.",
+        "D) Norma padrão."
+      ],
+      "gabarito": "C",
+      "comentario": "A diferença de vocabulário para o mesmo alimento em diferentes regiões do Brasil caracteriza a variação diatópica, ou geográfica, que se manifesta nas particularidades linguísticas de cada localidade."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das afirmações abaixo melhor descreve o preconceito linguístico?",
+      "opcoes": [
+        "A) É a preferência por uma variedade linguística em detrimento de outras, sem julgamento de valor.",
+        "B) Consiste em reconhecer que a norma culta é a única forma correta e superior da língua.",
+        "C) É a desvalorização de uma forma de falar ou escrever, considerando-a 'errada' ou 'inferior' com base em critérios sociais.",
+        "D) Refere-se à dificuldade de compreender diferentes sotaques e regionalismos."
+      ],
+      "gabarito": "C",
+      "comentario": "O preconceito linguístico é a atitude de julgar e desvalorizar uma variedade da língua (sotaque, vocabulário, estrutura gramatical) como inferior ou incorreta, geralmente associando-a a grupos sociais específicos e ignorando a validade de todas as formas de expressão."
+    }
+  ]
+}

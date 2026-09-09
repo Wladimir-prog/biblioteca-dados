@@ -1,0 +1,224 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Emprego da Crase",
+  "introducao": [
+    "A crase representa a fusão de duas vogais idênticas, mais comumente a preposição 'a' com o artigo feminino 'a' (ou 'as'). Também ocorre na fusão da preposição 'a' com o 'a' inicial dos pronomes demonstrativos 'aquela', 'aquele', 'aquilo' e suas variações.",
+    "O acento grave (`) é o sinal gráfico que indica a ocorrência da crase, sinalizando que houve a junção desses elementos e não apenas a presença isolada da preposição ou do artigo."
+  ],
+  "secoes": [
+    {
+      "titulo": "Casos Obrigatórios de Crase",
+      "destaque": "A crase é obrigatória quando há a exigência da preposição 'a' por um termo regente e a presença de um termo regido feminino que aceita o artigo 'a', ou em locuções específicas.",
+      "subsecoes": [
+        {
+          "subtitulo": "Diante de Palavra Feminina",
+          "itens": [
+            "Ocorre quando o termo regente (verbo ou nome) exige a preposição 'a' e o termo regido é um substantivo feminino que aceita o artigo 'a'.",
+            "Ex.: Fui à feira. (Quem vai, vai a algum lugar; feira é palavra feminina)",
+            "Ex.: Obedeço às regras. (Quem obedece, obedece a algo; regras é palavra feminina plural)",
+            "Ex.: Dediquei-me à leitura. (Quem se dedica, dedica-se a algo; leitura é palavra feminina)"
+          ]
+        },
+        {
+          "subtitulo": "Diante de Locuções Adverbiais Femininas",
+          "itens": [
+            "Locuções adverbiais de tempo, modo, lugar, formadas por substantivos femininos, exigem crase.",
+            "Ex.: Chegou à noite. (locução adverbial de tempo)",
+            "Ex.: Escrevia à mão. (locução adverbial de modo)",
+            "Ex.: Ficou à espera. (locução adverbial de lugar)"
+          ]
+        },
+        {
+          "subtitulo": "Diante de Locuções Prepositivas e Conjuntivas Femininas",
+          "itens": [
+            "Expressões como 'à custa de', 'à procura de', 'à medida que', 'à proporção que' sempre levam crase.",
+            "Ex.: À custa de muito esforço, ele venceu.",
+            "Ex.: À medida que o tempo passa, aprendemos mais.",
+            "Ex.: Estava à procura de novas oportunidades."
+          ]
+        },
+        {
+          "subtitulo": "Diante de 'À Moda de' ou 'À Maneira de' (mesmo subentendidos)",
+          "itens": [
+            "Quando a expressão 'à moda de' ou 'à maneira de' está implícita, a crase é obrigatória.",
+            "Ex.: Bife à milanesa. (Bife à moda milanesa)",
+            "Ex.: Escrevia à Machado de Assis. (Escrevia à maneira de Machado de Assis)",
+            "Ex.: Gol à Pelé. (Gol à maneira de Pelé)"
+          ]
+        },
+        {
+          "subtitulo": "Diante dos Pronomes Demonstrativos 'Aquela', 'Aquele', 'Aquilo' e suas variações",
+          "itens": [
+            "Se o termo regente exigir a preposição 'a', esta se fundirá com o 'a' inicial desses pronomes.",
+            "Ex.: Refiro-me àquele aluno. (Quem se refere, refere-se a algo/alguém)",
+            "Ex.: Entreguei a carta àquela senhora. (Quem entrega, entrega a algo/alguém)",
+            "Ex.: Não dei importância àquilo que ele disse. (Quem dá importância, dá importância a algo)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Proibidos de Crase",
+      "destaque": "A crase nunca ocorrerá antes de palavras masculinas, verbos, pronomes (com exceções), numerais cardinais (com exceção de horas), palavras repetidas e artigos indefinidos.",
+      "subsecoes": [
+        {
+          "subtitulo": "Diante de Palavra Masculina",
+          "itens": [
+            "Não há artigo feminino 'a' para se fundir com a preposição 'a'.",
+            "Ex.: Andamos a pé. (pé é palavra masculina)",
+            "Ex.: Viajou a cavalo. (cavalo é palavra masculina)",
+            "Ex.: Pagamento a prazo. (prazo é palavra masculina)"
+          ]
+        },
+        {
+          "subtitulo": "Diante de Verbo",
+          "itens": [
+            "Verbos não são precedidos de artigo 'a'.",
+            "Ex.: Começou a chover. (chover é verbo)",
+            "Ex.: Pôs-se a cantar. (cantar é verbo)",
+            "Ex.: Aprendeu a ler. (ler é verbo)"
+          ]
+        },
+        {
+          "subtitulo": "Diante de Pronomes Pessoais, de Tratamento, Indefinidos e Demonstrativos (com exceções)",
+          "itens": [
+            "Esses pronomes não admitem artigo antes deles.",
+            "Ex.: Entreguei a ela. (ela é pronome pessoal)",
+            "Ex.: Referi-me a Vossa Excelência. (Vossa Excelência é pronome de tratamento)",
+            "Ex.: Não disse nada a ninguém. (ninguém é pronome indefinido)"
+          ]
+        },
+        {
+          "subtitulo": "Diante de Numeral Cardinal (exceto quando indicar horas)",
+          "itens": [
+            "Numerais cardinais não são precedidos de artigo 'a'.",
+            "Ex.: Daqui a duas horas. (duas é numeral cardinal)",
+            "Ex.: Chegou a cinco minutos. (cinco é numeral cardinal)",
+            "Ex.: A reunião será daqui a três dias. (três é numeral cardinal)"
+          ]
+        },
+        {
+          "subtitulo": "Entre Palavras Repetidas",
+          "itens": [
+            "A repetição de palavras impede o uso da crase.",
+            "Ex.: Cara a cara.",
+            "Ex.: Dia a dia.",
+            "Ex.: Gota a gota."
+          ]
+        },
+        {
+          "subtitulo": "Antes de Artigo Indefinido",
+          "itens": [
+            "Não há fusão da preposição 'a' com um artigo indefinido 'uma' ou 'umas'.",
+            "Ex.: Referiu-se a uma pessoa. (uma é artigo indefinido)",
+            "Ex.: Deu a uma amiga. (uma é artigo indefinido)",
+            "Ex.: Chegou a um acordo. (um é artigo indefinido, mas aqui é masculino, reforçando a regra)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Facultativos de Crase",
+      "destaque": "A crase é opcional em situações específicas, como antes de pronomes possessivos femininos singulares, após a preposição 'até' e antes de nomes próprios femininos.",
+      "subsecoes": [
+        {
+          "subtitulo": "Antes de Pronomes Possessivos Femininos Singulares",
+          "itens": [
+            "O uso do artigo 'a' antes de pronomes possessivos femininos singulares é opcional.",
+            "Ex.: Entreguei a/à minha irmã. (minha é pronome possessivo feminino singular)",
+            "Ex.: Refiro-me a/à sua casa. (sua é pronome possessivo feminino singular)",
+            "Ex.: Devolvi a/à nossa encomenda. (nossa é pronome possessivo feminino singular)"
+          ]
+        },
+        {
+          "subtitulo": "Depois da Preposição 'Até'",
+          "itens": [
+            "A preposição 'a' pode ou não ser usada após a preposição 'até'.",
+            "Ex.: Fui até a/à praia. (praia é substantivo feminino)",
+            "Ex.: Chegou até a/à porta. (porta é substantivo feminino)",
+            "Ex.: Caminhou até a/à escola. (escola é substantivo feminino)"
+          ]
+        },
+        {
+          "subtitulo": "Antes de Nomes Próprios Femininos",
+          "itens": [
+            "O uso do artigo 'a' antes de nomes próprios femininos é opcional, dependendo da intenção de particularizar ou não o nome.",
+            "Ex.: Dediquei o livro a/à Maria. (Maria é nome próprio feminino)",
+            "Ex.: Entreguei a carta a/à Ana. (Ana é nome próprio feminino)",
+            "Ex.: Fiz um elogio a/à Patrícia. (Patrícia é nome próprio feminino)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A crase é a fusão da preposição 'a' com o artigo feminino 'a' (ou 'as') ou com o 'a' inicial dos demonstrativos 'aquele', 'aquela', 'aquilo'.",
+    "É obrigatória diante de palavras femininas que exigem a preposição 'a', locuções adverbiais, prepositivas e conjuntivas femininas, e nas expressões 'à moda de'/'à maneira de'.",
+    "É proibida antes de palavras masculinas, verbos, pronomes (exceto 'senhora', 'senhorita', 'madame' e os demonstrativos 'aquele', 'aquela', 'aquilo'), numerais cardinais (exceto horas), palavras repetidas e artigos indefinidos.",
+    "É facultativa antes de pronomes possessivos femininos singulares, após a preposição 'até' e antes de nomes próprios femininos.",
+    "O acento grave (`) é o sinal que indica a ocorrência da crase."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o uso da crase está **correto**.",
+      "opcoes": [
+        "A) Fui a pé ao trabalho.",
+        "B) Ele se referiu à um colega.",
+        "C) Chegamos à duas horas da tarde.",
+        "D) Dedicou-se à leitura de clássicos."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa (A) está incorreta porque 'pé' é palavra masculina. A alternativa (B) está incorreta porque 'um' é artigo indefinido. A alternativa (C) está incorreta porque 'duas' é numeral cardinal, e a crase só seria obrigatória se indicasse hora exata ('às duas horas'). A alternativa (D) está correta, pois o verbo 'dedicar-se' exige a preposição 'a' (quem se dedica, dedica-se a algo) e 'leitura' é um substantivo feminino que aceita o artigo 'a'."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a crase é **facultativa**?",
+      "opcoes": [
+        "A) Ele obedece às leis do país.",
+        "B) Fui até à casa de minha avó.",
+        "C) À medida que envelhecemos, aprendemos.",
+        "D) Não dei importância àquilo que ele disse."
+      ],
+      "gabarito": "B",
+      "comentario": "A crase é facultativa após a preposição 'até', como em 'Fui até a/à casa de minha avó'. Nas demais opções, a crase é obrigatória: em (A), 'obedecer' exige 'a' e 'leis' é feminino plural; em (C), 'à medida que' é uma locução conjuntiva feminina; em (D), 'dar importância' exige 'a' e 'aquilo' é um pronome demonstrativo que aceita a fusão."
+    },
+    {
+      "id": 3,
+      "enunciado": "Marque a opção em que o acento grave indicativo de crase foi empregado de forma **indevida**.",
+      "opcoes": [
+        "A) O restaurante serve pratos à moda antiga.",
+        "B) Ele começou à estudar para o concurso.",
+        "C) Às vezes, é preciso ter paciência.",
+        "D) Entreguei a carta à Maria."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa (B) está incorreta porque 'estudar' é um verbo, e a crase nunca ocorre antes de verbos. Em (A), 'à moda antiga' é uma locução adverbial de modo. Em (C), 'às vezes' é uma locução adverbial de tempo. Em (D), a crase antes de nome próprio feminino ('Maria') é facultativa, portanto, o uso está correto."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as sentenças abaixo e assinale a que apresenta erro no emprego da crase.I. Ele se dirigiu à praça principal.II. Chegamos a tempo de ver o espetáculo.III. Refiro-me àquele que me ajudou.IV. Daqui à pouco, o show vai começar.",
+      "opcoes": [
+        "A) Apenas I",
+        "B) Apenas II",
+        "C) Apenas IV",
+        "D) I e III"
+      ],
+      "gabarito": "C",
+      "comentario": "A sentença I está correta: 'dirigir-se a' + 'praça' (feminino). A sentença II está correta: 'tempo' é palavra masculina, não há crase. A sentença III está correta: 'referir-se a' + 'aquele' (pronome demonstrativo). A sentença IV está incorreta: 'pouco' é palavra masculina, não há crase. O correto seria 'Daqui a pouco'. Portanto, a sentença IV apresenta erro."
+    },
+    {
+      "id": 5,
+      "enunciado": "Em qual das alternativas a crase é **obrigatória**?",
+      "opcoes": [
+        "A) Ele se dedica a sua família.",
+        "B) Fui a Paris nas férias.",
+        "C) A reunião será às 10 horas.",
+        "D) Ele se referiu a uma amiga."
+      ],
+      "gabarito": "C",
+      "comentario": "Em (A), a crase é facultativa antes de pronome possessivo feminino singular ('sua'). Em (B), a crase é proibida antes de nome de cidade que não aceita artigo feminino ('Fui a Paris'). Para verificar, substitua por um nome masculino: 'Fui ao Rio'. Se der 'ao', tem crase. Se der 'a', não tem. 'Fui a Paris' -> 'Fui ao Rio'. Não tem crase. Em (C), a crase é obrigatória quando indica horas exatas. Em (D), a crase é proibida antes de artigo indefinido ('uma')."
+    }
+  ]
+}

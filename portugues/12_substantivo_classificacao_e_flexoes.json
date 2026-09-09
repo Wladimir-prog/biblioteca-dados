@@ -1,0 +1,183 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Substantivo: Classificação e Flexões",
+  "introducao": [
+    "O substantivo é a classe de palavras fundamental na Língua Portuguesa, responsável por nomear seres, objetos, lugares, sentimentos, qualidades, ações e conceitos. Ele funciona como o núcleo de grande parte das orações, permitindo-nos identificar e referenciar tudo o que existe no mundo real ou imaginário.",
+    "Compreender o substantivo é essencial para a construção de frases claras e coesas, além de ser um pilar para o estudo de outras classes gramaticais e da sintaxe. Nesta seção, exploraremos suas diversas classificações e as flexões de gênero, número e grau que essa classe de palavras pode apresentar."
+  ],
+  "secoes": [
+    {
+      "titulo": "O Substantivo",
+      "conteudo": [
+        "O substantivo é a classe de palavras que nomeia seres, objetos, lugares, sentimentos, qualidades, ações, entre outros. É a palavra-chave em uma frase, pois tudo o que existe ou se imagina pode ser nomeado por um substantivo."
+      ],
+      "itens": [
+        "Ex.: mesa",
+        "Ex.: amor",
+        "Ex.: Brasil"
+      ]
+    },
+    {
+      "titulo": "Classificação dos Substantivos",
+      "subsecoes": [
+        {
+          "subtitulo": "1. Substantivos Comuns e Próprios",
+          "itens": [
+            "Substantivos Comuns: Nomeiam seres da mesma espécie de forma genérica. São escritos com letra inicial minúscula, a menos que iniciem uma frase. Ex.: cidade, menino, cachorro",
+            "Substantivos Próprios: Nomeiam seres específicos, individualizando-os. São sempre escritos com letra inicial maiúscula. Ex.: São Paulo, Pedro, Rex"
+          ]
+        },
+        {
+          "subtitulo": "2. Substantivos Concretos e Abstratos",
+          "itens": [
+            "Substantivos Concretos: Nomeiam seres que existem por si mesmos, independentemente de outros seres. Podem ser reais ou imaginários. Ex.: livro, fada, computador",
+            "Substantivos Abstratos: Nomeiam qualidades, sentimentos, estados, ações ou conceitos que dependem de outro ser para existir. Ex.: beleza (depende de algo belo), alegria (depende de alguém alegre), corrida (depende de alguém que corre)"
+          ]
+        },
+        {
+          "subtitulo": "3. Substantivos Primitivos e Derivados",
+          "itens": [
+            "Substantivos Primitivos: Não derivam de outras palavras da língua portuguesa. Ex.: pedra, flor, jornal",
+            "Substantivos Derivados: Formam-se a partir de outras palavras já existentes. Ex.: pedreiro (de pedra), floricultura (de flor), jornalista (de jornal)"
+          ]
+        },
+        {
+          "subtitulo": "4. Substantivos Simples e Compostos",
+          "itens": [
+            "Substantivos Simples: Formados por apenas um radical. Ex.: sol, chuva, couve",
+            "Substantivos Compostos: Formados por dois ou mais radicais. Podem ser unidos por hífen ou não. Ex.: girassol (gira + sol), guarda-chuva (guarda + chuva), couve-flor (couve + flor)"
+          ]
+        },
+        {
+          "subtitulo": "5. Substantivos Coletivos",
+          "itens": [
+            "Substantivos Coletivos: Nomeiam um conjunto de seres da mesma espécie. Ex.: cardume (conjunto de peixes), biblioteca (conjunto de livros), alcateia (conjunto de lobos)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Flexões dos Substantivos",
+      "conteudo": [
+        "Os substantivos são palavras variáveis, ou seja, podem sofrer flexões de gênero, número e grau."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Flexão de Gênero (Masculino e Feminino)",
+          "itens": [
+            "A maioria dos substantivos pode ser masculina ou feminina.",
+            "a) Biformes: Possuem duas formas, uma para o masculino e outra para o feminino. Ex.: menino / menina, professor / professora, gato / gata",
+            "b) Uniformes: Possuem uma única forma para ambos os gêneros.",
+            "  - Epicenos: Referem-se a animais e o gênero é determinado pelas palavras 'macho' ou 'fêmea'. Ex.: a cobra macho / a cobra fêmea, o jacaré macho / o jacaré fêmea, a onça macho / a onça fêmea",
+            "  - Sobrecomuns: Referem-se a pessoas e têm um só gênero gramatical para ambos os sexos. Ex.: a criança, a testemunha, o cônjuge",
+            "  - Comuns de dois gêneros: A distinção de gênero é feita pelo artigo ou outro determinante. Ex.: o estudante / a estudante, o cliente / a cliente, o artista / a artista"
+          ]
+        },
+        {
+          "subtitulo": "2. Flexão de Número (Singular e Plural)",
+          "itens": [
+            "A maioria dos substantivos varia em número, indicando singular (um ser) ou plural (mais de um ser).",
+            "Regra geral: Adiciona-se 's' ao singular. Ex.: casa / casas, carro / carros, livro / livros",
+            "Casos especiais:",
+            "  - Terminados em -ão: Podem formar o plural em -ãos, -ões ou -ães. Ex.: irmão / irmãos, balão / balões, pão / pães",
+            "  - Terminados em -m: Troca-se o 'm' por 'ns'. Ex.: homem / homens, álbum / álbuns, nuvem / nuvens",
+            "  - Terminados em -r, -s, -z: Adiciona-se 'es'. Ex.: flor / flores, país / países, luz / luzes",
+            "  - Terminados em -al, -el, -ol, -ul: Troca-se o 'l' por 'is'. Ex.: animal / animais, papel / papéis, anzol / anzóis",
+            "  - Terminados em -il:",
+            "    - Oxítonos: Troca-se o 'l' por 'is'. Ex.: barril / barris, funil / funis, gentil / gentis",
+            "    - Paroxítonos: Troca-se o 'il' por 'eis'. Ex.: fóssil / fósseis, projétil / projéteis, réptil / répteis",
+            "  - Substantivos compostos: A flexão depende da formação.",
+            "    - Sem hífen: Flexiona-se como substantivo simples. Ex.: girassol / girassóis, pontapé / pontapés, passatempo / passatempos",
+            "    - Com hífen: Ambos os elementos flexionam-se: Quando formados por substantivo + substantivo, substantivo + adjetivo, adjetivo + substantivo. Ex.: couve-flor / couves-flores, obra-prima / obras-primas, gentil-homem / gentis-homens",
+            "    - Com hífen: Apenas o primeiro elemento flexiona-se: Quando o segundo elemento é preposição, numeral, ou substantivo que limita o primeiro. Ex.: pé de moleque / pés de moleque, pão de ló / pães de ló, bico de papagaio / bicos de papagaio",
+            "    - Com hífen: Apenas o segundo elemento flexiona-se: Quando o primeiro elemento é verbo, advérbio, prefixo ou palavra invariável. Ex.: guarda-roupa / guarda-roupas, beija-flor / beija-flores, sempre-viva / sempre-vivas",
+            "    - Com hífen: Nenhum elemento flexiona-se: Quando o substantivo composto já está no plural ou é formado por verbos opostos. Ex.: os saca-rolhas, os quebra-cabeças, os vai-e-vens"
+          ]
+        },
+        {
+          "subtitulo": "3. Flexão de Grau (Aumentativo e Diminutivo)",
+          "itens": [
+            "O grau indica o tamanho do ser, podendo ser aumentativo (tamanho maior) ou diminutivo (tamanho menor).",
+            "a) Grau Normal: Indica o tamanho real do ser. Ex.: casa, livro, menino",
+            "b) Grau Aumentativo:",
+            "  - Sintético: Adiciona-se um sufixo aumentativo ao radical. Ex.: casarão, livrão, meninão",
+            "  - Analítico: Usa-se um adjetivo que indica aumento. Ex.: casa grande, livro enorme, menino alto",
+            "c) Grau Diminutivo:",
+            "  - Sintético: Adiciona-se um sufixo diminutivo ao radical. Ex.: casinha, livrinho, menininho",
+            "  - Analítico: Usa-se um adjetivo que indica diminuição. Ex.: casa pequena, livro minúsculo, menino baixo"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "O substantivo é a classe de palavras que nomeia seres, objetos, lugares, sentimentos, qualidades e ações, sendo o núcleo de muitas construções frasais.",
+    "Sua classificação abrange tipos como comuns/próprios, concretos/abstratos, primitivos/derivados, simples/compostos e coletivos, cada um com características específicas de uso e grafia.",
+    "As flexões de gênero (masculino e feminino) podem ser biformes (duas formas) ou uniformes (uma forma para ambos os gêneros, subdivididas em epicenos, sobrecomuns e comuns de dois gêneros).",
+    "A flexão de número (singular e plural) segue uma regra geral de adição de 's', mas possui diversos casos especiais para substantivos terminados em -ão, -m, -r/-s/-z, -l, -il e para substantivos compostos.",
+    "A flexão de grau (aumentativo e diminutivo) indica o tamanho do ser e pode ser formada de maneira sintética (com sufixos) ou analítica (com adjetivos)."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todos os substantivos são, respectivamente, abstrato, próprio e coletivo.",
+      "opcoes": [
+        "A) Amor, Brasil, cardume.",
+        "B) Beleza, mesa, rebanho.",
+        "C) Felicidade, livro, constelação.",
+        "D) Coragem, Pedro, álbum."
+      ],
+      "gabarito": "A",
+      "comentario": "A alternativa A apresenta 'amor' (abstrato, pois depende de um ser para existir), 'Brasil' (próprio, pois nomeia um país específico) e 'cardume' (coletivo, pois indica um conjunto de peixes). As demais alternativas contêm classificações incorretas para um ou mais substantivos."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das opções o substantivo em destaque é classificado como 'comum de dois gêneros'?",
+      "opcoes": [
+        "A) O jacaré macho nadava no rio.",
+        "B) A criança brincava no parque.",
+        "C) O estudante dedicou-se aos estudos.",
+        "D) A testemunha foi ouvida pelo juiz."
+      ],
+      "gabarito": "C",
+      "comentario": "Substantivos comuns de dois gêneros são aqueles que possuem uma única forma para ambos os sexos, sendo o gênero determinado pelo artigo ou outro determinante. Em 'o estudante / a estudante', a palavra 'estudante' não muda, mas o artigo sim. 'Jacaré' é epiceno (A), 'criança' e 'testemunha' são sobrecomuns (B e D), pois o artigo não varia para indicar o sexo."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das alternativas apresenta o plural correto para os substantivos 'pão', 'álbum' e 'luz'?",
+      "opcoes": [
+        "A) Pães, álbuns, luzes.",
+        "B) Pãos, álbuns, luzes.",
+        "C) Pões, álbums, luzes.",
+        "D) Pães, álbums, luzs."
+      ],
+      "gabarito": "A",
+      "comentario": "O plural de 'pão' (terminado em -ão) é 'pães'. O plural de 'álbum' (terminado em -m) é 'álbuns', trocando o 'm' por 'ns'. O plural de 'luz' (terminado em -z) é 'luzes', adicionando 'es'. Portanto, a alternativa A está totalmente correta."
+    },
+    {
+      "id": 4,
+      "enunciado": "Considerando a flexão de número dos substantivos compostos, assinale a opção em que o plural está INCORRETO.",
+      "opcoes": [
+        "A) Guarda-chuva -> guarda-chuvas",
+        "B) Couve-flor -> couves-flores",
+        "C) Pé de moleque -> pés de moleque",
+        "D) Beija-flor -> beijas-flores"
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D está incorreta. Em 'beija-flor', o primeiro elemento é um verbo ('beija') e o segundo é um substantivo ('flor'). Nesses casos, apenas o segundo elemento vai para o plural, resultando em 'beija-flores'. As demais opções estão corretas: 'guarda-chuva' (verbo + substantivo, só o segundo flexiona), 'couve-flor' (substantivo + substantivo, ambos flexionam), 'pé de moleque' (substantivo + preposição + substantivo, só o primeiro flexiona)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Em relação à flexão de grau dos substantivos, qual das frases abaixo apresenta um substantivo no grau aumentativo sintético?",
+      "opcoes": [
+        "A) Ele mora em uma casa grande.",
+        "B) Que livrão interessante você está lendo!",
+        "C) O menino alto jogava bola.",
+        "D) Vi um cachorrinho fofo na rua."
+      ],
+      "gabarito": "B",
+      "comentario": "O grau aumentativo sintético é formado pela adição de um sufixo aumentativo ao radical do substantivo. Em 'livrão', o sufixo '-ão' indica o aumento de tamanho de forma sintética. As opções A e C apresentam aumentativo analítico ('casa grande', 'menino alto'), enquanto a opção D apresenta diminutivo sintético ('cachorrinho')."
+    }
+  ]
+}

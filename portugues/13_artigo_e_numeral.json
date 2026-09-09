@@ -1,0 +1,169 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Artigo e Numeral",
+  "introducao": [
+    "Artigos e numerais são classes de palavras essenciais na Língua Portuguesa, atuando como modificadores ou especificadores de substantivos.",
+    "Sua correta aplicação é fundamental para a clareza e a precisão na comunicação escrita e oral, garantindo a construção de frases gramaticalmente corretas e semanticamente ricas."
+  ],
+  "secoes": [
+    {
+      "titulo": "Artigo",
+      "destaque": "BizU: O artigo é um 'companheiro fiel' do substantivo. Se você vê um artigo, pode ter certeza que um substantivo (ou palavra substantivada) está por perto!",
+      "conteudo": [
+        "Artigo é a palavra que antecede o substantivo, determinando-o (especificando) ou indeterminando-o (generalizando).",
+        "Ele concorda em gênero e número com o substantivo a que se refere, desempenhando um papel crucial na coesão e coerência textual."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Artigos Definidos",
+          "itens": [
+            "Os artigos definidos especificam o substantivo, indicando que ele já é conhecido, foi mencionado anteriormente ou é único no contexto.",
+            "São eles: o, a, os, as.",
+            "Exemplos: 'O livro está na mesa.' (refere-se a um livro específico)",
+            "Exemplos: 'A menina brinca no parque.' (uma menina específica)",
+            "Exemplos: 'Os alunos estudam para a prova.' (alunos específicos)"
+          ]
+        },
+        {
+          "subtitulo": "Artigos Indefinidos",
+          "itens": [
+            "Os artigos indefinidos generalizam o substantivo, indicando que ele é desconhecido, mencionado pela primeira vez ou não é específico.",
+            "São eles: um, uma, uns, umas.",
+            "Exemplos: 'Um cachorro latiu a noite toda.' (qualquer cachorro)",
+            "Exemplos: 'Uma ideia surgiu de repente.' (qualquer ideia)",
+            "Exemplos: 'Uns pássaros voavam no céu.' (alguns pássaros, não específicos)"
+          ]
+        },
+        {
+          "subtitulo": "Combinação dos Artigos com Preposições",
+          "itens": [
+            "Os artigos podem se combinar com preposições, formando novas palavras que são contrações.",
+            "Exemplos comuns são: do (de + o), da (de + a), no (em + o), na (em + a), pelos (por + os), pelas (por + as), ao (a + o), à (a + a - crase).",
+            "Exemplos: 'Fui ao mercado.' (a + o)",
+            "Exemplos: 'Moramos na cidade.' (em + a)",
+            "Exemplos: 'Gosto dos filmes de ação.' (de + os)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Numeral",
+      "destaque": "BizU: Numeral é o 'contador' ou 'organizador' do substantivo. Ele sempre nos dá uma ideia de número!",
+      "conteudo": [
+        "Numeral é a palavra que indica quantidade exata, ordem, fração ou multiplicação de seres ou coisas.",
+        "Assim como o artigo, o numeral também acompanha o substantivo, quantificando-o ou ordenando-o."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Numerais Cardinais",
+          "itens": [
+            "Indicam uma quantidade exata de seres.",
+            "São os mais comuns: um, dois, três, cem, mil, etc.",
+            "Exemplos: 'Tenho dois irmãos.'",
+            "Exemplos: 'Comprei três maçãs.'",
+            "Exemplos: 'Ele viveu cem anos.'"
+          ]
+        },
+        {
+          "subtitulo": "Numerais Ordinais",
+          "itens": [
+            "Indicam a ordem ou posição de um ser em uma sequência.",
+            "Exemplos: primeiro, segundo, terceiro, décimo, centésimo, etc.",
+            "Exemplos: 'Ele foi o primeiro a chegar.'",
+            "Exemplos: 'Moramos no segundo andar.'",
+            "Exemplos: 'O terceiro capítulo é o melhor.'"
+          ]
+        },
+        {
+          "subtitulo": "Numerais Multiplicativos",
+          "itens": [
+            "Indicam o número de vezes que uma quantidade é multiplicada.",
+            "Exemplos: dobro, triplo, quádruplo, quíntuplo, etc.",
+            "Exemplos: 'Ele ganhou o dobro do salário.'",
+            "Exemplos: 'Tivemos o triplo de vendas este mês.'",
+            "Exemplos: 'O atleta fez o quádruplo de pontos.'"
+          ]
+        },
+        {
+          "subtitulo": "Numerais Fracionários",
+          "itens": [
+            "Indicam uma parte ou fração de um todo.",
+            "Exemplos: meio, terço, quarto, quinto, etc.",
+            "Exemplos: 'Comi metade da torta.'",
+            "Exemplos: 'Um terço da turma faltou.'",
+            "Exemplos: 'Ele bebeu um quarto do suco.'"
+          ]
+        },
+        {
+          "subtitulo": "Flexão dos Numerais",
+          "itens": [
+            "A maioria dos numerais cardinais é invariável em gênero e número (ex: dois, três, cem).",
+            "Alguns cardinais (um, dois) e todos os ordinais, multiplicativos e fracionários podem variar em gênero e/ou número.",
+            "Exemplos: 'Uma maçã, duas maçãs.' (cardinais 'um' e 'dois' flexionam)",
+            "Exemplos: 'Primeira colocada, primeiros colocados.' (ordinais flexionam)",
+            "Exemplos: 'Metade da população, um terço do bolo.' (fracionários flexionam)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Artigos (definidos e indefinidos) e numerais (cardinais, ordinais, multiplicativos, fracionários) são classes de palavras que acompanham e modificam o substantivo.",
+    "Artigos definidos (o, a, os, as) especificam o substantivo, enquanto os indefinidos (um, uma, uns, umas) o generalizam.",
+    "Artigos podem se combinar com preposições, formando contrações como 'do', 'na', 'pelos', 'à'.",
+    "Numerais indicam quantidade (cardinais), ordem (ordinais), multiplicação (multiplicativos) ou fração (fracionários).",
+    "A maioria dos numerais cardinais é invariável, mas 'um' e 'dois', além de todos os ordinais, multiplicativos e fracionários, podem flexionar em gênero e número.",
+    "Ambas as classes são essenciais para a clareza, precisão e coesão textual na Língua Portuguesa."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o termo em destaque é um artigo definido?",
+      "opcoes": [
+        "A) Ele comprou **dois** livros.",
+        "B) **Uma** ideia brilhante surgiu.",
+        "C) **A** casa estava vazia.",
+        "D) Recebi o **dobro** do valor."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'A' é um artigo definido que especifica o substantivo 'casa'. Em A, 'dois' é numeral cardinal. Em B, 'Uma' é artigo indefinido. Em D, 'dobro' é numeral multiplicativo."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que o artigo indefinido está empregado corretamente para generalizar o substantivo.",
+      "opcoes": [
+        "A) O sol é uma estrela.",
+        "B) A lua é o satélite da Terra.",
+        "C) Comprei umas frutas no mercado.",
+        "D) Os carros estavam estacionados."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'umas' é um artigo indefinido que generaliza 'frutas', indicando que não são frutas específicas, mas sim algumas frutas. Nas demais opções, os artigos são definidos ou o substantivo é específico."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual a classificação do numeral em destaque na frase: 'Ele foi o **primeiro** a terminar a corrida'?",
+      "opcoes": [
+        "A) Cardinal",
+        "B) Multiplicativo",
+        "C) Fracionário",
+        "D) Ordinal"
+      ],
+      "gabarito": "D",
+      "comentario": "O numeral 'primeiro' indica a posição ou ordem em uma sequência, classificando-se, portanto, como numeral ordinal."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das opções o numeral em destaque apresenta flexão de gênero e número?",
+      "opcoes": [
+        "A) Tenho **três** canetas.",
+        "B) Ele comeu **meio** bolo.",
+        "C) Ela foi a **segunda** colocada.",
+        "D) Recebi o **dobro** da quantia."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'segunda' flexiona em gênero (feminino, concordando com 'colocada') e número (singular). Em A, 'três' é invariável. Em B, 'meio' está no masculino singular, mas a flexão de gênero e número é mais evidente em ordinais. Em D, 'dobro' é invariável."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Classificação quanto à Sílaba e Tonicidade",
+  "introducao": [
+    "A sílaba é a unidade fonológica fundamental da língua portuguesa, representando um fonema ou um grupo de fonemas emitidos em um único impulso de voz. Sua correta identificação e divisão são essenciais para a compreensão da estrutura das palavras e para a aplicação das regras de acentuação gráfica.",
+    "Complementarmente, a tonicidade refere-se à intensidade com que uma sílaba é pronunciada, distinguindo a sílaba tônica (mais forte) das sílabas átonas (mais fracas). O domínio desses conceitos é a base para a classificação das palavras e para a escrita correta, sendo um tópico recorrente em exames e concursos."
+  ],
+  "secoes": [
+    {
+      "titulo": "Classificação das Palavras quanto ao Número de Sílabas",
+      "conteudo": [
+        "As palavras são classificadas de acordo com a quantidade de sílabas que possuem. Essa classificação é um dos pilares para a análise fonológica e ortográfica."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Monossílabas",
+          "itens": [
+            "Palavras que possuem apenas uma sílaba.",
+            "Ex.: sol, mar, pé, flor, luz"
+          ]
+        },
+        {
+          "subtitulo": "Dissílabas",
+          "itens": [
+            "Palavras que possuem duas sílabas.",
+            "Ex.: ca-sa, li-vro, a-mor, bo-la, me-sa"
+          ]
+        },
+        {
+          "subtitulo": "Trissílabas",
+          "itens": [
+            "Palavras que possuem três sílabas.",
+            "Ex.: ca-dei-ra, me-ni-no, es-co-la, sa-pa-to, te-le-fone"
+          ]
+        },
+        {
+          "subtitulo": "Polissílabas",
+          "itens": [
+            "Palavras que possuem quatro ou mais sílabas.",
+            "Ex.: pa-ra-le-le-pí-pe-do, a-ma-re-lo, com-pu-ta-dor, u-ni-ver-si-da-de"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação das Palavras quanto à Posição da Sílaba Tônica",
+      "conteudo": [
+        "A sílaba tônica é aquela pronunciada com maior intensidade em uma palavra. As demais sílabas são consideradas átonas. A posição da sílaba tônica determina a classificação da palavra em oxítona, paroxítona ou proparoxítona."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Oxítonas",
+          "itens": [
+            "A sílaba tônica é a última sílaba da palavra.",
+            "Ex.: ca-fé, a-vô, pa-ra-ná, vo-cê, tam-bém"
+          ]
+        },
+        {
+          "subtitulo": "Paroxítonas",
+          "itens": [
+            "A sílaba tônica é a penúltima sílaba da palavra.",
+            "Ex.: me-sa, ca-sa, li-vro, ca-der-no, fá-cil"
+          ]
+        },
+        {
+          "subtitulo": "Proparoxítonas",
+          "itens": [
+            "A sílaba tônica é a antepenúltima sílaba da palavra.",
+            "Ex.: mé-di-co, lá-gri-ma, úl-ti-mo, pá-ssa-ro, sí-la-ba"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Regras Gerais de Acentuação (Breve Revisão)",
+      "destaque": "Bizú para concursos: A identificação precisa da sílaba tônica é o primeiro e mais crucial passo para aplicar corretamente as regras de acentuação gráfica. Errar a tonicidade leva a erros na acentuação!",
+      "itens": [
+        "Todas as palavras proparoxítonas são acentuadas graficamente.",
+        "As palavras oxítonas são acentuadas quando terminadas em A(S), E(S), O(S), EM, ENS.",
+        "As palavras paroxítonas são acentuadas em diversas terminações (ex: L, N, R, X, PS, Ã(S), ÃO(S), UM, UNS, I(S), US), exceto as que terminam em A(S), E(S), O(S), EM, ENS (que são as terminações das oxítonas acentuadas e monossílabos tônicos)."
+      ]
+    }
+  ],
+  "sintese": [
+    "A sílaba é um fonema ou grupo de fonemas pronunciados em uma única emissão de voz, fundamental para a estrutura da palavra.",
+    "As palavras são classificadas quanto ao número de sílabas em: monossílabas (1), dissílabas (2), trissílabas (3) e polissílabas (4 ou mais).",
+    "Tonicidade refere-se à sílaba tônica (mais forte) de uma palavra, sendo as demais sílabas átonas.",
+    "Quanto à posição da sílaba tônica, as palavras são: oxítonas (última sílaba), paroxítonas (penúltima sílaba) e proparoxítonas (antepenúltima sílaba).",
+    "Todas as proparoxítonas são acentuadas graficamente.",
+    "Oxítonas são acentuadas se terminadas em A(S), E(S), O(S), EM, ENS. Paroxítonas são acentuadas em diversas terminações, exceto as de oxítonas e monossílabos tônicos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras são classificadas como polissílabas.",
+      "opcoes": [
+        "A) casa, livro, amor",
+        "B) computador, paralepípedo, amarelo",
+        "C) sol, mar, pé",
+        "D) cadeira, menino, escola"
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa correta é a B. 'Computador' (com-pu-ta-dor - 4 sílabas), 'paralepípedo' (pa-ra-le-le-pí-pe-do - 7 sílabas) e 'amarelo' (a-ma-re-lo - 4 sílabas) são todas polissílabas, pois possuem quatro ou mais sílabas. As demais alternativas contêm palavras dissílabas, monossílabas ou trissílabas."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das palavras abaixo é classificada como oxítona?",
+      "opcoes": [
+        "A) médico",
+        "B) mesa",
+        "C) café",
+        "D) lágrima"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. Em 'café' (ca-FÉ), a sílaba tônica é a última. 'Médico' e 'lágrima' são proparoxítonas (MÉ-di-co, LÁ-gri-ma), e 'mesa' é paroxítona (ME-sa)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das opções todas as palavras são proparoxítonas?",
+      "opcoes": [
+        "A) avô, Paraná, você",
+        "B) lâmpada, árvore, pêssego",
+        "C) caderno, janela, escola",
+        "D) ruim, tatu, urubu"
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa correta é a B. 'Lâmpada' (LÂM-pa-da), 'árvore' (ÁR-vo-re) e 'pêssego' (PÊS-se-go) são todas proparoxítonas, ou seja, a sílaba tônica é a antepenúltima. Além disso, todas as proparoxítonas são acentuadas. As palavras das outras alternativas são oxítonas ou paroxítonas."
+    },
+    {
+      "id": 4,
+      "enunciado": "A palavra 'computador' é classificada, respectivamente, quanto ao número de sílabas e à tonicidade como:",
+      "opcoes": [
+        "A) Trissílaba e oxítona",
+        "B) Polissílaba e paroxítona",
+        "C) Polissílaba e oxítona",
+        "D) Dissílaba e paroxítona"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. A palavra 'computador' (com-pu-ta-DOR) possui quatro sílabas, sendo, portanto, polissílaba. A sílaba tônica é a última ('dor'), o que a classifica como oxítona."
+    }
+  ]
+}

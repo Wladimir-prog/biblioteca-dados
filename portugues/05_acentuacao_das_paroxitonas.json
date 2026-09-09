@@ -1,0 +1,182 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Acentuação das Paroxítonas",
+  "introducao": [
+    "A acentuação gráfica na língua portuguesa é um sistema de regras essenciais para a correta indicação da sílaba tônica das palavras, auxiliando na pronúncia e, em alguns casos, na diferenciação de vocábulos homógrafos.",
+    "Dominar essas normas é crucial não apenas para a escrita impecável, mas também para a compreensão precisa dos textos, garantindo clareza e coesão na comunicação."
+  ],
+  "secoes": [
+    {
+      "titulo": "Classificação das Palavras Quanto à Sílaba Tônica",
+      "conteudo": [
+        "As palavras da língua portuguesa são categorizadas em oxítonas, paroxítonas e proparoxítonas, conforme a posição de sua sílaba tônica.",
+        "A sílaba tônica é aquela pronunciada com maior intensidade e destaque em um vocábulo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Oxítonas",
+          "itens": [
+            "São palavras cuja sílaba tônica é a última.",
+            "Ex.: café, avô, parabéns"
+          ]
+        },
+        {
+          "subtitulo": "Paroxítonas",
+          "itens": [
+            "São palavras cuja sílaba tônica é a penúltima.",
+            "Ex.: mesa, lápis, caráter"
+          ]
+        },
+        {
+          "subtitulo": "Proparoxítonas",
+          "itens": [
+            "São palavras cuja sílaba tônica é a antepenúltima.",
+            "Ex.: médico, lâmpada, árvore"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Regras Gerais de Acentuação das Paroxítonas",
+      "destaque": "Bizú: Lembre-se que a maioria das paroxítonas não leva acento. Acentuamos apenas as 'exceções' à regra geral, ou seja, aquelas que terminam de forma específica!",
+      "conteudo": [
+        "As paroxítonas constituem o grupo mais numeroso de palavras na língua portuguesa.",
+        "A regra geral estabelece que as paroxítonas NÃO são acentuadas, a menos que terminem em terminações específicas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Paroxítonas Acentuadas",
+          "itens": [
+            "Acentuam-se as paroxítonas terminadas em:"
+          ]
+        },
+        {
+          "subtitulo": "Terminadas em -i, -is",
+          "itens": [
+            "Ex.: táxi, lápis, júri"
+          ]
+        },
+        {
+          "subtitulo": "Terminadas em -us, -um, -uns",
+          "itens": [
+            "Ex.: vírus, álbum, álbuns"
+          ]
+        },
+        {
+          "subtitulo": "Terminadas em -l, -n, -r, -x, -ps",
+          "itens": [
+            "Ex.: fácil, pólen, caráter, tórax, bíceps"
+          ]
+        },
+        {
+          "subtitulo": "Terminadas em -ão, -ãos, -ões",
+          "itens": [
+            "Ex.: órfão, órgãos, sótão, prótons"
+          ]
+        },
+        {
+          "subtitulo": "Terminadas em Ditongo Crescente (seguido ou não de 's')",
+          "itens": [
+            "Ditongo crescente é a sequência de vogal + semivogal na mesma sílaba, onde a vogal é a base da sílaba e a semivogal a acompanha.",
+            "Ex.: história (his-TÓ-ria), série (SÉ-rie), água (Á-gua)"
+          ]
+        },
+        {
+          "subtitulo": "Terminadas em Ditongo Oral (seguido ou não de 's')",
+          "itens": [
+            "Ditongo oral é aquele em que o ar sai apenas pela boca, sem a participação das fossas nasais.",
+            "Ex.: cárie, vácuo, tênue"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Casos Especiais e Exceções",
+      "conteudo": [
+        "Além das regras gerais, algumas particularidades exigem atenção na acentuação das paroxítonas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Hiatos com 'I' e 'U' Tônicos",
+          "itens": [
+            "Acentua-se o 'i' e o 'u' tônicos que formam hiato com a vogal anterior, desde que não sejam seguidos de 'nh' e não se repitam na mesma sílaba.",
+            "Ex.: saída (sa-Í-da), saúde (sa-Ú-de), baú (ba-Ú)"
+          ]
+        },
+        {
+          "subtitulo": "Paroxítonas Terminadas em 'EM' e 'ENS'",
+          "itens": [
+            "As paroxítonas terminadas em 'em' e 'ens' NÃO são acentuadas, mesmo que a sílaba tônica seja a penúltima.",
+            "Ex.: jovem, nuvem, itens"
+          ]
+        },
+        {
+          "subtitulo": "Acento Diferencial",
+          "itens": [
+            "O acento diferencial, que servia para distinguir palavras homógrafas, foi amplamente abolido pelo Novo Acordo Ortográfico, mas ainda persiste em alguns casos específicos.",
+            "Pode (presente do indicativo) e pôde (passado do indicativo): Ele pode ir. / Ele pôde ir.",
+            "Por (preposição) e pôr (verbo): Vou por ali. / Vou pôr o livro na mesa."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "As palavras são classificadas em oxítonas, paroxítonas e proparoxítonas conforme a posição da sílaba tônica.",
+    "A regra geral para paroxítonas é que elas não são acentuadas, exceto quando terminam em -i(s), -us, -um(ns), -l, -n, -r, -x, -ps, -ão(s), -ões, ou ditongos (crescentes ou orais).",
+    "Hiatos com 'i' e 'u' tônicos são acentuados, desde que não seguidos de 'nh' e não repetidos.",
+    "Paroxítonas terminadas em 'em' e 'ens' não recebem acento gráfico.",
+    "O acento diferencial foi quase todo abolido, mas ainda existe para 'pode/pôde' e 'por/pôr'."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras paroxítonas estão corretamente acentuadas.",
+      "opcoes": [
+        "A) rubrica, gratuito, pudico",
+        "B) ítem, côndor, juri",
+        "C) caráter, tórax, bíceps",
+        "D) refém, nuvem, jovem"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa C apresenta todas as palavras paroxítonas corretamente acentuadas: 'caráter' (terminada em -r), 'tórax' (terminada em -x) e 'bíceps' (terminada em -ps). Na alternativa A, 'rubrica', 'gratuito' e 'pudico' são paroxítonas que não se enquadram nas regras de acentuação e, portanto, não devem ser acentuadas. Na alternativa B, 'item' e 'júri' estão incorretas ('item' não é acentuada, 'júri' é acentuada por terminar em -i), e 'condor' não é acentuada. Na alternativa D, 'refém', 'nuvem' e 'jovem' são paroxítonas terminadas em -em ou -ens, e por isso não são acentuadas."
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual das palavras abaixo é uma paroxítona acentuada pela regra dos ditongos crescentes?",
+      "opcoes": [
+        "A) saúde",
+        "B) história",
+        "C) lápis",
+        "D) álbum"
+      ],
+      "gabarito": "B",
+      "comentario": "A palavra 'história' é uma paroxítona (his-TÓ-ria) terminada em ditongo crescente (-ia), por isso é acentuada. 'Saúde' é acentuada pela regra do hiato tônico. 'Lápis' é acentuada por terminar em -is. 'Álbum' é acentuada por terminar em -um."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das opções a seguir a acentuação da palavra está incorreta?",
+      "opcoes": [
+        "A) vírus",
+        "B) órfão",
+        "C) ítem",
+        "D) fácil"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'item' é uma paroxítona terminada em -em e, de acordo com as regras de acentuação, não deve ser acentuada. As demais palavras estão corretamente acentuadas: 'vírus' (terminada em -us), 'órfão' (terminada em -ão) e 'fácil' (terminada em -l)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as frases e identifique a que utiliza corretamente o acento diferencial:",
+      "opcoes": [
+        "A) Ele não pode ir ontem, mas hoje ele pôde.",
+        "B) Ele não pôde ir ontem, mas hoje ele pode.",
+        "C) Vou por o livro na mesa.",
+        "D) Ele pôde ir por o caminho mais longo."
+      ],
+      "gabarito": "B",
+      "comentario": "O acento diferencial é usado para distinguir 'pode' (presente do indicativo) de 'pôde' (passado do indicativo). Na frase B, 'não pôde ir ontem' indica passado, e 'hoje ele pode' indica presente, estando a acentuação correta. Na alternativa A, 'pode' (presente) é usado para ontem, e 'pôde' (passado) para hoje, invertendo o sentido. Na alternativa C, 'pôr' (verbo) deveria ser acentuado. Na alternativa D, 'pôr' (verbo) deveria ser acentuado, e 'por' (preposição) está correto."
+    }
+  ]
+}

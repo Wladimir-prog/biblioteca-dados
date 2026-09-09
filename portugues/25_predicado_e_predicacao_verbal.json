@@ -1,0 +1,187 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Predicado e Predicação Verbal",
+  "introducao": [
+    "O predicado é o elemento central da oração que, contendo o verbo, expressa a declaração feita sobre o sujeito. Sua presença é indispensável para a construção de um sentido completo, informando sobre a ação, estado ou fenômeno que o sujeito realiza ou experimenta.",
+    "Sem o predicado, a oração não consegue transmitir uma informação clara, tornando-se semanticamente incompleta. Ele é a parte da frase que \"diz algo\" sobre o sujeito, seja uma ação, um estado ou uma qualidade."
+  ],
+  "secoes": [
+    {
+      "titulo": "Tipos de Predicado",
+      "destaque": "A identificação do tipo de predicado é crucial para a análise sintática e para a compreensão da estrutura da oração, revelando a natureza da informação transmitida sobre o sujeito.",
+      "subsecoes": [
+        {
+          "subtitulo": "Predicado Verbal",
+          "itens": [
+            "O predicado verbal tem como núcleo um verbo significativo, ou seja, um verbo que expressa ação, fenômeno ou estado que não seja de ligação.",
+            "Verbos significativos são aqueles que carregam a ideia principal da oração, como correr, comer, trabalhar, chover, etc.",
+            "Ex.: Os pássaros cantam alegremente.",
+            "Ex.: O atleta correu a maratona.",
+            "Ex.: As crianças brincam no parque."
+          ]
+        },
+        {
+          "subtitulo": "Predicado Nominal",
+          "itens": [
+            "O predicado nominal tem como núcleo um nome (substantivo, adjetivo ou advérbio com função adjetiva) e é construído com um verbo de ligação.",
+            "Verbos de ligação (ser, estar, parecer, permanecer, ficar, continuar, tornar-se, andar) apenas ligam o sujeito a uma característica ou estado (predicativo do sujeito).",
+            "Ex.: O céu está azul.",
+            "Ex.: Ela parece cansada.",
+            "Ex.: Os estudantes ficaram atentos."
+          ]
+        },
+        {
+          "subtitulo": "Predicado Verbo-Nominal",
+          "itens": [
+            "O predicado verbo-nominal possui dois núcleos: um verbo significativo e um nome (predicativo do sujeito ou do objeto).",
+            "Ele expressa uma ação do sujeito e, ao mesmo tempo, uma característica atribuída ao sujeito ou ao objeto.",
+            "Ex.: Os alunos saíram felizes. (saíram - verbo significativo; felizes - predicativo do sujeito)",
+            "Ex.: Consideramos a proposta interessante. (consideramos - verbo significativo; interessante - predicativo do objeto)",
+            "Ex.: O diretor nomeou o professor coordenador. (nomeou - verbo significativo; coordenador - predicativo do objeto)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Predicação Verbal",
+      "conteudo": [
+        "A predicação verbal refere-se à relação que o verbo estabelece com seus complementos ou à ausência deles. É a forma como o verbo \"pede\" ou \"não pede\" outros termos para completar seu sentido.",
+        "Essa relação determina se o verbo é transitivo (direto, indireto, direto e indireto) ou intransitivo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Verbos Intransitivos (VI)",
+          "itens": [
+            "São verbos que possuem sentido completo em si mesmos, não necessitando de complementos para sua compreensão.",
+            "Podem vir acompanhados de adjuntos adverbiais, que apenas acrescentam uma circunstância à ação.",
+            "Ex.: O bebê dormiu.",
+            "Ex.: Os pássaros voam.",
+            "Ex.: A flor murchou rapidamente."
+          ]
+        },
+        {
+          "subtitulo": "Verbos Transitivos Diretos (VTD)",
+          "itens": [
+            "São verbos que necessitam de um complemento sem preposição para ter sentido completo. Esse complemento é chamado de objeto direto.",
+            "O objeto direto completa o sentido do verbo diretamente, sem a intermediação de uma preposição obrigatória.",
+            "Ex.: Eu comprei um livro. (um livro - objeto direto)",
+            "Ex.: Ela comeu a torta. (a torta - objeto direto)",
+            "Ex.: Nós vimos o filme. (o filme - objeto direto)"
+          ]
+        },
+        {
+          "subtitulo": "Verbos Transitivos Indiretos (VTI)",
+          "itens": [
+            "São verbos que necessitam de um complemento com preposição para ter sentido completo. Esse complemento é chamado de objeto indireto.",
+            "A preposição é exigida pelo próprio verbo para ligar-se ao seu complemento.",
+            "Ex.: Eu preciso de ajuda. (de ajuda - objeto indireto)",
+            "Ex.: Ela obedece aos pais. (aos pais - objeto indireto)",
+            "Ex.: Nós acreditamos em você. (em você - objeto indireto)"
+          ]
+        },
+        {
+          "subtitulo": "Verbos Transitivos Diretos e Indiretos (VTDI)",
+          "itens": [
+            "São verbos que necessitam de dois complementos: um objeto direto (sem preposição) e um objeto indireto (com preposição).",
+            "Também são conhecidos como verbos bitransitivos.",
+            "Ex.: Entreguei o livro ao professor. (o livro - objeto direto; ao professor - objeto indireto)",
+            "Ex.: Ofereci flores à minha mãe. (flores - objeto direto; à minha mãe - objeto indireto)",
+            "Ex.: Ele comunicou a notícia aos colegas. (a notícia - objeto direto; aos colegas - objeto indireto)"
+          ]
+        },
+        {
+          "subtitulo": "Verbos de Ligação (VL)",
+          "itens": [
+            "Não expressam ação, mas sim um estado ou característica do sujeito. Ligam o sujeito ao seu predicativo.",
+            "Não possuem complementos verbais (objeto direto ou indireto), mas sim um predicativo do sujeito.",
+            "Ex.: Ela está feliz. (feliz - predicativo do sujeito)",
+            "Ex.: Ele parece cansado. (cansado - predicativo do sujeito)",
+            "Ex.: O dia ficou nublado. (nublado - predicativo do sujeito)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Considerações Finais",
+      "conteudo": [
+        "A correta identificação do predicado e da predicação verbal é fundamental para a análise sintática e para a construção de frases claras e gramaticalmente corretas.",
+        "A predicação verbal pode alterar o sentido do verbo, dependendo do contexto e dos complementos que o acompanham."
+      ],
+      "itens": [
+        "Ex.: Ele vive. (verbo intransitivo - sentido de existir)",
+        "Ex.: Ele vive a vida intensamente. (verbo transitivo direto - sentido de experienciar)",
+        "Ex.: Ele vive de caridade. (verbo transitivo indireto - sentido de subsistir)"
+      ]
+    }
+  ],
+  "sintese": [
+    "O predicado é o termo da oração que contém o verbo e expressa o que se declara sobre o sujeito, sendo essencial para o sentido completo da frase.",
+    "Existem três tipos de predicado: Verbal (núcleo é verbo significativo), Nominal (núcleo é nome com verbo de ligação) e Verbo-Nominal (dois núcleos: verbo significativo e nome).",
+    "A predicação verbal classifica os verbos conforme a necessidade de complementos: intransitivos (sentido completo), transitivos diretos (objeto direto), transitivos indiretos (objeto indireto) e transitivos diretos e indiretos (OD e OI).",
+    "Verbos de ligação conectam o sujeito a uma característica ou estado (predicativo do sujeito), sem expressar uma ação.",
+    "A análise da predicação verbal é crucial, pois o mesmo verbo pode ter diferentes classificações e sentidos dependendo do contexto e dos complementos que o acompanham."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das orações abaixo o predicado é classificado como verbal?",
+      "opcoes": [
+        "A) O aluno está doente.",
+        "B) A paisagem parecia triste.",
+        "C) Os pássaros cantam na floresta.",
+        "D) Ela ficou feliz com a notícia."
+      ],
+      "gabarito": "C",
+      "comentario": "O predicado verbal tem como núcleo um verbo significativo. Em 'Os pássaros cantam na floresta', o verbo 'cantam' é significativo e expressa uma ação, sendo o núcleo do predicado. Nas demais opções, os verbos são de ligação ('está', 'parecia', 'ficou'), caracterizando predicados nominais."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que o predicado é verbo-nominal.",
+      "opcoes": [
+        "A) Os atletas chegaram cansados.",
+        "B) O professor explicou a matéria.",
+        "C) A criança dormiu profundamente.",
+        "D) Meus amigos são inteligentes."
+      ],
+      "gabarito": "A",
+      "comentario": "O predicado verbo-nominal possui dois núcleos: um verbo significativo e um nome (predicativo). Em 'Os atletas chegaram cansados', 'chegaram' é um verbo significativo e 'cansados' é o predicativo do sujeito, indicando uma característica dos atletas no momento da chegada."
+    },
+    {
+      "id": 3,
+      "enunciado": "Na frase 'Eu preciso de silêncio para estudar', o verbo 'precisar' é classificado como:",
+      "opcoes": [
+        "A) Verbo Intransitivo",
+        "B) Verbo Transitivo Direto",
+        "C) Verbo Transitivo Indireto",
+        "D) Verbo de Ligação"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'precisar' exige um complemento introduzido pela preposição 'de' ('de silêncio'). Portanto, ele é um verbo transitivo indireto, e 'de silêncio' funciona como objeto indireto."
+    },
+    {
+      "id": 4,
+      "enunciado": "Considere a oração: 'Os alunos consideraram a prova difícil.' Qual a classificação do predicado e do verbo 'considerar'?",
+      "opcoes": [
+        "A) Predicado Verbal; Verbo Transitivo Direto.",
+        "B) Predicado Nominal; Verbo de Ligação.",
+        "C) Predicado Verbo-Nominal; Verbo Transitivo Direto e Indireto.",
+        "D) Predicado Verbo-Nominal; Verbo Transitivo Direto."
+      ],
+      "gabarito": "D",
+      "comentario": "Na oração, 'consideraram' é um verbo significativo que pede um objeto direto ('a prova'). Além disso, há um predicativo do objeto ('difícil'), que atribui uma característica à prova. Assim, o predicado é verbo-nominal, e o verbo 'considerar' é transitivo direto."
+    },
+    {
+      "id": 5,
+      "enunciado": "Em qual das frases o verbo sublinhado atua como verbo de ligação?",
+      "opcoes": [
+        "A) Ele *anda* rapidamente pela rua.",
+        "B) O menino *anda* triste ultimamente.",
+        "C) Nós *andamos* de bicicleta no parque.",
+        "D) Eles *andam* a pé para o trabalho."
+      ],
+      "gabarito": "B",
+      "comentario": "O verbo de ligação conecta o sujeito a uma característica ou estado. Em 'O menino *anda* triste ultimamente', 'anda' não indica a ação de caminhar, mas sim o estado de 'triste', ligando o sujeito 'menino' ao seu predicativo 'triste'. Nas outras opções, 'andar' expressa ação de caminhar, sendo um verbo significativo (intransitivo)."
+    }
+  ]
+}

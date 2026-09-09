@@ -1,0 +1,143 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Adjunto Adverbial, Aposto e Vocativo",
+  "introducao": [
+    "Na análise sintática, compreender a função dos termos acessórios é fundamental para a interpretação e construção de frases claras e coesas. Este memento abordará três desses termos: o adjunto adverbial, o aposto e o vocativo.",
+    "Embora não sejam essenciais para a estrutura básica da oração (sujeito e predicado), esses elementos enriquecem o sentido, adicionam informações contextuais e permitem a interação direta com o interlocutor, sendo cruciais para a expressividade da língua portuguesa."
+  ],
+  "secoes": [
+    {
+      "titulo": "Adjunto Adverbial: O Enriquecedor de Sentidos",
+      "destaque": "Lembre-se: o adjunto adverbial modifica um verbo, um adjetivo ou um advérbio, adicionando uma circunstância. É um termo acessório, mas de grande valor semântico!",
+      "conteudo": [
+        "O adjunto adverbial é um termo acessório da oração que tem a função de modificar o sentido de um verbo, um adjetivo ou um advérbio, indicando uma circunstância específica.",
+        "Ele expressa uma vasta gama de ideias, como tempo, lugar, modo, intensidade, causa, finalidade, instrumento, companhia, entre outras, conferindo maior precisão e detalhe à informação.",
+        "Pode ser representado por um advérbio (simples), uma locução adverbial (duas ou mais palavras com valor de advérbio) ou, em casos mais complexos, por uma oração subordinada adverbial (reduzida ou desenvolvida)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Principais Tipos de Adjunto Adverbial",
+          "itens": [
+            "De Lugar: Indica onde a ação ocorre. Ex.: Eles moram longe. O livro está sobre a mesa. Viajaremos para o Nordeste.",
+            "De Tempo: Indica quando a ação ocorre. Ex.: Chegarei amanhã. Estudamos à noite. Sempre leio antes de dormir.",
+            "De Modo: Indica como a ação ocorre. Ex.: Ela fala baixo. Ele agiu com calma. Andava apressadamente pela rua.",
+            "De Intensidade: Indica a intensidade de algo. Ex.: Estou muito cansado. Ela canta bem. A prova estava extremamente difícil.",
+            "De Causa: Indica o motivo ou a razão da ação. Ex.: Morreu de fome. Faltou por causa da chuva. Tremi de medo.",
+            "De Finalidade: Indica o objetivo ou a finalidade da ação. Ex.: Estudo para passar no concurso. Trabalhamos para o bem comum. Ele veio para ajudar.",
+            "De Instrumento: Indica o meio ou o instrumento utilizado para realizar a ação. Ex.: Cortou o pão com a faca. Escreveu a lápis. Feriu-se com a tesoura.",
+            "De Companhia: Indica quem acompanha a ação. Ex.: Saí com meus amigos. Viajou com a família. Jantou com ela."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Aposto: O Esclarecedor de Termos",
+      "destaque": "O aposto é um termo explicativo ou especificador. Ele se refere a um substantivo ou pronome anterior, adicionando informações. A pontuação (vírgulas, travessões, dois-pontos) é sua marca registrada, exceto no aposto especificador!",
+      "conteudo": [
+        "O aposto é um termo acessório da oração que tem a função de explicar, especificar, resumir ou desenvolver um termo anterior, que geralmente é um substantivo ou um pronome.",
+        "Ele concorda em gênero e número com o termo a que se refere e é frequentemente separado por vírgulas, dois-pontos ou travessões, dependendo do seu tipo e da ênfase desejada."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Classificação dos Apostos",
+          "itens": [
+            "Aposto Explicativo: Adiciona uma explicação ou esclarecimento sobre o termo anterior. Vem isolado por vírgulas, travessões ou parênteses. Ex.: Machado de Assis, o maior escritor brasileiro, nasceu no Rio de Janeiro. Meu irmão, o médico, viajou. Brasília, capital do Brasil, é linda.",
+            "Aposto Especificador: Individualiza um substantivo de sentido genérico, sem pontuação. Ex.: A cidade de São Paulo é enorme. O rio Amazonas é o maior do mundo. O mês de dezembro é festivo.",
+            "Aposto Enumerativo: Lista ou enumera as partes de um termo anterior. Geralmente introduzido por dois-pontos. Ex.: Comprei três frutas: maçãs, bananas e laranjas. Ele trouxe tudo: livros, cadernos e canetas. As virtudes cardeais são quatro: prudência, justiça, fortaleza e temperança.",
+            "Aposto Resumitivo: Resume termos anteriores, geralmente por meio de um pronome indefinido (tudo, nada, ninguém, etc.). Ex.: Estudar, trabalhar, cuidar da casa, tudo isso o deixava exausto. Livros, filmes, músicas, nada o interessava mais. Alegria, tristeza, raiva, tudo se misturava em seu coração."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Vocativo: A Chamada Direta",
+      "destaque": "O vocativo é um chamamento! Ele não tem função sintática na oração (não é sujeito, objeto, etc.) e é SEMPRE separado por vírgula(s). É um termo isolado que se dirige ao interlocutor.",
+      "conteudo": [
+        "O vocativo é um termo isolado da oração que serve para chamar, interpelar ou invocar o interlocutor, ou seja, para se dirigir diretamente a alguém ou a algo personificado.",
+        "Ele não estabelece relação sintática com o verbo ou com qualquer outro termo da oração, funcionando como um elemento à parte, e é sempre separado por vírgula(s).",
+        "Pode ser um substantivo, um pronome, um adjetivo substantivado ou uma expressão completa."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Características Essenciais do Vocativo",
+          "itens": [
+            "Termo Isolado: O vocativo não é sujeito, nem objeto, nem adjunto. Ele não faz parte da estrutura sintática essencial da oração, apenas a complementa com uma interpelação direta. Ex.: João, venha aqui! Ó Deus, ajuda-me! Amigos, vamos celebrar!",
+            "Pontuação Obrigatória: A vírgula é indispensável para separar o vocativo do restante da frase, garantindo clareza e evitando ambiguidades. Ex.: Cuidado, meninos, com o carro. Por favor, senhor, pode me ajudar? Brasil, pátria amada, salve-se!",
+            "Posição Flexível: O vocativo pode aparecer no início, no meio ou no fim da frase, sem alterar sua função. Ex.: Alunos, prestem atenção. Prestem atenção, alunos. Prestem, alunos, atenção."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "O Adjunto Adverbial é um termo acessório que modifica verbos, adjetivos ou advérbios, indicando circunstâncias (tempo, lugar, modo, causa, etc.).",
+    "Pode ser um advérbio, uma locução adverbial ou uma oração adverbial, e sua função é enriquecer o sentido da frase.",
+    "O Aposto é um termo acessório que explica, especifica, enumera ou resume outro termo (geralmente um substantivo ou pronome) na oração.",
+    "Existem quatro tipos principais de aposto: explicativo (entre vírgulas/travessões), especificador (sem pontuação), enumerativo (após dois-pontos) e resumitivo (com pronome indefinido).",
+    "O Vocativo é um termo isolado que serve para chamar ou interpelar o interlocutor, não possuindo função sintática na oração.",
+    "É sempre separado por vírgula(s) e pode aparecer em qualquer posição na frase, sendo essencial para a comunicação direta."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o termo em destaque NÃO funciona como adjunto adverbial?",
+      "opcoes": [
+        "A) Ele trabalha muito.",
+        "B) Chegaremos amanhã.",
+        "C) O livro está sobre a mesa.",
+        "D) A casa de Pedro é grande."
+      ],
+      "gabarito": "D",
+      "comentario": "Na opção D, 'de Pedro' especifica a casa, funcionando como adjunto adnominal, e não como adjunto adverbial. Nas demais opções, 'muito' (intensidade), 'amanhã' (tempo) e 'sobre a mesa' (lugar) são adjuntos adverbiais."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que o termo em destaque é um aposto explicativo.",
+      "opcoes": [
+        "A) O professor de português é excelente.",
+        "B) Comprei três itens: pão, leite e ovos.",
+        "C) Maria, minha irmã, viajou para a Europa.",
+        "D) Estudar, trabalhar, cuidar da família, tudo o cansava."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'minha irmã' explica quem é Maria, sendo um aposto explicativo, isolado por vírgulas. A) 'de português' é aposto especificador. B) 'pão, leite e ovos' é aposto enumerativo. D) 'tudo' é aposto resumitivo."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das frases o vocativo está corretamente empregado e pontuado?",
+      "opcoes": [
+        "A) Amigos vamos celebrar!",
+        "B) Por favor, senhor pode me ajudar?",
+        "C) Cuidado, meninos, com o carro.",
+        "D) Brasil pátria amada salve-se!"
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'meninos' é o vocativo e está corretamente isolado por vírgulas. Nas demais opções, a pontuação do vocativo está incorreta: A) deveria ser 'Amigos, vamos celebrar!'. B) deveria ser 'Por favor, senhor, pode me ajudar?'. D) deveria ser 'Brasil, pátria amada, salve-se!'."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as sentenças e identifique a que apresenta um adjunto adverbial de finalidade.",
+      "opcoes": [
+        "A) Ele agiu com calma.",
+        "B) Morreu de fome.",
+        "C) Estudo para passar no concurso.",
+        "D) Saí com meus amigos."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'para passar no concurso' indica o objetivo ou a finalidade do estudo, caracterizando um adjunto adverbial de finalidade. A) 'com calma' é de modo. B) 'de fome' é de causa. D) 'com meus amigos' é de companhia."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das alternativas apresenta um aposto especificador?",
+      "opcoes": [
+        "A) O Rio de Janeiro, cidade maravilhosa, encanta a todos.",
+        "B) O professor Carlos explicou a matéria.",
+        "C) Ele trouxe tudo: livros, cadernos e canetas.",
+        "D) Alegria, tristeza, tudo se misturava."
+      ],
+      "gabarito": "B",
+      "comentario": "Na opção B, 'Carlos' especifica qual professor, sem uso de vírgulas, sendo um aposto especificador. A) 'cidade maravilhosa' é aposto explicativo. C) 'livros, cadernos e canetas' é aposto enumerativo. D) 'tudo' é aposto resumitivo."
+    }
+  ]
+}

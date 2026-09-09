@@ -1,0 +1,172 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Verbos: Vozes Verbais",
+  "introducao": [
+    "As vozes verbais são um aspecto fundamental da gramática portuguesa que indicam a relação entre o sujeito e a ação expressa pelo verbo. Elas nos permitem compreender se o sujeito é o agente que pratica a ação, o paciente que a sofre, ou se ele pratica e sofre a ação simultaneamente. Dominar as vozes verbais é crucial para a clareza e a precisão na comunicação.",
+    "Existem três vozes verbais principais: a voz ativa, a voz passiva e a voz reflexiva. Cada uma possui características e estruturas específicas que serão detalhadas a seguir, juntamente com as possibilidades de transformação entre elas."
+  ],
+  "secoes": [
+    {
+      "titulo": "Voz Ativa",
+      "destaque": "Na voz ativa, o sujeito é o protagonista da ação, agindo diretamente sobre o objeto. É a forma mais comum e direta de expressar uma ação.",
+      "conteudo": [
+        "Na voz ativa, o sujeito gramatical é o agente da ação verbal, ou seja, ele quem pratica a ação expressa pelo verbo. Esta é a construção mais direta e frequente na língua portuguesa.",
+        "A estrutura básica de uma frase na voz ativa geralmente segue o padrão: Sujeito (agente) + Verbo Transitivo + Objeto."
+      ],
+      "itens": [
+        "O aluno leu o livro.",
+        "A criança comeu o bolo.",
+        "O professor explicou a matéria."
+      ]
+    },
+    {
+      "titulo": "Voz Passiva",
+      "destaque": "A voz passiva inverte a perspectiva: o sujeito sofre a ação. É útil para dar ênfase à ação ou ao objeto, ou quando o agente é desconhecido/irrelevante.",
+      "conteudo": [
+        "Na voz passiva, o sujeito gramatical é o paciente da ação, ou seja, ele sofre ou recebe a ação verbal. O agente da ação, se mencionado, é chamado de 'agente da passiva' e é introduzido por preposição (geralmente 'por' ou 'de').",
+        "A voz passiva pode ser construída de duas formas distintas: analítica e sintética."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Voz Passiva Analítica",
+          "itens": [
+            "É formada por um verbo auxiliar (ser, estar, ficar) conjugado no mesmo tempo e modo do verbo ativo original, seguido do particípio do verbo principal. O particípio deve concordar em gênero e número com o sujeito paciente.",
+            "A estrutura é: Sujeito (paciente) + Verbo Auxiliar (ser, estar, ficar) + Particípio do Verbo Principal + (por/de + Agente da Passiva).",
+            "Ex.: O livro foi lido pelo aluno.",
+            "Ex.: O bolo foi comido pela criança.",
+            "Ex.: A matéria foi explicada pelo professor."
+          ]
+        },
+        {
+          "subtitulo": "Voz Passiva Sintética (ou Pronominal)",
+          "itens": [
+            "É formada por um verbo transitivo direto ou transitivo direto e indireto na terceira pessoa (singular ou plural) acompanhado do pronome apassivador 'se'. Nesta construção, o agente da ação não é explícito.",
+            "A estrutura é: Verbo Transitivo (3ª pessoa) + Pronome 'se' + Sujeito (paciente). O verbo concorda com o sujeito paciente.",
+            "Ex.: Leu-se o livro. (O livro foi lido)",
+            "Ex.: Comeu-se o bolo. (O bolo foi comido)",
+            "Ex.: Explicou-se a matéria. (A matéria foi explicada)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Voz Reflexiva",
+      "destaque": "Na voz reflexiva, o sujeito é 'espelho' da ação: ele pratica e sofre a mesma ação. O pronome oblíquo é essencial para indicar essa 'reflexão'.",
+      "conteudo": [
+        "Na voz reflexiva, o sujeito pratica e sofre a ação verbal ao mesmo tempo. A ação 'reflete' sobre o próprio sujeito, indicando que ele é tanto o agente quanto o paciente.",
+        "É formada por um verbo transitivo acompanhado de um pronome oblíquo átono (me, te, se, nos, vos) que concorda com o sujeito e funciona como objeto direto ou indireto.",
+        "A estrutura é: Sujeito + Verbo + Pronome Reflexivo (me, te, se, nos, vos)."
+      ],
+      "itens": [
+        "Ele se cortou com a faca.",
+        "Eu me vesti rapidamente.",
+        "Ela se olhou no espelho."
+      ]
+    },
+    {
+      "titulo": "Voz Reflexiva Recíproca",
+      "destaque": "A voz reflexiva recíproca ocorre quando a ação é mútua, praticada e sofrida por dois ou mais sujeitos entre si.",
+      "conteudo": [
+        "É um tipo específico de voz reflexiva em que a ação é praticada e sofrida mutuamente por dois ou mais sujeitos. O pronome oblíquo átono (se, nos, vos) indica essa reciprocidade, ou seja, a ação é feita um ao outro.",
+        "A estrutura é: Sujeitos (plural) + Verbo + Pronome Reflexivo (se, nos, vos)."
+      ],
+      "itens": [
+        "Os alunos se cumprimentaram. (Um cumprimentou o outro)",
+        "Eles se abraçaram com carinho. (Um abraçou o outro)",
+        "Nós nos ajudamos mutuamente. (Um ajudou o outro)"
+      ]
+    },
+    {
+      "titulo": "Transformação entre as Vozes",
+      "destaque": "A transformação entre vozes é uma ferramenta estilística e gramatical. Lembre-se: o objeto direto da ativa vira sujeito da passiva, e o sujeito da ativa vira agente da passiva.",
+      "conteudo": [
+        "É possível transformar frases da voz ativa para a voz passiva (analítica) e vice-versa, mantendo o sentido original da oração. Essa habilidade é fundamental para a flexibilidade e a riqueza da expressão na língua portuguesa."
+      ],
+      "itens": [
+        "**Ao transformar da voz ativa para a passiva analítica:**",
+        "1. O objeto direto da voz ativa torna-se o sujeito paciente da voz passiva.",
+        "2. O sujeito agente da voz ativa torna-se o agente da passiva, introduzido pela preposição 'por' ou 'de'.",
+        "3. O verbo principal da voz ativa é conjugado no particípio, acompanhado do verbo auxiliar 'ser' (ou 'estar', 'ficar') no mesmo tempo e modo do verbo ativo original.",
+        "Ex.: O menino quebrou o copo. (Voz Ativa)",
+        "Ex.: O copo foi quebrado pelo menino. (Voz Passiva Analítica)",
+        "**Ao transformar da voz passiva analítica para a ativa:**",
+        "1. O sujeito paciente da passiva torna-se o objeto direto da ativa.",
+        "2. O agente da passiva torna-se o sujeito agente da ativa.",
+        "3. O verbo auxiliar 'ser' é removido, e o verbo principal volta à sua forma ativa, no tempo e modo corretos.",
+        "Ex.: A carta foi escrita por Maria. (Voz Passiva Analítica)",
+        "Ex.: Maria escreveu a carta. (Voz Ativa)"
+      ]
+    }
+  ],
+  "sintese": [
+    "As vozes verbais (ativa, passiva, reflexiva) indicam a relação do sujeito com a ação do verbo: se ele pratica, sofre ou pratica e sofre a ação.",
+    "Na **voz ativa**, o sujeito é o agente da ação (Ex: 'O aluno leu o livro.').",
+    "Na **voz passiva**, o sujeito é o paciente da ação. Pode ser **analítica** (verbo auxiliar + particípio + agente da passiva) ou **sintética** (verbo transitivo + 'se' + sujeito paciente).",
+    "Na **voz reflexiva**, o sujeito pratica e sofre a ação simultaneamente, com o uso de pronomes oblíquos átonos (me, te, se, nos, vos). Ex: 'Ele se cortou.'",
+    "A **voz reflexiva recíproca** ocorre quando a ação é mútua entre dois ou mais sujeitos (Ex: 'Eles se abraçaram.').",
+    "É possível transformar frases entre a voz ativa e a passiva analítica, alterando a função sintática do sujeito e do objeto direto e ajustando a estrutura verbal."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das alternativas a frase está na voz passiva sintética?",
+      "opcoes": [
+        "A) O livro foi lido pelos alunos.",
+        "B) Os alunos leram o livro.",
+        "C) Leu-se o livro rapidamente.",
+        "D) Os alunos se cumprimentaram."
+      ],
+      "gabarito": "C",
+      "comentario": "A voz passiva sintética é formada por um verbo transitivo na 3ª pessoa (singular ou plural) acompanhado do pronome apassivador 'se'. Na opção C, 'Leu-se o livro' significa 'O livro foi lido', caracterizando a voz passiva sintética. A opção A é passiva analítica, B é ativa e D é reflexiva recíproca."
+    },
+    {
+      "id": 2,
+      "enunciado": "Transformando a frase 'O vento derrubou a árvore' para a voz passiva analítica, teremos:",
+      "opcoes": [
+        "A) A árvore derrubou o vento.",
+        "B) Derrubou-se a árvore pelo vento.",
+        "C) A árvore foi derrubada pelo vento.",
+        "D) O vento se derrubou na árvore."
+      ],
+      "gabarito": "C",
+      "comentario": "Para transformar da voz ativa para a passiva analítica, o objeto direto ('a árvore') torna-se o sujeito paciente, o sujeito agente ('o vento') torna-se o agente da passiva (introduzido por 'pelo'), e o verbo principal ('derrubou') é substituído por um verbo auxiliar ('foi') mais o particípio ('derrubada'), concordando com o novo sujeito. Assim, 'A árvore foi derrubada pelo vento' é a forma correta."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a alternativa em que o pronome 'se' indica voz reflexiva.",
+      "opcoes": [
+        "A) Vende-se casa.",
+        "B) Precisa-se de ajuda.",
+        "C) Ele se feriu com a faca.",
+        "D) Fala-se muito sobre política."
+      ],
+      "gabarito": "C",
+      "comentario": "Na voz reflexiva, o sujeito pratica e sofre a ação. O pronome 'se' funciona como objeto direto ou indireto, indicando que a ação recai sobre o próprio sujeito. Em 'Ele se feriu com a faca', 'ele' feriu a si mesmo. Nas opções A, B e D, o 'se' atua como pronome apassivador (A e D) ou índice de indeterminação do sujeito (B), não indicando reflexividade."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das frases abaixo apresenta um exemplo de voz reflexiva recíproca?",
+      "opcoes": [
+        "A) O espelho se quebrou.",
+        "B) Eles se amam profundamente.",
+        "C) A porta se abriu de repente.",
+        "D) O menino se escondeu atrás da cortina."
+      ],
+      "gabarito": "B",
+      "comentario": "A voz reflexiva recíproca ocorre quando a ação é praticada e sofrida mutuamente por dois ou mais sujeitos. Em 'Eles se amam profundamente', a ação de amar é mútua, ou seja, um ama o outro. Nas demais opções, o 'se' indica voz reflexiva simples (D) ou pronome apassivador/partícula expletiva (A e C)."
+    },
+    {
+      "id": 5,
+      "enunciado": "Considere a frase: 'Os operários construíram a ponte.' Qual a transformação correta para a voz passiva sintética?",
+      "opcoes": [
+        "A) A ponte foi construída pelos operários.",
+        "B) Construiu-se a ponte.",
+        "C) Os operários se construíram a ponte.",
+        "D) A ponte se construiu."
+      ],
+      "gabarito": "B",
+      "comentario": "Para a voz passiva sintética, o verbo transitivo direto ('construíram') é colocado na 3ª pessoa do singular ou plural (concordando com o objeto direto que vira sujeito paciente) e acompanhado do pronome 'se'. O objeto direto 'a ponte' torna-se o sujeito paciente. Assim, 'Construiu-se a ponte' é a forma correta, significando 'A ponte foi construída'. A opção A é passiva analítica. C e D estão incorretas gramaticalmente ou semanticamente para a voz passiva sintética."
+    }
+  ]
+}

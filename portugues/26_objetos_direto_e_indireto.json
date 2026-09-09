@@ -1,0 +1,152 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Objetos Direto e Indireto",
+  "introducao": [
+    "Os complementos verbais são termos que completam o sentido de um verbo transitivo. Eles são essenciais para a compreensão da mensagem transmitida pelo verbo.",
+    "Existem dois tipos principais de complementos verbais: o objeto direto e o objeto indireto. A distinção entre eles reside na presença ou ausência de preposição."
+  ],
+  "secoes": [
+    {
+      "titulo": "Objeto Direto",
+      "conteudo": [
+        "O objeto direto é o complemento de um verbo transitivo direto. Ele completa o sentido do verbo sem a necessidade de uma preposição.",
+        "Responde às perguntas \"o quê?\" ou \"quem?\" após o verbo. É o alvo direto da ação verbal."
+      ],
+      "itens": [
+        "Ex.: Eu comprei um livro.",
+        "Ex.: Ela ama seu filho.",
+        "Ex.: Nós vimos o filme."
+      ]
+    },
+    {
+      "titulo": "Características do Objeto Direto",
+      "conteudo": [
+        "Não é introduzido por preposição obrigatória.",
+        "Completa o sentido de verbos transitivos diretos.",
+        "Pode ser representado por substantivos, pronomes substantivos, orações substantivas, etc."
+      ]
+    },
+    {
+      "titulo": "Pronomes Oblíquos como Objeto Direto",
+      "conteudo": [
+        "Os pronomes oblíquos átonos \"o\", \"a\", \"os\", \"as\" funcionam como objeto direto. Eles substituem o termo sem preposição."
+      ],
+      "itens": [
+        "Ex.: Eu o vi na rua. (o = ele)",
+        "Ex.: Comprei-a ontem. (a = a revista)",
+        "Ex.: Eles os encontraram. (os = os amigos)"
+      ]
+    },
+    {
+      "titulo": "Objeto Indireto",
+      "conteudo": [
+        "O objeto indireto é o complemento de um verbo transitivo indireto. Ele completa o sentido do verbo com a presença obrigatória de uma preposição.",
+        "Responde às perguntas \"de quê?\", \"para quem?\", \"a quem?\", \"em quê?\", etc., após o verbo. A preposição é crucial."
+      ],
+      "itens": [
+        "Ex.: Eu preciso de ajuda.",
+        "Ex.: Ela obedece aos pais.",
+        "Ex.: Nós acreditamos em você."
+      ]
+    },
+    {
+      "titulo": "Características do Objeto Indireto",
+      "conteudo": [
+        "É introduzido por preposição obrigatória (a, de, em, para, com, etc.).",
+        "Completa o sentido de verbos transitivos indiretos.",
+        "Pode ser representado por substantivos, pronomes substantivos, orações substantivas, etc."
+      ]
+    },
+    {
+      "titulo": "Pronomes Oblíquos como Objeto Indireto",
+      "conteudo": [
+        "Os pronomes oblíquos átonos \"lhe\", \"lhes\" funcionam como objeto indireto. Eles substituem o termo preposicionado."
+      ],
+      "itens": [
+        "Ex.: Eu lhe obedeci. (lhe = a ele/a ela)",
+        "Ex.: Entreguei-lhes o recado. (lhes = a eles/a elas)",
+        "Ex.: Ele se referiu a mim. (a mim = objeto indireto)"
+      ]
+    },
+    {
+      "titulo": "Diferenças e Semelhanças entre Objeto Direto e Indireto",
+      "destaque": "A preposição é o marcador distintivo: o objeto direto liga-se diretamente ao verbo, enquanto o indireto exige uma ponte preposicional.",
+      "conteudo": [
+        "A principal diferença é a presença (Objeto Indireto) ou ausência (Objeto Direto) de preposição.",
+        "Ambos são complementos verbais e essenciais para o sentido completo de verbos transitivos."
+      ]
+    },
+    {
+      "titulo": "Verbos Transitivos Diretos e Indiretos (VTDI)",
+      "conteudo": [
+        "Alguns verbos podem ser transitivos diretos e indiretos ao mesmo tempo, exigindo dois complementos: um objeto direto e um objeto indireto.",
+        "Nesses casos, o verbo \"pede\" algo (Objeto Direto) a alguém/para algo (Objeto Indireto).",
+        "Ambos os complementos são necessários para a totalidade do sentido."
+      ],
+      "itens": [
+        "Ex.: Eu entreguei o livro ao professor. (o livro = OD; ao professor = OI)",
+        "Ex.: Ela comunicou a notícia aos pais. (a notícia = OD; aos pais = OI)",
+        "Ex.: O diretor agradeceu o esforço aos funcionários. (o esforço = OD; aos funcionários = OI)"
+      ]
+    }
+  ],
+  "sintese": [
+    "Complementos verbais (Objeto Direto e Indireto) são termos que completam o sentido de verbos transitivos.",
+    "O Objeto Direto (OD) liga-se ao verbo sem preposição, respondendo a \"o quê?\" ou \"quem?\".",
+    "Os pronomes oblíquos átonos 'o', 'a', 'os', 'as' funcionam como Objeto Direto.",
+    "O Objeto Indireto (OI) liga-se ao verbo com preposição obrigatória, respondendo a \"a quem?\", \"de quê?\", etc.",
+    "Os pronomes oblíquos átonos 'lhe', 'lhes' funcionam como Objeto Indireto.",
+    "Verbos Transitivos Diretos e Indiretos (VTDI) exigem tanto um Objeto Direto quanto um Objeto Indireto para completar seu sentido."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o termo em destaque funciona como Objeto Direto?",
+      "opcoes": [
+        "A) Eu preciso *de ajuda*.",
+        "B) Ela obedece *aos pais*.",
+        "C) Nós vimos *o filme*.",
+        "D) Acredito *em você*."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'o filme' completa o sentido do verbo 'vimos' (ver) sem a necessidade de preposição, respondendo à pergunta 'vimos o quê?'. Portanto, 'o filme' é um Objeto Direto. Nas demais opções, os termos em destaque são introduzidos por preposição, caracterizando-os como Objetos Indiretos."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que o pronome oblíquo átono 'lhe' foi empregado corretamente como Objeto Indireto.",
+      "opcoes": [
+        "A) Eu o vi na rua.",
+        "B) Comprei-a ontem.",
+        "C) Entreguei-lhes o recado.",
+        "D) Eles os encontraram."
+      ],
+      "gabarito": "C",
+      "comentario": "O pronome 'lhe' (e 'lhes') funciona como Objeto Indireto, substituindo um termo preposicionado. Na frase 'Entreguei-lhes o recado', 'lhes' substitui 'a eles/a elas', que seria o Objeto Indireto do verbo 'entregar' (entregar algo 'a' alguém). As opções A, B e D utilizam pronomes ('o', 'a', 'os') que funcionam como Objeto Direto."
+    },
+    {
+      "id": 3,
+      "enunciado": "Considere a frase: 'O professor comunicou a nota aos alunos.' Identifique a função sintática dos termos 'a nota' e 'aos alunos', respectivamente.",
+      "opcoes": [
+        "A) Objeto Direto e Objeto Direto",
+        "B) Objeto Indireto e Objeto Direto",
+        "C) Objeto Direto e Objeto Indireto",
+        "D) Objeto Indireto e Objeto Indireto"
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'comunicar' é um verbo transitivo direto e indireto (VTDI). 'A nota' completa o sentido do verbo sem preposição, respondendo 'comunicou o quê?', sendo, portanto, Objeto Direto. 'Aos alunos' completa o sentido do verbo com a preposição 'a' (aos = a + os), respondendo 'comunicou a quem?', sendo, portanto, Objeto Indireto."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das afirmações sobre Objeto Direto e Objeto Indireto está INCORRETA?",
+      "opcoes": [
+        "A) O Objeto Direto completa o sentido de um verbo transitivo direto sem preposição.",
+        "B) O Objeto Indireto é sempre introduzido por uma preposição obrigatória.",
+        "C) Os pronomes 'o', 'a', 'os', 'as' podem funcionar como Objeto Indireto.",
+        "D) Verbos transitivos diretos e indiretos exigem ambos os complementos."
+      ],
+      "gabarito": "C",
+      "comentario": "A afirmação incorreta é a C. Os pronomes 'o', 'a', 'os', 'as' funcionam como Objeto Direto, substituindo termos sem preposição. Os pronomes que funcionam como Objeto Indireto são 'lhe' e 'lhes'."
+    }
+  ]
+}

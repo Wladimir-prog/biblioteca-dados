@@ -1,0 +1,154 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Polissemia e Ambiguidade",
+  "introducao": [
+    "A língua portuguesa é rica e complexa, permitindo diversas interpretações para palavras e frases. Compreender a polissemia e a ambiguidade é fundamental para uma comunicação clara e eficaz.",
+    "Estes fenômenos semânticos podem tanto enriquecer a linguagem quanto gerar mal-entendidos, dependendo do contexto e da intenção comunicativa."
+  ],
+  "secoes": [
+    {
+      "titulo": "Polissemia",
+      "conteudo": [
+        "A polissemia ocorre quando uma mesma palavra possui múltiplos significados, que podem ser relacionados ou não, dependendo do contexto em que é utilizada.",
+        "É um recurso comum da língua que permite economia lexical, ou seja, usar menos palavras para expressar mais ideias.",
+        "Os diferentes sentidos de uma palavra polissêmica são geralmente listados em dicionários."
+      ],
+      "itens": [
+        "Ex.: A manga da camisa estava suja.",
+        "Ex.: Comi uma manga deliciosa no café da manhã.",
+        "Ex.: Ele tem uma manga de amigos."
+      ]
+    },
+    {
+      "titulo": "Características da Polissemia",
+      "conteudo": [
+        "Uma palavra polissêmica mantém sua forma gráfica e fonética, mas adquire novos sentidos.",
+        "O contexto é crucial para determinar qual dos significados da palavra polissêmica está sendo empregado.",
+        "A polissemia é um fenômeno natural da evolução da língua."
+      ],
+      "itens": [
+        "Ex.: A cabeça do alfinete quebrou.",
+        "Ex.: Ele é a cabeça da empresa.",
+        "Ex.: A cabeça humana é complexa."
+      ]
+    },
+    {
+      "titulo": "Ambiguidade",
+      "conteudo": [
+        "A ambiguidade ocorre quando uma frase ou enunciado pode ser interpretado de duas ou mais maneiras diferentes, gerando incerteza sobre o sentido pretendido.",
+        "Diferente da polissemia, que é uma característica da palavra, a ambiguidade é uma característica da construção frasal.",
+        "Pode ser intencional (em piadas, poemas) ou não intencional (falha na comunicação)."
+      ],
+      "itens": [
+        "Ex.: O guarda prendeu o ladrão em sua casa. (De quem é a casa?)",
+        "Ex.: Vi o menino com o binóculo. (Quem estava com o binóculo?)",
+        "Ex.: A moça encontrou o amigo cansado. (Quem estava cansado?)"
+      ]
+    },
+    {
+      "titulo": "Tipos de Ambiguidade",
+      "subsecoes": [
+        {
+          "subtitulo": "Ambiguidade Sintática",
+          "itens": [
+            "Resulta da má organização ou da falta de clareza na estrutura gramatical da frase.",
+            "Pode ser causada por pronomes possessivos, adjuntos adnominais ou adverbiais mal posicionados.",
+            "Ex.: O professor proibiu os alunos de usar celular na sala. (O celular é do professor ou dos alunos?)",
+            "Ex.: Vendi a casa do meu pai. (Vendi a casa que era do meu pai ou a casa que pertence ao meu pai?)",
+            "Ex.: Ele viu o acidente da janela. (Ele viu o acidente que estava na janela ou ele estava na janela quando viu o acidente?)"
+          ]
+        },
+        {
+          "subtitulo": "Ambiguidade Semântica",
+          "itens": [
+            "Resulta do uso de palavras polissêmicas ou de termos que, no contexto da frase, podem ter múltiplos sentidos.",
+            "É a ambiguidade que surge da escolha de palavras, e não da estrutura da frase.",
+            "Ex.: O banco está fechado. (Banco de sentar ou instituição financeira?)",
+            "Ex.: Ele tem um ponto fraco. (Ponto de costura ou fraqueza de caráter?)",
+            "Ex.: A pena é leve. (Pena de ave ou punição?)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Como Evitar a Ambiguidade",
+      "conteudo": [
+        "Para evitar a ambiguidade, é essencial ser claro e preciso na construção das frases.",
+        "Reorganizar a ordem das palavras, usar sinônimos ou adicionar informações contextuais podem ajudar.",
+        "A pontuação correta também é uma ferramenta poderosa para desfazer ambiguidades."
+      ],
+      "itens": [
+        "Ex.: O guarda prendeu o ladrão na casa do ladrão. (Clareza sobre a posse da casa)",
+        "Ex.: Vi o menino enquanto eu estava com o binóculo. (Clareza sobre quem tinha o binóculo)",
+        "Ex.: A moça encontrou o amigo, que estava cansado. (Clareza sobre quem estava cansado)"
+      ]
+    },
+    {
+      "titulo": "Diferença entre Polissemia e Ambiguidade",
+      "destaque": "Lembre-se: Polissemia é da palavra; Ambiguidade é da frase!",
+      "conteudo": [
+        "A polissemia é uma propriedade da palavra, que possui múltiplos significados.",
+        "A ambiguidade é uma propriedade da frase ou do enunciado, que permite múltiplas interpretações.",
+        "Uma palavra polissêmica pode gerar ambiguidade em uma frase, mas nem toda ambiguidade é causada por polissemia."
+      ]
+    }
+  ],
+  "sintese": [
+    "**Polissemia:** Ocorre quando uma mesma palavra possui múltiplos significados, dependendo do contexto (ex: 'manga').",
+    "**Ambiguidade:** Ocorre quando uma frase ou enunciado pode ser interpretado de duas ou mais maneiras diferentes (ex: 'O guarda prendeu o ladrão em sua casa.').",
+    "A polissemia é uma característica da palavra (fenômeno lexical), enquanto a ambiguidade é uma característica da construção frasal (fenômeno sintático ou semântico).",
+    "A ambiguidade pode ser **sintática** (má organização da frase) ou **semântica** (uso de palavras polissêmicas na frase).",
+    "Para evitar a ambiguidade, é fundamental ser claro e preciso na construção das frases, utilizando reorganização de palavras, sinônimos e pontuação adequada."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a palavra 'ponto' apresenta polissemia em relação ao seu uso em 'Ele fez um ponto na costura'.",
+      "opcoes": [
+        "A) O ponto final encerra a frase.",
+        "B) Aquele é um ponto turístico muito visitado.",
+        "C) Ele marcou um ponto no jogo de basquete.",
+        "D) Meu ponto de vista é diferente do seu."
+      ],
+      "gabarito": "B",
+      "comentario": "A palavra 'ponto' em 'Ele fez um ponto na costura' refere-se a uma marca ou laçada. Em 'Aquele é um ponto turístico muito visitado', 'ponto' refere-se a um local ou lugar de interesse, mantendo uma relação semântica de 'marca' ou 'referência' no espaço, o que caracteriza a polissemia. As demais opções apresentam outros sentidos da palavra que não se relacionam diretamente com o sentido de 'marca' ou 'local' de forma polissêmica."
+    },
+    {
+      "id": 2,
+      "enunciado": "Identifique a frase que apresenta ambiguidade sintática.",
+      "opcoes": [
+        "A) O banco está fechado para balanço.",
+        "B) A moça encontrou o amigo cansado.",
+        "C) A pena é leve, mas a culpa é pesada.",
+        "D) Ele tem um ponto fraco em sua argumentação."
+      ],
+      "gabarito": "B",
+      "comentario": "A frase 'A moça encontrou o amigo cansado' apresenta ambiguidade sintática porque a posição do adjetivo 'cansado' permite duas interpretações: quem estava cansado era a moça ou o amigo. As opções A e C apresentam ambiguidade semântica (devido à polissemia de 'banco' e 'pena', respectivamente), e a opção D não apresenta ambiguidade."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das alternativas abaixo NÃO apresenta ambiguidade?",
+      "opcoes": [
+        "A) O menino viu o homem com o telescópio.",
+        "B) A professora corrigiu a prova da aluna.",
+        "C) Vendi a casa do meu pai.",
+        "D) O carro novo do vizinho é vermelho."
+      ],
+      "gabarito": "D",
+      "comentario": "A frase 'O carro novo do vizinho é vermelho' não apresenta ambiguidade, pois a informação é clara e direta, sem possibilidade de dupla interpretação. As outras opções são ambíguas: A) 'O menino viu o homem com o telescópio' (quem estava com o telescópio?); B) 'A professora corrigiu a prova da aluna' (a prova que a aluna fez ou a prova que pertencia à aluna e a professora corrigiu para ela?); C) 'Vendi a casa do meu pai' (a casa que era do meu pai ou a casa que pertence ao meu pai e eu vendi em nome dele?)."
+    },
+    {
+      "id": 4,
+      "enunciado": "A polissemia e a ambiguidade são fenômenos linguísticos distintos, embora possam se relacionar. Qual a principal diferença entre eles?",
+      "opcoes": [
+        "A) A polissemia é intencional, a ambiguidade é sempre acidental.",
+        "B) A polissemia é uma característica da palavra; a ambiguidade é uma característica da frase.",
+        "C) A ambiguidade sempre resulta da polissemia de uma palavra.",
+        "D) A polissemia dificulta a comunicação, enquanto a ambiguidade a enriquece."
+      ],
+      "gabarito": "B",
+      "comentario": "A principal diferença reside no escopo de cada fenômeno. A polissemia é uma propriedade intrínseca da palavra, que possui múltiplos significados. Já a ambiguidade é uma característica da construção frasal ou do enunciado, que permite múltiplas interpretações. Embora uma palavra polissêmica possa gerar ambiguidade em uma frase, a ambiguidade não é exclusivamente causada pela polissemia."
+    }
+  ]
+}

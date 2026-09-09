@@ -1,0 +1,299 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Estrutura e Formação de Palavras",
+  "introducao": [
+    "A morfologia é o ramo da gramática que estuda a estrutura, a formação e a classificação das palavras. Compreender como as palavras são construídas e quais elementos as compõem é fundamental para dominar a língua portuguesa, tanto na interpretação quanto na produção textual.",
+    "Neste memento, exploraremos os morfemas, as unidades mínimas de significado que formam as palavras, e os diversos processos pelos quais novas palavras são criadas em nosso idioma, desde a derivação e a composição até outros fenômenos menos comuns."
+  ],
+  "secoes": [
+    {
+      "titulo": "Estrutura das Palavras",
+      "conteudo": [
+        "As palavras da língua portuguesa são formadas por elementos menores, chamados de morfemas. A análise desses elementos permite compreender o significado e a classe gramatical das palavras."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Radical",
+          "itens": [
+            "É o elemento básico e significativo da palavra, que contém seu sentido essencial. Permanece inalterado em palavras da mesma família.",
+            "Ex.: pedra (pedr-eiro, pedr-aria)",
+            "Ex.: livro (livr-aria, livr-eiro)",
+            "Ex.: feliz (feliz-mente, in-feliz)"
+          ]
+        },
+        {
+          "subtitulo": "2. Afixos",
+          "itens": [
+            "São morfemas que se juntam ao radical para formar novas palavras. Podem ser prefixos ou sufixos."
+          ]
+        },
+        {
+          "subtitulo": "2.1. Prefixo",
+          "itens": [
+            "Morfema colocado antes do radical, modificando seu sentido.",
+            "Ex.: re-fazer",
+            "Ex.: in-feliz",
+            "Ex.: des-ligar"
+          ]
+        },
+        {
+          "subtitulo": "2.2. Sufixo",
+          "itens": [
+            "Morfema colocado depois do radical, podendo alterar o sentido e a classe gramatical da palavra.",
+            "Ex.: feliz-mente",
+            "Ex.: livr-aria",
+            "Ex.: pedr-eiro"
+          ]
+        },
+        {
+          "subtitulo": "3. Vogal Temática",
+          "itens": [
+            "Morfema que se liga ao radical, preparando-o para receber as desinências. Pode ser nominal ou verbal."
+          ]
+        },
+        {
+          "subtitulo": "3.1. Vogal Temática Nominal",
+          "itens": [
+            "Vogal que se junta ao radical de substantivos e adjetivos. Geralmente 'a', 'e', 'o'.",
+            "Ex.: livr-o",
+            "Ex.: mes-a",
+            "Ex.: pont-e"
+          ]
+        },
+        {
+          "subtitulo": "3.2. Vogal Temática Verbal",
+          "itens": [
+            "Vogal que indica a conjugação do verbo. 'a' (1a conj.), 'e' (2a conj.), 'i' (3a conj.).",
+            "Ex.: cant-a-r",
+            "Ex.: vend-e-r",
+            "Ex.: part-i-r"
+          ]
+        },
+        {
+          "subtitulo": "4. Tema",
+          "itens": [
+            "É a junção do radical com a vogal temática.",
+            "Ex.: cant-a (radical + vogal temática)",
+            "Ex.: vend-e (radical + vogal temática)",
+            "Ex.: part-i (radical + vogal temática)"
+          ]
+        },
+        {
+          "subtitulo": "5. Desinências",
+          "itens": [
+            "Morfemas que indicam as flexões das palavras (gênero, número, pessoa, tempo, modo)."
+          ]
+        },
+        {
+          "subtitulo": "5.1. Desinência Nominal",
+          "itens": [
+            "Indica gênero (masculino/feminino) e número (singular/plural) de substantivos e adjetivos.",
+            "Ex.: alun-o (gênero masculino)",
+            "Ex.: alun-a (gênero feminino)",
+            "Ex.: alun-o-s (número plural)"
+          ]
+        },
+        {
+          "subtitulo": "5.2. Desinência Verbal",
+          "itens": [
+            "Indica pessoa, número, tempo e modo dos verbos.",
+            "Ex.: cant-á-va-mos (tempo/modo: pretérito imperfeito do indicativo; pessoa/número: 1a pessoa do plural)",
+            "Ex.: vend-e-mos (pessoa/número: 1a pessoa do plural)",
+            "Ex.: part-i-ram (pessoa/número: 3a pessoa do plural)"
+          ]
+        },
+        {
+          "subtitulo": "6. Vogal e Consoante de Ligação",
+          "itens": [
+            "Elementos fonéticos sem significado próprio, que facilitam a pronúncia ou a ligação entre morfemas.",
+            "Ex.: cafe-t-eira (consoante de ligação 't')",
+            "Ex.: gas-ô-metro (vogal de ligação 'o')",
+            "Ex.: paul-i-stano (vogal de ligação 'i')"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Formação de Palavras",
+      "conteudo": [
+        "As palavras podem ser formadas por diferentes processos, que as classificam em primitivas, derivadas ou compostas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Derivação",
+          "itens": [
+            "Processo em que uma palavra nova (derivada) é formada a partir de uma palavra já existente (primitiva)."
+          ]
+        },
+        {
+          "subtitulo": "1.1. Derivação Prefixal",
+          "itens": [
+            "Acréscimo de um prefixo à palavra primitiva.",
+            "Ex.: re-fazer",
+            "Ex.: in-feliz",
+            "Ex.: des-leal"
+          ]
+        },
+        {
+          "subtitulo": "1.2. Derivação Sufixal",
+          "itens": [
+            "Acréscimo de um sufixo à palavra primitiva.",
+            "Ex.: feliz-mente",
+            "Ex.: pedr-eiro",
+            "Ex.: livr-aria"
+          ]
+        },
+        {
+          "subtitulo": "1.3. Derivação Parassintética",
+          "itens": [
+            "Acréscimo simultâneo de prefixo e sufixo à palavra primitiva, de modo que nenhum dos afixos pode ser retirado sem que a palavra perca o sentido ou deixe de existir na língua.",
+            "Ex.: en-trist-ecer (não existe 'entriste' nem 'tristecer')",
+            "Ex.: a-noit-ecer (não existe 'anoite' nem 'noitecer')",
+            "Ex.: em-pobr-ecer (não existe 'empobre' nem 'pobrece')"
+          ]
+        },
+        {
+          "subtitulo": "1.4. Derivação Regressiva",
+          "itens": [
+            "Redução da palavra primitiva, geralmente de um verbo para um substantivo. Ocorre a perda de um morfema.",
+            "Ex.: comprar -> compra",
+            "Ex.: pescar -> pesca",
+            "Ex.: chorar -> choro"
+          ]
+        },
+        {
+          "subtitulo": "1.5. Derivação Imprópria (Conversão)",
+          "itens": [
+            "Mudança da classe gramatical da palavra sem alteração em sua forma.",
+            "Ex.: O jantar estava delicioso. (jantar: substantivo, de verbo)",
+            "Ex.: O verde da mata. (verde: substantivo, de adjetivo)",
+            "Ex.: Um sim convicto. (sim: substantivo, de advérbio)"
+          ]
+        },
+        {
+          "subtitulo": "2. Composição",
+          "itens": [
+            "Processo em que uma palavra nova é formada pela união de dois ou mais radicais."
+          ]
+        },
+        {
+          "subtitulo": "2.1. Composição por Justaposição",
+          "itens": [
+            "Os elementos se unem sem que haja perda de fonemas.",
+            "Ex.: guarda-chuva",
+            "Ex.: girassol (gira + sol)",
+            "Ex.: couve-flor"
+          ]
+        },
+        {
+          "subtitulo": "2.2. Composição por Aglutinação",
+          "itens": [
+            "Os elementos se unem com perda de fonemas.",
+            "Ex.: planalto (plano + alto)",
+            "Ex.: aguardente (água + ardente)",
+            "Ex.: embora (em boa hora)"
+          ]
+        },
+        {
+          "subtitulo": "3. Outros Processos de Formação",
+          "itens": []
+        },
+        {
+          "subtitulo": "3.1. Hibridismo",
+          "itens": [
+            "Formação de palavras com elementos de línguas diferentes.",
+            "Ex.: sociologia (latim + grego)",
+            "Ex.: automóvel (grego + latim)",
+            "Ex.: burocracia (francês + grego)"
+          ]
+        },
+        {
+          "subtitulo": "3.2. Onomatopeia",
+          "itens": [
+            "Criação de palavras que imitam sons ou ruídos.",
+            "Ex.: miau",
+            "Ex.: tic-tac",
+            "Ex.: zumbido"
+          ]
+        },
+        {
+          "subtitulo": "3.3. Abreviatura (Redução)",
+          "itens": [
+            "Redução de palavras longas.",
+            "Ex.: fotografia -> foto",
+            "Ex.: motocicleta -> moto",
+            "Ex.: cinematografia -> cinema"
+          ]
+        },
+        {
+          "subtitulo": "3.4. Siglas e Acrônimos",
+          "itens": [
+            "Formação de palavras a partir das letras iniciais de outras palavras.",
+            "Ex.: ONU (Organização das Nações Unidas)",
+            "Ex.: CPF (Cadastro de Pessoas Físicas)",
+            "Ex.: ENEM (Exame Nacional do Ensino Médio)"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Morfemas são as unidades mínimas de significado que compõem as palavras, como radical, afixos, vogais temáticas e desinências.",
+    "O radical é o elemento central da palavra, portador de seu significado básico, enquanto afixos (prefixos e sufixos) modificam ou complementam esse sentido.",
+    "Vogais temáticas e desinências são responsáveis pelas flexões nominais (gênero e número) e verbais (pessoa, número, tempo e modo).",
+    "Os processos de derivação formam palavras novas a partir de uma já existente, podendo ser prefixal, sufixal, parassintética, regressiva ou imprópria.",
+    "A composição une dois ou mais radicais, classificando-se em justaposição (sem perda de fonemas) ou aglutinação (com perda de fonemas).",
+    "Outros processos incluem hibridismo (união de elementos de línguas diferentes), onomatopeia (imitação de sons), abreviação e formação de siglas/acrônimos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras são formadas pelo processo de derivação parassintética.",
+      "opcoes": [
+        "A) Desleal, anoitecer, infelizmente",
+        "B) Empobrecer, entristecer, amanhecer",
+        "C) Refazer, livraria, aguardente",
+        "D) Choro, planalto, sociologia"
+      ],
+      "gabarito": "B",
+      "comentario": "A derivação parassintética ocorre quando há o acréscimo simultâneo de prefixo e sufixo, e a retirada de um deles torna a palavra inexistente na língua. Em 'empobrecer', 'entristecer' e 'amanhecer', não existem 'empobre', 'entriste' ou 'amanhe', nem 'pobrecer', 'tristecer' ou 'manhecer'. Na alternativa A, 'desleal' é prefixal e 'infelizmente' é prefixal e sufixal, mas não parassintética. Na C, 'refazer' é prefixal, 'livraria' é sufixal e 'aguardente' é composição por aglutinação. Na D, 'choro' é derivação regressiva, 'planalto' é composição por aglutinação e 'sociologia' é hibridismo."
+    },
+    {
+      "id": 2,
+      "enunciado": "Na palavra 'cantávamos', os morfemas que indicam, respectivamente, tempo/modo e pessoa/número são:",
+      "opcoes": [
+        "A) -a- e -mos",
+        "B) -va- e -mos",
+        "C) cant- e -mos",
+        "D) -á- e -va-"
+      ],
+      "gabarito": "B",
+      "comentario": "Na palavra 'cantávamos': 'cant-' é o radical; '-a-' é a vogal temática; '-va-' é a desinência modo-temporal (pretérito imperfeito do indicativo); e '-mos' é a desinência número-pessoal (1ª pessoa do plural). Portanto, '-va-' indica tempo/modo e '-mos' indica pessoa/número."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das alternativas apresenta um exemplo de derivação imprópria?",
+      "opcoes": [
+        "A) Desfazer",
+        "B) Pesca",
+        "C) O andar do homem",
+        "D) Guarda-roupa"
+      ],
+      "gabarito": "C",
+      "comentario": "A derivação imprópria (ou conversão) ocorre quando uma palavra muda de classe gramatical sem alteração em sua forma. Em 'O andar do homem', o verbo 'andar' (infinitivo) é usado como substantivo, precedido de artigo. Em A, 'desfazer' é derivação prefixal. Em B, 'pesca' (de pescar) é derivação regressiva. Em D, 'guarda-roupa' é composição por justaposição."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as palavras abaixo e seus processos de formação:",
+      "opcoes": [
+        "A) Girassol: Composição por aglutinação",
+        "B) Aguardente: Composição por justaposição",
+        "C) Burocracia: Hibridismo",
+        "D) Tic-tac: Derivação regressiva"
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa correta é a C. 'Burocracia' é formada por elementos de línguas diferentes (francês + grego), caracterizando hibridismo. Em A, 'girassol' é composição por justaposição (gira + sol, sem perda de fonemas). Em B, 'aguardente' (água + ardente) é composição por aglutinação, pois houve perda de fonemas. Em D, 'tic-tac' é onomatopeia, não derivação regressiva."
+    }
+  ]
+}

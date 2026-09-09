@@ -1,0 +1,211 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Dificuldades Ortográficas I: Mau/Mal, Mas/Mais, Há/A, Onde/Aonde",
+  "introducao": [
+    "A Língua Portuguesa apresenta diversas particularidades que podem gerar dúvidas na escrita e no uso correto das palavras. Compreender as diferenças entre termos foneticamente semelhantes, mas com significados e funções gramaticais distintas, é essencial para uma comunicação clara e eficaz. Este material abordará as principais dificuldades ortográficas envolvendo os pares \"mau/mal\", \"mas/mais\", \"há/a\" e \"onde/aonde\".",
+    "Dominar essas distinções é crucial não apenas para o sucesso em provas e concursos, mas também para aprimorar a expressão escrita no dia a dia. A atenção aos detalhes gramaticais reflete o cuidado com a linguagem e a precisão na transmissão de ideias."
+  ],
+  "secoes": [
+    {
+      "titulo": "Mau e Mal",
+      "destaque": "Para diferenciar 'mau' de 'mal', lembre-se: 'mau' é o oposto de 'bom' (adjetivo), e 'mal' é o oposto de 'bem' (advérbio). Essa é a regra de ouro!",
+      "conteudo": [
+        "A distinção entre \"mau\" e \"mal\" é uma das mais comuns e importantes na ortografia. A chave para o uso correto reside em identificar a função gramatical de cada termo na frase."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Mau",
+          "itens": [
+            "É um adjetivo.",
+            "É o oposto de \"bom\".",
+            "Concorda em gênero e número com o substantivo a que se refere.",
+            "Ex.: Ele é um mau aluno.",
+            "Ex.: Ela teve um mau pressentimento.",
+            "Ex.: Os maus resultados foram divulgados."
+          ]
+        },
+        {
+          "subtitulo": "Mal",
+          "itens": [
+            "Pode ser um advérbio de modo, um substantivo ou uma conjunção.",
+            "Como advérbio de modo: é o oposto de \"bem\". Modifica verbos, adjetivos ou outros advérbios.",
+            "Ex.: Ele se comportou mal na reunião.",
+            "Ex.: A comida estava mal temperada.",
+            "Ex.: Eles falam mal dos vizinhos.",
+            "Como substantivo: significa doença, problema, algo ruim. Pode ser precedido por artigo.",
+            "Ex.: O mal do século é a pressa.",
+            "Ex.: Ele sentiu um mal-estar súbito.",
+            "Ex.: Combater o mal é dever de todos.",
+            "Como conjunção temporal: significa \"assim que\", \"logo que\".",
+            "Ex.: Mal chegou, já foi embora.",
+            "Ex.: Mal abriu a porta, o vento entrou.",
+            "Ex.: Mal o sol nasceu, começamos a trabalhar."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Mas e Mais",
+      "destaque": "Lembre-se: 'Mas' é adversidade (oposição), 'Mais' é adição (quantidade). Troque por 'porém' ou 'menos' para testar!",
+      "conteudo": [
+        "A diferença entre \"mas\" e \"mais\" é fundamental para a coesão e coerência textual. Embora soem parecidos, suas funções são completamente distintas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Mas",
+          "itens": [
+            "É uma conjunção adversativa.",
+            "Indica oposição, contraste, ressalva.",
+            "Pode ser substituído por \"porém\", \"contudo\", \"todavia\".",
+            "Ex.: Ele estudou muito, mas não passou.",
+            "Ex.: Gosto de café, mas sem açúcar.",
+            "Ex.: Queria ir à festa, mas estou doente."
+          ]
+        },
+        {
+          "subtitulo": "Mais",
+          "itens": [
+            "É um advérbio de intensidade.",
+            "Indica adição, quantidade, intensidade.",
+            "É o oposto de \"menos\".",
+            "Ex.: Quero mais café, por favor.",
+            "Ex.: Ela é a aluna mais inteligente da turma.",
+            "Ex.: Precisamos de mais tempo para terminar."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Há e A",
+      "destaque": "Para tempo passado, use 'há' (verbo haver, equivalente a 'faz'). Para tempo futuro ou distância, use 'a' (preposição).",
+      "conteudo": [
+        "A correta utilização de \"há\" e \"a\" é crucial, especialmente quando se refere a tempo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Há",
+          "itens": [
+            "É uma forma do verbo \"haver\" no presente do indicativo (3ª pessoa do singular).",
+            "Pode indicar tempo passado (equivalente a \"faz\").",
+            "Ex.: Há dois anos não o vejo.",
+            "Ex.: Ele mora aqui há muito tempo.",
+            "Ex.: A reunião ocorreu há uma semana.",
+            "Pode indicar existência (equivalente a \"existe\", \"existem\").",
+            "Ex.: Há muitos livros na biblioteca.",
+            "Ex.: Há problemas a serem resolvidos.",
+            "Ex.: Não há dúvidas sobre o resultado."
+          ]
+        },
+        {
+          "subtitulo": "A",
+          "itens": [
+            "Pode ser uma preposição, um artigo definido feminino ou um pronome oblíquo.",
+            "Como preposição: indica distância, tempo futuro, direção, finalidade.",
+            "Ex.: Daqui a pouco chegaremos. (tempo futuro)",
+            "Ex.: Ele foi a Paris. (direção)",
+            "Ex.: Começou a chover. (finalidade)",
+            "Como artigo definido: acompanha substantivos femininos.",
+            "Ex.: A casa é grande.",
+            "Ex.: A menina brinca no parque.",
+            "Ex.: Ele comprou a caneta.",
+            "Como pronome oblíquo: substitui um substantivo feminino.",
+            "Ex.: Vi-a na rua. (Vi ela na rua)",
+            "Ex.: Vou entregá-la amanhã. (Vou entregar a encomenda)",
+            "Ex.: Ele a chamou para sair."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Onde e Aonde",
+      "destaque": "'Onde' é para lugar fixo (permanência). 'Aonde' é para lugar de destino (movimento). Pense na preposição 'a' indicando 'para'!",
+      "conteudo": [
+        "A escolha entre \"onde\" e \"aonde\" depende da regência do verbo e da ideia de permanência ou movimento."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Onde",
+          "itens": [
+            "É um advérbio de lugar que indica permanência, um lugar fixo.",
+            "É usado com verbos que não expressam movimento ou que expressam permanência.",
+            "Pode ser substituído por \"em que lugar\".",
+            "Ex.: Onde você mora?",
+            "Ex.: A casa onde nasci foi vendida.",
+            "Ex.: Não sei onde ele está."
+          ]
+        },
+        {
+          "subtitulo": "Aonde",
+          "itens": [
+            "É a combinação da preposição \"a\" com o advérbio \"onde\".",
+            "Indica movimento para um lugar.",
+            "É usado com verbos que expressam movimento e que exigem a preposição \"a\".",
+            "Pode ser substituído por \"para que lugar\".",
+            "Ex.: Aonde você vai?",
+            "Ex.: Não sei aonde ele quer chegar.",
+            "Ex.: Aonde nos levará essa estrada?"
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "**Mau** é adjetivo (oposto de bom); **Mal** é advérbio (oposto de bem), substantivo ou conjunção temporal.",
+    "**Mas** é conjunção adversativa (oposição, substituível por 'porém'); **Mais** é advérbio de intensidade (adição, oposto de 'menos').",
+    "**Há** (verbo haver) indica tempo passado ('faz') ou existência; **A** é preposição (tempo futuro, direção), artigo ou pronome oblíquo.",
+    "**Onde** indica lugar fixo (permanência); **Aonde** indica movimento para um lugar (exige preposição 'a').",
+    "A função gramatical e a regência verbal são cruciais para o uso correto desses pares de palavras.",
+    "A prática constante e a atenção ao contexto são as melhores estratégias para dominar essas dificuldades ortográficas."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o uso de 'mau' ou 'mal' está INCORRETO.",
+      "opcoes": [
+        "A) Ele é um mau pagador.",
+        "B) O time jogou mal ontem.",
+        "C) Mal chegou em casa, adormeceu.",
+        "D) Ela teve um mal pressentimento."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D está incorreta. 'Pressentimento' é um substantivo, e o termo que o qualifica deve ser um adjetivo. O correto seria 'mau pressentimento', pois 'mau' é o oposto de 'bom'. 'Mal' é advérbio, substantivo ou conjunção, não adjetivo neste contexto."
+    },
+    {
+      "id": 2,
+      "enunciado": "Complete as lacunas corretamente: 'Ele estudou muito, _______ não conseguiu a vaga. Precisamos de _______ dedicação para alcançar nossos objetivos.'",
+      "opcoes": [
+        "A) mais / mas",
+        "B) mas / mais",
+        "C) mas / mas",
+        "D) mais / mais"
+      ],
+      "gabarito": "B",
+      "comentario": "Na primeira lacuna, a ideia é de oposição ('estudou muito, porém não conseguiu'), portanto, usa-se 'mas'. Na segunda, a ideia é de adição ou intensidade ('mais dedicação'), oposto de 'menos', portanto, usa-se 'mais'."
+    },
+    {
+      "id": 3,
+      "enunciado": "Em qual das frases o uso de 'há' ou 'a' está de acordo com a norma-padrão?",
+      "opcoes": [
+        "A) Daqui há pouco, o evento começará.",
+        "B) Ele não a vê há muito tempo.",
+        "C) A anos, a empresa busca inovações.",
+        "D) Há uma hora, ele chegou a cidade."
+      ],
+      "gabarito": "B",
+      "comentario": "A) Incorreta. Para tempo futuro, usa-se 'a' (preposição): 'Daqui a pouco'. B) Correta. 'Há muito tempo' indica tempo passado, equivalente a 'faz muito tempo'. C) Incorreta. Para tempo passado, usa-se 'há': 'Há anos'. D) Incorreta. 'Há uma hora' está correto para tempo passado, mas 'chegou a cidade' deveria ser 'chegou à cidade' (com crase, pois 'chegar' rege 'a' e 'cidade' é substantivo feminino)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Assinale a alternativa em que o uso de 'onde' ou 'aonde' está empregado corretamente.",
+      "opcoes": [
+        "A) Aonde você mora atualmente?",
+        "B) Não sei onde ele quer ir.",
+        "C) O lugar aonde ele trabalha é longe.",
+        "D) Aonde você vai com tanta pressa?"
+      ],
+      "gabarito": "D",
+      "comentario": "A) Incorreta. 'Morar' é verbo de permanência, pede 'onde': 'Onde você mora?'. B) Incorreta. 'Ir' é verbo de movimento, pede 'aonde': 'Não sei aonde ele quer ir'. C) Incorreta. 'Trabalhar' é verbo de permanência, pede 'onde': 'O lugar onde ele trabalha'. D) Correta. 'Ir' é verbo de movimento e exige a preposição 'a', combinando-se com 'onde' para formar 'aonde'."
+    }
+  ]
+}

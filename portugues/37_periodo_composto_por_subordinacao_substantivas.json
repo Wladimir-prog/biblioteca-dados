@@ -1,0 +1,149 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Período Composto por Subordinação (Substantivas)",
+  "introducao": [
+    "O período composto por subordinação é uma estrutura sintática fundamental na Língua Portuguesa, caracterizado pela relação de dependência entre orações. Nele, uma oração, denominada subordinada, complementa ou especifica o sentido de outra, a oração principal, sem a qual não possui sentido completo.",
+    "As orações subordinadas substantivas, foco deste estudo, desempenham funções sintáticas equivalentes às de um substantivo dentro do período. Elas são essenciais para a construção de frases mais complexas e ricas em significado, sendo geralmente introduzidas pelas conjunções integrantes 'que' e 'se'."
+  ],
+  "secoes": [
+    {
+      "titulo": "O Período Composto por Subordinação",
+      "destaque": "Lembre-se: a oração subordinada depende sintaticamente da principal para ter sentido completo e é introduzida por conjunções ou pronomes relativos!",
+      "conteudo": [
+        "O período composto por subordinação é formado por orações que mantêm uma relação de dependência sintática entre si. Uma oração, a subordinada, completa o sentido da outra, a principal.",
+        "A oração subordinada não possui sentido completo isoladamente e geralmente é introduzida por conjunções subordinativas (como 'que', 'se', 'quando', 'embora', etc.) ou pronomes relativos (como 'que', 'quem', 'onde', 'cujo', etc.)."
+      ]
+    },
+    {
+      "titulo": "Orações Subordinadas Substantivas: Funções e Classificação",
+      "destaque": "Bizú: As orações subordinadas substantivas podem ser substituídas por um substantivo ou pelo pronome 'isso'/'aquilo' sem prejuízo de sentido!",
+      "conteudo": [
+        "As orações subordinadas substantivas exercem funções sintáticas próprias de um substantivo em relação à oração principal. Elas podem funcionar como sujeito, objeto direto, objeto indireto, complemento nominal, predicativo ou aposto.",
+        "São geralmente introduzidas pelas conjunções integrantes QUE e SE, e podem ser desenvolvidas (com conjunção e verbo conjugado) ou reduzidas (sem conjunção e com verbo no infinitivo, gerúndio ou particípio)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "1. Oração Subordinada Substantiva Subjetiva",
+          "itens": [
+            "Exerce a função de sujeito da oração principal.",
+            "A oração principal, nesse caso, não possui sujeito próprio e geralmente apresenta um verbo na 3ª pessoa do singular ou uma locução verbal impessoal (Ex.: 'É necessário', 'Convém', 'Parece').",
+            "Ex.: É necessário que todos colaborem.",
+            "Ex.: Convém que você estude mais.",
+            "Ex.: Parece que a chuva vai parar."
+          ]
+        },
+        {
+          "subtitulo": "2. Oração Subordinada Substantiva Objetiva Direta",
+          "itens": [
+            "Exerce a função de objeto direto do verbo da oração principal.",
+            "O verbo da oração principal é transitivo direto e não exige preposição para ligar-se ao seu complemento.",
+            "Ex.: Eu desejo que você seja feliz.",
+            "Ex.: Ninguém sabe se ele virá à festa.",
+            "Ex.: O professor pediu que os alunos fizessem silêncio."
+          ]
+        },
+        {
+          "subtitulo": "3. Oração Subordinada Substantiva Objetiva Indireta",
+          "itens": [
+            "Exerce a função de objeto indireto do verbo da oração principal.",
+            "O verbo da oração principal é transitivo indireto e exige uma preposição para ligar-se ao seu complemento.",
+            "Ex.: Necessito de que me ajudem.",
+            "Ex.: Lembrei-me de que precisava sair.",
+            "Ex.: Duvido de que ele consiga a vaga."
+          ]
+        },
+        {
+          "subtitulo": "4. Oração Subordinada Substantiva Completiva Nominal",
+          "itens": [
+            "Exerce a função de complemento nominal de um substantivo, adjetivo ou advérbio da oração principal.",
+            "É sempre introduzida por preposição.",
+            "Ex.: Tenho certeza de que ele virá.",
+            "Ex.: Estou certo de que passarei no concurso.",
+            "Ex.: Ele agiu favoravelmente a que o projeto fosse aprovado."
+          ]
+        },
+        {
+          "subtitulo": "5. Oração Subordinada Substantiva Predicativa",
+          "itens": [
+            "Exerce a função de predicativo do sujeito da oração principal.",
+            "A oração principal, nesse caso, apresenta um verbo de ligação (ser, estar, parecer, permanecer, etc.) e o sujeito da principal é completado pela oração subordinada.",
+            "Ex.: Meu desejo é que você volte logo.",
+            "Ex.: O problema foi que ninguém avisou.",
+            "Ex.: A verdade é que ele não se esforçou."
+          ]
+        },
+        {
+          "subtitulo": "6. Oração Subordinada Substantiva Apositiva",
+          "itens": [
+            "Exerce a função de aposto de um termo da oração principal.",
+            "Geralmente, vem após dois pontos ou entre vírgulas, explicando ou especificando um termo anterior.",
+            "Ex.: Só desejo uma coisa: que você seja feliz.",
+            "Ex.: Ele tinha um medo, que o filho adoecesse, e isso o atormentava.",
+            "Ex.: A decisão foi única: que todos participassem do evento."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "O período composto por subordinação é caracterizado pela dependência sintática entre orações, onde a subordinada completa a principal.",
+    "As orações subordinadas substantivas exercem funções sintáticas de substantivo (sujeito, OD, OI, CN, predicativo, aposto).",
+    "São introduzidas pelas conjunções integrantes 'que' e 'se', podendo ser desenvolvidas ou reduzidas.",
+    "A Subjetiva funciona como sujeito da principal, que geralmente tem verbo impessoal ou na 3ª pessoa do singular.",
+    "A Objetiva Direta e a Objetiva Indireta completam verbos transitivos (direto e indireto, respectivamente).",
+    "A Completiva Nominal complementa um nome (substantivo, adjetivo ou advérbio) da principal, sempre com preposição.",
+    "A Predicativa atua como predicativo do sujeito da principal, que possui verbo de ligação.",
+    "A Apositiva funciona como aposto de um termo da principal, geralmente isolada por dois pontos ou vírgulas."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das alternativas a oração destacada é uma Oração Subordinada Substantiva Subjetiva?",
+      "opcoes": [
+        "A) Eu espero que você vença o desafio.",
+        "B) É fundamental que todos participem do projeto.",
+        "C) Tenho certeza de que ele virá.",
+        "D) Meu maior desejo é que a paz prevaleça."
+      ],
+      "gabarito": "B",
+      "comentario": "A oração 'que todos participem do projeto' funciona como sujeito do verbo 'É fundamental'. A oração principal ('É fundamental') não possui sujeito próprio e apresenta um verbo de ligação seguido de um adjetivo, caracterizando a estrutura de uma subjetiva. Nas demais opções, as orações destacadas exercem outras funções sintáticas."
+    },
+    {
+      "id": 2,
+      "enunciado": "Analise a frase: 'O diretor insistiu em que os alunos chegassem cedo.' A oração destacada classifica-se como:",
+      "opcoes": [
+        "A) Oração Subordinada Substantiva Objetiva Direta.",
+        "B) Oração Subordinada Substantiva Subjetiva.",
+        "C) Oração Subordinada Substantiva Objetiva Indireta.",
+        "D) Oração Subordinada Substantiva Completiva Nominal."
+      ],
+      "gabarito": "C",
+      "comentario": "O verbo 'insistir' é transitivo indireto, exigindo a preposição 'em' ('insistir em algo'). A oração 'em que os alunos chegassem cedo' completa o sentido do verbo 'insistiu', funcionando como seu objeto indireto. Portanto, é uma Oração Subordinada Substantiva Objetiva Indireta."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a alternativa em que a oração subordinada substantiva exerce a função de complemento nominal.",
+      "opcoes": [
+        "A) Ninguém duvidava de que ele era capaz.",
+        "B) A verdade é que ele não se esforçou.",
+        "C) Tenho necessidade de que me ajudem.",
+        "D) O professor pediu que os alunos fizessem silêncio."
+      ],
+      "gabarito": "C",
+      "comentario": "Na alternativa C, a oração 'de que me ajudem' completa o sentido do substantivo 'necessidade', que é um nome, e é introduzida por preposição. Isso a caracteriza como uma Oração Subordinada Substantiva Completiva Nominal. Em A, é Objetiva Indireta (completa o verbo 'duvidar'). Em B, é Predicativa (completa o sujeito 'A verdade' após verbo de ligação). Em D, é Objetiva Direta (completa o verbo 'pedir')."
+    },
+    {
+      "id": 4,
+      "enunciado": "Na frase 'Só lhe peço uma coisa: que você me ouça com atenção.', a oração destacada é classificada como:",
+      "opcoes": [
+        "A) Oração Subordinada Substantiva Objetiva Direta.",
+        "B) Oração Subordinada Substantiva Predicativa.",
+        "C) Oração Subordinada Substantiva Apositiva.",
+        "D) Oração Subordinada Substantiva Subjetiva."
+      ],
+      "gabarito": "C",
+      "comentario": "A oração 'que você me ouça com atenção' vem após os dois pontos e explica o termo anterior 'uma coisa' da oração principal. Essa função de explicar ou especificar um termo anterior é característica da Oração Subordinada Substantiva Apositiva."
+    }
+  ]
+}

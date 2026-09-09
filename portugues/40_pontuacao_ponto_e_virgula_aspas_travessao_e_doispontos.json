@@ -1,0 +1,213 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Pontuação: Ponto e Vírgula, Aspas, Travessão e Dois-Pontos",
+  "introducao": [
+    "A pontuação é um elemento fundamental na escrita, pois confere clareza, sentido e ritmo ao texto. Ela simula as pausas e entonações da fala, organizando as ideias e prevenindo ambiguidades, sendo seu uso correto indispensável para a plena compreensão da mensagem.",
+    "Neste memento, exploraremos as funções e aplicações de quatro sinais de pontuação específicos: o ponto e vírgula, as aspas, o travessão e os dois-pontos. Cada um desempenha um papel crucial na coesão e coerência textual, e dominá-los é essencial para uma comunicação escrita eficaz e precisa."
+  ],
+  "secoes": [
+    {
+      "titulo": "PONTO E VÍRGULA",
+      "destaque": "Bizú: O ponto e vírgula (;) é o sinal da 'pausa estratégica'. Use-o para organizar ideias que, embora relacionadas, precisam de uma separação mais forte que a vírgula, mas não tão definitiva quanto o ponto final. Pense nele como um 'semáforo amarelo' para o leitor.",
+      "conteudo": [
+        "O ponto e vírgula (;) indica uma pausa intermediária, mais longa que a vírgula e mais curta que o ponto final. É empregado para separar itens de uma enumeração complexa, orações coordenadas assindéticas com certa extensão ou orações coordenadas que já contêm vírgulas, evitando a sobrecarga de informações em um único período."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Separar itens de enumeração complexa",
+          "itens": [
+            "Utiliza-se ponto e vírgula para separar itens de uma lista quando esses itens já contêm vírgulas internamente, evitando confusão e garantindo a clareza da enumeração.",
+            "Ex.: Os candidatos aprovados foram: João, da turma A; Maria, da turma B; e Pedro, da turma C.",
+            "Ex.: Precisamos de: farinha, para o bolo; açúcar, para o doce; e ovos, para a omelete.",
+            "Ex.: Na reunião, discutimos: o orçamento, que está apertado; os prazos, que são curtos; e as metas, que são ambiciosas."
+          ]
+        },
+        {
+          "subtitulo": "Separar orações coordenadas extensas ou com vírgulas",
+          "itens": [
+            "Em orações coordenadas assindéticas de certa extensão ou em orações coordenadas que já apresentam vírgulas, o ponto e vírgula ajuda a organizar as ideias, indicando uma pausa mais significativa.",
+            "Ex.: Ele estudou muito, dedicou-se aos livros; contudo, não obteve o resultado esperado.",
+            "Ex.: Os alunos, cansados, esperavam o ônibus; os professores, por sua vez, corrigiam as provas.",
+            "Ex.: A cidade, com suas luzes cintilantes, parecia um presépio; o silêncio, porém, era quase absoluto."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "ASPAS",
+      "destaque": "Bizú: As aspas (\" \") são suas aliadas para 'marcar território'. Use-as para indicar que algo não é seu (citação), que é especial (destaque), ou que está sendo dito com um 'tom' diferente (ironia, gíria).",
+      "conteudo": [
+        "As aspas (\" \") são usadas para diversas finalidades, como indicar citação direta, realçar uma palavra ou expressão, marcar ironia ou gíria, e delimitar títulos de obras dentro de um texto, conferindo um sentido específico ao trecho ou palavra assinalada."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Citar diretamente",
+          "itens": [
+            "As aspas são empregadas para transcrever a fala exata de alguém ou um trecho literal de um texto, garantindo a fidelidade à fonte original.",
+            "Ex.: O professor afirmou: \"A pontuação é a alma da escrita\".",
+            "Ex.: Como disse Fernando Pessoa: \"Tudo vale a pena se a alma não é pequena\".",
+            "Ex.: Ela leu o trecho: \"O essencial é invisível aos olhos\"."
+          ]
+        },
+        {
+          "subtitulo": "Realçar palavras ou expressões",
+          "itens": [
+            "Podem ser usadas para destacar uma palavra estrangeira, um neologismo, uma gíria ou uma expressão que se deseja enfatizar ou questionar, chamando a atenção do leitor para seu uso particular.",
+            "Ex.: Ele se considera um \"expert\" no assunto.",
+            "Ex.: Aquele \"influencer\" tem milhões de seguidores.",
+            "Ex.: O projeto foi um \"sucesso\", apesar dos problemas iniciais."
+          ]
+        },
+        {
+          "subtitulo": "Indicar ironia ou sentido figurado",
+          "itens": [
+            "As aspas podem sinalizar que uma palavra ou frase está sendo usada em sentido irônico ou figurado, diferente do seu significado literal, alertando o leitor para uma interpretação não literal.",
+            "Ex.: Que \"inteligente\" da sua parte esquecer as chaves.",
+            "Ex.: Ele é um \"gênio\" em matemática, mas não consegue somar dois mais dois.",
+            "Ex.: A \"paz\" reinava na sala de aula, com todos os alunos conversando ao mesmo tempo."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "TRAVESSÃO",
+      "destaque": "Bizú: O travessão (—) é o 'coringa' da pontuação. Ele pode ser um 'microfone' para diálogos, um 'parêntese enfático' para explicações ou um 'holofote' para destacar uma ideia. Sua versatilidade é sua força!",
+      "conteudo": [
+        "O travessão (—) é um sinal de pontuação versátil, utilizado principalmente para introduzir a fala de personagens em diálogos, isolar termos ou orações explicativas e enfatizar uma ideia, conferindo clareza e destaque a elementos específicos do texto."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Introduzir a fala em diálogos",
+          "itens": [
+            "Em textos narrativos, o travessão marca o início da fala de um personagem, distinguindo-a da fala do narrador e facilitando a leitura do diálogo.",
+            "Ex.: — Onde você vai? — perguntou ela.",
+            "Ex.: — Preciso de ajuda — disse o menino, com a voz embargada.",
+            "Ex.: — Amanhã será um novo dia — respondeu ele, com um sorriso."
+          ]
+        },
+        {
+          "subtitulo": "Isolar termos ou orações explicativas",
+          "itens": [
+            "O travessão pode substituir a vírgula ou os parênteses para isolar apostos, vocativos, orações explicativas ou intercaladas, conferindo maior destaque e ênfase à informação isolada.",
+            "Ex.: Machado de Assis — um dos maiores escritores brasileiros — nasceu no Rio de Janeiro.",
+            "Ex.: A verdade — por mais dolorosa que seja — precisa ser dita.",
+            "Ex.: Aquele homem — que sempre foi muito reservado — surpreendeu a todos com sua atitude."
+          ]
+        },
+        {
+          "subtitulo": "Enfatizar uma ideia",
+          "itens": [
+            "Quando usado em pares, o travessão pode realçar uma informação, dando-lhe um caráter de interrupção ou de destaque, direcionando a atenção do leitor para aquele ponto.",
+            "Ex.: A solução para o problema — que parecia impossível — surgiu de repente.",
+            "Ex.: Ele tinha apenas um objetivo na vida — ser feliz.",
+            "Ex.: A decisão foi tomada — após muita deliberação — e será implementada em breve."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "DOIS-PONTOS",
+      "destaque": "Bizú: Os dois-pontos (:) são o 'sinal de introdução'. Eles anunciam que algo importante está por vir: uma lista, uma explicação, uma citação ou uma conclusão. Pense neles como um 'prelúdio' para o que se segue.",
+      "conteudo": [
+        "Os dois-pontos (:) são empregados para introduzir uma citação, uma enumeração, uma explicação, um esclarecimento ou o resultado de algo que foi dito anteriormente, funcionando como um sinal de anúncio ou de pausa para o que será detalhado."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Introduzir uma citação ou fala direta",
+          "itens": [
+            "Antes de uma citação direta ou da fala de um personagem, quando esta é introduzida por um verbo de dizer, os dois-pontos preparam o leitor para a transcrição exata.",
+            "Ex.: Ele declarou: \"Não aceitarei essa proposta\".",
+            "Ex.: A Bíblia diz: \"Amarás o teu próximo como a ti mesmo\".",
+            "Ex.: O palestrante concluiu: \"A educação é a chave para o futuro\"."
+          ]
+        },
+        {
+          "subtitulo": "Introduzir uma enumeração",
+          "itens": [
+            "Antes de uma lista de itens que complementam ou exemplificam o que foi dito anteriormente, os dois-pontos sinalizam a chegada de uma sequência de elementos.",
+            "Ex.: Comprei vários itens: pão, leite, ovos e frutas.",
+            "Ex.: Os elementos essenciais para a vida são: água, ar e alimento.",
+            "Ex.: Para a receita, você precisará de: farinha, açúcar, ovos e fermento."
+          ]
+        },
+        {
+          "subtitulo": "Introduzir uma explicação ou esclarecimento",
+          "itens": [
+            "Para apresentar uma explicação, um esclarecimento, uma consequência ou uma síntese do que foi afirmado, os dois-pontos estabelecem uma relação de causa e efeito ou de detalhamento.",
+            "Ex.: Só havia uma solução: desistir.",
+            "Ex.: O motivo de sua ausência era claro: estava doente.",
+            "Ex.: Ele tinha um grande sonho: viajar pelo mundo."
+          ]
+        },
+        {
+          "subtitulo": "Introduzir um resumo ou conclusão",
+          "itens": [
+            "Podem ser usados para introduzir um resumo ou uma conclusão do que foi exposto, sintetizando as ideias principais ou apresentando o desfecho.",
+            "Ex.: A situação era crítica: não havia mais tempo para hesitar.",
+            "Ex.: A mensagem era simples: ame e seja amado.",
+            "Ex.: O resultado da pesquisa foi surpreendente: a maioria prefere o trabalho remoto."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "A pontuação é crucial para a clareza, sentido e organização do texto escrito, reproduzindo pausas e entonações da fala.",
+    "O ponto e vírgula (;) indica uma pausa intermediária, sendo usado para separar itens de enumerações complexas ou orações coordenadas extensas/com vírgulas.",
+    "As aspas (\" \") servem para citar diretamente, realçar palavras (gírias, estrangeirismos) ou indicar ironia/sentido figurado.",
+    "O travessão (—) é versátil: introduz falas em diálogos, isola termos explicativos (substituindo vírgulas/parênteses) e enfatiza ideias.",
+    "Os dois-pontos (:) anunciam o que virá, introduzindo citações, enumerações, explicações, esclarecimentos, resumos ou conclusões.",
+    "Dominar esses sinais de pontuação é fundamental para uma escrita eficaz, coesa e coerente, garantindo a correta interpretação da mensagem."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o uso do ponto e vírgula está CORRETO:",
+      "opcoes": [
+        "A) Ele comprou pão, leite, ovos; e frutas.",
+        "B) Os alunos estudaram muito; mas não passaram na prova.",
+        "C) Na feira, encontramos: maçãs, vermelhas; peras, doces; e uvas, roxas.",
+        "D) Choveu muito; por isso, a rua ficou alagada."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa C está correta porque o ponto e vírgula é utilizado para separar itens de uma enumeração complexa, onde cada item já contém vírgulas internas. Nas demais alternativas, o ponto e vírgula foi empregado de forma inadequada: em A, a vírgula seria suficiente; em B e D, a conjunção já estabelece a relação, e o ponto e vírgula não é a melhor opção para ligar orações coordenadas sindéticas curtas."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases as aspas foram empregadas para indicar ironia?",
+      "opcoes": [
+        "A) O professor disse: \"A persistência é o caminho do êxito\".",
+        "B) Ele se considera um \"gênio\" por ter esquecido a carteira em casa.",
+        "C) Li o artigo \"A Importância da Leitura\" na revista.",
+        "D) Aquele \"influencer\" digital tem milhões de seguidores."
+      ],
+      "gabarito": "B",
+      "comentario": "A alternativa B utiliza as aspas para indicar ironia. Chamar alguém de 'gênio' por ter cometido um ato de esquecimento sugere o oposto do sentido literal, caracterizando o uso irônico. Nas outras opções, as aspas são usadas para citação direta (A), título de obra (C) e realce de neologismo/gíria (D)."
+    },
+    {
+      "id": 3,
+      "enunciado": "Analise o uso do travessão nas frases a seguir e identifique a opção que apresenta seu emprego INCORRETO:",
+      "opcoes": [
+        "A) — Você vem comigo? — perguntou ela, ansiosa.",
+        "B) O Brasil — um país de dimensões continentais — possui grande diversidade cultural.",
+        "C) Ele tinha um único desejo — ser feliz.",
+        "D) Os livros — que são importantes — devem ser lidos com atenção."
+      ],
+      "gabarito": "D",
+      "comentario": "A alternativa D apresenta o uso incorreto do travessão. Embora o travessão possa isolar orações explicativas, a frase 'que são importantes' é uma oração subordinada adjetiva explicativa que, por ser de caráter mais informativo e menos enfático, seria mais adequadamente isolada por vírgulas. O uso do travessão aqui não confere o destaque ou a interrupção que ele geralmente implica, tornando-o menos natural que a vírgula. As demais alternativas estão corretas: A para diálogo, B para isolar aposto explicativo com ênfase, e C para enfatizar uma ideia."
+    },
+    {
+      "id": 4,
+      "enunciado": "Em qual das alternativas os dois-pontos foram utilizados para introduzir uma enumeração?",
+      "opcoes": [
+        "A) A verdade é uma só: precisamos agir agora.",
+        "B) Ele afirmou: \"Não há tempo a perder\".",
+        "C) Para a festa, precisamos de: balões, doces, salgados e refrigerantes.",
+        "D) O motivo de sua alegria era evidente: havia sido aprovado."
+      ],
+      "gabarito": "C",
+      "comentario": "A alternativa C está correta, pois os dois-pontos são empregados para introduzir uma lista de itens ('balões, doces, salgados e refrigerantes') que complementam a ideia anterior. Em A e D, os dois-pontos introduzem uma explicação ou esclarecimento. Em B, introduzem uma citação direta."
+    }
+  ]
+}

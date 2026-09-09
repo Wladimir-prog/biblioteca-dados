@@ -1,0 +1,264 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Morfologia (Estrutura e Classes de Palavras)",
+  "tema": "Advérbio e Locução Adverbial",
+  "introducao": [
+    "O advérbio é uma classe de palavras invariável que atua como modificador de um verbo, um adjetivo ou outro advérbio, sempre com o propósito de indicar uma circunstância específica. Essas circunstâncias são variadas e podem expressar tempo, lugar, modo, intensidade, dúvida, afirmação, negação, entre outras possibilidades.",
+    "Paralelamente, a locução adverbial consiste em um agrupamento de duas ou mais palavras que, em conjunto, desempenham a mesma função de um advérbio. Sua formação mais comum envolve a combinação de uma preposição com um substantivo, adjetivo ou até mesmo outro advérbio, enriquecendo a expressão de circunstâncias na frase."
+  ],
+  "secoes": [
+    {
+      "titulo": "Classificação dos Advérbios",
+      "conteudo": [
+        "Os advérbios são categorizados conforme a circunstância que expressam na oração."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Advérbios de Lugar",
+          "itens": [
+            "Indicam o local onde a ação ocorre ou onde algo se encontra.",
+            "Exemplos: aqui, ali, lá, cá, acolá, perto, longe, dentro, fora, acima, abaixo, adiante, atrás, defronte, em cima, em baixo.",
+            "Ex.: O livro está aqui.",
+            "Ex.: Moramos perto da praia.",
+            "Ex.: Ele foi lá."
+          ]
+        },
+        {
+          "subtitulo": "Advérbios de Tempo",
+          "itens": [
+            "Indicam o momento em que a ação ocorre.",
+            "Exemplos: hoje, ontem, amanhã, agora, antes, depois, cedo, tarde, sempre, nunca, jamais, outrora, já, breve, constantemente.",
+            "Ex.: Chegarei cedo.",
+            "Ex.: Ontem, fomos ao cinema.",
+            "Ex.: Ele nunca mente."
+          ]
+        },
+        {
+          "subtitulo": "Advérbios de Modo",
+          "itens": [
+            "Indicam a maneira como a ação é realizada. Muitos são formados pelo acréscimo do sufixo '-mente' a adjetivos.",
+            "Exemplos: bem, mal, assim, depressa, devagar, calmamente, rapidamente, silenciosamente, cuidadosamente.",
+            "Ex.: Ela canta bem.",
+            "Ex.: Ele agiu mal.",
+            "Ex.: Andava lentamente."
+          ]
+        },
+        {
+          "subtitulo": "Advérbios de Intensidade",
+          "itens": [
+            "Indicam a intensidade de uma ação, qualidade ou de outro advérbio.",
+            "Exemplos: muito, pouco, bastante, mais, menos, tão, tanto, demais, assaz, deveras, excessivamente, extremamente.",
+            "Ex.: Ele estuda muito.",
+            "Ex.: Ela é bastante inteligente.",
+            "Ex.: Correu tão rápido."
+          ]
+        },
+        {
+          "subtitulo": "Advérbios de Dúvida",
+          "itens": [
+            "Expressam incerteza ou possibilidade.",
+            "Exemplos: talvez, quiçá, provavelmente, possivelmente, acaso, porventura.",
+            "Ex.: Talvez ele venha.",
+            "Ex.: Provavelmente choverá.",
+            "Ex.: Acaso você o viu?"
+          ]
+        },
+        {
+          "subtitulo": "Advérbios de Afirmação",
+          "itens": [
+            "Expressam certeza ou confirmação.",
+            "Exemplos: sim, certamente, realmente, deveras, efetivamente, indubitavelmente.",
+            "Ex.: Sim, eu irei.",
+            "Ex.: Certamente, ele passará.",
+            "Ex.: Realmente, foi um sucesso."
+          ]
+        },
+        {
+          "subtitulo": "Advérbios de Negação",
+          "itens": [
+            "Expressam ausência ou recusa.",
+            "Exemplos: não, nunca, jamais, de modo algum, tampouco.",
+            "Ex.: Não quero ir.",
+            "Ex.: Jamais farei isso.",
+            "Ex.: Tampouco ele se importou."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Classificação das Locuções Adverbiais",
+      "conteudo": [
+        "As locuções adverbiais são classificadas de acordo com a circunstância que expressam, assim como os advérbios."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Locuções Adverbiais de Lugar",
+          "itens": [
+            "Indicam o local.",
+            "Exemplos: em cima, em baixo, por perto, por ali, à direita, à esquerda, ao lado, de longe, de perto.",
+            "Ex.: Ele mora por perto.",
+            "Ex.: O carro está à direita.",
+            "Ex.: Observava de longe."
+          ]
+        },
+        {
+          "subtitulo": "Locuções Adverbiais de Tempo",
+          "itens": [
+            "Indicam o momento.",
+            "Exemplos: à noite, de manhã, à tarde, de repente, às vezes, em breve, por enquanto, de vez em quando, hoje em dia.",
+            "Ex.: À noite, a cidade dorme.",
+            "Ex.: De repente, a luz apagou.",
+            "Ex.: De vez em quando, nos encontramos."
+          ]
+        },
+        {
+          "subtitulo": "Locuções Adverbiais de Modo",
+          "itens": [
+            "Indicam a maneira.",
+            "Exemplos: às claras, às pressas, em silêncio, de mansinho, de cor, em vão, a pé, a cavalo, sem dúvida.",
+            "Ex.: Ele falou às claras.",
+            "Ex.: Chegou de mansinho.",
+            "Ex.: Aprendi de cor."
+          ]
+        },
+        {
+          "subtitulo": "Locuções Adverbiais de Causa",
+          "itens": [
+            "Indicam o motivo ou a razão.",
+            "Exemplos: por causa de, em virtude de, em razão de.",
+            "Ex.: Faltou por causa da chuva.",
+            "Ex.: Agiu em virtude da pressão.",
+            "Ex.: Não veio em razão do trabalho."
+          ]
+        },
+        {
+          "subtitulo": "Locuções Adverbiais de Finalidade",
+          "itens": [
+            "Indicam o objetivo ou a finalidade.",
+            "Exemplos: a fim de, para que.",
+            "Ex.: Estudou a fim de passar.",
+            "Ex.: Trabalhou para que a família tivesse conforto.",
+            "Ex.: Economizou a fim de viajar."
+          ]
+        },
+        {
+          "subtitulo": "Locuções Adverbiais de Instrumento",
+          "itens": [
+            "Indicam o meio ou o instrumento utilizado.",
+            "Exemplos: com a faca, a martelo, a machado.",
+            "Ex.: Cortou o bolo com a faca.",
+            "Ex.: Quebrou a porta a martelo.",
+            "Ex.: Derrubou a árvore a machado."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Grau dos Advérbios",
+      "conteudo": [
+        "Assim como os adjetivos, alguns advérbios podem variar em grau para expressar diferentes intensidades, seja de comparação ou de superlativo."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Grau Comparativo",
+          "itens": [
+            "Compara a intensidade da circunstância entre dois elementos.",
+            "a) Comparativo de Igualdade: Tão + advérbio + quanto/como. Ex.: Ele fala tão bem quanto ela. Correu tão rápido como um atleta. Estuda tão pouco quanto o irmão.",
+            "b) Comparativo de Superioridade: Mais + advérbio + (do) que. Ex.: Ele fala mais bem (ou melhor) do que ela. Chegou mais cedo que o esperado. Anda mais devagar do que eu.",
+            "c) Comparativo de Inferioridade: Menos + advérbio + (do) que. Ex.: Ele fala menos bem (ou pior) do que ela. Chegou menos tarde que o habitual. Estuda menos diligentemente do que a irmã."
+          ]
+        },
+        {
+          "subtitulo": "Grau Superlativo",
+          "itens": [
+            "Expressa a intensidade máxima da circunstância.",
+            "a) Superlativo Analítico: Advérbio + outro advérbio de intensidade (muito, bastante, excessivamente). Ex.: Ele fala muito bem. Chegou bastante cedo. Ela canta excessivamente alto.",
+            "b) Superlativo Sintético: Advérbio com sufixo de intensidade (geralmente '-íssimo' ou '-imamente'). Ex.: Ele fala otimamente. (de ótimo) Chegou cedíssimo. (de cedo) Ela canta altissimamente. (de alto)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Função Sintática do Advérbio",
+      "destaque": "Lembre-se: Advérbios e locuções adverbiais atuam como adjuntos adverbiais, termos acessórios que enriquecem o sentido de verbos, adjetivos ou outros advérbios!",
+      "conteudo": [
+        "Sintaticamente, tanto o advérbio quanto a locução adverbial desempenham a função de adjunto adverbial na oração.",
+        "O adjunto adverbial é um termo acessório que adiciona uma circunstância (como tempo, lugar, modo, causa, finalidade, etc.) ao verbo, a um adjetivo ou a outro advérbio, especificando ou intensificando seu sentido."
+      ],
+      "itens": [
+        "Ex.: Eles viajaram ontem. (Adjunto adverbial de tempo)",
+        "Ex.: Moramos perto. (Adjunto adverbial de lugar)",
+        "Ex.: Ela fala muito. (Adjunto adverbial de intensidade)"
+      ]
+    }
+  ],
+  "sintese": [
+    "O advérbio é uma classe de palavras invariável que modifica verbos, adjetivos ou outros advérbios, expressando diversas circunstâncias.",
+    "A locução adverbial é um conjunto de palavras que exerce a mesma função do advérbio, geralmente formada por preposição e outra classe gramatical.",
+    "Tanto advérbios quanto locuções adverbiais são classificados de acordo com a circunstância que indicam: tempo, lugar, modo, intensidade, dúvida, afirmação, negação, causa, finalidade, instrumento, entre outras.",
+    "Alguns advérbios podem apresentar graus de comparação (igualdade, superioridade, inferioridade) e superlativo (analítico e sintético) para expressar diferentes níveis de intensidade.",
+    "Sintaticamente, advérbios e locuções adverbiais atuam como adjuntos adverbiais, termos acessórios que complementam o sentido de verbos, adjetivos ou outros advérbios na oração."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Em qual das frases abaixo o termo em destaque NÃO funciona como advérbio?",
+      "opcoes": [
+        "A) Ele chegou muito cedo.",
+        "B) Ela canta bem.",
+        "C) A casa longe era dela.",
+        "D) Nós certamente iremos."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'longe' está qualificando o substantivo 'casa', funcionando como um adjetivo. Nas demais opções, 'muito' (intensidade), 'bem' (modo) e 'certamente' (afirmação) são advérbios que modificam, respectivamente, outro advérbio, um verbo e um verbo."
+    },
+    {
+      "id": 2,
+      "enunciado": "Assinale a alternativa em que a locução adverbial sublinhada expressa ideia de MODO.",
+      "opcoes": [
+        "A) À noite, todos dormem.",
+        "B) Ele agiu com calma.",
+        "C) Faltou por causa da chuva.",
+        "D) O livro está em cima da mesa."
+      ],
+      "gabarito": "B",
+      "comentario": "A locução 'com calma' (equivalente a 'calmamente') indica a maneira como ele agiu, caracterizando-se como locução adverbial de modo. 'À noite' é de tempo, 'por causa da chuva' é de causa, e 'em cima' é de lugar."
+    },
+    {
+      "id": 3,
+      "enunciado": "Qual das frases apresenta um advérbio no grau superlativo sintético?",
+      "opcoes": [
+        "A) Ele fala muito bem.",
+        "B) Chegou mais cedo que o esperado.",
+        "C) Ela canta altissimamente.",
+        "D) Estuda tão pouco quanto o irmão."
+      ],
+      "gabarito": "C",
+      "comentario": "O superlativo sintético é formado pelo acréscimo de sufixos de intensidade ao advérbio, como '-íssimo' ou '-imamente'. Em 'altissimamente', o advérbio 'alto' (que funciona como advérbio de modo neste contexto) está no grau superlativo sintético. As outras opções apresentam superlativo analítico (A) e comparativos (B e D)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Na oração 'Os alunos estudaram diligentemente para a prova', o termo em destaque exerce a função sintática de:",
+      "opcoes": [
+        "A) Objeto direto",
+        "B) Adjunto adnominal",
+        "C) Adjunto adverbial de modo",
+        "D) Complemento nominal"
+      ],
+      "gabarito": "C",
+      "comentario": "O termo 'diligentemente' é um advérbio de modo que modifica o verbo 'estudaram', indicando a maneira como a ação foi realizada. Sintaticamente, advérbios e locuções adverbiais que modificam verbos, adjetivos ou outros advérbios são classificados como adjuntos adverbiais. Neste caso, é um adjunto adverbial de modo."
+    },
+    {
+      "id": 5,
+      "enunciado": "Analise as sentenças e identifique a opção em que a palavra 'rápido' funciona como advérbio.",
+      "opcoes": [
+        "A) O carro rápido passou.",
+        "B) Ele é um corredor rápido.",
+        "C) Eles agiram rápido para resolver o problema.",
+        "D) A resposta rápida surpreendeu a todos."
+      ],
+      "gabarito": "C",
+      "comentario": "Na opção C, 'rápido' modifica o verbo 'agiram', indicando o modo como a ação foi realizada, portanto, funciona como advérbio. Nas demais opções, 'rápido' (A, B) e 'rápida' (D) qualificam substantivos ('carro', 'corredor', 'resposta'), funcionando como adjetivos."
+    }
+  ]
+}

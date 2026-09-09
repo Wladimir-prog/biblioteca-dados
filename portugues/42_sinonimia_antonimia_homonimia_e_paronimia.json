@@ -1,0 +1,156 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Sinonímia, Antonímia, Homonímia e Paronímia",
+  "introducao": [
+    "A semântica, ramo da linguística que investiga o significado das palavras e das frases, é um pilar fundamental para a proficiência na Língua Portuguesa. Dominar as relações de sentido entre os vocábulos não apenas enriquece o léxico, mas também aprimora a capacidade de interpretar e produzir textos com clareza e precisão.",
+    "Neste memento, exploraremos as principais relações semânticas: sinonímia, antonímia, homonímia e paronímia. A compreensão dessas distinções é crucial para evitar ambiguidades, escolher a palavra exata em cada contexto e, consequentemente, garantir uma comunicação eficaz e sem ruídos."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. Sinonímia: A Força da Semelhança",
+      "destaque": "BIZU: A sinonímia perfeita é rara! Atente-se às nuances de sentido e ao contexto de uso, pois um sinônimo pode não ser adequado em todas as situações.",
+      "conteudo": [
+        "A sinonímia caracteriza-se pela relação entre duas ou mais palavras que possuem significados semelhantes ou idênticos. Essa semelhança permite que, em muitos contextos, uma palavra possa ser substituída por outra sem que haja alteração significativa no sentido fundamental da frase.",
+        "É importante ressaltar que, na prática, a sinonímia absoluta é incomum. Geralmente, os sinônimos carregam pequenas diferenças de conotação, intensidade ou registro (formal/informal), o que exige do falante e do escritor um discernimento apurado para a escolha mais apropriada."
+      ],
+      "itens": [
+        "Ex.: Aquele homem é muito 'esperto'. / Aquele homem é muito 'inteligente'.",
+        "Ex.: O 'início' da aula foi pontual. / O 'começo' da aula foi pontual.",
+        "Ex.: Ela ficou 'feliz' com a notícia. / Ela ficou 'alegre' com a notícia."
+      ]
+    },
+    {
+      "titulo": "2. Antonímia: Os Polos Opostos do Sentido",
+      "destaque": "FIQUE LIGADO: Antônimos podem ser formados por radicais diferentes (bom/mau) ou pelo acréscimo de prefixos de negação (feliz/infeliz, fazer/desfazer, simétrico/assimétrico).",
+      "conteudo": [
+        "A antonímia estabelece a relação semântica entre palavras que expressam significados opostos ou contrários. Essa oposição pode ser de diversas naturezas, como qualidade, estado, ação ou quantidade.",
+        "O reconhecimento dos antônimos é fundamental para a construção de contrastes e para a expressão de ideias opostas de forma clara e concisa."
+      ],
+      "itens": [
+        "Ex.: O dia está 'claro'. / O dia está 'escuro'.",
+        "Ex.: Ele é um aluno 'bom'. / Ele é um aluno 'mau'.",
+        "Ex.: A porta está 'aberta'. / A porta está 'fechada'."
+      ]
+    },
+    {
+      "titulo": "3. Homonímia: Palavras Iguais, Sentidos Diferentes",
+      "destaque": "ATENÇÃO: A homonímia é uma das principais fontes de ambiguidade na língua. O contexto é seu maior aliado para desvendar o sentido correto da palavra!",
+      "conteudo": [
+        "A homonímia ocorre quando palavras possuem a mesma pronúncia (homófonas) ou a mesma grafia (homógrafas), ou ambas (homônimas perfeitas), mas apresentam significados completamente distintos. A identificação correta dessas palavras é vital para a clareza da comunicação e para evitar mal-entendidos."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "3.1. Homonímia Perfeita",
+          "itens": [
+            "São palavras que compartilham a mesma grafia e a mesma pronúncia, mas possuem significados diferentes, pertencendo, muitas vezes, a classes gramaticais distintas.",
+            "Ex.: Eu 'rio' de suas piadas. (verbo rir) / O 'rio' Amazonas é imenso. (substantivo)",
+            "Ex.: Ele 'cedo' o lugar. (verbo ceder) / Ele chegou 'cedo'. (advérbio)",
+            "Ex.: A 'manga' da camisa está suja. (substantivo, parte da roupa) / Gosto de comer 'manga'. (substantivo, fruta)"
+          ]
+        },
+        {
+          "subtitulo": "3.2. Homofonia",
+          "itens": [
+            "Refere-se a palavras que possuem a mesma pronúncia, mas grafia e significados diferentes. A distinção é feita pela escrita e pelo contexto.",
+            "Ex.: Ele 'acendeu' a luz. (verbo acender) / Ele 'ascendeu' ao cargo. (verbo ascender)",
+            "Ex.: O 'concerto' da orquestra foi lindo. (espetáculo musical) / O 'conserto' do carro ficou caro. (reparação)",
+            "Ex.: A 'sessão' do filme começa às oito. (intervalo de tempo) / A 'seção' de esportes é a melhor. (departamento de loja/jornal)"
+          ]
+        },
+        {
+          "subtitulo": "3.3. Homografia",
+          "itens": [
+            "São palavras que possuem a mesma grafia, mas pronúncia e significados diferentes. A diferença na pronúncia (abertura ou fechamento de vogais, tonicidade) é o que as distingue.",
+            "Ex.: Eu 'gosto' de chocolate. (verbo gostar, /gɔstu/) / O 'gosto' amargo me incomoda. (substantivo, /gostu/)",
+            "Ex.: O 'molho' de tomate é caseiro. (substantivo, /mɔʎu/) / Eu 'molho' as plantas todos os dias. (verbo molhar, /moʎu/)",
+            "Ex.: A 'sede' da empresa é grande. (substantivo, local, /sɛdʒi/) / Sinto muita 'sede'. (substantivo, vontade de beber, /sedʒi/)"
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "4. Paronímia: A Armadilha da Semelhança",
+      "destaque": "CUIDADO: A paronímia é um prato cheio para pegadinhas em concursos! Memorize os pares mais comuns e seus significados para não cair em armadilhas.",
+      "conteudo": [
+        "A paronímia é a relação entre palavras que são muito semelhantes tanto na grafia quanto na pronúncia, mas que possuem significados completamente diferentes. Essa proximidade fonética e gráfica é a principal causa de confusão e erros na escrita e na fala.",
+        "A atenção ao contexto e o conhecimento do significado exato de cada parônimo são essenciais para evitar equívocos e garantir a precisão da mensagem."
+      ],
+      "itens": [
+        "Ex.: Ele 'ratificou' o acordo. (confirmou) / Ele 'retificou' o erro. (corrigiu)",
+        "Ex.: A 'eminente' autoridade chegou. (ilustre, importante) / O perigo é 'iminente'. (prestes a acontecer)",
+        "Ex.: O 'mandado' de segurança foi expedido. (ordem judicial) / O 'mandato' do presidente termina em breve. (período de governo)"
+      ]
+    }
+  ],
+  "sintese": [
+    "A semântica estuda o significado das palavras e é crucial para a comunicação eficaz.",
+    "**Sinonímia** refere-se a palavras com significados semelhantes (ex: feliz/alegre), embora a sinonímia perfeita seja rara.",
+    "**Antonímia** trata de palavras com significados opostos (ex: claro/escuro), podendo ser formadas por prefixos de negação.",
+    "**Homonímia** ocorre quando palavras têm a mesma pronúncia e/ou grafia, mas sentidos diferentes, dividindo-se em perfeita, homofonia e homografia.",
+    "**Paronímia** envolve palavras semelhantes na grafia e pronúncia, mas com significados distintos (ex: ratificar/retificar), exigindo atenção para evitar confusões.",
+    "O domínio dessas relações semânticas aprimora o vocabulário, a interpretação textual e a precisão na produção de textos."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que o par de palavras apresenta uma relação de antonímia.",
+      "opcoes": [
+        "A) Censo / Senso",
+        "B) Comprimento / Cumprimento",
+        "C) Mal / Bem",
+        "D) Sessão / Seção"
+      ],
+      "gabarito": "C",
+      "comentario": "A antonímia é a relação entre palavras de significados opostos. 'Mal' e 'Bem' são antônimos. As demais opções apresentam pares de parônimos (A e B) ou homófonos (D), que são palavras com pronúncia ou grafia semelhantes, mas significados diferentes."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das frases a seguir a palavra destacada é um homônimo perfeito de 'rio' (substantivo, curso d'água)?",
+      "opcoes": [
+        "A) Eu 'rio' muito das suas piadas.",
+        "B) O 'rio' de Janeiro é uma cidade linda.",
+        "C) Ele 'riu' da situação constrangedora.",
+        "D) O 'riacho' deságua no mar."
+      ],
+      "gabarito": "A",
+      "comentario": "Homonímia perfeita ocorre quando as palavras têm a mesma grafia e pronúncia, mas significados diferentes. Na opção A, 'rio' é a forma do verbo 'rir' na primeira pessoa do singular do presente do indicativo, sendo homônimo perfeito de 'rio' (substantivo, curso d'água). As outras opções não apresentam homônimos perfeitos no contexto solicitado."
+    },
+    {
+      "id": 3,
+      "enunciado": "Identifique a alternativa em que o par de palavras é classificado como parônimo.",
+      "opcoes": [
+        "A) Casa / Lar",
+        "B) Acender / Ascender",
+        "C) Bom / Mau",
+        "D) Manga (fruta) / Manga (roupa)"
+      ],
+      "gabarito": "B",
+      "comentario": "Parônimos são palavras semelhantes na grafia e na pronúncia, mas com significados diferentes. 'Acender' (pôr fogo, ligar) e 'Ascender' (subir, elevar-se) são parônimos. 'Casa' e 'Lar' são sinônimos (A). 'Bom' e 'Mau' são antônimos (C). 'Manga' (fruta) e 'Manga' (roupa) são homônimos perfeitos (D)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Analise as sentenças e assinale a que apresenta um exemplo de homofonia.",
+      "opcoes": [
+        "A) O 'gosto' amargo me incomoda. / Eu 'gosto' de chocolate.",
+        "B) A 'sede' da empresa é grande. / Sinto muita 'sede'.",
+        "C) O 'concerto' da orquestra foi lindo. / O 'conserto' do carro ficou caro.",
+        "D) Ele 'cedo' o lugar. / Ele chegou 'cedo'."
+      ],
+      "gabarito": "C",
+      "comentario": "Homofonia ocorre quando as palavras têm a mesma pronúncia, mas grafia e significados diferentes. Em 'concerto' (espetáculo) e 'conserto' (reparação), a pronúncia é idêntica, mas a grafia e o sentido são distintos. As opções A, B e D apresentam exemplos de homonímia perfeita ou homografia, onde a grafia é a mesma."
+    },
+    {
+      "id": 5,
+      "enunciado": "Qual das alternativas abaixo apresenta um par de sinônimos?",
+      "opcoes": [
+        "A) Retificar / Ratificar",
+        "B) Mal / Mau",
+        "C) Início / Começo",
+        "D) Cesto / Sexto"
+      ],
+      "gabarito": "C",
+      "comentario": "Sinônimos são palavras com significados semelhantes. 'Início' e 'Começo' são sinônimos. 'Retificar' e 'Ratificar' são parônimos (A). 'Mal' (advérbio) e 'Mau' (adjetivo) são palavras diferentes com funções distintas, embora frequentemente confundidas, e 'Mal' é antônimo de 'Bem', enquanto 'Mau' é antônimo de 'Bom' (B). 'Cesto' e 'Sexto' são homófonos (D)."
+    }
+  ]
+}
