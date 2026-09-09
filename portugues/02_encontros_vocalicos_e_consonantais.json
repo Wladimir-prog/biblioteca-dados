@@ -1,0 +1,114 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Encontros Vocálicos e Consonantais",
+  "introducao": [
+    "O estudo dos encontros vocálicos e consonantais constitui o alicerce fonético da língua portuguesa, sendo indispensável para a correta pronúncia, divisão silábica e aplicação das regras de acentuação gráfica.",
+    "Neste memento, você aprenderá a classificar com precisão ditongos, tritongos e hiatos, além de distinguir os encontros consonantais dos dígrafos consonantais e vocálicos."
+  ],
+  "secoes": [
+    {
+      "titulo": "Sons Vocálicos: Ditongo, Tritongo e Hiato",
+      "destaque": "A vogal é o núcleo da sílaba (som pleno e forte); a semivogal apoia-se nela com pronúncia mais fraca.",
+      "conteudo": [
+        "Os encontros vocálicos representam o agrupamento de sons vocálicos em uma mesma palavra e classificam-se conforme sua distribuição na partição das sílabas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Ditongos (Vogal + Semivogal na Mesma Sílaba)",
+          "itens": [
+            "Ditongo Crescente: Semivogal + Vogal (som fraco → forte) — Ex.: quase (qua-se), história (his-tó-ria), série (sé-rie).",
+            "Ditongo Decrescente: Vogal + Semivogal (som forte → fraco) — Ex.: pai (pai), caixa (cai-xa), chapéu (cha-péu)."
+          ]
+        },
+        {
+          "subtitulo": "Tritongo e Hiato",
+          "itens": [
+            "Tritongo: Estrutura fixa de Semivogal + Vogal + Semivogal na mesma sílaba — Ex.: Paraguai (Pa-ra-guai), saguão (sa-guão), enxáguam (en-xá-guam).",
+            "Hiato: Encontro de duas vogais autônomas que ficam em sílabas distintas — Ex.: saúde (sa-ú-de), poesia (po-e-si-a), cair (ca-ir)."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Sons Consonantais: Perfeitos e Imperfeitos",
+      "destaque": "No encontro consonantal, cada uma das consoantes mantém seu fonema (som) individual preservado.",
+      "conteudo": [
+        "Consiste na sequência de duas ou mais consoantes juntas na palavra sem vogal intermediária. Diferenciam-se pelo comportamento na separação silábica."
+      ],
+      "itens": [
+        "Encontro Consonantal Perfeito (Inseparável): As consoantes permanecem na mesma sílaba (normalmente consoante + L ou R) — Ex.: prato (pra-to), blusa (blu-sa), claro (cla-ro).",
+        "Encontro Consonantal Imperfeito (Separável): As consoantes dividem-se em sílabas diferentes ao serem pronunciadas — Ex.: admirar (ad-mi-rar), ritmo (rit-mo), pacto (pac-to)."
+      ]
+    },
+    {
+      "titulo": "Diferenciação Crucial: Encontro Consonantal vs. Dígrafo",
+      "destaque": "Encontro consonantal produz DOIS sons; dígrafo reúne duas letras para produzir UM único som.",
+      "conteudo": [
+        "Dígrafo ocorre quando duas letras unem-se para representar um único fonema. Classificam-se em consonantais e vocálicos."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "Dígrafos Consonantais",
+          "itens": [
+            "Inseparáveis: ch, lh, nh — Ex.: chuva (/x/), palha (/lh/), ninho (/nh/).",
+            "Separáveis: rr, ss, sc, sç, xc — Ex.: carro (car-ro), passo (pas-so), nascer (nas-cer).",
+            "Grupos QU e GU: Formam dígrafo apenas quando o 'u' for mudo — Ex.: guerra (/g/), queijo (/k/)."
+          ]
+        },
+        {
+          "subtitulo": "Dígrafos Vocálicos (Nasalização)",
+          "itens": [
+            "Formados por vogal seguida de 'm' ou 'n' na mesma sílaba, gerando som nasal: am, an, em, en, im, in, om, on, um, un.",
+            "Exemplos práticos: campo (/kã-pu/), ponte (/põ-ti/), canto (/kã-tu/)."
+          ]
+        }
+      ]
+    }
+  ],
+  "sintese": [
+    "Ditongo reúne vogal e semivogal na mesma sílaba, podendo ser crescente (SV+V) ou decrescente (V+SV).",
+    "Tritongo é a sequência fixa e inseparável de semivogal + vogal + semivogal (ex.: Paraguai).",
+    "Hiato separa duas vogais verdadeiras em sílabas distintas (ex.: sa-ú-de).",
+    "Encontro consonantal preserva a audição de ambos os fonemas consonantais (ex.: prato, ritmo).",
+    "Dígrafo representa duas letras unidas foneticamente para emitir apenas um som (ex.: chuva, campo)."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que todas as palavras apresentam ditongo decrescente:",
+      "opcoes": [
+        "A) Quase, história, série",
+        "B) Pai, caixa, chapéu",
+        "C) Saúde, poesia, cair",
+        "D) Paraguai, saguão, enxáguam"
+      ],
+      "gabarito": "B",
+      "comentario": "Em 'pai', 'caixa' e 'chapéu', há o encontro de uma vogal forte seguida de uma semivogal fraca na mesma sílaba, caracterizando ditongos decrescentes. Na opção A temos ditongos crescentes; em C, hiatos; e em D, tritongos."
+    },
+    {
+      "id": 2,
+      "enunciado": "Na palavra 'SAÚDE', o encontro vocálico classifica-se como:",
+      "opcoes": [
+        "A) Ditongo crescente",
+        "B) Ditongo decrescente",
+        "C) Hiato",
+        "D) Tritongo"
+      ],
+      "gabarito": "C",
+      "comentario": "Na separação silábica de 'sa-ú-de', as vogais 'a' e 'u' separam-se em sílabas distintas, constituindo um hiato com o 'u' tônico isolado."
+    },
+    {
+      "id": 3,
+      "enunciado": "Assinale a alternativa em que a palavra apresenta um encontro consonantal inseparável (perfeito):",
+      "opcoes": [
+        "A) Ritmo",
+        "B) Admirar",
+        "C) Blusa",
+        "D) Chuva"
+      ],
+      "gabarito": "C",
+      "comentario": "Em 'blusa' (blu-sa), o grupo 'bl' permanece junto na mesma sílaba com ambos os sons perceptíveis. 'Ritmo' e 'admirar' possuem encontros separáveis, e 'chuva' apresenta um dígrafo consonantal (CH)."
+    }
+  ]
+}
