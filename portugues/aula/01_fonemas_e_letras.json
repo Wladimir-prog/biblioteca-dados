@@ -1,0 +1,146 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Fonemas e Letras",
+  "duracao_total_segundos": 525.76,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Fonemas e Letras: Desvendando os Sons e a Escrita da Língua Portuguesa",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+        "Fonemas e Letras",
+        "A base para uma escrita e pronúncia corretas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Fonema e Letra: As Unidades Fundamentais",
+      "tempo_inicio_segundos": 45.47,
+      "topicos": [
+        "Fonema: Menor unidade sonora da fala",
+        "Não possui significado, mas distingue sentidos",
+        "Ex: /m/ala vs /f/ala",
+        "Ex: ca/z/a vs ca/s/a",
+        "Letra: Representação gráfica do fonema",
+        "Sinal escrito que registra os sons",
+        "Ex: 'casa' (4 letras)",
+        "Ex: 'chuva' (5 letras)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "A Complexa Relação entre Fonemas e Letras",
+      "tempo_inicio_segundos": 97.4,
+      "topicos": [
+        "Nem sempre há correspondência de um para um",
+        "1 Letra = 1 Fonema: 'bola' (4 letras, 4 fonemas)",
+        "1 Letra = Vários Fonemas:",
+        "'x' em 'táxi' (/ks/) e 'exame' (/z/)",
+        "'s' em 'casa' (/z/) e 'sapo' (/s/)",
+        "'c' em 'casa' (/k/) e 'cebola' (/s/)",
+        "Vários Fonemas para 1 Letra? Não ocorre.",
+        "O inverso sim: 1 fonema pode ter várias letras (Ex: /s/ = s, ss, c, ç, x, z)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Dígrafos e Letras Sem Som",
+      "tempo_inicio_segundos": 155.81,
+      "topicos": [
+        "Duas Letras = Um Fonema (Dígrafos):",
+        "'ch' em 'chave' (/ʃ/)",
+        "'nh' em 'ninho' (/ɲ/)",
+        "'ss' em 'passo' (/s/)",
+        "Letra Sem Fonema:",
+        "'h' inicial em 'hora'",
+        "'u' em 'guerra' (no dígrafo 'gu')",
+        "Dígrafo: Encontro de duas letras que representam um único fonema",
+        "Dígrafos Consonantais: ch, lh, nh, rr, ss, sc, sç, xc, qu, gu",
+        "Dígrafos Vocálicos: am, an, em, en, im, in, om, on, um, un (nasalização)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Encontros Consonantais e Vocálicos",
+      "tempo_inicio_segundos": 227.78,
+      "topicos": [
+        "Encontro Consonantal: Duas ou mais consoantes com fonemas distintos",
+        "Todas as consoantes são pronunciadas",
+        "Perfeito: Consoantes na mesma sílaba (Ex: 'pra-to', 'flo-res')",
+        "Imperfeito: Consoantes em sílabas diferentes (Ex: 'ad-vo-ga-do', 'rit-mo')",
+        "Encontro Vocálico: Duas ou mais vogais/semivogais",
+        "Ditongo: Vogal + Semivogal (ou vice-versa) na mesma sílaba",
+        "Decrescente (V+SV): 'pai', 'caixa'",
+        "Crescente (SV+V): 'quase', 'água'",
+        "Tritongo: Semivogal + Vogal + Semivogal na mesma sílaba (Ex: 'Paraguai', 'iguais')",
+        "Hiato: Duas vogais em sílabas separadas (Ex: 'sa-ú-de', 'ca-ir')"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 303.57,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a palavra apresenta o mesmo número de letras e fonemas.",
+        "A) Chave",
+        "B) Táxi",
+        "C) Carro",
+        "D) Livro",
+        "Gabarito: D",
+        "Comentário: 'Livro' (5 letras, 5 fonemas).",
+        "'Chave' (5 letras, 4 fonemas - 'ch' é dígrafo).",
+        "'Táxi' (4 letras, 5 fonemas - 'x' tem som de /ks/).",
+        "'Carro' (5 letras, 4 fonemas - 'rr' é dígrafo)."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 363.35,
+      "topicos": [
+        "Enunciado: A palavra 'saúde' apresenta um encontro vocálico classificado como:",
+        "A) Ditongo crescente",
+        "B) Ditongo decrescente",
+        "C) Hiato",
+        "D) Tritongo",
+        "Gabarito: C",
+        "Comentário: Em 'saúde', a separação silábica é 'sa-ú-de'.",
+        "As vogais 'a' e 'u' ficam em sílabas diferentes.",
+        "Isso caracteriza um hiato."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave para Memorizar",
+      "tempo_inicio_segundos": 409.09,
+      "topicos": [
+        "Fonema: Unidade sonora que distingue significados.",
+        "Letra: Representação gráfica do fonema.",
+        "Relação Fonema-Letra: Nem sempre direta (dígrafo, letra sem fonema).",
+        "Dígrafos: Duas letras, um som (consonantais e vocálicos).",
+        "Encontro Consonantal: Consoantes com sons distintos (perfeito ou imperfeito).",
+        "Encontro Vocálico: Vogais/semivogais (ditongo, tritongo, hiato)."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 466.92,
+      "topicos": [
+        "Para contar fonemas:",
+        "Conte as letras.",
+        "Subtraia 1 para cada dígrafo (ch, lh, nh, rr, ss, sc, sç, xc, qu, gu).",
+        "Subtraia 1 para cada 'h' inicial.",
+        "Adicione 1 para cada 'x' com som de /ks/ (táxi, fixo).",
+        "Exemplo: 'Exceção'",
+        "7 letras (E-X-C-E-Ç-Ã-O)",
+        "'xc' é dígrafo (-1)",
+        "'ão' é dígrafo vocálico (-1)",
+        "Total: 7 - 1 - 1 = 5 fonemas (/e/-/s/-/e/-/s/-/ãu/)"
+      ]
+    }
+  ]
+}
