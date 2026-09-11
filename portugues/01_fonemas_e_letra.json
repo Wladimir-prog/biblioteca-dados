@@ -1,0 +1,241 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Fonemas e Letras",
+  "introducao": [
+    "A língua portuguesa é um sistema complexo onde sons (fonemas) e suas representações gráficas (letras) interagem para formar palavras e significados. A compreensão dessa relação é a base para uma escrita e pronúncia corretas.",
+    "Neste memento, exploraremos as definições de fonema e letra, as diversas formas como eles se relacionam e os principais encontros vocálicos e consonantais, elementos cruciais para a análise fonológica das palavras."
+  ],
+  "secoes": [
+    {
+      "titulo": "1. Fonema",
+      "conteudo": [
+        "O fonema é a menor unidade sonora da fala que, por si só, não possui significado, mas é capaz de distinguir um sentido de outro. Sua alteração pode mudar completamente o significado de uma palavra."
+      ],
+      "itens": [
+        "Ex.: 'mala' (/m-a-l-a/) e 'fala' (/f-a-l-a/) – a troca dos fonemas /m/ e /f/ distingue as palavras.",
+        "Ex.: 'casa' (/k-a-z-a/) e 'caça' (/k-a-s-a/) – a troca dos fonemas /z/ e /s/ distingue as palavras.",
+        "Ex.: 'pato' (/p-a-t-o/) e 'mato' (/m-a-t-o/) – a troca dos fonemas /p/ e /m/ distingue as palavras."
+      ]
+    },
+    {
+      "titulo": "2. Letra",
+      "conteudo": [
+        "A letra é a representação gráfica do fonema, ou seja, o sinal escrito que utilizamos para registrar os sons da fala. O conjunto de letras forma o alfabeto, que é a base da escrita de um idioma."
+      ],
+      "itens": [
+        "Ex.: A palavra 'casa' possui 4 letras: c, a, s, a.",
+        "Ex.: A palavra 'chuva' possui 5 letras: c, h, u, v, a.",
+        "Ex.: A palavra 'táxi' possui 4 letras: t, a, x, i."
+      ]
+    },
+    {
+      "titulo": "3. Relação entre Fonema e Letra",
+      "conteudo": [
+        "A correspondência entre fonemas e letras nem sempre é de um para um. Existem diversas situações que demonstram a complexidade dessa relação na língua portuguesa."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "3.1. Uma Letra para um Fonema",
+          "itens": [
+            "É o caso mais comum, onde cada letra representa um único som.",
+            "Ex.: 'bola' - b (/b/), o (/o/), l (/l/), a (/a/) (4 letras, 4 fonemas).",
+            "Ex.: 'mesa' - m (/m/), e (/e/), s (/z/), a (/a/) (4 letras, 4 fonemas).",
+            "Ex.: 'livro' - l (/l/), i (/i/), v (/v/), r (/r/), o (/o/) (5 letras, 5 fonemas)."
+          ]
+        },
+        {
+          "subtitulo": "3.2. Uma Letra para Vários Fonemas",
+          "itens": [
+            "Algumas letras podem representar diferentes sons dependendo do contexto.",
+            "Ex.: A letra 'x' em 'táxi' (/ks/) e em 'exame' (/z/).",
+            "Ex.: A letra 's' em 'casa' (/z/) e em 'sapo' (/s/).",
+            "Ex.: A letra 'c' em 'casa' (/k/) e em 'cebola' (/s/).",
+            "Ex.: A letra 'o' em 'bola' (/ɔ/) e em 'bolo' (/o/)."
+          ]
+        },
+        {
+          "subtitulo": "3.3. Vários Fonemas para uma Letra",
+          "itens": [
+            "Esta situação não ocorre, pois uma letra sempre representa um som ou nenhum. O que acontece é o inverso: um fonema pode ser representado por diferentes letras. Por exemplo, o fonema /s/ pode ser grafado como 's' (sapo), 'ss' (passo), 'c' (cebola), 'ç' (cabeça), 'x' (próximo) ou 'z' (feliz)."
+          ]
+        },
+        {
+          "subtitulo": "3.4. Duas Letras para um Fonema (Dígrafos)",
+          "itens": [
+            "Ocorre quando duas letras são usadas para representar um único som (fonema).",
+            "Ex.: 'ch' em 'chave' (som de /ʃ/).",
+            "Ex.: 'nh' em 'ninho' (som de /ɲ/).",
+            "Ex.: 'ss' em 'passo' (som de /s/).",
+            "Ex.: 'qu' em 'queijo' (som de /k/)."
+          ]
+        },
+        {
+          "subtitulo": "3.5. Letra sem Fonema",
+          "itens": [
+            "Algumas letras podem não representar som algum em determinadas palavras.",
+            "Ex.: A letra 'h' inicial em 'hora' (não tem som).",
+            "Ex.: A letra 'u' em 'guerra' (não tem som, no dígrafo 'gu').",
+            "Ex.: A letra 'q' em 'queijo' (o 'u' não tem som, no dígrafo 'qu')."
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "4. Dígrafos",
+      "conteudo": [
+        "Dígrafo é o encontro de duas letras que representam um único fonema (som)."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "4.1. Dígrafos Consonantais",
+          "itens": [
+            "Representam um único fonema consonantal.",
+            "Ex.: ch (chave), lh (palha), nh (ninho).",
+            "Ex.: rr (carro), ss (passo), sc (nascer).",
+            "Ex.: sç (nasça), xc (excelente), qu (queijo - antes de 'e' ou 'i'), gu (guerra - antes de 'e' ou 'i')."
+          ]
+        },
+        {
+          "subtitulo": "4.2. Dígrafos Vocálicos",
+          "itens": [
+            "Representam um único fonema vocálico nasal, geralmente com 'm' ou 'n' após a vogal, indicando a nasalização da vogal anterior.",
+            "Ex.: am (campo), an (canto).",
+            "Ex.: em (tempo), en (lenda).",
+            "Ex.: im (limpo), in (tinta).",
+            "Ex.: om (rombo), on (onda).",
+            "Ex.: um (algum), un (mundo)."
+          ]
+        }
+      ],
+      "itens": []
+    },
+    {
+      "titulo": "5. Encontro Consonantal",
+      "conteudo": [
+        "É a sequência de duas ou mais consoantes na mesma palavra, onde cada uma representa um fonema distinto, ou seja, todas as consoantes são pronunciadas."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "5.1. Encontro Consonantal Perfeito (ou Próprio)",
+          "itens": [
+            "As consoantes permanecem na mesma sílaba.",
+            "Ex.: 'pra-to', 'flo-res', 'li-vro'."
+          ]
+        },
+        {
+          "subtitulo": "5.2. Encontro Consonantal Imperfeito (ou Impróprio)",
+          "itens": [
+            "As consoantes se separam em sílabas diferentes.",
+            "Ex.: 'ad-vo-ga-do', 'rit-mo', 'ap-to'."
+          ]
+        }
+      ],
+      "itens": [
+        "Ex.: 'prato' - os fonemas /p/ e /r/ são ouvidos separadamente.",
+        "Ex.: 'flor' - os fonemas /f/ e /l/ são ouvidos separadamente.",
+        "Ex.: 'pedra' - os fonemas /p/, /d/ e /r/ são ouvidos separadamente."
+      ]
+    },
+    {
+      "titulo": "6. Encontro Vocálico",
+      "conteudo": [
+        "É a sequência de duas ou mais vogais ou semivogais na mesma palavra."
+      ],
+      "subsecoes": [
+        {
+          "subtitulo": "6.1. Ditongo",
+          "itens": [
+            "Encontro de uma vogal e uma semivogal (ou vice-versa) na mesma sílaba. Pode ser crescente (semivogal + vogal) ou decrescente (vogal + semivogal).",
+            "Ex.: 'pai' (a + i - decrescente), 'caixa' (ai - decrescente), 'louco' (ou - decrescente).",
+            "Ex.: 'quase' (ua - crescente), 'água' (ua - crescente)."
+          ]
+        },
+        {
+          "subtitulo": "6.2. Tritongo",
+          "itens": [
+            "Encontro de uma semivogal, uma vogal e outra semivogal, necessariamente nessa ordem, na mesma sílaba.",
+            "Ex.: 'Paraguai' (u + a + i), 'iguais' (u + a + i), 'enxaguou' (u + o + u)."
+          ]
+        },
+        {
+          "subtitulo": "6.3. Hiato",
+          "itens": [
+            "Encontro de duas vogais que ficam em sílabas separadas, pois cada uma é o núcleo de uma sílaba diferente.",
+            "Ex.: 'sa-ú-de' (a + u), 'ca-ir' (a + i), 'pi-a-da' (i + a)."
+          ]
+        }
+      ],
+      "itens": []
+    }
+  ],
+  "sintese": [
+    "Fonema é a menor unidade sonora da fala que distingue significados, enquanto letra é sua representação gráfica.",
+    "A relação entre fonemas e letras não é sempre direta: uma letra pode ter vários fonemas, duas letras podem formar um fonema (dígrafo), ou uma letra pode não ter fonema (como o 'h' inicial).",
+    "Dígrafos são encontros de duas letras que representam um único som, podendo ser consonantais (ch, lh, nh, rr, ss, sc, sç, xc, qu, gu) ou vocálicos (am, an, em, en, im, in, om, on, um, un).",
+    "Encontro consonantal é a sequência de duas ou mais consoantes com sons distintos, classificando-se em perfeito (na mesma sílaba) ou imperfeito (em sílabas diferentes).",
+    "Encontro vocálico é a sequência de vogais ou semivogais, subdividindo-se em ditongo (vogal + semivogal na mesma sílaba), tritongo (semivogal + vogal + semivogal na mesma sílaba) e hiato (duas vogais em sílabas separadas)."
+  ],
+  "questoes_fixacao": [
+    {
+      "id": 1,
+      "enunciado": "Assinale a alternativa em que a palavra apresenta o mesmo número de letras e fonemas.",
+      "opcoes": [
+        "A) Chave",
+        "B) Táxi",
+        "C) Carro",
+        "D) Livro"
+      ],
+      "gabarito": "D",
+      "comentario": "Na palavra 'Livro', temos 5 letras (L-I-V-R-O) e 5 fonemas (/l/-/i/-/v/-/r/-/o/), pois cada letra corresponde a um som distinto. Em 'Chave', há 5 letras, mas 4 fonemas ('ch' é dígrafo). Em 'Táxi', há 4 letras, mas 5 fonemas ('x' tem som de /ks/). Em 'Carro', há 5 letras, mas 4 fonemas ('rr' é dígrafo)."
+    },
+    {
+      "id": 2,
+      "enunciado": "Em qual das palavras abaixo ocorre um dígrafo consonantal?",
+      "opcoes": [
+        "A) Planta",
+        "B) Livro",
+        "C) Chuva",
+        "D) Atleta"
+      ],
+      "gabarito": "C",
+      "comentario": "A palavra 'Chuva' apresenta o dígrafo consonantal 'ch', onde as duas letras representam um único fonema (/ʃ/). As demais palavras ('Planta', 'Livro', 'Atleta') contêm encontros consonantais, onde cada consoante mantém seu som individual."
+    },
+    {
+      "id": 3,
+      "enunciado": "A palavra 'saúde' apresenta um encontro vocálico classificado como:",
+      "opcoes": [
+        "A) Ditongo crescente",
+        "B) Ditongo decrescente",
+        "C) Hiato",
+        "D) Tritongo"
+      ],
+      "gabarito": "C",
+      "comentario": "Na palavra 'saúde', ao separarmos as sílabas, temos 'sa-ú-de'. As vogais 'a' e 'u' ficam em sílabas diferentes, caracterizando um hiato. O 'u' é tônico e forma uma sílaba sozinho, sendo uma vogal."
+    },
+    {
+      "id": 4,
+      "enunciado": "Qual das palavras a seguir possui um encontro consonantal imperfeito?",
+      "opcoes": [
+        "A) Prato",
+        "B) Flor",
+        "C) Advogado",
+        "D) Livro"
+      ],
+      "gabarito": "C",
+      "comentario": "Um encontro consonantal imperfeito ocorre quando as consoantes se separam em sílabas diferentes. Em 'Advogado', a separação silábica é 'ad-vo-ga-do', e o encontro 'dv' se separa. Nas outras opções ('Prato', 'Flor', 'Livro'), os encontros consonantais ('pr', 'fl', 'vr') permanecem na mesma sílaba, sendo perfeitos."
+    },
+    {
+      "id": 5,
+      "enunciado": "Identifique a palavra em que a letra 'h' não representa um fonema.",
+      "opcoes": [
+        "A) Chave",
+        "B) Ninho",
+        "C) Hora",
+        "D) Palha"
+      ],
+      "gabarito": "C",
+      "comentario": "Na palavra 'Hora', o 'h' inicial é uma letra etimológica que não corresponde a nenhum som na fala, ou seja, não representa um fonema. Nas demais opções, 'ch', 'nh' e 'lh' são dígrafos, onde o 'h' se une a outra letra para formar um único fonema (/ʃ/, /ɲ/, /ʎ/ respectivamente)."
+    }
+  ]
+}
