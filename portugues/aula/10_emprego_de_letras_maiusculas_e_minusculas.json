@@ -1,0 +1,127 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Emprego de Letras Maiúsculas e Minúsculas",
+  "duracao_total_segundos": 415.5,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Emprego de Letras Maiúsculas e Minúsculas",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Fonologia, Ortografia e Acentuação",
+        "Tema: Emprego de Letras Maiúsculas e Minúsculas",
+        "A importância para a clareza e correção da escrita"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso de Letras Maiúsculas: Início de Frase e Nomes Próprios",
+      "tempo_inicio_segundos": 30.98,
+      "topicos": [
+        "Início de período: A primeira palavra sempre maiúscula.",
+        "Após ponto de interrogação, exclamação ou reticências, se a frase continua.",
+        "Nomes de pessoas, sobrenomes, apelidos e pseudônimos.",
+        "Nomes de lugares: países, estados, cidades, rios, ruas, etc.",
+        "Nomes de instituições, empresas, escolas e órgãos públicos."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso de Letras Maiúsculas: Festas, Obras, Épocas e Títulos",
+      "tempo_inicio_segundos": 69.68,
+      "topicos": [
+        "Nomes de festas e datas comemorativas: Natal, Páscoa.",
+        "Nomes de obras literárias, artísticas, científicas (apenas a 1ª palavra e substantivos próprios).",
+        "Nomes de épocas e fatos históricos: Idade Média, Revolução Francesa.",
+        "Nomes de pontos cardeais quando indicam regiões: O Nordeste, Viajou para o Sul.",
+        "Nomes de astros e corpos celestes: Marte, Via Láctea (exceto Sol, Terra, Lua em sentido comum).",
+        "Títulos de dignidade, cargos e tratamentos de respeito (específicos): Sua Excelência, o Presidente.",
+        "Siglas, abreviaturas e símbolos: ONU, USP, Sr., Dra."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso de Letras Minúsculas: O Padrão da Escrita",
+      "tempo_inicio_segundos": 113.72,
+      "topicos": [
+        "Nomes comuns: cachorro, mesa, flor, amor.",
+        "Dias da semana: segunda-feira, terça-feira.",
+        "Meses do ano: janeiro, fevereiro, março.",
+        "Estações do ano: primavera, verão, outono.",
+        "Nacionalidades, gentílicos e idiomas: brasileiro, paulista, inglês."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso de Letras Minúsculas: Contextos Específicos",
+      "tempo_inicio_segundos": 149.81,
+      "topicos": [
+        "Títulos e cargos em sentido genérico: O presidente da empresa, O papa visitou o país.",
+        "Pontos cardeais em sentido genérico (direção): O sol nasce a leste, Seguiu para o norte.",
+        "Depois de dois-pontos (se não for citação direta ou enumeração de frases completas): Comprei frutas: maçãs, bananas e laranjas.",
+        "Termos religiosos comuns: missa, igreja, padre, oração."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Exceções e Casos Especiais",
+      "tempo_inicio_segundos": 192.31,
+      "topicos": [
+        "Títulos de livros, filmes, músicas: 1ª palavra maiúscula, demais minúsculas (exceto nomes próprios). Ex: O senhor dos anéis, A vida é bela.",
+        "Documentos oficiais: Uso de maiúsculas para destacar termos importantes. Ex: CONTRATO DE PRESTAÇÃO DE SERVIÇOS, EDITAL DE CONCURSO PÚBLICO."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 232.57,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que o emprego da letra maiúscula está INCORRETO, de acordo com as regras apresentadas.",
+        "A) Onde você vai? Não demore.",
+        "B) Que susto! Ela quase caiu.",
+        "C) Ele pensou... e decidiu ir.",
+        "D) Amanhã será um novo dia.",
+        "Gabarito: C",
+        "Comentário: Após reticências, se a frase continua, a próxima palavra deve iniciar com maiúscula. O correto seria \"Ele pensou... E decidiu ir.\""
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 277.06,
+      "topicos": [
+        "Enunciado: Analise as sentenças a seguir e marque a opção que apresenta ERRO no emprego de letras maiúsculas ou minúsculas, considerando as regras estudadas.",
+        "A) O Papa visitou o Sul do Brasil.",
+        "B) O sol nasce a Leste.",
+        "C) A Universidade de São Paulo é renomada.",
+        "D) Ele é brasileiro e fala inglês.",
+        "Gabarito: B",
+        "Comentário: A alternativa B apresenta erro. 'Leste' quando indica apenas a direção (o sol nasce a leste) deve ser escrito com letra minúscula. O correto seria \"O sol nasce a leste.\""
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 327.41,
+      "topicos": [
+        "Maiúsculas: Início de frases, nomes próprios (pessoas, lugares, instituições, festas, obras, épocas, astros, pontos cardeais regionais), títulos específicos e siglas.",
+        "Minúsculas: Nomes comuns, dias da semana, meses, estações, nacionalidades, gentílicos, idiomas, títulos/cargos genéricos, pontos cardeais de direção, após dois-pontos (em certos casos), termos religiosos comuns.",
+        "Exceções: Títulos de obras (1ª palavra e nomes próprios maiúsculos), documentos oficiais (maiúsculas para destaque)."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor e Despedida",
+      "tempo_inicio_segundos": 376.48,
+      "topicos": [
+        "Dica de ouro: Contexto é tudo!",
+        "Atenção aos detalhes: um 'a leste' é diferente de 'o Nordeste'.",
+        "Pratique com exercícios e revise as regras constantemente.",
+        "A escrita correta abre portas!",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

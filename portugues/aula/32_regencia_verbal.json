@@ -1,0 +1,113 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Regência Verbal",
+  "duracao_total_segundos": 488.51,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Regência Verbal: A Chave para a Correção!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português - Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Regência Verbal",
+        "Desvende a relação entre verbos e complementos!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação dos Verbos e Suas Regências",
+      "tempo_inicio_segundos": 29.8,
+      "topicos": [
+        "Verbos Transitivos Diretos (VTD): Complemento sem preposição (Objeto Direto)",
+        "Verbos Transitivos Indiretos (VTI): Complemento com preposição (Objeto Indireto)",
+        "Verbos Transitivos Diretos e Indiretos (VTDI): Dois complementos (OD e OI)",
+        "Verbos Intransitivos (VI): Sentido completo, sem complemento"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Verbos que Mudam de Sentido",
+      "tempo_inicio_segundos": 94.91,
+      "topicos": [
+        "Verbo Aspirar: 'respirar' (VTD) X 'desejar' (VTI - a)",
+        "Verbo Assistir: 'ver' (VTI - a) X 'socorrer' (VTD) X 'caber' (VTI - a)",
+        "Verbo Visar: 'mirar'/'colocar visto' (VTD) X 'almejar' (VTI - a)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mais Casos Especiais de Regência Verbal",
+      "tempo_inicio_segundos": 156.7,
+      "topicos": [
+        "Verbos Pagar e Perdoar: 'coisa' (VTD) X 'pessoa' (VTI - a)",
+        "Verbo Implicar: 'acarretar' (VTD) X 'envolver' (VTD) X 'ter implicância' (VTI - com)",
+        "Verbos Obedecer e Desobedecer: Sempre VTI (a)",
+        "Verbo Preferir: VTDI (a), sem 'do que' ou 'mais que'",
+        "Verbo Querer: 'desejar' (VTD) X 'estimar' (VTI - a)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Crase na Regência Verbal",
+      "tempo_inicio_segundos": 236.04,
+      "topicos": [
+        "Ocorre quando o verbo exige preposição 'a'",
+        "E o complemento é substantivo feminino",
+        "Que aceita o artigo 'a' ou 'as'",
+        "Exemplos: Fui à feira; Obedeço à lei; Assisti à peça",
+        "Atenção: Se o complemento for masculino, não há crase (ex: Fui ao mercado)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 279.04,
+      "topicos": [
+        "Assinale a alternativa em que a regência verbal está INCORRETA:",
+        "A) Ele aspirava a uma vida tranquila no campo.",
+        "B) O médico assistiu o paciente com dedicação.",
+        "C) Visamos o cargo de gerência com afinco.",
+        "D) Prefiro estudar a sair com os amigos."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 328.91,
+      "topicos": [
+        "Analise as sentenças abaixo e assinale a que apresenta regência verbal adequada:",
+        "A) Implicaram-no com o roubo da loja.",
+        "B) Ele implica em tudo que eu faço.",
+        "C) O atraso implicou a perda do prazo.",
+        "D) Quero muito meus amigos de infância."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Regência Verbal",
+      "tempo_inicio_segundos": 381.39,
+      "topicos": [
+        "Regência: relação verbo-complemento (com ou sem preposição)",
+        "Classificação: VTD, VTI, VTDI, VI",
+        "Verbos com regência variável: Aspirar, Assistir, Visar, Pagar, Perdoar, Implicar, Querer (atenção ao sentido!)",
+        "Verbos sempre VTI: Obedecer e Desobedecer (preposição 'a')",
+        "Verbo Preferir: VTDI (preposição 'a', sem 'do que')",
+        "Crase: verbo exige 'a' + substantivo feminino aceita 'a'"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Como Não Errar na Regência!",
+      "tempo_inicio_segundos": 439.8,
+      "topicos": [
+        "1. Consulte o dicionário sempre que tiver dúvida!",
+        "2. Preste atenção ao CONTEXTO da frase: o sentido do verbo é crucial.",
+        "3. Identifique se o verbo pede preposição e QUAL preposição.",
+        "4. Pratique com muitos exercícios para fixar as regras!",
+        "5. Leia bastante: a leitura ajuda a internalizar as regências corretas."
+      ]
+    }
+  ]
+}

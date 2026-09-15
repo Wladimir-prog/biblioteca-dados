@@ -1,0 +1,124 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Emprego da Crase",
+  "duracao_total_segundos": 377.35,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Bem-vindos ao e-Biblio Digital!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Emprego da Crase",
+        "Desvende os mistérios da crase!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que é Crase?",
+      "tempo_inicio_segundos": 21.14,
+      "topicos": [
+        "Fusão de duas vogais 'a' idênticas",
+        "Preposição 'a' + Artigo feminino 'a' (ou 'as')",
+        "Preposição 'a' + 'a' inicial dos pronomes demonstrativos 'aquele', 'aquela', 'aquilo'",
+        "Acento grave (`) indica a ocorrência da crase"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Crase Obrigatória: Quando Usar?",
+      "tempo_inicio_segundos": 55.52,
+      "topicos": [
+        "Diante de palavra feminina que aceita artigo 'a'",
+        "Ex: Fui à feira.",
+        "Diante de locuções adverbiais, prepositivas e conjuntivas femininas",
+        "Ex: Chegou à noite. / À custa de.",
+        "Diante de 'à moda de' ou 'à maneira de' (mesmo subentendidos)",
+        "Ex: Bife à milanesa.",
+        "Diante dos pronomes demonstrativos 'aquele', 'aquela', 'aquilo' e variações"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Crase Proibida: Quando NÃO Usar?",
+      "tempo_inicio_segundos": 111.89,
+      "topicos": [
+        "Diante de palavra masculina",
+        "Ex: Andamos a pé.",
+        "Diante de verbos",
+        "Ex: Começou a chover.",
+        "Diante de pronomes pessoais, de tratamento, indefinidos e demonstrativos (com exceções)",
+        "Ex: Entreguei a ela.",
+        "Diante de numeral cardinal (exceto quando indicar horas)",
+        "Ex: Daqui a duas horas.",
+        "Entre palavras repetidas",
+        "Ex: Cara a cara.",
+        "Antes de artigo indefinido",
+        "Ex: Referiu-se a uma pessoa."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Crase Facultativa: É Opcional!",
+      "tempo_inicio_segundos": 161.16,
+      "topicos": [
+        "Antes de pronomes possessivos femininos singulares",
+        "Ex: Entreguei a/à minha irmã.",
+        "Depois da preposição 'até'",
+        "Ex: Fui até a/à praia.",
+        "Antes de nomes próprios femininos",
+        "Ex: Dediquei o livro a/à Maria."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 201.09,
+      "topicos": [
+        "Assinale a alternativa em que o uso da crase está CORRETO.",
+        "A) Fui a pé ao trabalho.",
+        "B) Ele se referiu à um colega.",
+        "C) Chegamos à duas horas da tarde.",
+        "D) Dedicou-se à leitura de clássicos."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 248.77,
+      "topicos": [
+        "Em qual das frases a crase é FACULTATIVA?",
+        "A) Ele obedece às leis do país.",
+        "B) Fui até à casa de minha avó.",
+        "C) À medida que envelhecemos, aprendemos.",
+        "D) Não dei importância àquilo que ele disse."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese da Crase",
+      "tempo_inicio_segundos": 294.68,
+      "topicos": [
+        "Crase: fusão da preposição 'a' com artigo 'a' ou demonstrativos 'aquele', 'aquela', 'aquilo'.",
+        "Obrigatória: palavras femininas, locuções femininas, 'à moda de', demonstrativos.",
+        "Proibida: palavras masculinas, verbos, pronomes (com exceções), numerais (exceto horas), palavras repetidas, artigos indefinidos.",
+        "Facultativa: pronomes possessivos femininos singulares, após 'até', nomes próprios femininos.",
+        "Acento grave (`) indica a crase."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor!",
+      "tempo_inicio_segundos": 337.85,
+      "topicos": [
+        "Dica de Ouro: Substituição por palavra masculina!",
+        "Se der 'AO', tem crase. Ex: 'Vou à feira' -> 'Vou ao mercado'.",
+        "Se der 'A', não tem crase. Ex: 'Vou a Paris' -> 'Vou a Londres'.",
+        "Pratique e domine a crase!",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

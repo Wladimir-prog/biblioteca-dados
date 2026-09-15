@@ -1,0 +1,123 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Pontuação: Uso da Vírgula",
+  "duracao_total_segundos": 444.76,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Pontuação: Uso da Vírgula",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Pontuação: Uso da Vírgula",
+        "Clareza e Correção Sintática",
+        "Evitar Ambiguidade"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "A Vírgula: Conceito e Primeiros Usos Essenciais",
+      "tempo_inicio_segundos": 35.85,
+      "topicos": [
+        "Vírgula: Sinal Sintático, Não Respiratório",
+        "Separa Termos da Mesma Função Sintática",
+        "Isola o Vocativo (chamamento)",
+        "Isola o Aposto Explicativo (informação extra)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vírgula: Adjuntos, Expressões e Datas",
+      "tempo_inicio_segundos": 92.15,
+      "topicos": [
+        "Isola Adjunto Adverbial Deslocado (longa extensão)",
+        "Isola Expressões Explicativas ou Retificativas",
+        "Separa Nome do Lugar em Datas e Endereços"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vírgula: Elipse e Orações Coordenadas",
+      "tempo_inicio_segundos": 140.33,
+      "topicos": [
+        "Marca a Elipse do Verbo (omissão)",
+        "Separa Orações Coordenadas Assindéticas",
+        "Separa Orações Coordenadas Sindéticas (exceto 'e' com mesmo sujeito)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vírgula: Orações Subordinadas e Proibições Cruciais",
+      "tempo_inicio_segundos": 190.92,
+      "topicos": [
+        "Separa Orações Subordinadas Adverbiais Deslocadas",
+        "Separa Orações Subordinadas Adjetivas Explicativas",
+        "NUNCA separar Sujeito do Predicado",
+        "NUNCA separar Verbo de seus Complementos"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática: Questão 1",
+      "tempo_inicio_segundos": 245.54,
+      "topicos": [
+        "Assinale a alternativa em que o uso da vírgula está *incorreto*.",
+        "A) Maria, traga-me um copo d'água.",
+        "B) Comprei pão, leite, ovos e café.",
+        "C) Ele é um aluno dedicado, inteligente, e muito esforçado.",
+        "D) São Paulo, 20 de junho de 2024.",
+        "Gabarito: C",
+        "Comentário: Vírgula desnecessária antes do 'e' aditivo."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática: Questão 2",
+      "tempo_inicio_segundos": 296.41,
+      "topicos": [
+        "Em qual das alternativas a vírgula é *proibida*?",
+        "A) Os alunos, estudaram a matéria com afinco.",
+        "B) Com muita dedicação, ele alcançou seus objetivos.",
+        "C) Ele é inteligente, ou seja, compreende rápido.",
+        "D) Meu pai, que é engenheiro, viajou.",
+        "Gabarito: A",
+        "Comentário: Separação indevida de Sujeito e Predicado."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais da Vírgula",
+      "tempo_inicio_segundos": 345.41,
+      "topicos": [
+        "Vírgula: Pausa breve, clareza, sintática.",
+        "Usos Obrigatórios:",
+        "Enumerações (exceto 'e', 'nem', 'ou')",
+        "Vocativo e Aposto Explicativo",
+        "Adjunto Adverbial Deslocado (longo)",
+        "Expressões Explicativas ('isto é', 'ou seja')",
+        "Datas e Endereços (localidade)",
+        "Elipse do Verbo",
+        "Orações Coordenadas Assindéticas",
+        "Orações Coordenadas Sindéticas (exceto 'e' com mesmo sujeito)",
+        "Orações Subordinadas Adverbiais Deslocadas",
+        "Orações Subordinadas Adjetivas Explicativas",
+        "NUNCA USAR:",
+        "Entre Sujeito e Predicado",
+        "Entre Verbo e Complementos"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: A Regra de Ouro!",
+      "tempo_inicio_segundos": 399.26,
+      "topicos": [
+        "Regra de Ouro: NÃO SEPARE TERMOS ESSENCIAIS!",
+        "Sujeito + Verbo + Complementos = SEM VÍRGULA!",
+        "Leia em voz alta para identificar pausas naturais.",
+        "Pratique sempre para fixar as regras!"
+      ]
+    }
+  ]
+}

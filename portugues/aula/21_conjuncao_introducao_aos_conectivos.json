@@ -1,0 +1,119 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Conjunção: Introdução aos Conectivos",
+  "duracao_total_segundos": 339.35,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Conjunção: Introdução aos Conectivos",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Morfologia",
+        "Tema: Conjunção: Introdução aos Conectivos",
+        "A 'cola' da língua portuguesa!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conjunção: O Elo Essencial",
+      "tempo_inicio_segundos": 21.91,
+      "topicos": [
+        "Classe de palavra invariável",
+        "Conecta orações ou termos de mesma função sintática",
+        "Essencial para coesão e coerência textual",
+        "Estabelece relações de sentido (adição, oposição, causa, etc.)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conectivos e a Classificação Geral",
+      "tempo_inicio_segundos": 58.79,
+      "topicos": [
+        "Conectivos: palavras que ligam elementos",
+        "Conjunções são os conectivos mais comuns",
+        "Classificação Geral: Coordenativas e Subordinativas",
+        "Coordenativas: ligam orações independentes",
+        "Subordinativas: ligam orações dependentes"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conjunções Coordenativas: Tipos e Exemplos",
+      "tempo_inicio_segundos": 96.53,
+      "topicos": [
+        "Ligam orações independentes ou termos de mesma função",
+        "Aditivas: e, nem, mas também (Ex: Ele canta E dança.)",
+        "Adversativas: mas, porém, contudo (Ex: Queria ir, MAS estava doente.)",
+        "Alternativas: ou, ora...ora, quer...quer (Ex: OU estuda, OU trabalha.)",
+        "Conclusivas: logo, portanto, assim (Ex: É inteligente, LOGO será aprovado.)",
+        "Explicativas: porque, que, pois (Ex: Não saia, PORQUE está chovendo.)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conjunções Subordinativas: Integrantes e Adverbiais",
+      "tempo_inicio_segundos": 152.35,
+      "topicos": [
+        "Ligam orações dependentes (oração subordinada + principal)",
+        "Integrantes: introduzem orações substantivas (que, se)",
+        "Ex: Espero QUE você venha. / Perguntou SE eu estava bem.",
+        "Adverbiais: introduzem orações adverbiais (causa, tempo, condição, etc.)",
+        "Ex: Ele não veio PORQUE estava doente. (causa)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 205.24,
+      "topicos": [
+        "Enunciado: Em 'Ele não só estuda, mas também trabalha', a conjunção destacada é classificada como:",
+        "A) Aditiva",
+        "B) Adversativa",
+        "C) Alternativa",
+        "D) Conclusiva",
+        "Gabarito: A) Aditiva",
+        "Comentário: A locução conjuntiva 'mas também' adiciona uma informação à anterior, caracterizando-se como aditiva. Ela soma a ideia de estudar com a ideia de trabalhar."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 233.99,
+      "topicos": [
+        "Enunciado: Na frase 'Embora estivesse cansado, continuou trabalhando', a conjunção 'Embora' estabelece uma relação de:",
+        "A) Causa",
+        "B) Concessão",
+        "C) Condição",
+        "D) Consequência",
+        "Gabarito: B) Concessão",
+        "Comentário: A conjunção 'Embora' introduz uma oração subordinada adverbial concessiva, indicando uma ideia contrária à da oração principal (o cansaço), mas que não impede sua realização (continuar trabalhando)."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Conjunções e Conectivos",
+      "tempo_inicio_segundos": 266.19,
+      "topicos": [
+        "Conjunções: palavras invariáveis que conectam orações ou termos.",
+        "Essenciais para coesão, coerência e sentido textual.",
+        "Classificação: Coordenativas (ligam orações independentes).",
+        "Tipos de Coordenativas: Aditivas, Adversativas, Alternativas, Conclusivas, Explicativas.",
+        "Classificação: Subordinativas (ligam orações dependentes).",
+        "Tipos de Subordinativas: Integrantes e Adverbiais."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: A Chave da Conjunção!",
+      "tempo_inicio_segundos": 306.22,
+      "topicos": [
+        "Pense na conjunção como uma 'ponte' entre ideias.",
+        "Identifique a relação de sentido que ela estabelece.",
+        "Pratique com exemplos variados para fixar o uso!",
+        "A chave é a PRÁTICA!"
+      ]
+    }
+  ]
+}

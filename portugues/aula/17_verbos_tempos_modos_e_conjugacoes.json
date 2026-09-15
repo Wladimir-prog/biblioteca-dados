@@ -1,0 +1,122 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Verbos: Tempos, Modos e Conjugações",
+  "duracao_total_segundos": 439.67,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Verbos: Tempos, Modos e Conjugações",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Morfologia",
+        "Tema: Verbos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "As Três Conjugações Verbais",
+      "tempo_inicio_segundos": 36.28,
+      "topicos": [
+        "1ª Conjugação: Verbos terminados em -AR",
+        "2ª Conjugação: Verbos terminados em -ER",
+        "3ª Conjugação: Verbos terminados em -IR",
+        "A vogal temática é a chave para identificar a conjugação!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Modos Verbais: A Intenção do Falante",
+      "tempo_inicio_segundos": 77.15,
+      "topicos": [
+        "Modo Indicativo: Certeza, Realidade",
+        "Modo Subjuntivo: Dúvida, Desejo, Hipótese",
+        "Modo Imperativo: Ordem, Pedido, Conselho"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tempos Verbais: Modo Indicativo",
+      "tempo_inicio_segundos": 118.4,
+      "topicos": [
+        "Presente: Ação atual ou verdade universal",
+        "Pretérito Perfeito: Ação concluída no passado",
+        "Pretérito Imperfeito: Ação habitual ou em andamento no passado",
+        "Pretérito Mais-que-Perfeito: Ação anterior a outra passada",
+        "Futuro do Presente: Ação futura certa",
+        "Futuro do Pretérito: Ação futura no passado ou hipótese"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tempos do Subjuntivo e Formas Nominais",
+      "tempo_inicio_segundos": 169.82,
+      "topicos": [
+        "Subjuntivo: Presente (desejo/dúvida), Pretérito Imperfeito (condição/hipótese), Futuro (ação futura incerta)",
+        "Formas Nominais: Infinitivo (-AR, -ER, -IR)",
+        "Formas Nominais: Gerúndio (-NDO)",
+        "Formas Nominais: Particípio (-ADO, -IDO)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Verbos Regulares e Irregulares",
+      "tempo_inicio_segundos": 222.64,
+      "topicos": [
+        "Verbos Regulares: Mantêm o radical e as desinências padrão",
+        "Verbos Irregulares: Sofrem alterações no radical ou nas desinências"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 263.17,
+      "topicos": [
+        "Enunciado: Em qual das frases o verbo em destaque expressa uma certeza ou um fato real?",
+        "A) Talvez ele VENHA à festa amanhã.",
+        "B) SE eu TIVESSE tempo, viajaria mais.",
+        "C) Nós ESTUDAMOS para a prova todos os dias.",
+        "D) ESTUDE agora para garantir seu futuro!",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 304.97,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todos os verbos pertencem à mesma conjugação.",
+        "A) Correr, partir, vender",
+        "B) Amar, estudar, cantar",
+        "C) Sorrir, comer, dormir",
+        "D) Fazer, ir, pôr",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Verbos em Foco",
+      "tempo_inicio_segundos": 343.15,
+      "topicos": [
+        "Verbos: Ação, estado, fenômeno da natureza ou mudança de estado.",
+        "Três Conjugações: 1ª (-AR), 2ª (-ER), 3ª (-IR).",
+        "Modos Verbais: Indicativo (certeza), Subjuntivo (dúvida), Imperativo (ordem).",
+        "Tempos Verbais: Situam a ação no Presente, Passado (Pretérito) ou Futuro.",
+        "Formas Nominais: Infinitivo, Gerúndio, Particípio (não indicam tempo/modo).",
+        "Verbos Regulares: Mantêm radical/desinências. Irregulares: Sofrem alterações."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 398.85,
+      "topicos": [
+        "Pratique a conjugação de verbos variados diariamente.",
+        "Observe o contexto para identificar o modo e tempo corretos.",
+        "Fique atento às formas irregulares, elas são as pegadinhas!",
+        "A leitura é sua melhor aliada para fixar o uso dos verbos."
+      ]
+    }
+  ]
+}

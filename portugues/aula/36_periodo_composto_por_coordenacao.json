@@ -1,0 +1,124 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Período Composto por Coordenação",
+  "duracao_total_segundos": 440.2,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Período Composto por Coordenação",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Bem-vindos à aula de Português - Gramática!",
+        "Sintaxe da Oração e do Período",
+        "Período Composto por Coordenação: A chave para textos claros!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Período Composto por Coordenação",
+      "tempo_inicio_segundos": 27.5,
+      "topicos": [
+        "Orações sintaticamente independentes",
+        "Cada oração tem sentido completo",
+        "Não exercem função sintática entre si",
+        "Ligadas por conjunções (sindéticas) ou justapostas (assindéticas)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Coordenadas: Sindéticas e Assindéticas",
+      "tempo_inicio_segundos": 67.19,
+      "topicos": [
+        "Assindéticas: sem conjunção, apenas justapostas",
+        "Separadas por vírgula, ponto e vírgula ou dois pontos",
+        "Sindéticas: com conjunção coordenativa",
+        "Classificadas de acordo com o sentido da conjunção"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Orações Coordenadas Sindéticas",
+      "tempo_inicio_segundos": 110.24,
+      "topicos": [
+        "1. Aditivas: ideia de adição, soma (e, nem, não só... mas também)",
+        "Ex: Ele estudou muito e passou no concurso.",
+        "2. Adversativas: ideia de oposição, contraste (mas, porém, todavia, contudo)",
+        "Ex: Choveu muito, mas não fez frio."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mais Tipos de Coordenadas Sindéticas",
+      "tempo_inicio_segundos": 147.31,
+      "topicos": [
+        "3. Alternativas: ideia de alternância, escolha (ou, ou... ou, ora... ora)",
+        "Ex: Ou você estuda, ou você trabalha.",
+        "4. Conclusivas: ideia de conclusão, consequência (logo, portanto, por isso)",
+        "Ex: Ele estudou, logo será aprovado.",
+        "5. Explicativas: ideia de explicação, justificativa (que, porque, pois antes do verbo)",
+        "Ex: Não saia, que está chovendo."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pontuação nas Orações Coordenadas",
+      "tempo_inicio_segundos": 196.79,
+      "topicos": [
+        "Vírgula para separar orações assindéticas",
+        "Vírgula antes de conjunções adversativas, conclusivas e explicativas",
+        "Vírgula antes do 'e': facultativa (sujeitos iguais)",
+        "Vírgula antes do 'e': obrigatória (sujeitos diferentes ou 'e' com valor adversativo)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 244.96,
+      "topicos": [
+        "Enunciado: Em qual das frases abaixo há uma oração coordenada assindética?",
+        "A) Ele estudou muito e passou no concurso.",
+        "B) Choveu bastante, mas não fez frio.",
+        "C) Cheguei cedo, preparei o café, li o jornal.",
+        "D) Não saia, que está chovendo.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 292.11,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a pontuação está *incorreta*.",
+        "A) Ele estudou, logo será aprovado.",
+        "B) Choveu muito, mas não fez frio.",
+        "C) Os alunos estudaram e os professores corrigiram as provas.",
+        "D) Não saia, que está chovendo.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Período Composto por Coordenação",
+      "tempo_inicio_segundos": 342.82,
+      "topicos": [
+        "Orações independentes: assindéticas (sem conjunção) ou sindéticas (com conjunção)",
+        "Sindéticas: Aditivas, Adversativas, Alternativas, Conclusivas, Explicativas",
+        "Conjunções-chave: e, nem; mas, porém; ou, ora; logo, portanto; que, porque, pois",
+        "Pontuação: vírgula para assindéticas e antes de adversativas, conclusivas, explicativas",
+        "Atenção ao 'e': vírgula obrigatória com sujeitos diferentes ou valor adversativo"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: A Vírgula e o 'E'!",
+      "tempo_inicio_segundos": 402.07,
+      "topicos": [
+        "Lembre-se: A vírgula antes do 'e' é crucial!",
+        "Sujeitos diferentes? Vírgula obrigatória!",
+        "'E' com sentido de 'mas'? Vírgula obrigatória!",
+        "Sempre revise a pontuação em períodos coordenados!"
+      ]
+    }
+  ]
+}

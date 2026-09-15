@@ -1,0 +1,123 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Complemento Nominal e Adjunto Adnominal: Distinções Essenciais",
+  "duracao_total_segundos": 477.2,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Complemento Nominal e Adjunto Adnominal: Distinções Essenciais",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Bem-vindos à aula de Português — Gramática!",
+        "Dominando a Sintaxe da Oração e do Período",
+        "Desvendando as diferenças entre Complemento Nominal e Adjunto Adnominal",
+        "Análise sintática precisa para sentenças claras e coesas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Complemento Nominal: O Paciente da Ação",
+      "tempo_inicio_segundos": 31.87,
+      "topicos": [
+        "Completa o sentido de um nome (substantivo abstrato, adjetivo ou advérbio)",
+        "Sempre introduzido por preposição",
+        "Expressa o alvo, o paciente ou o objeto da ação/qualidade",
+        "Termo integrante: essencial para a compreensão do nome",
+        "Bizú: O Complemento Nominal 'sofre' a ação ou 'recebe' a qualidade do nome. Pense nele como o 'paciente' da relação."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Características do Complemento Nominal",
+      "tempo_inicio_segundos": 89.29,
+      "topicos": [
+        "Completa Nomes: Substantivos abstratos, adjetivos ou advérbios",
+        "Nunca completa verbos",
+        "Sempre Preposicionado: Preposição é indispensável",
+        "Valor Passivo ou de Alvo: O termo preposicionado 'sofre' ou é o 'alvo'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Adjunto Adnominal: O Agente da Ação",
+      "tempo_inicio_segundos": 128.12,
+      "topicos": [
+        "Acompanha e caracteriza um substantivo (concreto ou abstrato)",
+        "Pode ser artigo, adjetivo, locução adjetiva, pronome adjetivo ou numeral",
+        "Termo acessório: sua retirada não compromete a estrutura sintática básica",
+        "Bizú: O Adjunto Adnominal 'pratica' a ação ou 'possui' a qualidade do nome. Pense nele como o 'agente' da relação."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Características do Adjunto Adnominal",
+      "tempo_inicio_segundos": 186.58,
+      "topicos": [
+        "Acompanha Substantivos: Concretos ou abstratos",
+        "Nunca completa adjetivos ou advérbios",
+        "Pode Ser ou Não Preposicionado: Artigos, adjetivos (não preposicionados); locuções adjetivas (preposicionadas)",
+        "Valor Ativo ou de Agente: O termo preposicionado 'pratica' ou é o 'possuidor'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Diferenças Essenciais: CN vs. AA",
+      "tempo_inicio_segundos": 228.47,
+      "topicos": [
+        "Termo Complementado: CN (substantivo abstrato, adjetivo, advérbio) vs. AA (apenas substantivo)",
+        "Preposição: CN (sempre) vs. AA (pode ou não ter)",
+        "Valor Semântico: CN (passivo/alvo) vs. AA (ativo/agente/possuidor)",
+        "Essencialidade: CN (integrante/essencial) vs. AA (acessório)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 287.96,
+      "topicos": [
+        "Enunciado: Em qual das frases abaixo o termo em destaque funciona como Complemento Nominal?",
+        "A) A casa DE PEDRO foi vendida.",
+        "B) Tenho orgulho DE SUA CONQUISTA.",
+        "C) Os livros DA BIBLIOTECA são novos.",
+        "D) O amor DE MÃE é eterno.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 340.49,
+      "topicos": [
+        "Enunciado: Analise as frases e assinale a alternativa em que o termo sublinhado é um Adjunto Adnominal com valor de agente.",
+        "A) A leitura DO LIVRO foi prazerosa.",
+        "B) A invenção DO RÁDIO revolucionou a comunicação.",
+        "C) O ataque DO LEÃO foi feroz.",
+        "D) Ele tem medo DE ALTURA.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese para Memorização",
+      "tempo_inicio_segundos": 388.7,
+      "topicos": [
+        "CN completa substantivos abstratos, adjetivos ou advérbios; AA acompanha apenas substantivos.",
+        "CN é sempre preposicionado; AA pode ou não ser.",
+        "CN tem valor passivo (alvo/paciente); AA tem valor ativo (agente/possuidor).",
+        "CN é termo integrante (essencial); AA é termo acessório.",
+        "Foque no tipo de nome, preposição e valor semântico para diferenciar."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú Final: A Chave da Diferença!",
+      "tempo_inicio_segundos": 444.62,
+      "topicos": [
+        "Bizú CN: O Complemento Nominal 'sofre' a ação ou 'recebe' a qualidade do nome. É o 'paciente'.",
+        "Bizú AA: O Adjunto Adnominal 'pratica' a ação ou 'possui' a qualidade do nome. É o 'agente'.",
+        "Prática constante e análise cuidadosa do contexto são suas melhores ferramentas!"
+      ]
+    }
+  ]
+}

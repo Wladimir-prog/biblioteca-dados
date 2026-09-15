@@ -2,7 +2,7 @@
   "disciplina": "Português — Gramática",
   "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
   "tema": "Fonemas e Letras",
-  "duracao_total_segundos": 525.76,
+  "duracao_total_segundos": 524.37,
   "cenas": [
     {
       "tipo": "capa",
@@ -18,7 +18,7 @@
     {
       "tipo": "explicacao",
       "titulo": "Fonema e Letra: As Unidades Fundamentais",
-      "tempo_inicio_segundos": 45.47,
+      "tempo_inicio_segundos": 45.07,
       "topicos": [
         "Fonema: Menor unidade sonora da fala",
         "Não possui significado, mas distingue sentidos",
@@ -33,7 +33,7 @@
     {
       "tipo": "explicacao",
       "titulo": "A Complexa Relação entre Fonemas e Letras",
-      "tempo_inicio_segundos": 97.4,
+      "tempo_inicio_segundos": 97.0,
       "topicos": [
         "Nem sempre há correspondência de um para um",
         "1 Letra = 1 Fonema: 'bola' (4 letras, 4 fonemas)",
@@ -48,7 +48,7 @@
     {
       "tipo": "explicacao",
       "titulo": "Dígrafos e Letras Sem Som",
-      "tempo_inicio_segundos": 155.81,
+      "tempo_inicio_segundos": 155.41,
       "topicos": [
         "Duas Letras = Um Fonema (Dígrafos):",
         "'ch' em 'chave' (/ʃ/)",
@@ -65,7 +65,7 @@
     {
       "tipo": "explicacao",
       "titulo": "Encontros Consonantais e Vocálicos",
-      "tempo_inicio_segundos": 227.78,
+      "tempo_inicio_segundos": 227.38,
       "topicos": [
         "Encontro Consonantal: Duas ou mais consoantes com fonemas distintos",
         "Todas as consoantes são pronunciadas",
@@ -82,7 +82,7 @@
     {
       "tipo": "questao",
       "titulo": "Questão de Fixação 1",
-      "tempo_inicio_segundos": 303.57,
+      "tempo_inicio_segundos": 303.16,
       "topicos": [
         "Enunciado: Assinale a alternativa em que a palavra apresenta o mesmo número de letras e fonemas.",
         "A) Chave",
@@ -99,7 +99,7 @@
     {
       "tipo": "questao",
       "titulo": "Questão de Fixação 2",
-      "tempo_inicio_segundos": 363.35,
+      "tempo_inicio_segundos": 362.94,
       "topicos": [
         "Enunciado: A palavra 'saúde' apresenta um encontro vocálico classificado como:",
         "A) Ditongo crescente",
@@ -115,7 +115,7 @@
     {
       "tipo": "resumo",
       "titulo": "Síntese: Pontos Chave para Memorizar",
-      "tempo_inicio_segundos": 409.09,
+      "tempo_inicio_segundos": 408.34,
       "topicos": [
         "Fonema: Unidade sonora que distingue significados.",
         "Letra: Representação gráfica do fonema.",
@@ -128,7 +128,7 @@
     {
       "tipo": "bizu",
       "titulo": "Bizu do Professor: Dica de Ouro!",
-      "tempo_inicio_segundos": 466.92,
+      "tempo_inicio_segundos": 466.18,
       "topicos": [
         "Para contar fonemas:",
         "Conte as letras.",

@@ -1,0 +1,118 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Coerência Textual e Progressão Temática",
+  "duracao_total_segundos": 439.27,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Coerência Textual e Progressão Temática",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Gramática do Texto e Linguística Aplicada",
+        "Tema: Coerência Textual e Progressão Temática",
+        "Pilares para textos claros e eficazes",
+        "Leitura fluida e mensagem assimilável"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Coerência Textual: A Alma do Texto",
+      "tempo_inicio_segundos": 35.95,
+      "topicos": [
+        "Relação lógica entre ideias",
+        "Sentido global e compreensível",
+        "Níveis: semântico, sintático, pragmático, estilístico",
+        "Características: ausência de contradições, relevância, não repetição",
+        "Exemplo: \"O aluno estudou muito e obteve excelente resultado.\""
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Fatores Essenciais para a Coerência",
+      "tempo_inicio_segundos": 82.31,
+      "topicos": [
+        "Conhecimento de Mundo: Alinhamento com o senso comum",
+        "Não Contradição: Lógica interna do discurso",
+        "Relevância: Contribuição para o tema central",
+        "Não Repetição: Evitar redundância e cansaço",
+        "Progressão: Desenvolvimento contínuo do tema"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Progressão Temática: O Motor do Texto",
+      "tempo_inicio_segundos": 131.48,
+      "topicos": [
+        "Introdução e desenvolvimento de informações",
+        "Evita estagnação e repetição",
+        "Relação TEMA (conhecido) e REMA (novo)",
+        "Equilíbrio entre o dito e o a dizer",
+        "Exemplo: \"O Brasil é diverso. Sua cultura reflete essa riqueza.\""
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Progressão Temática",
+      "tempo_inicio_segundos": 188.81,
+      "topicos": [
+        "Tema Constante: Mesmo tema, remas distintos. Ex: \"João é bom aluno. Ele tira notas altas.\"",
+        "Linear: Rema de uma frase vira tema da próxima. Ex: \"Comprei um livro. O livro trata de história.\"",
+        "Temas Derivados: Tema geral desdobrado em subtemas. Ex: \"A escola oferece atividades: música, teatro e esportes.\""
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 246.83,
+      "topicos": [
+        "Enunciado: Qual opção tem problema de coerência?",
+        "A) Apesar da chuva intensa, o piquenique foi cancelado.",
+        "B) Ele estudou muito para a prova, por isso foi reprovado.",
+        "C) O sol brilhava forte, e as crianças brincavam no parque.",
+        "D) Comprei um livro novo, que aborda temas de ficção científica.",
+        "Gabarito: B",
+        "Comentário: Contradição lógica entre estudar muito e ser reprovado."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 295.36,
+      "topicos": [
+        "Enunciado: \"O professor explicou a matéria. A matéria era complexa. A complexidade exigiu muita atenção dos alunos.\" Qual tipo de progressão?",
+        "A) Progressão com tema constante.",
+        "B) Progressão linear.",
+        "C) Progressão com temas derivados.",
+        "D) Progressão por enumeração.",
+        "Gabarito: B",
+        "Comentário: Rema de uma frase vira tema da próxima."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave",
+      "tempo_inicio_segundos": 349.95,
+      "topicos": [
+        "Coerência e Progressão: Interdependentes e cruciais.",
+        "Coerência: Sentido lógico, não contradição, unidade.",
+        "Progressão: Avanço do texto, novas informações.",
+        "Fatores de Coerência: Conhecimento de mundo, não contradição, relevância, não repetição.",
+        "Progressão: Relação Tema (conhecido) e Rema (novo).",
+        "Tipos de Progressão: Tema constante, linear, temas derivados."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor!",
+      "tempo_inicio_segundos": 397.82,
+      "topicos": [
+        "Coerência + Progressão = Texto Impecável",
+        "Revise a lógica e o fluxo das ideias",
+        "Garanta que cada parágrafo adicione algo novo",
+        "Pratique a escrita e a leitura crítica"
+      ]
+    }
+  ]
+}

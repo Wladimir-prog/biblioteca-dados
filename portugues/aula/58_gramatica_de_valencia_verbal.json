@@ -1,0 +1,122 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "LINGUÍSTICA E VALÊNCIA",
+  "tema": "Gramática de Valência Verbal",
+  "duracao_total_segundos": 426.86,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Valência Verbal: Desvendando a Estrutura dos Verbos",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Linguística e Valência",
+        "Tema: Gramática de Valência Verbal"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que é Valência Verbal?",
+      "tempo_inicio_segundos": 22.99,
+      "topicos": [
+        "Capacidade do verbo de exigir argumentos",
+        "Número e tipo de complementos",
+        "Transcende a transitividade tradicional",
+        "Propriedade lexical do verbo",
+        "Exemplo: O menino comeu a maçã."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Valência Verbal: Avalentes e Monovalentes",
+      "tempo_inicio_segundos": 83.99,
+      "topicos": [
+        "Valência Zero: Verbos Avalentes",
+        "Não exigem argumentos (nem sujeito)",
+        "Fenômenos da natureza ou tempo",
+        "Ex: Choveu muito ontem.",
+        "Valência Um: Verbos Monovalentes",
+        "Exigem apenas um argumento (o sujeito)",
+        "Correspondem aos intransitivos",
+        "Ex: O bebê dorme."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Valência Verbal: Bivalentes e Trivalentes",
+      "tempo_inicio_segundos": 133.71,
+      "topicos": [
+        "Valência Dois: Verbos Bivalentes",
+        "Exigem dois argumentos",
+        "Sujeito + Objeto Direto (transitivo direto)",
+        "Sujeito + Objeto Indireto (transitivo indireto)",
+        "Ex: Ela comprou um livro.",
+        "Valência Três: Verbos Trivalentes",
+        "Exigem três argumentos",
+        "Sujeito + Objeto Direto + Objeto Indireto",
+        "Ex: O professor entregou o trabalho aos alunos."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Argumentos vs. Adjuntos: Qual a Diferença?",
+      "tempo_inicio_segundos": 191.83,
+      "topicos": [
+        "Argumentos: Essenciais ao sentido do verbo",
+        "Preenchem 'lugares' abertos pela valência",
+        "Adjuntos: Opcionais, informações extras",
+        "Não são exigidos pelo verbo",
+        "Bizú: Se a frase 'perde o sentido' sem o termo, é argumento!",
+        "Ex: Ele comeu (o bolo) rapidamente."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 249.64,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que o verbo em destaque apresenta valência zero (avalente):",
+        "A) O aluno estudou a lição.",
+        "B) Choveu muito durante a noite.",
+        "C) Ela gosta de música clássica.",
+        "D) O pássaro voa alto no céu.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 298.02,
+      "topicos": [
+        "Enunciado: Considere a frase: 'O professor entregou o livro ao aluno com carinho.' Qual dos termos sublinhados é um adjunto?",
+        "A) O professor",
+        "B) o livro",
+        "C) ao aluno",
+        "D) com carinho",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Valência Verbal",
+      "tempo_inicio_segundos": 348.01,
+      "topicos": [
+        "Valência verbal: capacidade do verbo de exigir argumentos.",
+        "Vai além da transitividade tradicional.",
+        "Classificação: avalentes (valência zero), monovalentes (valência um), bivalentes (valência dois), trivalentes (valência três).",
+        "Argumentos são essenciais; adjuntos são opcionais."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu Final: Valência na Prática!",
+      "tempo_inicio_segundos": 392.33,
+      "topicos": [
+        "Argumentos são ESSENCIAIS para o sentido do verbo.",
+        "Adjuntos são EXTRAS e opcionais.",
+        "Teste: Se tirar e a frase 'perder o sentido', é argumento!",
+        "Domine a valência para textos claros e precisos!"
+      ]
+    }
+  ]
+}

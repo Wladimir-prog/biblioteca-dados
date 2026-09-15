@@ -1,0 +1,161 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Sintaxe da Oração e do Período",
+  "tema": "Concordância Verbal",
+  "duracao_total_segundos": 513.44,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Concordância Verbal: Desvendando as Regras Essenciais",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português - Gramática",
+        "Sintaxe da Oração e do Período",
+        "Concordância Verbal",
+        "Clareza, Coesão e Correção na Comunicação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regra Geral e Sujeito Composto",
+      "tempo_inicio_segundos": 28.79,
+      "topicos": [
+        "Regra Geral: Verbo concorda com o núcleo do sujeito em número e pessoa.",
+        "Ex: O aluno estudou. Os alunos estudaram. Eu estudo.",
+        "Sujeito Composto Anteposto (antes do verbo): Verbo obrigatoriamente no plural.",
+        "Ex: João e Maria viajaram. O pai e o filho saíram.",
+        "Sujeito Composto Posposto (depois do verbo): Plural ou concordância atrativa (com o núcleo mais próximo).",
+        "Ex: Viajaram João e Maria. Viajou João e Maria."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sujeito Composto: Pessoas Gramaticais e Sinônimos",
+      "tempo_inicio_segundos": 78.78,
+      "topicos": [
+        "Sujeito Composto por Pessoas Diferentes: Hierarquia de prevalência.",
+        "1ª pessoa (eu, nós) prevalece sobre 2ª e 3ª (verbo na 1ª do plural).",
+        "Ex: Eu, tu e ele faremos o trabalho.",
+        "2ª pessoa (tu, vós) prevalece sobre 3ª (verbo na 2ª ou 3ª do plural).",
+        "Ex: Tu e ele fareis/farão o trabalho.",
+        "Sujeito Composto por Sinônimos ou Gradação: Verbo no singular ou plural.",
+        "Ex: A paz e a tranquilidade reinava/reinavam. Um grito, um sussurro, um lamento ecoava."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sujeito Oracional e Verbos Impessoais",
+      "tempo_inicio_segundos": 123.39,
+      "topicos": [
+        "Sujeito Oracional: Verbo da oração principal no singular.",
+        "Ex: É necessário que todos participem. Convém que você estude mais.",
+        "Verbo 'Haver' (sentido de existir, ocorrer, acontecer): Impessoal, sempre na 3ª pessoa do singular.",
+        "Ex: Havia muitos problemas. Há bons livros. Houve grandes festas.",
+        "Verbos 'Fazer' e 'Ser' (tempo decorrido, cronológico, fenômenos climáticos): Impessoais, na 3ª pessoa do singular.",
+        "Ex: Faz dez anos. Fazia dias frios. É tarde para voltar.",
+        "Exceção: Verbo 'Ser' para horas e datas concorda com o numeral.",
+        "Ex: São dez horas. Hoje são quinze de maio."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Expressões Partitivas e Pronomes Relativos",
+      "tempo_inicio_segundos": 179.66,
+      "topicos": [
+        "Expressões Partitivas ('a maioria de', 'grande parte de'): Verbo concorda com o núcleo partitivo (singular) ou com o especificador (plural).",
+        "Ex: A maioria dos alunos faltou/faltaram.",
+        "Pronome Relativo 'Que': Verbo concorda com o antecedente do pronome.",
+        "Ex: Fui eu que paguei a conta. Fomos nós que pagamos a conta.",
+        "Pronome Relativo 'Quem': Verbo concorda com o antecedente OU fica na 3ª pessoa do singular.",
+        "Ex: Fui eu quem paguei a conta. Fui eu quem pagou a conta."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Específicos de Concordância",
+      "tempo_inicio_segundos": 227.35,
+      "topicos": [
+        "Expressão 'Um dos que': Verbo no plural (mais comum) ou singular (ênfase no indivíduo).",
+        "Ex: Ele foi um dos que mais se destacaram/destacou.",
+        "Locução 'Parecer + Infinitivo': Flexiona 'parecer' OU o infinitivo.",
+        "Ex: Os alunos parecem estudar. Os alunos parece estudarem.",
+        "Expressões 'Nem um nem outro': Singular ou plural (plural mais comum).",
+        "Ex: Nem um nem outro compareceu/compareceram.",
+        "Expressão 'Um ou outro': Verbo obrigatoriamente no singular.",
+        "Ex: Um ou outro aluno faltou.",
+        "Núcleos ligados por 'Com': Valor aditivo (plural) ou de companhia (concorda com o 1º elemento).",
+        "Ex: O pai com o filho saíram. O pai, com o filho, saiu.",
+        "Sujeito com Porcentagens/Frações: Concorda com o numeral OU com o especificador.",
+        "Ex: 1% da população votou/votaram. 20% dos eleitores compareceram.",
+        "Nomes Próprios no Plural: Com artigo plural -> verbo plural. Sem artigo/artigo singular -> verbo singular.",
+        "Ex: Os Estados Unidos são. Minas Gerais possui."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática! Questões 1 e 2",
+      "tempo_inicio_segundos": 290.05,
+      "topicos": [
+        "Questão 1: Assinale a alternativa em que a concordância verbal está INCORRETA.",
+        "A) Os alunos e o professor chegaram cedo.",
+        "B) Fazem muitos anos que não o vejo.",
+        "C) A maioria dos presentes aplaudiu a oradora.",
+        "D) Fui eu que paguei a conta.",
+        "Gabarito: B",
+        "Comentário: O verbo 'fazer', indicando tempo decorrido, é impessoal e deve ficar no singular. O correto é 'Faz muitos anos'.",
+        "Questão 2: Em qual das frases o verbo 'haver' está empregado corretamente?",
+        "A) Haviam muitas pessoas na fila.",
+        "B) Havia muitos problemas a resolver.",
+        "C) Se houvessem mais oportunidades, a situação seria diferente.",
+        "D) Não houveram dúvidas sobre o resultado.",
+        "Gabarito: B",
+        "Comentário: O verbo 'haver', no sentido de 'existir', é impessoal e permanece na 3ª pessoa do singular."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Mais Desafios! Questões 3 e 4",
+      "tempo_inicio_segundos": 355.13,
+      "topicos": [
+        "Questão 3: Analise as sentenças e assinale a opção com concordância verbal correta.",
+        "A) Fomos nós quem pagou a conta.",
+        "B) Fui eu que pagamos a conta.",
+        "C) Foram eles quem pagaram a conta.",
+        "D) Fui eu quem paguei a conta.",
+        "Gabarito: D",
+        "Comentário: Com 'quem', o verbo pode concordar com o antecedente ('eu' -> 'paguei') ou ficar na 3ª pessoa do singular ('pagou').",
+        "Questão 4: Em relação à concordância verbal, qual das frases apresenta erro?",
+        "A) A maioria dos alunos faltaram à aula.",
+        "B) Um grito, um sussurro, um lamento ecoavam na noite.",
+        "C) Ele foi um dos que mais se destacou na competição.",
+        "D) Os Estados Unidos é uma grande potência econômica.",
+        "Gabarito: D",
+        "Comentário: Com nomes próprios no plural e artigo plural, o verbo vai para o plural. O correto é 'Os Estados Unidos SÃO'."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese da Concordância Verbal",
+      "tempo_inicio_segundos": 426.62,
+      "topicos": [
+        "Regra Geral: Verbo concorda em número e pessoa com o núcleo do sujeito.",
+        "Sujeito Composto: Posição (ante/posposto) e pessoas gramaticais são cruciais.",
+        "Verbos Impessoais ('haver', 'fazer', 'ser' - tempo/clima): Geralmente no singular.",
+        "Casos Específicos: Expressões partitivas, pronomes relativos ('que', 'quem'), 'um dos que', 'parecer + infinitivo', 'nem um nem outro', 'um ou outro', 'com', porcentagens e nomes próprios no plural.",
+        "Atenção às duplas concordâncias e exceções!"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu Final e Despedida",
+      "tempo_inicio_segundos": 473.35,
+      "topicos": [
+        "Dica de Ouro: Para não errar, IDENTIFIQUE o NÚCLEO do sujeito!",
+        "Substitua o sujeito por um pronome pessoal (eu, tu, ele, nós, vós, eles).",
+        "Verifique a flexão do verbo com esse pronome.",
+        "Pratique com muitos exercícios para internalizar as regras.",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

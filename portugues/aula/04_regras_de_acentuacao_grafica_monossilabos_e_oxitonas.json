@@ -1,0 +1,111 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Regras de Acentuação Gráfica (Monossílabos e Oxítonas)",
+  "duracao_total_segundos": 401.83,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Regras de Acentuação Gráfica",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Acentuação Gráfica: Essencial para a escrita correta.",
+        "Indica a sílaba tônica e diferencia homógrafos.",
+        "Foco: Monossílabos Tônicos e Oxítonas."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Monossílabos Tônicos: O que são?",
+      "tempo_inicio_segundos": 36.74,
+      "topicos": [
+        "Palavras com apenas uma sílaba.",
+        "Sentido completo e forte quando pronunciadas isoladamente.",
+        "Nem todos os monossílabos são acentuados, apenas os tônicos.",
+        "Regra: Acentuam-se os monossílabos tônicos terminados em A(S), E(S), O(S).",
+        "Bizú: Lembre-se da sequência A, E, O."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Monossílabos Tônicos: Exemplos Práticos",
+      "tempo_inicio_segundos": 80.17,
+      "topicos": [
+        "Terminados em A(S): CHÁ, MÁS, JÁ.",
+        "Terminados em E(S): PÉ, MÊS, CRÊS.",
+        "Terminados em O(S): NÓ, PÔS, SÓS."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Palavras Oxítonas: Identificação e Acentuação",
+      "tempo_inicio_segundos": 113.14,
+      "topicos": [
+        "Sílaba tônica é a última da palavra.",
+        "Nem todas as oxítonas são acentuadas.",
+        "Regra: Acentuam-se as oxítonas terminadas em A(S), E(S), O(S), EM, ENS.",
+        "Bizú: Para oxítonas, a regra é 'A, E, O, EM, ENS'."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Oxítonas: Exemplos e Aplicação",
+      "tempo_inicio_segundos": 157.1,
+      "topicos": [
+        "Terminadas em A(S): SOFÁ, VATAPÁS, ESTARÁ.",
+        "Terminadas em E(S): CAFÉ, VOCÊS, JACARÉ.",
+        "Terminadas em O(S): AVÔ, CIPÓS, ROBÔ.",
+        "Terminadas em EM e ENS: ALGUÉM, PARABÉNS, TAMBÉM."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Atenção! Exceções e Casos Especiais",
+      "tempo_inicio_segundos": 192.47,
+      "topicos": [
+        "Oxítonas terminadas em I(S) ou U(S) *não* são acentuadas pela regra geral.",
+        "Exemplos: CAJU, TATU, SAIR.",
+        "Acentuam-se oxítonas com ditongos abertos ÉI, ÉU, ÓI (seguidos ou não de S).",
+        "Exemplos: ANÉIS, CHAPÉU, HERÓI.",
+        "Bizú: Não confunda com a regra geral de oxítonas terminadas em I(S) ou U(S)."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Oxítonas",
+      "tempo_inicio_segundos": 246.44,
+      "topicos": [
+        "Enunciado: Qual das alternativas apresenta apenas palavras oxítonas corretamente acentuadas?",
+        "A) Café, parabéns, caju.",
+        "B) Vatapás, ninguém, jacaré.",
+        "C) Robô, tatu, também.",
+        "D) Sofá, cipós, ruim.",
+        "Gabarito: B",
+        "Comentário: 'Vatapás' (AS), 'ninguém' (EM), 'jacaré' (E) seguem a regra. 'Caju' e 'tatu' (U) e 'ruim' (IM) não são acentuadas."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Acentuação",
+      "tempo_inicio_segundos": 312.49,
+      "topicos": [
+        "Acentuação gráfica: indica sílaba tônica e diferencia homógrafos.",
+        "Monossílabos tônicos: acentuados se terminados em A(S), E(S), O(S).",
+        "Oxítonas: acentuadas se terminadas em A(S), E(S), O(S), EM, ENS.",
+        "Oxítonas em I(S) ou U(S): *não* acentuadas (exceto hiato).",
+        "Oxítonas com ditongos abertos ÉI, ÉU, ÓI: *sempre* acentuadas."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizus Finais para Não Errar!",
+      "tempo_inicio_segundos": 358.13,
+      "topicos": [
+        "Monossílabos Tônicos: A, E, O (com ou sem S).",
+        "Oxítonas: A, E, O, EM, ENS (com ou sem S).",
+        "Atenção aos ditongos abertos ÉI, ÉU, ÓI em oxítonas.",
+        "Pratique com leitura e escrita!"
+      ]
+    }
+  ]
+}

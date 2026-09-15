@@ -1,0 +1,147 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Dificuldades Ortográficas II: Uso dos Porquês, Acerca de, e Ao Encontro de",
+  "duracao_total_segundos": 432.06,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Dificuldades Ortográficas II",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Língua Portuguesa: riqueza e complexidade",
+        "Desafios ortográficos comuns",
+        "Clareza e precisão na comunicação",
+        "Foco: Porquês, Acerca de, Ao Encontro de",
+        "Domine as nuances para textos impecáveis"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso dos Porquês: POR QUE (separado e sem acento)",
+      "tempo_inicio_segundos": 44.06,
+      "topicos": [
+        "Perguntas diretas ou indiretas",
+        "Substituível por 'pelo qual' e variações",
+        "'Por' preposição + 'que' pronome relativo",
+        "Ex: Por que você não veio?",
+        "Ex: Os caminhos por que passamos..."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso dos Porquês: POR QUÊ e PORQUE",
+      "tempo_inicio_segundos": 81.68,
+      "topicos": [
+        "POR QUÊ (separado e com acento):",
+        "Final de frases interrogativas",
+        "Antes de ponto final, interrogação ou exclamação",
+        "Ex: Você não estudou, por quê?",
+        "PORQUE (junto e sem acento):",
+        "Respostas ou explicações",
+        "Conjunção explicativa ou causal",
+        "Substituível por 'pois', 'já que'",
+        "Ex: Não fui porque estava doente."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso dos Porquês: PORQUÊ e BIZU",
+      "tempo_inicio_segundos": 124.57,
+      "topicos": [
+        "PORQUÊ (junto e com acento):",
+        "Substantivo: 'motivo', 'razão'",
+        "Geralmente com artigo (o, os, um, uns)",
+        "Ex: Não sei o porquê de tanta confusão.",
+        "BIZU dos Porquês:",
+        "Pergunta: Por que? (separado)",
+        "Resposta: Porque. (junto)",
+        "Substantivo: Porquê (junto, acento)",
+        "Final de frase: Por quê? (separado, acento)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Acerca de, A Cerca de, Há Cerca de",
+      "tempo_inicio_segundos": 167.45,
+      "topicos": [
+        "ACERCA DE = sobre, a respeito de (assunto)",
+        "Ex: Conversamos acerca de política.",
+        "A CERCA DE = distância ou quantidade aproximada",
+        "Ex: A escola fica a cerca de 2 km.",
+        "HÁ CERCA DE = tempo decorrido, faz aproximadamente",
+        "Ex: Ele se mudou há cerca de 3 anos.",
+        "BIZU: Assunto, Distância, Tempo!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Ao Encontro de e De Encontro A",
+      "tempo_inicio_segundos": 217.46,
+      "topicos": [
+        "AO ENCONTRO DE = a favor, concordância, harmonia",
+        "Ex: Minhas ideias vão ao encontro das suas.",
+        "DE ENCONTRO A = contra, oposição, choque, colisão",
+        "Ex: O carro foi de encontro ao muro.",
+        "BIZU: Ao encontro de = a favor; De encontro a = contra!"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 258.2,
+      "topicos": [
+        "Assinale a alternativa em que o uso do 'porquê' está CORRETO:",
+        "A) Não sei o por que de tanta pressa.",
+        "B) Ele não veio porque estava doente.",
+        "C) Você não me ligou, por que?",
+        "D) Os motivos por quê ele agiu assim são desconhecidos.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 302.31,
+      "topicos": [
+        "Complete as lacunas corretamente:",
+        "'Conversamos ______ a nova política da empresa.",
+        "O escritório fica ______ cinco quilômetros da cidade.",
+        "Não o vejo ______ um ano.'",
+        "A) acerca de / a cerca de / há cerca de",
+        "B) a cerca de / acerca de / há cerca de",
+        "C) há cerca de / a cerca de / acerca de",
+        "D) acerca de / há cerca de / a cerca de",
+        "Gabarito: A"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese para Memorização",
+      "tempo_inicio_segundos": 353.59,
+      "topicos": [
+        "Por que (separado, sem acento): perguntas, pronome relativo.",
+        "Por quê (separado, com acento): final de frase interrogativa.",
+        "Porque (junto, sem acento): respostas, explicações.",
+        "Porquê (junto, com acento): substantivo (o motivo).",
+        "Acerca de: sobre, a respeito de.",
+        "A cerca de: distância ou quantidade aproximada.",
+        "Há cerca de: tempo decorrido (faz aproximadamente).",
+        "Ao encontro de: a favor, concordância.",
+        "De encontro a: contra, oposição, choque."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "BIZU Final e Despedida",
+      "tempo_inicio_segundos": 399.11,
+      "topicos": [
+        "Pratique a escrita diariamente!",
+        "Leia bastante para fixar o uso.",
+        "Atenção aos contextos das frases.",
+        "A gramática é sua aliada!",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

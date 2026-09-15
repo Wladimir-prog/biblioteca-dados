@@ -1,0 +1,108 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Denotação e Conotação",
+  "duracao_total_segundos": 381.29,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Denotação e Conotação: Desvendando os Sentidos da Língua",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Semântica, Estilística e Uso das Palavras",
+        "Denotação e Conotação",
+        "Além do Sentido Literal"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Denotação: O Sentido Literal e Objetivo",
+      "tempo_inicio_segundos": 33.31,
+      "topicos": [
+        "Sentido Literal e Dicionarizado",
+        "Significado Primário e Universal",
+        "Objetividade e Clareza",
+        "Textos Informativos, Científicos e Jornalísticos",
+        "Exemplos: Coração, Casa, Sol"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conotação: O Sentido Figurado e Subjetivo",
+      "tempo_inicio_segundos": 82.33,
+      "topicos": [
+        "Sentido Figurado e Contextual",
+        "Significado Secundário e Evocativo",
+        "Subjetividade e Expressividade",
+        "Textos Literários, Poéticos e Publicitários",
+        "Exemplos: Coração, Casa, Sol"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Denotação vs. Conotação: A Chave é o Contexto",
+      "tempo_inicio_segundos": 137.57,
+      "topicos": [
+        "Objetividade (Denotação) vs. Subjetividade (Conotação)",
+        "Propósito Comunicativo",
+        "Mesma Palavra, Diferentes Sentidos",
+        "Análise do Contexto é Fundamental",
+        "Exemplos: Leão, Cobra, Ouro"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 204.65,
+      "topicos": [
+        "Assinale a alternativa em que a palavra destacada é empregada em sentido denotativo.",
+        "A) \"Seu olhar era um mar de mistérios.\"",
+        "B) \"O tempo voa quando estamos felizes.\"",
+        "C) \"O coração humano é um órgão muscular que bombeia sangue.\"",
+        "D) \"Ele tem um coração de ouro, sempre ajudando a todos.\"",
+        "Gabarito: C",
+        "Comentário: A opção C apresenta o termo \"coração\" em seu sentido literal, biológico, como um órgão do corpo humano, caracterizando o uso denotativo. Nas demais opções, \"mar\", \"voa\" e \"coração de ouro\" são empregados em sentido figurado, conotativo."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 250.05,
+      "topicos": [
+        "Em qual das frases abaixo a palavra \"pedra\" é utilizada em sentido conotativo?",
+        "A) \"A pedra rolou montanha abaixo.\"",
+        "B) \"Construíram a casa com pedras resistentes.\"",
+        "C) \"Sua indiferença era uma pedra no meu caminho.\"",
+        "D) \"Encontramos uma pedra preciosa no rio.\"",
+        "Gabarito: C",
+        "Comentário: Na alternativa C, \"pedra\" é usada para expressar um obstáculo ou dificuldade (\"uma pedra no meu caminho\"), um sentido figurado e subjetivo, característico da conotação. Nas outras opções, \"pedra\" refere-se ao material rochoso em seu sentido literal (denotativo)."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave para Memorizar",
+      "tempo_inicio_segundos": 292.6,
+      "topicos": [
+        "Denotação: sentido literal, objetivo e dicionarizado.",
+        "Conotação: sentido figurado, subjetivo e contextual.",
+        "Denotação busca clareza e univocidade.",
+        "Conotação visa expressividade e plurissignificação.",
+        "O contexto é determinante para identificar o sentido.",
+        "Essencial para interpretação e comunicação eficaz."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "BIZU: Dica de Ouro para Provas!",
+      "tempo_inicio_segundos": 336.56,
+      "topicos": [
+        "Em provas, observe o gênero textual e o contexto da frase.",
+        "Textos informativos tendem à denotação.",
+        "Textos literários e expressivos, à conotação.",
+        "O contexto é a chave para desvendar o sentido!",
+        "Pratique a análise textual!"
+      ]
+    }
+  ]
+}

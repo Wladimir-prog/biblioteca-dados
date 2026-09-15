@@ -1,0 +1,136 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Uso do Hífen (Novo Acordo Ortográfico)",
+  "duracao_total_segundos": 494.41,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Uso do Hífen (Novo Acordo Ortográfico)",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+        "O hífen: clareza e correção na escrita",
+        "Novo Acordo Ortográfico: modificações significativas",
+        "Crucial para evitar equívocos e garantir conformidade"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Hífen em Palavras Compostas",
+      "tempo_inicio_segundos": 64.19,
+      "topicos": [
+        "Com Hífen: Justaposição sem elemento de ligação",
+        "Componentes mantêm autonomia semântica",
+        "Exemplos: guarda-chuva, couve-flor, bem-estar",
+        "Sem Hífen: Perderam noção de composição",
+        "Já incorporam elementos de ligação",
+        "Exemplos: girassol, pontapé, mandachuva"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Hífen com Prefixos: Regra Geral e 'H'",
+      "tempo_inicio_segundos": 97.5,
+      "topicos": [
+        "Regra Geral: Aglutinação (sem hífen)",
+        "Prefixo termina em vogal, 2º elemento começa com vogal diferente",
+        "Prefixo termina em vogal, 2º elemento começa com consoante (exceto 'h', 'r', 's')",
+        "Exemplos: autoescola, antiaéreo, semicírculo",
+        "Usa-se Hífen: 2º elemento começa com 'H'",
+        "Exemplos: anti-higiênico, super-homem, pré-história"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Hífen com Prefixos: Vogais e Consoantes Iguais",
+      "tempo_inicio_segundos": 138.89,
+      "topicos": [
+        "Usa-se Hífen: Prefixo termina na mesma vogal que inicia o 2º elemento",
+        "Exemplos: micro-ondas, anti-inflamatório, contra-ataque",
+        "Usa-se Hífen: Prefixo termina na mesma consoante que inicia o 2º elemento",
+        "Exemplos: inter-regional, sub-bibliotecário, super-resistente"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Hífen com Prefixos: Casos Especiais e Dobra R/S",
+      "tempo_inicio_segundos": 174.5,
+      "topicos": [
+        "Prefixos que SEMPRE pedem hífen:",
+        "ex-, sem-, além-, aquém-, recém-, pós-, pré-, pró- (tônicos)",
+        "Exemplos: ex-aluno, sem-terra, pré-vestibular",
+        "NÃO se usa hífen: Prefixo termina em vogal e 2º elemento começa com R ou S",
+        "Dobram-se as letras R ou S",
+        "Exemplos: antirracismo, ultrassom, minissaia"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Hífen: Prefixos 'Co-', 'Re-' e Locuções",
+      "tempo_inicio_segundos": 217.63,
+      "topicos": [
+        "Prefixos 'co-' e 're-': Aglutinação (sem hífen)",
+        "Mesmo que o 2º elemento comece com 'o' ou 'h'",
+        "Exemplos: coobrigação, coautor, reescrever, reaver",
+        "Locuções (substantivas, adjetivas, adverbiais, etc.): Geralmente SEM hífen",
+        "Exemplos: dia a dia, fim de semana, café com leite",
+        "Exceções (com hífen): água-de-colônia, cor-de-rosa"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 268.74,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todas as palavras estão corretamente grafadas de acordo com as regras do Novo Acordo Ortográfico sobre o uso do hífen.",
+        "A) anti-inflamatório, super-homem, microondas",
+        "B) autoescola, inter-regional, sem-terra",
+        "C) infraestrutura, co-autor, ultrassom",
+        "D) ex-aluno, antirracismo, bem-estar",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 331.01,
+      "topicos": [
+        "Enunciado: Em qual das opções a seguir o hífen foi empregado de forma INCORRETA?",
+        "A) super-resistente",
+        "B) anti-higiênico",
+        "C) re-escrever",
+        "D) pós-graduação",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo: Pontos Essenciais do Hífen",
+      "tempo_inicio_segundos": 376.32,
+      "topicos": [
+        "Hífen: une elementos de palavras compostas e liga pronomes a verbos.",
+        "Palavras Compostas: com hífen (guarda-chuva) ou sem (girassol).",
+        "Prefixos: regra geral é aglutinação (sem hífen).",
+        "Usa-se hífen: 2º elemento com 'h', mesma vogal ou mesma consoante do prefixo.",
+        "Dobram-se 'r' ou 's': prefixo termina em vogal e 2º elemento começa com 'r' ou 's' (antirracismo).",
+        "Prefixos 'ex-', 'sem-', 'além-', 'recém-', 'pós-', 'pré-', 'pró-' (tônicos): sempre com hífen.",
+        "Prefixos 'co-' e 're-': geralmente aglutinam (coautor, reescrever).",
+        "Locuções: geralmente sem hífen (dia a dia), com poucas exceções."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 449.9,
+      "topicos": [
+        "Dica de Ouro: 'H' e Vogais/Consoantes Iguais = Hífen!",
+        "Prefixos 'ex-', 'sem-', 'além-', 'aquém-', 'recém-', 'pós-', 'pré-', 'pró-' (tônicos) = Hífen SEMPRE!",
+        "R ou S duplicados = SEM HÍFEN!",
+        "Pratique com exemplos e revise as regras constantemente.",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

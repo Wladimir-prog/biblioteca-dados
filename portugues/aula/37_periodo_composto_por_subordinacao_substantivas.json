@@ -1,0 +1,140 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Período Composto por Subordinação (Substantivas)",
+  "duracao_total_segundos": 493.38,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Período Composto por Subordinação (Substantivas)",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Bem-vindos ao e-Biblio Digital!",
+        "Estrutura sintática fundamental da Língua Portuguesa.",
+        "Relação de dependência entre orações.",
+        "Orações subordinadas substantivas: funções de um substantivo.",
+        "Introduzidas por \"que\" e \"se\"."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Período Composto por Subordinação",
+      "tempo_inicio_segundos": 36.57,
+      "topicos": [
+        "Orações com dependência sintática.",
+        "Oração subordinada completa a principal.",
+        "Subordinada não tem sentido completo isoladamente.",
+        "Introduzida por conjunções subordinativas (que, se, quando, embora) ou pronomes relativos (que, quem, onde).",
+        "Destaque: Subordinada depende da principal!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Subordinadas Substantivas",
+      "tempo_inicio_segundos": 78.3,
+      "topicos": [
+        "Exercem funções sintáticas de um substantivo.",
+        "Podem ser sujeito, objeto direto, objeto indireto, complemento nominal, predicativo ou aposto.",
+        "Introduzidas por QUE e SE (conjunções integrantes).",
+        "Desenvolvidas (com conjunção e verbo conjugado).",
+        "Reduzidas (sem conjunção, verbo no infinitivo, gerúndio ou particípio).",
+        "Bizú: Substitua por 'isso'/'aquilo'!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Subjetiva e Objetiva Direta",
+      "tempo_inicio_segundos": 126.75,
+      "topicos": [
+        "Subjetiva: Função de sujeito da oração principal.",
+        "Principal sem sujeito próprio, verbo na 3ª pessoa ou locução verbal impessoal.",
+        "Ex: É necessário que todos colaborem.",
+        "Objetiva Direta: Função de objeto direto do verbo da principal.",
+        "Verbo da principal é transitivo direto (não exige preposição).",
+        "Ex: Eu desejo que você seja feliz."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Objetiva Indireta e Completiva Nominal",
+      "tempo_inicio_segundos": 182.42,
+      "topicos": [
+        "Objetiva Indireta: Função de objeto indireto do verbo da principal.",
+        "Verbo da principal é transitivo indireto (exige preposição).",
+        "Ex: Necessito de que me ajudem.",
+        "Completiva Nominal: Função de complemento nominal de um nome (substantivo, adjetivo ou advérbio) da principal.",
+        "Sempre introduzida por preposição.",
+        "Ex: Tenho certeza de que ele virá."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Predicativa e Apositiva",
+      "tempo_inicio_segundos": 230.54,
+      "topicos": [
+        "Predicativa: Função de predicativo do sujeito da principal.",
+        "Principal com verbo de ligação (ser, estar, parecer).",
+        "Ex: Meu desejo é que você volte logo.",
+        "Apositiva: Função de aposto de um termo da principal.",
+        "Geralmente após dois pontos ou entre vírgulas.",
+        "Ex: Só desejo uma coisa: que você seja feliz."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 283.24,
+      "topicos": [
+        "Enunciado: Em qual das alternativas a oração destacada é uma Oração Subordinada Substantiva Subjetiva?",
+        "A) Eu espero que você vença o desafio.",
+        "B) É fundamental que todos participem do projeto.",
+        "C) Tenho certeza de que ele virá.",
+        "D) Meu maior desejo é que a paz prevaleça.",
+        "Gabarito: B",
+        "Comentário: A oração 'que todos participem do projeto' funciona como sujeito do verbo 'É fundamental'."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 332.41,
+      "topicos": [
+        "Enunciado: Analise a frase: 'O diretor insistiu em que os alunos chegassem cedo.' A oração destacada classifica-se como:",
+        "A) Oração Subordinada Substantiva Objetiva Direta.",
+        "B) Oração Subordinada Substantiva Subjetiva.",
+        "C) Oração Subordinada Substantiva Objetiva Indireta.",
+        "D) Oração Subordinada Substantiva Completiva Nominal.",
+        "Gabarito: C",
+        "Comentário: O verbo 'insistir' é transitivo indireto, exigindo a preposição 'em'."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 387.55,
+      "topicos": [
+        "Período Composto por Subordinação: dependência entre orações.",
+        "Subordinadas Substantivas: funções de substantivo (sujeito, OD, OI, CN, predicativo, aposto).",
+        "Introduzidas por 'que' e 'se', desenvolvidas ou reduzidas.",
+        "Subjetiva: sujeito da principal (verbo impessoal).",
+        "Objetiva Direta/Indireta: completam verbos transitivos (direto/indireto).",
+        "Completiva Nominal: complementa nome da principal (sempre com preposição).",
+        "Predicativa: predicativo do sujeito da principal (verbo de ligação).",
+        "Apositiva: aposto de um termo da principal (após dois pontos/vírgulas)."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Dica de Ouro para Provas!",
+      "tempo_inicio_segundos": 443.92,
+      "topicos": [
+        "Bizú: Substitua a oração por 'isso' ou 'aquilo'!",
+        "Se a frase fizer sentido, é uma Subordinada Substantiva.",
+        "Depois, identifique a função sintática do 'isso'/'aquilo' na principal.",
+        "Ex: 'É necessário isso.' (Isso = sujeito -> Subjetiva)",
+        "Ex: 'Eu desejo isso.' (Isso = OD -> Objetiva Direta)",
+        "Pratique e gabarite!"
+      ]
+    }
+  ]
+}

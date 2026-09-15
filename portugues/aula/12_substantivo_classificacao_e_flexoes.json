@@ -1,0 +1,143 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Substantivo: Classificação e Flexões",
+  "duracao_total_segundos": 517.91,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Substantivo: Classificação e Flexões",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "O substantivo nomeia seres, objetos, lugares, sentimentos, qualidades e ações.",
+        "É fundamental para a construção de frases claras e coesas.",
+        "Nesta aula: classificações e flexões de gênero, número e grau."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Substantivo e Suas Primeiras Classificações",
+      "tempo_inicio_segundos": 35.18,
+      "topicos": [
+        "Substantivo: nomeia seres, objetos, lugares, sentimentos, qualidades, ações.",
+        "É a palavra-chave em uma frase.",
+        "Exemplos: mesa, amor, Brasil.",
+        "Comuns: nomeiam de forma genérica (cidade, menino).",
+        "Próprios: nomeiam seres específicos (São Paulo, Pedro).",
+        "Concretos: existem por si mesmos (livro, fada).",
+        "Abstratos: dependem de outro ser para existir (beleza, alegria)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Substantivos: Primitivos, Derivados, Simples, Compostos e Coletivos",
+      "tempo_inicio_segundos": 95.94,
+      "topicos": [
+        "Primitivos: não derivam de outras palavras (pedra, flor).",
+        "Derivados: formam-se de outras palavras (pedreiro, floricultura).",
+        "Simples: um radical (sol, chuva).",
+        "Compostos: dois ou mais radicais (girassol, guarda-chuva).",
+        "Coletivos: nomeiam um conjunto de seres da mesma espécie (cardume, biblioteca)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexões: Gênero (Masculino e Feminino)",
+      "tempo_inicio_segundos": 136.64,
+      "topicos": [
+        "Substantivos são variáveis: gênero, número e grau.",
+        "Gênero: masculino ou feminino.",
+        "Biformes: duas formas (menino/menina, professor/professora).",
+        "Uniformes: uma forma para ambos os gêneros.",
+        "  - Epicenos: animais, com 'macho' ou 'fêmea' (a cobra macho/fêmea).",
+        "  - Sobrecomuns: pessoas, um só gênero gramatical (a criança, o cônjuge).",
+        "  - Comuns de dois gêneros: artigo define o gênero (o/a estudante, o/a cliente)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexões: Número (Singular e Plural)",
+      "tempo_inicio_segundos": 192.55,
+      "topicos": [
+        "Número: singular (um) ou plural (mais de um).",
+        "Regra geral: adiciona-se 's' (casa/casas).",
+        "Casos especiais:",
+        "  - Terminados em -ão: -ãos, -ões, -ães (irmão/irmãos, balão/balões, pão/pães).",
+        "  - Terminados em -m: troca 'm' por 'ns' (homem/homens).",
+        "  - Terminados em -r, -s, -z: adiciona 'es' (flor/flores, país/países, luz/luzes).",
+        "  - Terminados em -al, -el, -ol, -ul: troca 'l' por 'is' (animal/animais, papel/papéis).",
+        "  - Terminados em -il: oxítonos (-is), paroxítonos (-eis) (barril/barris, fóssil/fósseis)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexões: Plural de Substantivos Compostos",
+      "tempo_inicio_segundos": 250.99,
+      "topicos": [
+        "Substantivos compostos: flexão depende da formação.",
+        "Sem hífen: flexiona como simples (girassol/girassóis).",
+        "Com hífen:",
+        "  - Ambos flexionam: substantivo+substantivo, substantivo+adjetivo, adjetivo+substantivo (couve-flor/couves-flores).",
+        "  - Só o primeiro flexiona: segundo elemento é preposição, numeral ou limita o primeiro (pé de moleque/pés de moleque).",
+        "  - Só o segundo flexiona: primeiro elemento é verbo, advérbio, prefixo ou invariável (guarda-roupa/guarda-roupas, beija-flor/beija-flores).",
+        "  - Nenhum flexiona: já no plural ou verbos opostos (os saca-rolhas, os vai-e-vens)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexões: Grau (Aumentativo e Diminutivo)",
+      "tempo_inicio_segundos": 315.83,
+      "topicos": [
+        "Grau: indica o tamanho do ser.",
+        "Normal: tamanho real (casa, livro).",
+        "Aumentativo:",
+        "  - Sintético: sufixo aumentativo (-ão, -ona) (casarão, livrão).",
+        "  - Analítico: adjetivo de aumento (casa grande, livro enorme).",
+        "Diminutivo:",
+        "  - Sintético: sufixo diminutivo (-inho, -inha) (casinha, livrinho).",
+        "  - Analítico: adjetivo de diminuição (casa pequena, livro minúsculo)."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 359.38,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todos os substantivos são, respectivamente, abstrato, próprio e coletivo.",
+        "A) Amor, Brasil, cardume.",
+        "B) Beleza, mesa, rebanho.",
+        "C) Felicidade, livro, constelação.",
+        "D) Coragem, Pedro, álbum.",
+        "Gabarito: A",
+        "Comentário: Amor (abstrato), Brasil (próprio), cardume (coletivo)."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 407.57,
+      "topicos": [
+        "Enunciado: Considerando a flexão de número dos substantivos compostos, assinale a opção em que o plural está INCORRETO.",
+        "A) Guarda-chuva -> guarda-chuvas",
+        "B) Couve-flor -> couves-flores",
+        "C) Pé de moleque -> pés de moleque",
+        "D) Beija-flor -> beijas-flores",
+        "Gabarito: D",
+        "Comentário: Em 'beija-flor' (verbo + substantivo), apenas o segundo elemento flexiona: beija-flores."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Síntese e Bizu do Professor!",
+      "tempo_inicio_segundos": 453.98,
+      "topicos": [
+        "Substantivo: nomeia seres, núcleo de frases.",
+        "Classificações: comuns/próprios, concretos/abstratos, primitivos/derivados, simples/compostos, coletivos.",
+        "Flexões: Gênero (biformes, uniformes - epicenos, sobrecomuns, comuns de dois gêneros).",
+        "Flexões: Número (singular/plural, regras gerais e compostos).",
+        "Flexões: Grau (aumentativo/diminutivo - sintético/analítico).",
+        "Bizu: Atenção especial aos plurais irregulares e de substantivos compostos!"
+      ]
+    }
+  ]
+}

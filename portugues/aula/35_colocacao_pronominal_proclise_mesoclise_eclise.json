@@ -1,0 +1,121 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Colocação Pronominal (Próclise, Mesóclise, Êclise)",
+  "duracao_total_segundos": 463.79,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Colocação Pronominal: Próclise, Mesóclise e Ênclise",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Sintaxe da Língua Portuguesa",
+        "Posição dos pronomes oblíquos átonos",
+        "Próclise (antes do verbo)",
+        "Mesóclise (no meio do verbo)",
+        "Ênclise (depois do verbo)",
+        "Clareza e correção gramatical"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Próclise: O Pronome Antes do Verbo",
+      "tempo_inicio_segundos": 41.56,
+      "topicos": [
+        "Pronome oblíquo átono ANTES do verbo",
+        "Posição preferencial e mais comum",
+        "Obrigatória na presença de \"palavras atrativas\"",
+        "Exemplos de atrativos: Advérbios, Pronomes Indefinidos/Demonstrativos, Conjunções Subordinativas, Negações, Frases Exclamativas/Interrogativas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mesóclise: O Pronome no Meio do Verbo",
+      "tempo_inicio_segundos": 91.79,
+      "topicos": [
+        "Pronome oblíquo átono NO MEIO do verbo",
+        "Uso formal e restrito",
+        "Apenas com verbos no FUTURO DO PRESENTE",
+        "Apenas com verbos no FUTURO DO PRETÉRITO",
+        "SEM palavras atrativas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Ênclise: O Pronome Depois do Verbo",
+      "tempo_inicio_segundos": 140.91,
+      "topicos": [
+        "Pronome oblíquo átono DEPOIS do verbo",
+        "Posição padrão quando não há próclise ou mesóclise",
+        "Obrigatória em INÍCIO DE FRASE",
+        "Obrigatória com VERBO NO IMPERATIVO AFIRMATIVO",
+        "Com VERBO NO INFINITIVO IMPESSOAL (sem atrativo)",
+        "Com VERBO NO GERÚNDIO (sem \"em\" antes)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais e Proibições",
+      "tempo_inicio_segundos": 196.1,
+      "topicos": [
+        "NUNCA inicie frase com pronome oblíquo átono",
+        "NÃO use ênclise com verbos no futuro (presente ou pretérito)",
+        "NÃO use ênclise com verbos no PARTICÍPIO",
+        "Locuções Verbais: a colocação depende do auxiliar e atrativos",
+        "Ex: \"Tinha-o encontrado\" (particípio)",
+        "Ex: \"Vou-te ajudar\" (infinitivo, sem atrativo)",
+        "Ex: \"Não te vou ajudar\" (infinitivo, com atrativo)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 257.03,
+      "topicos": [
+        "Assinale a alternativa em que a colocação pronominal está CORRETA:",
+        "A) Me disseram a verdade sobre o ocorrido.",
+        "B) Far-lhe-ei o favor, se possível.",
+        "C) Não importo-me com sua opinião.",
+        "D) Quando encontrei-o, sorri.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 318.71,
+      "topicos": [
+        "Em qual das frases a seguir a próclise é obrigatória?",
+        "A) Entreguei-lhe o livro ontem.",
+        "B) Sente-se aqui, por favor.",
+        "C) Ninguém o viu sair da sala.",
+        "D) Ajudar-me-ia se pudesse.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Colocação Pronominal",
+      "tempo_inicio_segundos": 365.74,
+      "topicos": [
+        "Próclise: pronome ANTES do verbo (com atrativos)",
+        "Mesóclise: pronome NO MEIO do verbo (futuro, sem atrativos)",
+        "Ênclise: pronome DEPOIS do verbo (padrão, início de frase, imperativo afirmativo)",
+        "Proibições: Nunca iniciar frase com pronome átono. Não usar ênclise com futuro ou particípio.",
+        "Locuções Verbais: atenção ao auxiliar e atrativos."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 418.37,
+      "topicos": [
+        "Pense na \"Força Atrativa\":",
+        "Palavras atrativas = PRÓCLISE (puxam o pronome)",
+        "Verbos no FUTURO (sem atrativo) = MESÓCLISE (pronome no meio)",
+        "Início de frase / Imperativo Afirmativo = ÊNCLISE (pronome depois)",
+        "Nunca comece frase com pronome átono!"
+      ]
+    }
+  ]
+}

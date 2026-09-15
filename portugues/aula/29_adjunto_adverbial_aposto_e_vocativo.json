@@ -1,0 +1,125 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Adjunto Adverbial, Aposto e Vocativo",
+  "duracao_total_segundos": 425.58,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Adjunto Adverbial, Aposto e Vocativo",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Termos Acessórios Essenciais"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Adjunto Adverbial: O Enriquecedor de Sentidos",
+      "tempo_inicio_segundos": 33.59,
+      "topicos": [
+        "Modifica Verbo, Adjetivo ou Advérbio",
+        "Indica Circunstância (tempo, lugar, modo, causa, etc.)",
+        "Termo Acessório de Grande Valor Semântico",
+        "Pode ser Advérbio, Locução Adverbial ou Oração Adverbial"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Principais Tipos de Adjunto Adverbial",
+      "tempo_inicio_segundos": 77.44,
+      "topicos": [
+        "De Lugar: 'Eles moram longe.'",
+        "De Tempo: 'Chegarei amanhã.'",
+        "De Modo: 'Ela fala baixo.'",
+        "De Intensidade: 'Estou muito cansado.'",
+        "De Causa: 'Morreu de fome.'",
+        "De Finalidade: 'Estudo para passar no concurso.'",
+        "De Instrumento: 'Cortou o pão com a faca.'",
+        "De Companhia: 'Saí com meus amigos.'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Aposto: O Esclarecedor de Termos",
+      "tempo_inicio_segundos": 122.0,
+      "topicos": [
+        "Explica, Especifica, Resume ou Desenvolve um Termo Anterior",
+        "Geralmente se refere a um Substantivo ou Pronome",
+        "Pontuação (vírgulas, travessões, dois-pontos) é sua marca",
+        "Tipos: Explicativo, Especificador, Enumerativo, Resumitivo"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação dos Apostos",
+      "tempo_inicio_segundos": 159.46,
+      "topicos": [
+        "Explicativo: 'Machado de Assis, o maior escritor brasileiro, nasceu...'",
+        "Especificador: 'A cidade de São Paulo é enorme.'",
+        "Enumerativo: 'Comprei três frutas: maçãs, bananas e laranjas.'",
+        "Resumitivo: 'Estudar, trabalhar, cuidar da casa, tudo isso o deixava exausto.'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vocativo: A Chamada Direta",
+      "tempo_inicio_segundos": 204.57,
+      "topicos": [
+        "Chama, Interpela ou Invoca o Interlocutor",
+        "Termo Isolado da Oração",
+        "NÃO tem Função Sintática (sujeito, objeto, etc.)",
+        "SEMPRE Separado por Vírgula(s)",
+        "Pode aparecer no início, meio ou fim da frase"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Adjunto Adverbial",
+      "tempo_inicio_segundos": 252.52,
+      "topicos": [
+        "Em qual das frases abaixo o termo em destaque NÃO funciona como adjunto adverbial?",
+        "A) Ele trabalha muito.",
+        "B) Chegaremos amanhã.",
+        "C) O livro está sobre a mesa.",
+        "D) A casa de Pedro é grande.",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Aposto e Vocativo",
+      "tempo_inicio_segundos": 291.99,
+      "topicos": [
+        "Assinale a alternativa em que o termo em destaque é um aposto explicativo.",
+        "A) O professor de português é excelente.",
+        "B) Comprei três itens: pão, leite e ovos.",
+        "C) Maria, minha irmã, viajou para a Europa.",
+        "D) Estudar, trabalhar, cuidar da família, tudo o cansava.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Adjunto Adverbial, Aposto e Vocativo",
+      "tempo_inicio_segundos": 340.01,
+      "topicos": [
+        "Adjunto Adverbial: Modifica verbo, adjetivo ou advérbio, indicando circunstância.",
+        "Aposto: Explica, especifica, enumera ou resume outro termo (substantivo/pronome).",
+        "Vocativo: Chama ou interpela o interlocutor, termo isolado, sempre com vírgula."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor e Despedida",
+      "tempo_inicio_segundos": 383.47,
+      "topicos": [
+        "Adjunto Adverbial: Pergunte 'Onde? Quando? Como? Por quê?'",
+        "Aposto: Pergunte 'Quem é? O que é?' para o termo anterior.",
+        "Vocativo: É um chamamento direto, SEMPRE com vírgula(s)!",
+        "Pratique a pontuação para não errar!"
+      ]
+    }
+  ]
+}

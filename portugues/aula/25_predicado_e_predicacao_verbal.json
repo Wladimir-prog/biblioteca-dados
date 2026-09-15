@@ -1,0 +1,137 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Predicado e Predicação Verbal",
+  "duracao_total_segundos": 422.89,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Predicado e Predicação Verbal",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Sintaxe da Oração e do Período",
+        "Entenda o coração da oração!",
+        "Construa frases claras e corretas."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Predicado: Essência e Tipos",
+      "tempo_inicio_segundos": 24.64,
+      "topicos": [
+        "Elemento central da oração",
+        "Expressa a declaração sobre o sujeito",
+        "Indispensável para o sentido completo",
+        "Três tipos principais: Verbal, Nominal e Verbo-Nominal."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Predicado Verbal e Nominal",
+      "tempo_inicio_segundos": 59.7,
+      "topicos": [
+        "Predicado Verbal:",
+        "Núcleo: Verbo Significativo (ação, fenômeno)",
+        "Ex: Os pássaros cantam alegremente.",
+        "Predicado Nominal:",
+        "Núcleo: Nome (substantivo, adjetivo)",
+        "Verbo de Ligação (ser, estar, parecer)",
+        "Ex: O céu está azul."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Predicado Verbo-Nominal",
+      "tempo_inicio_segundos": 103.47,
+      "topicos": [
+        "Dois núcleos: Verbo Significativo + Nome",
+        "Expressa ação e característica simultaneamente",
+        "Nome pode ser predicativo do sujeito ou do objeto",
+        "Ex: Os alunos saíram felizes.",
+        "Ex: Consideramos a proposta interessante."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Predicação Verbal: Verbos Intransitivos e Transitivos",
+      "tempo_inicio_segundos": 141.36,
+      "topicos": [
+        "Relação do verbo com seus complementos",
+        "Verbos Intransitivos (VI): sentido completo",
+        "Ex: O bebê dormiu.",
+        "Verbos Transitivos Diretos (VTD): exige Objeto Direto (sem preposição)",
+        "Ex: Eu comprei um livro.",
+        "Verbos Transitivos Indiretos (VTI): exige Objeto Indireto (com preposição)",
+        "Ex: Eu preciso de ajuda.",
+        "Verbos Transitivos Diretos e Indiretos (VTDI): exige OD e OI",
+        "Ex: Entreguei o livro ao professor."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Verbos de Ligação e Variação de Sentido",
+      "tempo_inicio_segundos": 195.86,
+      "topicos": [
+        "Verbos de Ligação (VL): não expressam ação",
+        "Ligam sujeito ao predicativo do sujeito",
+        "Ex: Ela está feliz.",
+        "A predicação pode alterar o sentido do verbo",
+        "Ex: Ele vive. (existir - VI)",
+        "Ex: Ele vive a vida. (experienciar - VTD)",
+        "Ex: Ele vive de caridade. (subsistir - VTI)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 243.52,
+      "topicos": [
+        "Enunciado: Em qual das orações abaixo o predicado é classificado como verbal?",
+        "A) O aluno está doente.",
+        "B) A paisagem parecia triste.",
+        "C) Os pássaros cantam na floresta.",
+        "D) Ela ficou feliz com a notícia.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 282.68,
+      "topicos": [
+        "Enunciado: Considere a oração: 'Os alunos consideraram a prova difícil.' Qual a classificação do predicado e do verbo 'considerar'?",
+        "A) Predicado Verbal; Verbo Transitivo Direto.",
+        "B) Predicado Nominal; Verbo de Ligação.",
+        "C) Predicado Verbo-Nominal; Verbo Transitivo Direto e Indireto.",
+        "D) Predicado Verbo-Nominal; Verbo Transitivo Direto.",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 334.44,
+      "topicos": [
+        "Predicado: o que se declara sobre o sujeito.",
+        "Tipos de Predicado: Verbal (verbo significativo), Nominal (nome + verbo de ligação), Verbo-Nominal (verbo significativo + nome).",
+        "Predicação Verbal: classifica verbos por complementos.",
+        "Verbos Intransitivos (VI): sentido completo.",
+        "Verbos Transitivos (VTD, VTI, VTDI): exigem complementos.",
+        "Verbos de Ligação (VL): conectam sujeito a característica.",
+        "Atenção: o mesmo verbo pode ter diferentes classificações e sentidos!"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor",
+      "tempo_inicio_segundos": 385.87,
+      "topicos": [
+        "Para identificar o predicado, pergunte ao sujeito: 'O que o sujeito faz/é?'",
+        "Verbos de Ligação: SEMPRE acompanhados de um predicativo do sujeito.",
+        "Verbos Significativos: expressam ação ou fenômeno.",
+        "A prática leva à perfeição!"
+      ]
+    }
+  ]
+}

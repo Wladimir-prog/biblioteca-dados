@@ -1,0 +1,150 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Concordância Nominal",
+  "duracao_total_segundos": 679.48,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Concordância Nominal: A Harmonia da Língua Portuguesa",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "O que é Concordância Nominal?",
+        "Relação entre substantivo e seus determinantes",
+        "Gênero (masculino/feminino) e Número (singular/plural)",
+        "Artigos, Adjetivos, Pronomes, Numerais",
+        "Essencial para comunicação eficaz e correta"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regras Gerais: Adjetivo para Vários Substantivos",
+      "tempo_inicio_segundos": 49.75,
+      "topicos": [
+        "Adjetivo + Vários Substantivos (Mesmo Gênero)",
+        "Concorda no plural. Ex: Livros e cadernos *novos*.",
+        "Adjetivo + Vários Substantivos (Gêneros Diferentes)",
+        "Concorda no *masculino plural*. Ex: Livros e canetas *novos*.",
+        "Adjetivo *Antes* dos Substantivos",
+        "Concorda com o mais próximo OU masculino plural. Ex: *Lindas* flores e jardins. / *Belos* jardins e flores."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regras Gerais: Vários Adjetivos para Um Substantivo",
+      "tempo_inicio_segundos": 128.34,
+      "topicos": [
+        "Vários Adjetivos + Um Substantivo",
+        "Opção 1: Substantivo no singular + Adjetivos com artigo.",
+        "Ex: Estudo a língua *portuguesa* e *a inglesa*.",
+        "Opção 2: Substantivo no plural + Adjetivos sem artigo.",
+        "Ex: Estudo as *línguas portuguesa e inglesa*."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Palavras que Variam",
+      "tempo_inicio_segundos": 177.89,
+      "topicos": [
+        "ANEXO, INCLUSO, APENSO, OBRIGADO, MESMO, PRÓPRIO, QUITE",
+        "Funcionam como *adjetivos*.",
+        "Concordam em gênero e número com o substantivo.",
+        "Ex: As fotos seguem *anexas*.",
+        "Ex: Os documentos estão *inclusos*.",
+        "Ex: Ela *mesma* fez o trabalho.",
+        "Ex: Muito *obrigada*, disse a moça."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Adjetivo ou Advérbio?",
+      "tempo_inicio_segundos": 239.04,
+      "topicos": [
+        "MEIO, BASTANTE, MUITO, POUCO, LONGE, CARO, BARATO",
+        "*Adjetivo*: Varia (concorda com substantivo).",
+        "*Advérbio*: Invariável (modifica verbo, adjetivo ou outro advérbio).",
+        "**MEIO**:",
+        "Adjetivo (metade): Ela bebeu *meio* copo.",
+        "Advérbio (um pouco): Ela está *meio* cansada.",
+        "**BASTANTE**:",
+        "Adjetivo (muitos/muitas): Havia *bastantes* pessoas.",
+        "Advérbio (muito): Eles estudaram *bastante*.",
+        "**CARO/BARATO**:",
+        "Adjetivo (preço): As frutas estavam *caras*.",
+        "Advérbio (custo): Pagamos *caro* pela viagem."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Expressões com 'É'",
+      "tempo_inicio_segundos": 316.96,
+      "topicos": [
+        "É BOM, É NECESSÁRIO, É PROIBIDO",
+        "*Invariáveis* se o substantivo NÃO for determinado.",
+        "Ex: *É proibido* entrada. / *É necessário* paciência. / *É bom* estudar.",
+        "*Variam* se o substantivo FOR determinado (por artigo, pronome, etc.).",
+        "Ex: *É proibida a* entrada. / *É necessária a* paciência. / *A leitura é boa*."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Invariáveis e 'SÓ'/'POSSÍVEL'",
+      "tempo_inicio_segundos": 370.72,
+      "topicos": [
+        "MENOS, ALERTA, PSEUDO: Sempre *invariáveis*.",
+        "Ex: Havia *menos* pessoas. / Os soldados estavam *alerta*. / Um *pseudo*-intelectual.",
+        "POSSÍVEL (na expressão 'o mais... possível'):",
+        "Concorda com o *artigo* que o precede.",
+        "Artigo singular ('o'/'a'): 'possível' no singular. Ex: Fizeram *o mais* rápido *possível*.",
+        "Artigo plural ('os'/'as'): 'possível' no plural. Ex: Compraram *as mais* baratas *possíveis*.",
+        "SÓ:",
+        "Significa 'sozinho': *Adjetivo*, varia. Ex: Eles estavam *sós*.",
+        "Significa 'somente': *Advérbio*, invariável. Ex: *Só* eles vieram."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 462.75,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a concordância nominal está *incorreta*.",
+        "A) Anexas seguem as certidões solicitadas.",
+        "B) É proibida entrada de pessoas não autorizadas.",
+        "C) Os alunos ficaram sós na sala de aula.",
+        "D) Compramos bastantes livros para a biblioteca.",
+        "Gabarito: B",
+        "Comentário: 'É proibido' é invariável sem determinante."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Concordância Nominal",
+      "tempo_inicio_segundos": 535.18,
+      "topicos": [
+        "Substantivo + Determinantes: Gênero e Número.",
+        "Adjetivo para vários substantivos: Masculino plural (gêneros diferentes).",
+        "Vários adjetivos para um substantivo: Substantivo singular + artigos OU substantivo plural sem artigos.",
+        "Variam: ANEXO, INCLUSO, OBRIGADO, MESMO, PRÓPRIO, QUITE.",
+        "Adjetivo (varia) vs. Advérbio (invariável): MEIO, BASTANTE, CARO, BARATO.",
+        "'É PROIBIDO': Invariável sem determinante, variável com determinante.",
+        "Sempre invariáveis: MENOS, ALERTA, PSEUDO.",
+        "'POSSÍVEL': Concorda com o artigo ('o mais... possível' vs. 'os mais... possíveis').",
+        "'SÓ': Varia (sozinho) ou invariável (somente)."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 609.71,
+      "topicos": [
+        "**Teste da Substituição!**",
+        "Para 'MEIO', 'BASTANTE', 'CARO', 'BARATO':",
+        "Substitua por 'MUITO/MUITOS/MUITAS' ou 'UM POUCO'.",
+        "Se couber 'MUITO/MUITOS/MUITAS' (plural), é adjetivo e varia.",
+        "Se couber 'UM POUCO' (singular), é advérbio e é invariável.",
+        "Ex: 'Ela estava *meio* cansada' -> 'Ela estava *um pouco* cansada' (invariável).",
+        "Ex: 'Havia *bastantes* pessoas' -> 'Havia *muitas* pessoas' (varia)."
+      ]
+    }
+  ]
+}

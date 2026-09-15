@@ -1,0 +1,131 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Acentuação das Paroxítonas",
+  "duracao_total_segundos": 419.46,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Acentuação das Paroxítonas",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+        "Acentuação Gráfica: Essencial para a escrita e compreensão",
+        "Dominar as regras para clareza e coesão"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação das Palavras Quanto à Sílaba Tônica",
+      "tempo_inicio_segundos": 39.11,
+      "topicos": [
+        "Sílaba tônica: Maior intensidade e destaque",
+        "Oxítonas: Sílaba tônica é a última (café, avô)",
+        "Paroxítonas: Sílaba tônica é a penúltima (mesa, lápis)",
+        "Proparoxítonas: Sílaba tônica é a antepenúltima (médico, lâmpada)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regra Geral: Paroxítonas Não Acentuadas",
+      "tempo_inicio_segundos": 77.87,
+      "topicos": [
+        "Paroxítonas: Grupo mais numeroso de palavras",
+        "Regra geral: NÃO são acentuadas",
+        "Acentuamos apenas as 'exceções' à regra",
+        "Bizú: Foque nas terminações que levam acento!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Paroxítonas Acentuadas: Terminações Específicas",
+      "tempo_inicio_segundos": 115.83,
+      "topicos": [
+        "Acentuam-se paroxítonas terminadas em:",
+        "-i, -is: táxi, lápis, júri",
+        "-us, -um, -uns: vírus, álbum, álbuns",
+        "-l, -n, -r, -x, -ps: fácil, pólen, caráter, tórax, bíceps",
+        "-ão, -ãos, -ões: órfão, órgãos, sótão, prótons"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Paroxítonas Acentuadas: Ditongos",
+      "tempo_inicio_segundos": 154.9,
+      "topicos": [
+        "Acentuam-se paroxítonas terminadas em Ditongo Crescente",
+        "Ditongo crescente: vogal + semivogal na mesma sílaba",
+        "Exemplos: história (his-TÓ-ria), série (SÉ-rie), água (Á-gua)",
+        "Acentuam-se paroxítonas terminadas em Ditongo Oral",
+        "Ditongo oral: ar sai apenas pela boca",
+        "Exemplos: cárie, vácuo, tênue"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais e Exceções",
+      "tempo_inicio_segundos": 199.24,
+      "topicos": [
+        "Hiatos com 'I' e 'U' tônicos: sa-Í-da, sa-Ú-de, ba-Ú",
+        "Regra: 'i' e 'u' tônicos formam hiato, não seguidos de 'nh', não repetidos",
+        "Paroxítonas terminadas em 'EM' e 'ENS': NÃO acentuadas",
+        "Exemplos: jovem, nuvem, itens",
+        "Acento Diferencial: 'pode' (presente) e 'pôde' (passado), 'por' (preposição) e 'pôr' (verbo)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 250.02,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todas as palavras paroxítonas estão corretamente acentuadas.",
+        "A) rubrica, gratuito, pudico",
+        "B) ítem, côndor, juri",
+        "C) caráter, tórax, bíceps",
+        "D) refém, nuvem, jovem",
+        "Gabarito: C",
+        "Comentário: 'caráter' (terminada em -r), 'tórax' (terminada em -x) e 'bíceps' (terminada em -ps) estão corretas."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 292.76,
+      "topicos": [
+        "Enunciado: Qual das palavras abaixo é uma paroxítona acentuada pela regra dos ditongos crescentes?",
+        "A) saúde",
+        "B) história",
+        "C) lápis",
+        "D) álbum",
+        "Gabarito: B",
+        "Comentário: 'história' (his-TÓ-ria) é paroxítona terminada em ditongo crescente (-ia)."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 328.9,
+      "topicos": [
+        "Classificação: Oxítonas, Paroxítonas, Proparoxítonas",
+        "Regra Geral: Paroxítonas NÃO são acentuadas",
+        "Acentuam-se paroxítonas terminadas em: -i(s), -us, -um(ns), -l, -n, -r, -x, -ps, -ão(s), -ões",
+        "Acentuam-se paroxítonas terminadas em ditongos (crescentes ou orais)",
+        "Hiatos com 'i' e 'u' tônicos são acentuados (com ressalvas)",
+        "Paroxítonas em 'em' e 'ens' NÃO recebem acento",
+        "Acento diferencial: 'pode/pôde' e 'por/pôr'"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Dica de Ouro para Provas!",
+      "tempo_inicio_segundos": 378.33,
+      "topicos": [
+        "Não decore as que NÃO são acentuadas!",
+        "Foque nas 10 terminações que levam acento:",
+        "i(s), us, um(ns), l, n, r, x, ps, ão(s), ões, ditongos",
+        "Pratique com exercícios e revise sempre!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Morfologia (Estrutura e Classes de Palavras)",
+  "tema": "Interjeição: Expressão de Sentimentos e Emoções",
+  "duracao_total_segundos": 355.94,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Interjeição: Expressão de Sentimentos e Emoções",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Morfologia: Estrutura e Classes de Palavras",
+        "A força da emoção na linguagem",
+        "Compreenda e use as interjeições!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que é a Interjeição?",
+      "tempo_inicio_segundos": 29.85,
+      "topicos": [
+        "Palavra invariável",
+        "Expressa emoções, sentimentos, sensações",
+        "Funciona como um 'grito da alma'",
+        "Elemento autônomo na frase",
+        "Exemplos: Ah!, Ufa!, Oba!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "As Marcas da Interjeição",
+      "tempo_inicio_segundos": 68.94,
+      "topicos": [
+        "Invariabilidade: Não flexiona (gênero, número, grau)",
+        "Autonomia: Aparece isolada, pontuada por exclamação (!)",
+        "Expressividade: Sentido ligado ao contexto e entonação",
+        "Exemplos: 'Ai!' sempre 'Ai!'; 'Silêncio!'; 'Ah!' (dor, surpresa, alívio)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificando as Emoções (Parte 1)",
+      "tempo_inicio_segundos": 115.4,
+      "topicos": [
+        "Alegria: Ah!, Oba!, Viva!, Que bom!",
+        "Dor: Ai!, Ui!, Oh!, Ah!",
+        "Espanto/Surpresa: Oh!, Ah!, Uau!, Puxa!, Caramba!",
+        "Advertência/Aviso: Cuidado!, Atenção!, Alerta!, Fogo!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificando as Emoções (Parte 2) e Locuções",
+      "tempo_inicio_segundos": 156.17,
+      "topicos": [
+        "Chamamento/Apelo: Olá!, Ei!, Psiu!, Alô!",
+        "Desejo: Oxalá!, Tomara!, Ah! (com desejo)",
+        "Silêncio: Psiu!, Shhh!, Silêncio!",
+        "Locuções Interjetivas: Duas ou mais palavras com valor de interjeição",
+        "Exemplos de locuções: Que pena!, Graças a Deus!, Pelo amor de Deus!"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática! Questão 1",
+      "tempo_inicio_segundos": 197.42,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a palavra destacada NÃO é uma interjeição.",
+        "A) Ufa! Que alívio!",
+        "B) Ai! Que dor insuportável!",
+        "C) Silêncio! O professor está falando.",
+        "D) Ele disse sim à proposta.",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática! Questão 2",
+      "tempo_inicio_segundos": 234.13,
+      "topicos": [
+        "Enunciado: Qual das opções abaixo apresenta uma locução interjetiva?",
+        "A) Oba!",
+        "B) Puxa!",
+        "C) Que pena!",
+        "D) Alô!",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo Essencial",
+      "tempo_inicio_segundos": 270.1,
+      "topicos": [
+        "Interjeição: palavra invariável que exprime emoções.",
+        "Autônoma: não tem função sintática, pontuada por exclamação.",
+        "Características: invariabilidade e expressividade (contexto/entonação).",
+        "Classificação: alegria, dor, espanto, advertência, chamamento, desejo, silêncio.",
+        "Locuções interjetivas: grupos de palavras com valor de interjeição."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu para a Prova!",
+      "tempo_inicio_segundos": 319.97,
+      "topicos": [
+        "Foco no contexto e entonação!",
+        "Interjeições são 'gritos' emocionais.",
+        "Quase sempre acompanhadas de exclamação.",
+        "Não se ligam a outras palavras sintaticamente.",
+        "Pratique a identificação em diferentes frases!"
+      ]
+    }
+  ]
+}

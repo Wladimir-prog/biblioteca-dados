@@ -1,0 +1,98 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Acentuação Gráfica: Proparoxítonas e Casos Especiais",
+  "duracao_total_segundos": 349.75,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Acentuação Gráfica: Proparoxítonas e Casos Especiais",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+        "Acentuação Gráfica: Proparoxítonas e Casos Especiais",
+        "Clareza na pronúncia e escrita"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Acentuação das Proparoxítonas",
+      "tempo_inicio_segundos": 32.23,
+      "topicos": [
+        "Sílaba tônica na antepenúltima",
+        "Regra: TODAS são acentuadas",
+        "Exemplos: MÉDICO, LÂMPADA, ÚLTIMO"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Paroxítonas com Ditongo Crescente",
+      "tempo_inicio_segundos": 73.19,
+      "topicos": [
+        "Sílaba tônica na penúltima",
+        "Terminadas em ditongo crescente",
+        "Exemplos: HISTÓRIA, SÉRIE, ÁGUA"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Casos Especiais: Acentuação dos Hiatos",
+      "tempo_inicio_segundos": 117.92,
+      "topicos": [
+        "Hiato: vogais em sílabas diferentes",
+        "Acentua-se 'i' e 'u' tônicos",
+        "Regras: sozinhos ou com 's'",
+        "Não seguidos de 'nh'",
+        "Não precedidos de ditongo",
+        "Exemplos: SAÚDE, CAÍDA, BAÚ"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Diferenciando Proparoxítonas e Paroxítonas com Ditongo",
+      "tempo_inicio_segundos": 170.26,
+      "topicos": [
+        "Proparoxítonas: tônica na antepenúltima",
+        "Paroxítonas com ditongo: tônica na penúltima",
+        "Estrutura da terminação é chave",
+        "Exemplos: CIENTÍFICO vs. CIÊNCIA"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Proparoxítonas",
+      "tempo_inicio_segundos": 226.82,
+      "topicos": [
+        "Assinale a alternativa em que todas as palavras são proparoxítonas e estão corretamente acentuadas.",
+        "A) Lâmpada, médico, história.",
+        "B) Último, público, matemática.",
+        "C) Ciência, série, baú.",
+        "D) Saúde, caído, família.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Acentuação",
+      "tempo_inicio_segundos": 269.22,
+      "topicos": [
+        "Proparoxítonas: todas acentuadas (sílaba tônica na antepenúltima).",
+        "Paroxítonas com ditongo crescente: acentuadas (sílaba tônica na penúltima).",
+        "Hiatos ('i' e 'u' tônicos): acentuados (sozinhos/com 's', sem 'nh', sem ditongo anterior).",
+        "Diferença: Posição da sílaba tônica e estrutura da terminação."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú Final: A Chave da Acentuação",
+      "tempo_inicio_segundos": 310.71,
+      "topicos": [
+        "1. Identifique a sílaba tônica.",
+        "2. Classifique a palavra (oxítona, paroxítona, proparoxítona).",
+        "3. Observe a terminação e a estrutura fonética (ditongo, hiato).",
+        "Pratique sempre!"
+      ]
+    }
+  ]
+}

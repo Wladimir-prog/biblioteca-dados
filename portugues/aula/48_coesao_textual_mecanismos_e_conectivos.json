@@ -1,0 +1,140 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Coesão Textual: Mecanismos e Conectivos",
+  "duracao_total_segundos": 364.57,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Coesão Textual: Mecanismos e Conectivos",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português - Gramática",
+        "Bloco: Gramática do Texto e Linguística Aplicada",
+        "A importância da conexão no texto"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que é Coesão Textual?",
+      "tempo_inicio_segundos": 23.13,
+      "topicos": [
+        "Conexão lógica e semântica entre as partes do texto",
+        "Pilar para clareza, coerência e compreensão",
+        "Evita repetições desnecessárias",
+        "Estabelece relações de sentido precisas",
+        "Facilita a leitura e a interpretação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mecanismos de Coesão: Coesão Referencial",
+      "tempo_inicio_segundos": 48.01,
+      "topicos": [
+        "Remete a elementos já mencionados (anáfora) ou a serem mencionados (catáfora)",
+        "Objetivo: evitar repetição e manter fluidez",
+        "Realizada por: pronomes (ele, ela, o, a), advérbios de lugar (lá, aqui), numerais (ambos), substantivos sinônimos/hiperônimos",
+        "Exemplo: Maria comprou um livro. Ela o leu em um dia. (Ela e o referem-se a Maria e livro)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mecanismos de Coesão: Lexical e Sequencial",
+      "tempo_inicio_segundos": 79.73,
+      "topicos": [
+        "Coesão Lexical: Escolha e uso de vocabulário",
+        "Sinônimos, hiperônimos (termo amplo), hipônimos (termo específico)",
+        "Contribui para a riqueza vocabular e manutenção do tema",
+        "Exemplo: O professor explicou. O docente foi claro. (Docente é sinônimo de professor)",
+        "Coesão Sequencial: Encadeamento das partes do texto",
+        "Estabelece relações de sentido (tempo, causa, oposição)",
+        "Realizada principalmente por conectivos",
+        "Exemplo: Choveu muito, por isso o rio transbordou. (Por isso indica consequência)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conectivos: Conjunções (Parte 1)",
+      "tempo_inicio_segundos": 117.53,
+      "topicos": [
+        "Conectivos: elementos que ligam palavras, orações, períodos e parágrafos",
+        "Conjunções: ligam orações ou termos de mesma função",
+        "Aditivas: e, nem, mas também (Ex: Ele canta e dança)",
+        "Adversativas: mas, porém, contudo (Ex: Queria ir, mas não pude)",
+        "Alternativas: ou, ora...ora (Ex: Ou estuda, ou trabalha)",
+        "Conclusivas: logo, portanto, por isso (Ex: Penso, logo existo)",
+        "Explicativas: que, porque, pois (antes do verbo) (Ex: Não saia, que está chovendo)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conectivos: Conjunções (Parte 2)",
+      "tempo_inicio_segundos": 157.07,
+      "topicos": [
+        "Causais: porque, já que, como (início da frase) (Ex: Como estava doente, não foi)",
+        "Consecutivas: tão...que, de modo que (Ex: Falou tanto que ficou rouco)",
+        "Concessivas: embora, mesmo que, apesar de que (Ex: Embora chovesse, saímos)",
+        "Condicionais: se, caso, desde que (Ex: Se você vier, eu irei)",
+        "Conformativas: conforme, como, segundo (Ex: Fiz conforme o professor pediu)",
+        "Finais: para que, a fim de que (Ex: Estudou para que passasse)",
+        "Proporcionais: à medida que, quanto mais...mais (Ex: À medida que envelhecemos, ficamos mais sábios)",
+        "Temporais: quando, enquanto, logo que (Ex: Quando ele chegou, todos se calaram)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conectivos: Preposições e Advérbios",
+      "tempo_inicio_segundos": 206.63,
+      "topicos": [
+        "Preposições: Ligam palavras, estabelecendo relações de sentido e dependência",
+        "Invariáveis: de, em, para, com, por, sobre, sem, etc.",
+        "Exemplo: Livro de português. (relação de posse/assunto)",
+        "Advérbios e Expressões Adverbiais: Modificam verbos, adjetivos ou outros advérbios",
+        "Indicam circunstâncias (tempo, lugar, modo, intensidade)",
+        "Atuam como elementos de ligação e progressão textual",
+        "Exemplo: Ele chegou tarde. Depois, foi dormir. (Depois indica sequência temporal)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 245.45,
+      "topicos": [
+        "Enunciado: Em qual das alternativas o termo em destaque NÃO exerce função de coesão referencial?",
+        "A) João comprou um carro novo. Ele estava muito feliz com a aquisição.",
+        "B) A cidade de São Paulo é enorme. Lá vivem milhões de pessoas.",
+        "C) Os alunos estudaram muito. Contudo, a prova estava difícil.",
+        "D) Maria e Pedro são irmãos. Ambos moram no interior.",
+        "Gabarito: C",
+        "Comentário: 'Contudo' é uma conjunção adversativa, elemento de coesão sequencial, não referencial."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais da Coesão",
+      "tempo_inicio_segundos": 294.94,
+      "topicos": [
+        "Coesão textual: conexão lógica e semântica, essencial para clareza",
+        "Mecanismos de Coesão:",
+        "Referencial: remissão a elementos (pronomes, advérbios)",
+        "Lexical: uso de vocabulário (sinônimos, hiperônimos)",
+        "Sequencial: encadeamento de ideias por conectivos",
+        "Conectivos: ligam termos, orações ou parágrafos",
+        "Principais tipos: Conjunções, Preposições, Advérbios/Expressões Adverbiais",
+        "Crucial para a progressão temática, unidade do texto e avaliação em exames"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "BIZU PARA CONCURSOS!",
+      "tempo_inicio_segundos": 333.67,
+      "topicos": [
+        "Em redações, utilize uma variedade de conectivos",
+        "Demonstre domínio da língua portuguesa",
+        "Evite repetições de conectivos",
+        "A coesão sequencial bem empregada é um diferencial",
+        "Garanta pontos preciosos na sua redação!"
+      ]
+    }
+  ]
+}

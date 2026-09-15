@@ -1,0 +1,123 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Objetos Direto e Indireto",
+  "duracao_total_segundos": 357.11,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Objetos Direto e Indireto",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Objetos Direto e Indireto"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Objeto Direto: O Alvo da Ação",
+      "tempo_inicio_segundos": 34.34,
+      "topicos": [
+        "Completa verbo transitivo direto",
+        "SEM preposição",
+        "Responde \"o quê?\" ou \"quem?\"",
+        "Exemplos: Eu comprei um livro. Ela ama seu filho."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Oblíquos como Objeto Direto",
+      "tempo_inicio_segundos": 64.12,
+      "topicos": [
+        "Pronomes: o, a, os, as",
+        "Substituem o termo sem preposição",
+        "Ex.: Eu o vi na rua. (o = ele)",
+        "Ex.: Comprei-a ontem. (a = a revista)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Objeto Indireto: A Ponte da Preposição",
+      "tempo_inicio_segundos": 93.1,
+      "topicos": [
+        "Completa verbo transitivo indireto",
+        "COM preposição obrigatória",
+        "Responde \"de quê?\", \"para quem?\", \"a quem?\"",
+        "Exemplos: Eu preciso de ajuda. Ela obedece aos pais."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Oblíquos como Objeto Indireto",
+      "tempo_inicio_segundos": 130.34,
+      "topicos": [
+        "Pronomes: lhe, lhes",
+        "Substituem o termo preposicionado",
+        "Ex.: Eu lhe obedeci. (lhe = a ele/a ela)",
+        "Ex.: Entreguei-lhes o recado. (lhes = a eles/a elas)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Verbos Transitivos Diretos e Indiretos (VTDI)",
+      "tempo_inicio_segundos": 159.28,
+      "topicos": [
+        "Exigem DOIS complementos",
+        "Um Objeto Direto (o quê?)",
+        "Um Objeto Indireto (a quem?)",
+        "Ex.: Eu entreguei o livro ao professor."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 194.03,
+      "topicos": [
+        "Enunciado: Em qual das frases abaixo o termo em destaque funciona como Objeto Direto?",
+        "A) Eu preciso *de ajuda*.",
+        "B) Ela obedece *aos pais*.",
+        "C) Nós vimos *o filme*.",
+        "D) Acredito *em você*.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 234.15,
+      "topicos": [
+        "Enunciado: Considere a frase: 'O professor comunicou a nota aos alunos.' Identifique a função sintática dos termos 'a nota' e 'aos alunos', respectivamente.",
+        "A) Objeto Direto e Objeto Direto",
+        "B) Objeto Indireto e Objeto Direto",
+        "C) Objeto Direto e Objeto Indireto",
+        "D) Objeto Indireto e Objeto Indireto",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Objetos Direto e Indireto",
+      "tempo_inicio_segundos": 284.18,
+      "topicos": [
+        "OD: Sem preposição, \"o quê/quem?\"",
+        "OI: Com preposição, \"a quem/de quê?\"",
+        "Pronomes OD: o, a, os, as",
+        "Pronomes OI: lhe, lhes",
+        "VTDI: Exigem OD e OI"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do e-Biblio Digital",
+      "tempo_inicio_segundos": 322.55,
+      "topicos": [
+        "A preposição é a CHAVE!",
+        "OD: Sem preposição",
+        "OI: Com preposição",
+        "Verbo + O QUÊ/QUEM? = OD",
+        "Verbo + DE QUÊ/PARA QUEM/A QUEM? = OI"
+      ]
+    }
+  ]
+}

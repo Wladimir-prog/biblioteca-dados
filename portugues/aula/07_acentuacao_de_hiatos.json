@@ -1,0 +1,122 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Acentuação de Hiatos",
+  "duracao_total_segundos": 403.64,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Acentuação de Hiatos: Desvendando as Regras",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Bem-vindos à aula de Português!",
+        "Gramática: Fonologia, Ortografia e Acentuação",
+        "Foco: Acentuação de Hiatos",
+        "Entenda a importância para a pronúncia e escrita correta"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regras Gerais de Acentuação de Hiatos",
+      "tempo_inicio_segundos": 27.09,
+      "topicos": [
+        "Hiato: Duas vogais em sílabas diferentes",
+        "Acentuação foca em 'i' e 'u' tônicos",
+        "Regra: 'i' e 'u' tônicos em hiato, sozinhos ou seguidos de 's'",
+        "Condições para acentuação: Não seguidos de 'nh', não formam ditongo anterior"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "'I' e 'U' Tônicos em Hiato: Exemplos Práticos",
+      "tempo_inicio_segundos": 77.72,
+      "topicos": [
+        "'i' e 'u' tônicos em hiato recebem acento agudo",
+        "Indicam pronúncia intensa e sílabas separadas",
+        "Aplica-se quando sozinhos ou seguidos de 's'",
+        "Exemplos: sa-ú-de, ca-í-da, ba-la-ús-tre, e-go-ís-ta, pa-ís"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Exceções: 'I' e 'U' Seguidos de 'nh'",
+      "tempo_inicio_segundos": 114.37,
+      "topicos": [
+        "Não se acentuam 'i' e 'u' tônicos seguidos de 'nh'",
+        "O dígrafo 'nh' altera a fonética da sílaba",
+        "Exemplos: ra-i-nha, mo-i-nho, cam-pa-i-nha"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Exceções: 'I' e 'U' Formando Ditongo Anterior",
+      "tempo_inicio_segundos": 147.5,
+      "topicos": [
+        "Não se acentuam 'i' e 'u' tônicos se formam ditongo com a vogal anterior",
+        "Não há hiato puro, mas sim ditongo na mesma sílaba",
+        "Exemplos: fei-u-ra, bai-u-ca, cau-le"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Hiatos com Vogais Repetidas",
+      "tempo_inicio_segundos": 180.83,
+      "topicos": [
+        "Vogais idênticas em hiato não recebem acento pela regra do hiato",
+        "Exemplos: vo-o, en-jo-o, cre-em, le-em",
+        "A regra do hiato é exclusiva para 'i' e 'u' tônicos"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 217.38,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todas as palavras estão corretamente acentuadas de acordo com a regra de acentuação de hiatos.",
+        "A) Saúva, baú, juíza",
+        "B) Raínha, caíste, egoísmo",
+        "C) Feiúra, balaústre, saída",
+        "D) Moínho, país, saúde",
+        "Gabarito: A"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 272.67,
+      "topicos": [
+        "Enunciado: Qual das palavras abaixo NÃO deve ser acentuada pela regra dos hiatos?",
+        "A) Saída",
+        "B) Ruína",
+        "C) Moinho",
+        "D) Paraíso",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Acentuação de Hiatos",
+      "tempo_inicio_segundos": 314.62,
+      "topicos": [
+        "Hiato: 'i' e 'u' tônicos em sílabas separadas",
+        "Acentua-se 'i' e 'u' tônicos em hiato, sozinhos ou seguidos de 's'",
+        "Exceções: 'i'/'u' seguidos de 'nh' (rainha) ou formando ditongo anterior (feiura)",
+        "Vogais idênticas em hiato não são acentuadas pela regra (voo, creem)",
+        "Diferenciar hiato puro de ditongo crescente é essencial",
+        "Dominar hiatos garante escrita e pronúncia corretas"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú Final: Acentuação de Hiatos",
+      "tempo_inicio_segundos": 363.59,
+      "topicos": [
+        "Bizú: 'i' e 'u' tônicos são os 'queridinhos' do acento!",
+        "Acento só se eles estiverem 'sozinhos' ou com 's'",
+        "Cuidado com o 'nh' e com ditongos antes deles",
+        "Pratique com exemplos e exceções",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

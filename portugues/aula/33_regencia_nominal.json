@@ -1,0 +1,127 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Regência Nominal",
+  "duracao_total_segundos": 394.55,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Regência Nominal: A Conexão Perfeita!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Sintaxe da Oração e do Período",
+        "Regência Nominal",
+        "Clareza e Correção na Língua Portuguesa"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Que é Regência Nominal?",
+      "tempo_inicio_segundos": 28.63,
+      "topicos": [
+        "Nome + Complemento",
+        "Preposição: o elo essencial",
+        "Sentido plenamente compreendido",
+        "Exemplos: medo DE, apta PARA, próximos DE"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regente e Regido: Quem Pede e Quem Completa?",
+      "tempo_inicio_segundos": 74.96,
+      "topicos": [
+        "Termo Regente: o nome que 'pede'",
+        "Substantivo, Adjetivo ou Advérbio",
+        "Termo Regido: o complemento preposicionado",
+        "Completa o sentido do regente",
+        "Exemplos: ansioso POR notícias, orgulho DE você, acessível A todos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "As Preposições da Regência Nominal",
+      "tempo_inicio_segundos": 119.86,
+      "topicos": [
+        "A, DE, COM, EM, PARA, POR",
+        "Escolha não aleatória",
+        "Determinada pelo nome regente e contexto",
+        "Conhecer as preposições mais comuns",
+        "Exemplos: Capacidade DE, Dúvida SOBRE, Respeito A"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regência de Substantivos e Adjetivos",
+      "tempo_inicio_segundos": 158.23,
+      "topicos": [
+        "Substantivos: complemento preposicionado",
+        "Exemplos: acesso A, necessidade DE, preocupação COM",
+        "Adjetivos: sentimentos, qualidades, estados",
+        "Exemplos: apto A, capaz DE, contente COM, hábil EM"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regência de Advérbios",
+      "tempo_inicio_segundos": 203.47,
+      "topicos": [
+        "Advérbios de lugar, modo, intensidade",
+        "Noções de proximidade ou distância",
+        "Exemplos: perto DE, longe DE",
+        "Exemplos: paralelamente A, contrariamente A"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática: Questão 1",
+      "tempo_inicio_segundos": 238.6,
+      "topicos": [
+        "Assinale a alternativa em que a regência nominal está CORRETA:",
+        "A) Tenho aversão por mentiras.",
+        "B) Ele é apto a qualquer função.",
+        "C) Estamos próximos da verdade.",
+        "D) Sinto orgulho em sua dedicação.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática: Questão 2",
+      "tempo_inicio_segundos": 275.41,
+      "topicos": [
+        "Qual das frases abaixo apresenta um erro de regência nominal?",
+        "A) Ele é consciente de suas responsabilidades.",
+        "B) Tenho necessidade de um bom descanso.",
+        "C) A cidade é acessível para todos.",
+        "D) Sou grato a você pela ajuda.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Regência Nominal",
+      "tempo_inicio_segundos": 312.29,
+      "topicos": [
+        "Relação nome + complemento",
+        "Mediador: a preposição",
+        "Preposições comuns: A, DE, COM, EM, PARA, POR",
+        "Regências específicas (substantivos, adjetivos, advérbios)",
+        "Prática e consulta são essenciais",
+        "Clareza na comunicação"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "O Bizu Final: Dica de Ouro!",
+      "tempo_inicio_segundos": 354.43,
+      "topicos": [
+        "Não decore, compreenda!",
+        "Associe a preposição ao sentido do nome",
+        "Leia e escreva muito",
+        "Consulte um bom dicionário de regência",
+        "A prática leva à perfeição!"
+      ]
+    }
+  ]
+}

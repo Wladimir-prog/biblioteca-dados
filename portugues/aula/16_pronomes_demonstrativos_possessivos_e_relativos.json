@@ -1,0 +1,146 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Pronomes Demonstrativos, Possessivos e Relativos",
+  "duracao_total_segundos": 486.76,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Pronomes Essenciais: Demonstrativos, Possessivos e Relativos",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Bem-vindos ao e-Biblio Digital!",
+        "Português — Gramática",
+        "Morfologia: Estrutura e Classes de Palavras",
+        "Pronomes Demonstrativos, Possessivos e Relativos",
+        "Coesão e Clareza Textual",
+        "Fundamental para Provas e Concursos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Demonstrativos: Situando no Espaço",
+      "tempo_inicio_segundos": 41.15,
+      "topicos": [
+        "O que são Pronomes Demonstrativos?",
+        "Situam seres no espaço, tempo ou texto",
+        "Em relação às pessoas do discurso",
+        "Formas Variáveis: este, esta, estes, estas, esse, essa, esses, essas, aquele, aquela, aqueles, aquelas",
+        "Formas Invariáveis: isto, isso, aquilo",
+        "Uso no Espaço:",
+        "Este(s), esta(s), isto: perto da 1ª pessoa (quem fala)",
+        "Esse(s), essa(s), isso: perto da 2ª pessoa (com quem se fala)",
+        "Aquele(s), aquela(s), aquilo: longe da 1ª e 2ª pessoa"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Demonstrativos: Tempo e Coesão Textual",
+      "tempo_inicio_segundos": 101.65,
+      "topicos": [
+        "Uso no Tempo:",
+        "Este(s), esta(s), isto: presente ou futuro próximo",
+        "Esse(s), essa(s), isso: passado recente ou futuro não muito distante",
+        "Aquele(s), aquela(s), aquilo: passado distante",
+        "Uso no Texto (Coesão):",
+        "Anáfora: Retoma algo já mencionado",
+        "Catáfora: Antecipa algo que será mencionado",
+        "Bizú: Atenção ao uso de 'este', 'esse' e 'aquele' no tempo e no texto!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Possessivos: Indicando Posse",
+      "tempo_inicio_segundos": 157.45,
+      "topicos": [
+        "O que são Pronomes Possessivos?",
+        "Indicam posse",
+        "Relação entre possuidor e coisa possuída",
+        "Formas:",
+        "1ª pessoa: meu, minha, meus, minhas, nosso, nossa, nossos, nossas",
+        "2ª pessoa: teu, tua, teus, tuas, vosso, vossa, vossos, vossas",
+        "3ª pessoa: seu, sua, seus, suas",
+        "Uso:",
+        "Concordam em gênero e número com a coisa possuída",
+        "Concordam em pessoa com o possuidor",
+        "Podem indicar afeto, respeito ou generalização",
+        "Bizú: Evite ambiguidade com 'seu/sua' usando 'dele/dela'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Relativos: Conectando Ideias",
+      "tempo_inicio_segundos": 227.35,
+      "topicos": [
+        "O que são Pronomes Relativos?",
+        "Retomam um termo anterior (antecedente)",
+        "Introduzem oração subordinada adjetiva",
+        "Evitam repetições e conectam ideias",
+        "Formas Variáveis: o qual, a qual, os quais, as quais, cujo, cuja, cujos, cujas, quanto, quanta, quantos, quantas",
+        "Formas Invariáveis: que, quem, onde",
+        "Uso:",
+        "Que: pessoas ou coisas (mais comum)",
+        "Quem: apenas pessoas",
+        "Onde: apenas lugar",
+        "Cujo(a)(s): indica posse (concorda com termo posterior)",
+        "O qual (e variações): após preposições, evita ambiguidade",
+        "Quanto(a)(s): após indefinidos (tudo, todos, tantos)",
+        "Função Sintática:",
+        "Exercem função na oração subordinada (sujeito, objeto, adjunto)",
+        "Bizú: Atenção à regência verbal/nominal para preposições!"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Pronomes Demonstrativos",
+      "tempo_inicio_segundos": 312.55,
+      "topicos": [
+        "Enunciado:",
+        "Assinale a alternativa em que o pronome demonstrativo está empregado corretamente, considerando a situação de que o objeto está próximo da pessoa com quem se fala.",
+        "A) Este livro que está com você é interessante.",
+        "B) Aquele livro que está com você é interessante.",
+        "C) Esse livro que está com você é interessante.",
+        "D) Isto livro que está com você é interessante.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Pronomes Relativos",
+      "tempo_inicio_segundos": 361.52,
+      "topicos": [
+        "Enunciado:",
+        "Analise a frase: 'O professor ______ aulas assisti é muito didático.' Qual pronome relativo preenche corretamente a lacuna, considerando a regência verbal?",
+        "A) que",
+        "B) quem",
+        "C) cujas",
+        "D) a cujas",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave dos Pronomes",
+      "tempo_inicio_segundos": 410.26,
+      "topicos": [
+        "Demonstrativos: situam no espaço, tempo ou texto (este, esse, aquele)",
+        "Possessivos: indicam posse (meu, teu, seu, nosso, vosso)",
+        "Relativos: retomam antecedente, introduzem orações adjetivas (que, quem, onde, cujo, o qual, quanto)",
+        "Demonstrativos: proximidade ao falante (este), ao ouvinte (esse), ou a ambos (aquele)",
+        "Relativos: exercem função sintática na oração subordinada"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizus Finais e Despedida",
+      "tempo_inicio_segundos": 447.84,
+      "topicos": [
+        "Bizú Demonstrativos: Atenção ao uso de 'este', 'esse' e 'aquele' no tempo e no texto!",
+        "Bizú Possessivos: Evite ambiguidade com 'seu/sua' usando 'dele/dela'!",
+        "Bizú Relativos: A regência verbal ou nominal é crucial para a preposição que acompanha o pronome relativo!",
+        "Pratique sempre!",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

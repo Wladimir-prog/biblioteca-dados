@@ -1,0 +1,110 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Encontros Vocálicos e Consonantais",
+  "duracao_total_segundos": 313.97,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Encontros Vocálicos e Consonantais",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "A base fonética da Língua Portuguesa",
+        "Pronúncia, divisão silábica e acentuação",
+        "Classifique ditongos, tritongos e hiatos",
+        "Diferencie encontros consonantais de dígrafos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sons Vocálicos: Ditongo, Tritongo e Hiato",
+      "tempo_inicio_segundos": 32.75,
+      "topicos": [
+        "Vogal: som pleno e forte (núcleo da sílaba)",
+        "Semivogal: som fraco, apoia-se na vogal",
+        "Ditongo Crescente: Semivogal + Vogal (SV+V)",
+        "Ditongo Decrescente: Vogal + Semivogal (V+SV)",
+        "Tritongo: Semivogal + Vogal + Semivogal (SV+V+SV)",
+        "Hiato: Duas vogais em sílabas distintas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sons Consonantais: Perfeitos e Imperfeitos",
+      "tempo_inicio_segundos": 80.12,
+      "topicos": [
+        "Encontro Consonantal: Duas ou mais consoantes juntas",
+        "Cada consoante mantém seu fonema (som)",
+        "Perfeito (Inseparável): Consoantes na mesma sílaba",
+        "Ex.: prato (pra-to), blusa (blu-sa)",
+        "Imperfeito (Separável): Consoantes em sílabas diferentes",
+        "Ex.: admirar (ad-mi-rar), ritmo (rit-mo)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Diferenciação Crucial: Encontro Consonantal vs. Dígrafo",
+      "tempo_inicio_segundos": 114.8,
+      "topicos": [
+        "Encontro Consonantal: DUAS letras = DOIS sons",
+        "Dígrafo: DUAS letras = UM único som",
+        "Dígrafos Consonantais Inseparáveis: ch, lh, nh",
+        "Dígrafos Consonantais Separáveis: rr, ss, sc, sç, xc",
+        "Dígrafos QU e GU: 'u' mudo (ex.: guerra, queijo)",
+        "Dígrafos Vocálicos (Nasalização): am, an, em, en, im, in, om, on, um, un"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 164.93,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todas as palavras apresentam ditongo decrescente:",
+        "A) Quase, história, série",
+        "B) Pai, caixa, chapéu",
+        "C) Saúde, poesia, cair",
+        "D) Paraguai, saguão, enxáguam",
+        "Gabarito: B",
+        "Comentário: Vogal forte + semivogal fraca na mesma sílaba."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 205.22,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a palavra apresenta um encontro consonantal inseparável (perfeito):",
+        "A) Ritmo",
+        "B) Admirar",
+        "C) Blusa",
+        "D) Chuva",
+        "Gabarito: C",
+        "Comentário: O grupo 'bl' permanece junto na mesma sílaba, com ambos os sons perceptíveis."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 242.51,
+      "topicos": [
+        "Ditongo: Vogal e semivogal na mesma sílaba (crescente ou decrescente).",
+        "Tritongo: SV+V+SV inseparável (ex.: Paraguai).",
+        "Hiato: Duas vogais em sílabas distintas (ex.: sa-ú-de).",
+        "Encontro Consonantal: Ambos os fonemas consonantais são audíveis (ex.: prato, ritmo).",
+        "Dígrafo: Duas letras para um único som (ex.: chuva, campo)."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor e Encerramento",
+      "tempo_inicio_segundos": 281.17,
+      "topicos": [
+        "Bizu: Pronuncie a palavra em voz alta!",
+        "Ouça os sons para identificar encontros e dígrafos.",
+        "Pratique a divisão silábica.",
+        "Continue seus estudos!",
+        "Até a próxima!"
+      ]
+    }
+  ]
+}

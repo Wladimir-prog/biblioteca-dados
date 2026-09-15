@@ -1,0 +1,115 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Sujeito: Tipos e Classificação",
+  "duracao_total_segundos": 359.66,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Sujeito: Tipos e Classificação",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Sujeito: Tipos e Classificação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Sujeito: Essência da Oração",
+      "tempo_inicio_segundos": 27.88,
+      "topicos": [
+        "Termo essencial da oração",
+        "Concorda com o verbo",
+        "Indica quem pratica/sofre a ação ou sobre quem se declara algo",
+        "Como identificar: Pergunte 'Quem?' ou 'O quê?' ao verbo",
+        "Classificação geral: Determinado, Indeterminado ou Inexistente"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sujeito Determinado: Simples, Composto e Oculto",
+      "tempo_inicio_segundos": 63.18,
+      "topicos": [
+        "Sujeito Determinado: Pode ser claramente identificado",
+        "Bizú: Sempre identificável, expresso ou subentendido!",
+        "Sujeito Simples: Apenas um núcleo. Ex: 'O professor explicou a matéria.'",
+        "Sujeito Composto: Dois ou mais núcleos. Ex: 'Pedro e Maria foram ao cinema.'",
+        "Sujeito Oculto (Elíptico/Desinencial): Não expresso, mas inferido pela desinência verbal ou contexto. Ex: 'Viajamos para o litoral.' (Nós)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sujeito Indeterminado: Quando não se quer identificar",
+      "tempo_inicio_segundos": 105.61,
+      "topicos": [
+        "Sujeito Indeterminado: Ação atribuída a alguém, mas não se identifica quem",
+        "Bizú: Existe, mas não se quer ou não se pode nomeá-lo!",
+        "1. Verbo na 3ª pessoa do plural: Sem termo anterior que seja sujeito. Ex: 'Roubaram meu carro.'",
+        "2. Verbo na 3ª pessoa do singular + 'se' (IIS): Com verbos intransitivos, transitivos indiretos ou de ligação. Ex: 'Precisa-se de funcionários.'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Oração Sem Sujeito: Verbos Impessoais",
+      "tempo_inicio_segundos": 152.18,
+      "topicos": [
+        "Oração Sem Sujeito (Sujeito Inexistente): Verbo não se refere a nenhum agente",
+        "Bizú: Não tem agente para a ação verbal! O verbo é impessoal.",
+        "1. Fenômenos da natureza: Chover, nevar, ventar. Ex: 'Choveu muito ontem.'",
+        "2. Verbo 'haver' (existir, ocorrer, tempo decorrido): Ex: 'Há muitos livros na biblioteca.'",
+        "3. Verbo 'fazer' (tempo ou clima): Ex: 'Faz calor no verão.'",
+        "4. Verbos 'ser', 'estar', 'ficar' (tempo, clima ou distância): Ex: 'É tarde.'"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 193.1,
+      "topicos": [
+        "Enunciado: Em qual das alternativas o sujeito é classificado como oculto (elíptico)?",
+        "A) Choveu muito durante a noite.",
+        "B) Precisa-se de bons profissionais.",
+        "C) Estudamos para a prova de português.",
+        "D) O professor e os alunos conversaram.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 233.63,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a oração apresenta sujeito indeterminado.",
+        "A) Faz frio no sul do país.",
+        "B) Vende-se casas nesta rua.",
+        "C) Falaram sobre o novo projeto.",
+        "D) Os livros e as canetas sumiram.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Tipos de Sujeito",
+      "tempo_inicio_segundos": 275.84,
+      "topicos": [
+        "Sujeito: Termo essencial que concorda com o verbo.",
+        "Determinado: Identificável (Simples, Composto, Oculto).",
+        "Indeterminado: Existe, mas não se identifica (Verbo 3ª plural ou Verbo 3ª singular + 'se' IIS).",
+        "Oração Sem Sujeito: Verbos impessoais (Fenômenos, 'haver', 'fazer', 'ser', 'estar', 'ficar' - tempo/clima).",
+        "A correta identificação é fundamental para a concordância verbal!"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú Final: A Chave para o Sujeito!",
+      "tempo_inicio_segundos": 324.65,
+      "topicos": [
+        "Dica de Ouro: Sempre pergunte 'Quem?' ou 'O quê?' ao verbo!",
+        "Atenção à concordância verbal: O sujeito manda no verbo!",
+        "Pratique com exercícios variados.",
+        "Revisão constante garante a memorização."
+      ]
+    }
+  ]
+}

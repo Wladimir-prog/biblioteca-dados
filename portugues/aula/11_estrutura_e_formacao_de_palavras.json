@@ -1,0 +1,127 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Estrutura e Formação de Palavras",
+  "duracao_total_segundos": 473.47,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Estrutura e Formação de Palavras",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Morfologia: A base da língua portuguesa",
+        "Compreenda a construção e o significado das palavras"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Morfemas: Os Blocos Construtores",
+      "tempo_inicio_segundos": 33.55,
+      "topicos": [
+        "Morfemas: Unidades mínimas de significado",
+        "1. Radical: Sentido essencial da palavra (pedr-, livr-, feliz-)",
+        "2. Afixos: Morfemas que se juntam ao radical",
+        "2.1. Prefixo: Antes do radical (re-fazer, in-feliz)",
+        "2.2. Sufixo: Depois do radical (feliz-mente, livr-aria)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vogais Temáticas e Desinências",
+      "tempo_inicio_segundos": 88.45,
+      "topicos": [
+        "3. Vogal Temática: Liga o radical às desinências",
+        "3.1. Nominal: 'a', 'e', 'o' (livr-o, mes-a)",
+        "3.2. Verbal: 'a', 'e', 'i' (cant-a-r, vend-e-r, part-i-r)",
+        "4. Tema: Radical + Vogal Temática (cant-a, vend-e)",
+        "5. Desinências: Indicam flexões das palavras",
+        "5.1. Nominal: Gênero e número (alun-o, alun-a, alun-o-s)",
+        "5.2. Verbal: Pessoa, número, tempo e modo (cant-á-va-mos)",
+        "6. Vogal e Consoante de Ligação: Facilitam a pronúncia (cafe-t-eira, gas-ô-metro)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Derivação: Criando Novas Palavras",
+      "tempo_inicio_segundos": 147.61,
+      "topicos": [
+        "Derivação: Palavra nova a partir de uma existente",
+        "1.1. Prefixal: Acréscimo de prefixo (re-fazer, in-feliz)",
+        "1.2. Sufixal: Acréscimo de sufixo (feliz-mente, pedr-eiro)",
+        "1.3. Parassintética: Prefixo e sufixo simultâneos (en-trist-ecer)",
+        "1.4. Regressiva: Redução da palavra (comprar -> compra)",
+        "1.5. Imprópria (Conversão): Mudança de classe gramatical (O jantar)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Composição e Outros Processos",
+      "tempo_inicio_segundos": 209.04,
+      "topicos": [
+        "Composição: União de dois ou mais radicais",
+        "2.1. Justaposição: Sem perda de fonemas (guarda-chuva, girassol)",
+        "2.2. Aglutinação: Com perda de fonemas (planalto, aguardente)",
+        "Outros Processos de Formação:",
+        "3.1. Hibridismo: Elementos de línguas diferentes (sociologia)",
+        "3.2. Onomatopeia: Imitação de sons (miau, tic-tac)",
+        "3.3. Abreviatura (Redução): Redução de palavras (foto, moto)",
+        "3.4. Siglas e Acrônimos: Letras iniciais (ONU, CPF, ENEM)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 267.86,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que todas as palavras são formadas pelo processo de derivação parassintética.",
+        "A) Desleal, anoitecer, infelizmente",
+        "B) Empobrecer, entristecer, amanhecer",
+        "C) Refazer, livraria, aguardente",
+        "D) Choro, planalto, sociologia",
+        "Gabarito: B",
+        "Comentário: A derivação parassintética exige acréscimo simultâneo de prefixo e sufixo, onde a retirada de um deles torna a palavra inexistente."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 323.08,
+      "topicos": [
+        "Enunciado: Na palavra 'cantávamos', os morfemas que indicam, respectivamente, tempo/modo e pessoa/número são:",
+        "A) -a- e -mos",
+        "B) -va- e -mos",
+        "C) cant- e -mos",
+        "D) -á- e -va-",
+        "Gabarito: B",
+        "Comentário: '-va-' é a desinência modo-temporal (pretérito imperfeito do indicativo) e '-mos' é a desinência número-pessoal (1ª pessoa do plural)."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: O Essencial para Memorizar",
+      "tempo_inicio_segundos": 362.79,
+      "topicos": [
+        "Morfemas: Unidades mínimas (radical, afixos, vogais temáticas, desinências).",
+        "Radical: Sentido básico. Afixos: Modificam o sentido.",
+        "Vogais Temáticas e Desinências: Flexões nominais e verbais.",
+        "Derivação: Palavra nova de uma existente (prefixal, sufixal, parassintética, regressiva, imprópria).",
+        "Composição: União de radicais (justaposição, aglutinação).",
+        "Outros: Hibridismo, onomatopeia, abreviação, siglas/acrônimos."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 421.87,
+      "topicos": [
+        "Diferencie Parassintética de Prefixal e Sufixal:",
+        "Teste a retirada de um afixo: se a palavra sumir, é parassintética!",
+        "Ex: 'anoitecer' (não existe 'anoite' nem 'noitecer')",
+        "Diferencie Justaposição de Aglutinação:",
+        "Observe se há perda de fonemas na união dos radicais.",
+        "Ex: 'guarda-chuva' (justaposição) vs. 'planalto' (aglutinação)"
+      ]
+    }
+  ]
+}

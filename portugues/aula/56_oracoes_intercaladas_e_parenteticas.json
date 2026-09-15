@@ -1,0 +1,129 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "TÓPICOS AVANÇADOS DE SINTAXE",
+  "tema": "Orações Intercaladas e Parentéticas",
+  "duracao_total_segundos": 539.87,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Orações Intercaladas e Parentéticas",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "TÓPICOS AVANÇADOS DE SINTAXE",
+        "Enriquecendo o texto com informações adicionais",
+        "Clareza, coesão e correção gramatical"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Intercaladas",
+      "tempo_inicio_segundos": 42.55,
+      "topicos": [
+        "Inserem-se no interior de outra oração",
+        "Interrompem a sequência sintática natural",
+        "Adicionam comentário, explicação ou informação acessória",
+        "Não possuem função sintática essencial",
+        "Podem ser removidas sem prejuízo da compreensão básica",
+        "Pontuação: vírgulas, parênteses ou travessões"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Parentéticas",
+      "tempo_inicio_segundos": 104.12,
+      "topicos": [
+        "Tipo específico de oração intercalada",
+        "Comentário, observação à parte ou digressão",
+        "Integra-se como um 'parêntese' no discurso",
+        "Adendo explicativo ou opinativo",
+        "Expressa percepção ou ponto de vista do enunciador",
+        "Pontuação: parênteses e travessões (mais comuns), vírgulas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Diferenças e Semelhanças",
+      "tempo_inicio_segundos": 164.09,
+      "topicos": [
+        "Intercalada: caráter mais abrangente",
+        "Parentética: tipo particular de intercalação (comentário/explicação)",
+        "Ambas: informações adicionais, não essenciais",
+        "Ambas: sempre isoladas por pontuação",
+        "Distinção: ênfase ou grau de afastamento",
+        "Parentéticas: mais explicativas, opinativas, diálogo com o leitor"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Função Sintática e Pontuação",
+      "tempo_inicio_segundos": 239.98,
+      "topicos": [
+        "Função sintática: adjunto adnominal, adjunto adverbial ou aposto",
+        "Pontuação: crucial para compreensão e delimitação",
+        "Escolha do sinal: grau de interrupção e destaque"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pontuação: Detalhes Importantes",
+      "tempo_inicio_segundos": 286.75,
+      "topicos": [
+        "Vírgulas: pausa breve, separação menos enfática",
+        "Ex: A cidade, onde nasci, é linda.",
+        "Travessões: interrupção abrupta, maior destaque",
+        "Ex: O resultado – que era esperado – foi divulgado.",
+        "Parênteses: afastamento significativo, aparte, observação secundária",
+        "Ex: Ele viajou (apesar do aviso) para o exterior."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 345.85,
+      "topicos": [
+        "Em qual das frases a oração destacada é classificada como intercalada explicativa?",
+        "A) O aluno que estudou muito passou no concurso.",
+        "B) O livro, que comprei ontem, é fascinante.",
+        "C) Ele chegou quando ninguém esperava.",
+        "D) A verdade disse o professor sempre prevalece."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 402.87,
+      "topicos": [
+        "Assinale a alternativa em que a pontuação da oração parentética está INCORRETA.",
+        "A) O diretor (que é muito exigente) aprovou o projeto.",
+        "B) Minha cidade – você sabe – é um lugar tranquilo.",
+        "C) A reunião, segundo informaram, foi adiada.",
+        "D) Os alunos que estudaram muito, foram aprovados."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 449.4,
+      "topicos": [
+        "Orações intercaladas e parentéticas adicionam informações acessórias.",
+        "Não são essenciais para a compreensão básica da mensagem.",
+        "Parentéticas: caráter mais explicativo, opinativo ou de aparte.",
+        "Pontuação (vírgulas, travessões, parênteses) é fundamental.",
+        "Função sintática: adjunto adnominal, adjunto adverbial ou aposto.",
+        "Dominar essas estruturas é vital para a clareza e correção gramatical."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú para Concursos!",
+      "tempo_inicio_segundos": 500.15,
+      "topicos": [
+        "A escolha do sinal de pontuação não é arbitrária!",
+        "Reflete o grau de interrupção e destaque.",
+        "Dominar essa distinção é crucial para clareza e correção textual.",
+        "Pratique a identificação e a pontuação!"
+      ]
+    }
+  ]
+}

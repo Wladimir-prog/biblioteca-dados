@@ -1,0 +1,127 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "TÓPICOS AVANÇADOS DE SINTAXE",
+  "tema": "Orações Reduzidas (Infinitivo, Gerúndio e Particípio)",
+  "duracao_total_segundos": 471.64,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Orações Reduzidas: Infinitivo, Gerúndio e Particípio",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Tópicos Avançados de Sintaxe",
+        "Tema: Orações Reduzidas",
+        "Concisão e Elegância na Escrita"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que são Orações Reduzidas?",
+      "tempo_inicio_segundos": 31.91,
+      "topicos": [
+        "Sem Conjunção ou Pronome Relativo",
+        "Verbo em Forma Nominal",
+        "Infinitivo (cantar), Gerúndio (cantando) ou Particípio (cantado)",
+        "Concisão e Economia Textual"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Oração Reduzida de Infinitivo",
+      "tempo_inicio_segundos": 83.24,
+      "topicos": [
+        "Verbo no Infinitivo (pessoal ou impessoal)",
+        "Funções: Sujeito, Objeto Direto, Adjunto Adverbial (Finalidade, Causa, Tempo)",
+        "Exemplos: 'É essencial aprender a gramática.' (Sujeito)",
+        "'Ao sair, feche a porta.' (Adjunto Adverbial de Tempo)",
+        "'Ele foi o primeiro a chegar.' (Adjunto Adnominal)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Oração Reduzida de Gerúndio",
+      "tempo_inicio_segundos": 125.07,
+      "topicos": [
+        "Verbo no Gerúndio (-ndo)",
+        "Ideia de: Ação Contínua, Simultaneidade, Causa, Condição, Modo",
+        "Função predominante: Adjunto Adverbial",
+        "Exemplos: 'Caminhando pela rua, encontrei um amigo.' (Simultaneidade)",
+        "'Estudando com afinco, você passará.' (Condição)",
+        "'Sentindo-se mal, ele foi ao médico.' (Causa)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Oração Reduzida de Particípio",
+      "tempo_inicio_segundos": 167.9,
+      "topicos": [
+        "Verbo no Particípio (-ado, -ido, ou irregulares)",
+        "Ideia de: Estado, Resultado, Tempo, Causa, Condição",
+        "Funções: Adjunto Adnominal, Adjunto Adverbial",
+        "Exemplos: 'Terminada a reunião, todos foram embora.' (Tempo/Causa)",
+        "'Feita a lição, ele pôde brincar.' (Condição/Tempo)",
+        "'O livro, lido por muitos, é um sucesso.' (Adjunto Adnominal)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Transformação e Relevância Textual",
+      "tempo_inicio_segundos": 215.66,
+      "topicos": [
+        "Converter Orações Desenvolvidas em Reduzidas",
+        "Eliminar Conjunção/Pronome Relativo",
+        "Verbo na Forma Nominal Adequada",
+        "Concisão, Fluidez e Elegância",
+        "Domínio Avançado da Norma Culta"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 263.15,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a oração reduzida de infinitivo exerce a função de sujeito da oração principal.",
+        "A) Ele veio para nos ajudar.",
+        "B) É fundamental estudar para o concurso.",
+        "C) Vi-o sair apressado.",
+        "D) Ao chegar em casa, ligou a televisão."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 312.82,
+      "topicos": [
+        "Enunciado: Considere a frase: 'É importante vocês lerem o edital com atenção.' A oração reduzida de infinitivo 'vocês lerem o edital com atenção' é classificada como:",
+        "A) Oração Subordinada Substantiva Subjetiva Reduzida de Infinitivo Pessoal.",
+        "B) Oração Subordinada Adjetiva Restritiva Reduzida de Infinitivo Pessoal.",
+        "C) Oração Subordinada Adverbial Final Reduzida de Infinitivo Pessoal.",
+        "D) Oração Subordinada Substantiva Objetiva Direta Reduzida de Infinitivo Impessoal."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 384.77,
+      "topicos": [
+        "Orações Reduzidas: Verbos em Formas Nominais (Infinitivo, Gerúndio, Particípio)",
+        "Ausência de Conectivos Explícitos (conjunções/pronomes relativos)",
+        "Infinitivo: Sujeito, Objeto Direto, Adjunto Adverbial (Finalidade, Causa, Tempo)",
+        "Gerúndio: Adjunto Adverbial (Simultaneidade, Causa, Condição, Modo)",
+        "Particípio: Adjunto Adnominal, Adjunto Adverbial (Estado, Tempo, Causa)",
+        "Recurso para Concisão, Fluidez e Elegância Textual"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor!",
+      "tempo_inicio_segundos": 429.16,
+      "topicos": [
+        "Para identificar a função: Tente desenvolver a oração!",
+        "Se o verbo reduzido tem sujeito diferente do principal, use infinitivo pessoal.",
+        "Pratique a transformação de desenvolvidas em reduzidas para dominar a concisão."
+      ]
+    }
+  ]
+}

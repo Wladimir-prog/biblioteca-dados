@@ -1,0 +1,116 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Artigo e Numeral",
+  "duracao_total_segundos": 371.8,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Bem-vindos ao e-Biblio Digital!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Morfologia",
+        "Artigo e Numeral",
+        "Aprenda a usar corretamente!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Artigo: O Companheiro do Substantivo",
+      "tempo_inicio_segundos": 35.27,
+      "topicos": [
+        "O que é Artigo?",
+        "Determina ou Generaliza",
+        "Concorda em Gênero e Número",
+        "BizU: Sempre com um Substantivo!",
+        "Definidos: o, a, os, as (especificam)",
+        "Indefinidos: um, uma, uns, umas (generalizam)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Artigos e Preposições: As Contrações",
+      "tempo_inicio_segundos": 90.4,
+      "topicos": [
+        "Formam novas palavras",
+        "Exemplos: do, da, no, na, pelos, pelas, ao, à (crase)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Numeral: O Contador e Organizador",
+      "tempo_inicio_segundos": 125.43,
+      "topicos": [
+        "O que é Numeral?",
+        "Indica Quantidade Exata, Ordem, Fração ou Multiplicação",
+        "Acompanha o Substantivo",
+        "BizU: Sempre dá ideia de número!",
+        "Cardinais: quantidade (um, dois)",
+        "Ordinais: ordem (primeiro, segundo)",
+        "Multiplicativos: multiplicação (dobro, triplo)",
+        "Fracionários: parte (meio, terço)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexão dos Numerais",
+      "tempo_inicio_segundos": 175.85,
+      "topicos": [
+        "Cardinais: maioria invariável (três, cem)",
+        "Cardinais 'um' e 'dois' flexionam",
+        "Ordinais, Multiplicativos e Fracionários flexionam",
+        "Exemplos: uma maçã, primeira colocada"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 209.3,
+      "topicos": [
+        "Em qual das frases abaixo o termo em destaque é um artigo definido?",
+        "A) Ele comprou **dois** livros.",
+        "B) **Uma** ideia brilhante surgiu.",
+        "C) **A** casa estava vazia.",
+        "D) Recebi o **dobro** do valor."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 248.96,
+      "topicos": [
+        "Qual a classificação do numeral em destaque na frase: 'Ele foi o **primeiro** a terminar a corrida'?",
+        "A) Cardinal",
+        "B) Multiplicativo",
+        "C) Fracionário",
+        "D) Ordinal"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Artigo e Numeral",
+      "tempo_inicio_segundos": 279.89,
+      "topicos": [
+        "Artigos e numerais acompanham e modificam o substantivo.",
+        "Artigos definidos (o, a, os, as) especificam.",
+        "Artigos indefinidos (um, uma, uns, umas) generalizam.",
+        "Artigos podem se combinar com preposições (do, na, à).",
+        "Numerais indicam quantidade (cardinais), ordem (ordinais), multiplicação (multiplicativos) ou fração (fracionários).",
+        "Numerais 'um' e 'dois', ordinais, multiplicativos e fracionários flexionam.",
+        "Essenciais para clareza, precisão e coesão textual."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "BizU Final: Para Não Errar Mais!",
+      "tempo_inicio_segundos": 337.78,
+      "topicos": [
+        "Artigo: sempre com substantivo!",
+        "Numeral: sempre indica número!",
+        "Pratique a identificação!",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

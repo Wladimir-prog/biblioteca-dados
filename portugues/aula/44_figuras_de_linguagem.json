@@ -1,0 +1,158 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Semântica, Estilística e Uso das Palavras",
+  "tema": "Figuras de Linguagem",
+  "duracao_total_segundos": 483.76,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Figuras de Linguagem: A Arte de Expressar",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Semântica, Estilística e Uso das Palavras",
+        "Recursos expressivos e intencionais",
+        "Sentido conotativo (figurado)",
+        "4 grupos: Palavra, Pensamento, Sintaxe, Som"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "1. Figuras de Palavra (Semânticas) - Parte 1",
+      "tempo_inicio_segundos": 47.2,
+      "topicos": [
+        "Atuam no significado das palavras",
+        "Metáfora: Comparação implícita (sem conectivo)",
+        "Ex: A vida é uma nuvem que passa.",
+        "Comparação (Símile): Comparação explícita (com conectivo)",
+        "Ex: A vida é como uma nuvem que passa.",
+        "Metonímia: Substituição por proximidade lógica",
+        "Ex: Li Machado de Assis. (Autor pela Obra)",
+        "Ex: Bebeu dois copos. (Continente pelo Conteúdo)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "1. Figuras de Palavra (Semânticas) - Parte 2",
+      "tempo_inicio_segundos": 100.81,
+      "topicos": [
+        "Catacrese: Empréstimo de termo por falta de um específico",
+        "Torna-se imperceptível no uso diário",
+        "Ex: Embarcar no avião. / Dente de alho. / Pé da mesa.",
+        "Sinestesia: Fusão de diferentes sentidos",
+        "Ex: Um cheiro doce. (Olfato + Paladar)",
+        "Ex: Voz áspera. (Audição + Tato)",
+        "Antonomásia (Perífrase): Substituição de nome por característica marcante",
+        "Ex: O Rei do Futebol. (Pelé)",
+        "Ex: A Cidade Maravilhosa. (Rio de Janeiro)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "2. Figuras de Pensamento - Parte 1",
+      "tempo_inicio_segundos": 139.57,
+      "topicos": [
+        "Trabalham com o significado amplo das ideias",
+        "Antítese: Aproximação de ideias opostas (coexistência lógica)",
+        "Ex: O amor e o ódio convivem.",
+        "Paradoxo (Oxímoro): Ideias contrárias que se anulam (ilógico)",
+        "Ex: Estou cego de amor e vejo tudo.",
+        "Eufemismo: Suavizar uma informação desagradável",
+        "Ex: Entregou a alma ao Criador. (Morreu)",
+        "Hipérbole: Exagero intencional para enfatizar",
+        "Ex: Chorei rios de lágrimas. / Morrendo de sede."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "2. Figuras de Pensamento - Parte 2",
+      "tempo_inicio_segundos": 183.72,
+      "topicos": [
+        "Ironia: Afirmar o oposto do que se quer dizer (sarcasmo)",
+        "Ex: Que belo trabalho! (Diante de um serviço ruim)",
+        "Prosopopeia (Personificação): Atribuir características humanas a não-humanos",
+        "Ex: O vento sussurrava. / O sol sorria.",
+        "Gradação (Clímax/Anticlímax): Sequência de ideias em ordem escalar",
+        "Ascendente (Clímax): chorou, gritou, desesperou-se, enlouqueceu.",
+        "Descendente (Anticlímax): império caiu, cidade ruiu, casa desabou."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "3. Figuras de Sintaxe (Construção) - Parte 1",
+      "tempo_inicio_segundos": 229.05,
+      "topicos": [
+        "Atuam na estrutura gramatical da frase",
+        "Elipse: Omissão de termo facilmente identificável pelo contexto",
+        "Ex: Na cabeça, um chapéu velho. (Omitiu-se 'usava')",
+        "Zeugma: Omissão de termo já expresso anteriormente",
+        "Ex: Ele gosta de futebol; eu, de basquete. (Omitiu-se 'gosto')",
+        "Pleonasmo: Repetição de ideia para reforçar o sentido",
+        "Estilístico (válido): Vi com meus próprios olhos.",
+        "Vicioso (redundância): Subir para cima."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "3. Figuras de Sintaxe (Construção) - Parte 2",
+      "tempo_inicio_segundos": 275.68,
+      "topicos": [
+        "Silepse: Concordância com a ideia (sentido), não com a forma",
+        "Gênero: Vossa Excelência está preocupado. (Com o sexo)",
+        "Número: A multidão corria e gritavam. (Com a ideia de plural)",
+        "Pessoa: Os brasileiros somos guerreiros. (Inclui o falante)",
+        "Polissíndeto: Repetição de conjunções (e... e... e...)",
+        "Assíndeto: Omissão de conjunções (Vim, vi, venci.)",
+        "Hipérbato (Inversão): Alteração drástica da ordem direta",
+        "Ex: Ouviram do Ipiranga as margens áplacidas.",
+        "Anacoluto: Interrupção da estrutura sintática (termo isolado)",
+        "Ex: Esse pessoal de hoje, a gente não consegue entender."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "4. Figuras de Som (Harmonia)",
+      "tempo_inicio_segundos": 335.69,
+      "topicos": [
+        "Exploram a sonoridade e o ritmo",
+        "Aliteração: Repetição de sons consonantais",
+        "Ex: O rato roeu a roupa do rei de Roma.",
+        "Assonância: Repetição de sons vocálicos (vogais)",
+        "Ex: A onda anda, aonde anda?",
+        "Onomatopeia: Imitação de ruídos e sons",
+        "Ex: O relógio marcava tic-tac. / A campainha tocou ding-dong."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questões de Fixação",
+      "tempo_inicio_segundos": 373.3,
+      "topicos": [
+        "Questão 1: 'O amor é um fogo que arde sem se ver' (Camões). Qual figura?",
+        "A) Antítese B) Metáfora C) Paradoxo D) Hipérbole",
+        "Gabarito: C) Paradoxo",
+        "Questão 2: Qual alternativa apresenta metonímia?",
+        "A) 'Chorei rios de lágrimas.'",
+        "B) 'Li Machado de Assis a noite toda.'",
+        "C) 'O vento sussurrava segredos.'",
+        "D) 'Seus olhos brilham como estrelas.'",
+        "Gabarito: B) 'Li Machado de Assis a noite toda.'"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese e Bizu: Dominando as Figuras",
+      "tempo_inicio_segundos": 434.51,
+      "topicos": [
+        "Figuras de Linguagem: Recursos expressivos que enriquecem a comunicação.",
+        "4 Grupos: Palavra (significado), Pensamento (ideias), Sintaxe (estrutura), Som (sonoridade).",
+        "Palavra: Metáfora, Comparação, Metonímia, Catacrese, Sinestesia, Antonomásia.",
+        "Pensamento: Antítese, Paradoxo, Eufemismo, Hipérbole, Ironia, Prosopopeia, Gradação.",
+        "Sintaxe: Elipse, Zeugma, Pleonasmo, Silepse, Polissíndeto, Assíndeto, Hipérbato, Anacoluto.",
+        "Som: Aliteração, Assonância, Onomatopeia.",
+        "BIZU: Atenção ao CONTEXTO e à INTENÇÃO do autor!",
+        "Pratique com exemplos variados!"
+      ]
+    }
+  ]
+}

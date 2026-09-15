@@ -1,0 +1,131 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Vícios de Linguagem",
+  "duracao_total_segundos": 498.67,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Vícios de Linguagem: Desvendando as Armadilhas da Língua Portuguesa",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Desvios das normas gramaticais",
+        "Comprometem clareza e correção",
+        "Essencial para comunicação eficaz",
+        "Importante para concursos e avaliações"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vícios de Forma: Barbarismo e Solecismo",
+      "tempo_inicio_segundos": 46.15,
+      "topicos": [
+        "Barbarismo: Erro na palavra",
+        "- Ortográfico: escrita (excessão)",
+        "- Prosódico: pronúncia (rúbrica)",
+        "- Morfológico: flexão (interviu)",
+        "- Semântico: significado (ratificar/retificar)",
+        "Solecismo: Erro na sintaxe",
+        "- Concordância (Faz muitos anos)",
+        "- Regência (Eu lhe vi)",
+        "- Colocação pronominal (Eu lhe vi)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vícios de Sentido e Clareza: Ambiguidade, Pleonasmo e Obscuridade",
+      "tempo_inicio_segundos": 107.24,
+      "topicos": [
+        "Ambiguidade/Anfibologia: Dupla interpretação",
+        "- Ex: O professor proibiu o aluno de usar seu celular.",
+        "Pleonasmo/Redundância: Repetição desnecessária",
+        "- Ex: Subir para cima, Entrar para dentro.",
+        "Obscuridade: Falta de clareza na mensagem",
+        "- Vocabulário rebuscado, frases longas ou complexas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vícios Sonoros: Cacofonia, Eco, Colisão e Hiato",
+      "tempo_inicio_segundos": 167.79,
+      "topicos": [
+        "Cacofonia: Som desagradável/ridículo",
+        "- Ex: 'tinha tido', 'por cada' (porcada)",
+        "Eco: Repetição de terminações semelhantes",
+        "- Ex: 'situação', 'nação', 'frustração'",
+        "Colisão: Encontro de consoantes idênticas/semelhantes",
+        "- Ex: 'Três tigres tristes', 'Fez zumbido'",
+        "Hiato: Encontro de vogais idênticas/semelhantes",
+        "- Ex: 'Eu o ouvi', 'A aula é ótima'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vícios de Vocabulário e Estilo: Estrangeirismo, Arcaísmo, Vulgarismo e Precisionismo",
+      "tempo_inicio_segundos": 225.38,
+      "topicos": [
+        "Estrangeirismo: Uso desnecessário de termos de outras línguas",
+        "- Ex: 'meeting', 'feedback', 'delivery'",
+        "Arcaísmo: Uso de palavras em desuso",
+        "- Ex: 'Vossa mercê', 'botica'",
+        "Vulgarismo: Uso de linguagem popular em contextos formais",
+        "- Ex: 'Nós vai', 'pobrema', 'mortandela'",
+        "Precisionismo: Excesso de erudição que dificulta a compreensão",
+        "- Ex: 'Perlustrar as vias urbanas'"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1: Solecismo",
+      "tempo_inicio_segundos": 282.62,
+      "topicos": [
+        "Assinale a alternativa que apresenta um vício de linguagem do tipo solecismo.",
+        "A) 'Menas' pessoas compareceram ao evento.",
+        "B) 'Faz' muitos anos que não o vejo.",
+        "C) 'Subir para cima' da montanha.",
+        "D) A 'situação' da 'nação' causa 'frustração'.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2: Cacofonia",
+      "tempo_inicio_segundos": 344.32,
+      "topicos": [
+        "O vício de linguagem conhecido como cacofonia está presente em:",
+        "A) 'Eu o ouvi' falar.",
+        "B) 'Por cada' um, um voto.",
+        "C) 'Três tigres tristes' no trigal.",
+        "D) 'Vossa mercê' é muito gentil.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Vícios de Linguagem",
+      "tempo_inicio_segundos": 392.86,
+      "topicos": [
+        "Vícios de linguagem: desvios da norma culta",
+        "Barbarismo: erros na forma ou significado das palavras",
+        "Solecismo: erros de sintaxe (concordância, regência, colocação)",
+        "Ambiguidade: frases com múltiplas interpretações",
+        "Cacofonia, Colisão, Hiato: vícios sonoros",
+        "Pleonasmo: repetição desnecessária de ideias",
+        "Obscuridade: falta de clareza na expressão",
+        "Estrangeirismo, Arcaísmo, Vulgarismo, Precisionismo: uso inadequado do vocabulário"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dicas para Evitar Vícios de Linguagem",
+      "tempo_inicio_segundos": 448.99,
+      "topicos": [
+        "Leia em voz alta: identifique cacofonias, colisões, hiatos.",
+        "Revise com atenção: procure ambiguidades e pleonasmos.",
+        "Consulte o dicionário: evite barbarismos e arcaísmos.",
+        "Adapte a linguagem ao contexto: fuja de vulgarismos e precisionismos.",
+        "Pratique a escrita e a leitura: amplie seu vocabulário e senso crítico."
+      ]
+    }
+  ]
+}

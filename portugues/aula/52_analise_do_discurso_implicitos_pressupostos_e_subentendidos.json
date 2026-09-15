@@ -1,0 +1,119 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Análise do Discurso: Implícitos, Pressupostos e Subentendidos",
+  "duracao_total_segundos": 401.71,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Análise do Discurso: Implícitos, Pressupostos e Subentendidos",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Além da gramática: como os sentidos são construídos",
+        "Mensagens explícitas e implícitas",
+        "Leitura crítica e interpretação completa"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Introdução aos Implícitos na Comunicação",
+      "tempo_inicio_segundos": 38.78,
+      "topicos": [
+        "Informações não ditas diretamente",
+        "Inferidas pelo interlocutor",
+        "Exigem leitura nas entrelinhas",
+        "Baseadas no conhecimento de mundo e contexto",
+        "Tornam a comunicação mais rica e complexa"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pressupostos: O Que Se Assume Como Verdade",
+      "tempo_inicio_segundos": 69.8,
+      "topicos": [
+        "Informações implícitas assumidas como verdades",
+        "Ativados por elementos linguísticos (verbos, advérbios)",
+        "Negação compromete o sentido da frase principal",
+        "Exemplos: 'João parou de fumar.' (Pressuposto: João fumava antes)",
+        "'Ainda chove em São Paulo.' (Pressuposto: Chovia antes)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Subentendidos: As Inferências do Interlocutor",
+      "tempo_inicio_segundos": 120.65,
+      "topicos": [
+        "Informações implícitas inferidas pelo ouvinte",
+        "Dependem do contexto e da intenção do falante",
+        "Mais facilmente negáveis pelo emissor",
+        "Exemplos: 'A porta está aberta.' (Subentendido: Feche a porta)",
+        "'Seu quarto está uma bagunça!' (Subentendido: Arrume seu quarto)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Diferenças Cruciais: Pressupostos vs. Subentendidos",
+      "tempo_inicio_segundos": 172.2,
+      "topicos": [
+        "Responsabilidade pela inferência e possibilidade de negação",
+        "Pressupostos: responsabilidade do enunciado, ativados linguisticamente",
+        "Pressupostos: difíceis de negar, assumidos como verdades",
+        "Subentendidos: responsabilidade do interlocutor, dependem do contexto e intenção",
+        "Subentendidos: podem ser negados pelo falante sem prejuízo do sentido literal"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 211.27,
+      "topicos": [
+        "Enunciado: 'O governo finalmente resolveu o problema da inflação'",
+        "Qual o pressuposto?",
+        "A) O governo é eficiente.",
+        "B) A inflação era um problema existente e persistente.",
+        "C) O problema foi resolvido de forma definitiva.",
+        "D) O governo sempre busca resolver problemas.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 257.05,
+      "topicos": [
+        "Enunciado: 'Já são 18h e ainda temos muitos pontos a discutir.'",
+        "Qual o subentendido mais provável?",
+        "A) Sugere acelerar ou encerrar a discussão.",
+        "B) Apenas informa a hora.",
+        "C) Deseja estender a reunião.",
+        "D) Critica a lentidão.",
+        "Gabarito: A"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese para Memorização",
+      "tempo_inicio_segundos": 309.87,
+      "topicos": [
+        "Análise do discurso: além do explícito, focando nos implícitos.",
+        "Implícitos: informações inferidas, leitura nas entrelinhas.",
+        "Pressupostos: verdades inquestionáveis, ativadas linguisticamente.",
+        "Subentendidos: inferências permitidas, dependem do contexto e intenção.",
+        "Diferença crucial: responsabilidade da inferência (enunciado vs. interlocutor).",
+        "Dominar implícitos: essencial para interpretação crítica e desvendar intenções."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú Final: A Chave para as Provas!",
+      "tempo_inicio_segundos": 358.63,
+      "topicos": [
+        "Em provas, foque na 'negabilidade'!",
+        "Pressuposto: difícil de negar sem que a frase 'quebre'.",
+        "Subentendido: fácil de negar pelo falante sem perder o sentido literal.",
+        "Contexto é rei para subentendidos!",
+        "Pratique a leitura crítica das entrelinhas."
+      ]
+    }
+  ]
+}

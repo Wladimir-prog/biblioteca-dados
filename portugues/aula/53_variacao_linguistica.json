@@ -1,0 +1,136 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Variação Linguística",
+  "duracao_total_segundos": 413.58,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Variação Linguística: A Riqueza do Português",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+        "Variação Linguística",
+        "A língua como sistema vivo e dinâmico"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Variação Linguística",
+      "tempo_inicio_segundos": 28.03,
+      "topicos": [
+        "Língua se adapta a diferentes contextos",
+        "Quatro tipos principais de variação",
+        "Diatópica (Geográfica)",
+        "Diastrática (Social)",
+        "Diafásica (Situacional ou Estilística)",
+        "Diacrônica (Histórica)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Variação Diatópica e Diastrática",
+      "tempo_inicio_segundos": 57.8,
+      "topicos": [
+        "Diatópica: Diferenças regionais",
+        "Sotaques e regionalismos",
+        "Ex: Mandioca (Sudeste), Aipim (RJ), Macaxeira (Nordeste)",
+        "Diastrática: Diferenças entre grupos sociais",
+        "Idade, gênero, escolaridade, profissão",
+        "Ex: Gírias jovens, jargões profissionais"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Variação Diafásica e Diacrônica",
+      "tempo_inicio_segundos": 98.6,
+      "topicos": [
+        "Diafásica: Adaptação à situação",
+        "Formal ou informal",
+        "Ex: 'Poderia, por gentileza, informar as horas?' vs. 'Que horas são, meu chapa?'",
+        "Diacrônica: Mudanças ao longo do tempo",
+        "Palavras em desuso, novas palavras",
+        "Ex: 'Pharmacia' para 'Farmácia', 'Vossa mercê' para 'Você'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Preconceito Linguístico",
+      "tempo_inicio_segundos": 139.15,
+      "topicos": [
+        "Desvalorização de uma variedade da língua",
+        "Considerada 'errada' ou 'inferior'",
+        "Ignora a riqueza e validade das formas de expressão",
+        "Ex: Criticar 'nós vai', associar sotaques à falta de inteligência"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Norma Culta e Norma Padrão",
+      "tempo_inicio_segundos": 177.62,
+      "topicos": [
+        "Norma Culta: Padrões de prestígio",
+        "Associada à escrita e fala formal",
+        "Norma Padrão: Variedade codificada",
+        "Usada em contextos formais, educação, mídia",
+        "Não são superiores, mas adequadas a contextos específicos"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 219.66,
+      "topicos": [
+        "Enunciado:",
+        "Sobre a variação linguística, assinale a alternativa CORRETA.",
+        "A) A língua ideal é aquela que não apresenta variações, mantendo-se homogênea em todos os contextos.",
+        "B) A variação linguística é um desvio da norma culta e deve ser evitada para garantir a clareza da comunicação.",
+        "C) A diversidade linguística é um fenômeno natural e reflete a riqueza cultural e social dos falantes.",
+        "D) Apenas a variação diacrônica é relevante para o estudo da língua, pois as demais são meros regionalismos.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 275.38,
+      "topicos": [
+        "Enunciado:",
+        "Considere as seguintes frases:",
+        "I. 'O paciente apresentou cefaleia intensa e febre.' (Linguagem médica)",
+        "II. 'E aí, beleza? Partiu pro rolê?' (Gíria jovem)",
+        "III. 'Prezados senhores, informamos que a reunião foi adiada.' (Linguagem formal)",
+        "Qual tipo de variação linguística é predominantemente ilustrado nos exemplos I, II e III?",
+        "A) Diatópica",
+        "B) Diastrática",
+        "C) Diafásica",
+        "D) Diacrônica",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave da Variação Linguística",
+      "tempo_inicio_segundos": 330.24,
+      "topicos": [
+        "Variação linguística: fenômeno natural e dinâmico",
+        "Manifesta-se por fatores geográficos, sociais, situacionais e históricos",
+        "Quatro tipos: diatópica (regional), diastrática (social), diafásica (situacional/estilística) e diacrônica (histórica)",
+        "Preconceito linguístico: julgar uma variedade como 'errada' ou 'inferior'",
+        "Norma culta e padrão: variedades de prestígio para contextos formais, não superiores"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú Final: A Língua é Viva!",
+      "tempo_inicio_segundos": 379.77,
+      "topicos": [
+        "Variação linguística é natural e rica.",
+        "Não existe 'certo' ou 'errado', mas 'adequado'.",
+        "Combata o preconceito linguístico.",
+        "Domine a norma padrão para contextos formais."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "LINGUÍSTICA E VALÊNCIA",
+  "tema": "Noções de Mudança Linguística",
+  "duracao_total_segundos": 389.84,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Noções de Mudança Linguística",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Linguística e Valência",
+        "A língua em constante evolução",
+        "Entenda a dinâmica do nosso idioma"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Fatores Internos da Mudança Linguística",
+      "tempo_inicio_segundos": 30.33,
+      "topicos": [
+        "Analogia: regularização de formas",
+        "Ex: \"eu trago\" por \"eu faço\"",
+        "Reanálise: nova interpretação de estruturas",
+        "Ex: \"a gente\" como \"nós\"",
+        "Simplificação: economia de esforço",
+        "Ex: \"estar\" vira \"tá\""
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Fatores Externos da Mudança Linguística",
+      "tempo_inicio_segundos": 74.84,
+      "topicos": [
+        "Contato Linguístico: empréstimos e influências",
+        "Ex: \"internet\", \"marketing\"",
+        "Fatores Sociais: gírias, modismos, prestígio",
+        "Ex: \"top\", \"lacrou\"",
+        "Fatores Culturais: tecnologia, costumes, eventos",
+        "Ex: \"smartphone\", \"podcast\""
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Mudança Linguística (Parte 1)",
+      "tempo_inicio_segundos": 115.37,
+      "topicos": [
+        "Fonéticas e Fonológicas: alterações nos sons",
+        "Ex: \"leite\" para \"leitchi\"",
+        "Morfológicas: estrutura interna das palavras",
+        "Ex: perda de desinências verbais",
+        "Sintáticas: ordem e estrutura das frases",
+        "Ex: posição do pronome oblíquo"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos e Consequências da Mudança Linguística",
+      "tempo_inicio_segundos": 151.13,
+      "topicos": [
+        "Semânticas: significado das palavras",
+        "Ex: \"vilão\" (morador da vila -> malvado)",
+        "Lexicais: adição, perda ou substituição de palavras",
+        "Ex: \"selfie\", \"botica\"",
+        "Consequências: Variação Linguística, Formação de Dialetos, Evolução das Línguas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Norma Culta e a Mudança Linguística",
+      "tempo_inicio_segundos": 189.55,
+      "topicos": [
+        "Tensão entre norma e uso",
+        "Norma Culta: padrão prescritivo",
+        "Uso Real: diversidade e espontaneidade",
+        "Ex: \"a gente fomos\" vs. \"nós fomos\"",
+        "Atitudes: puristas vs. linguistas"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 229.16,
+      "topicos": [
+        "Enunciado: \"A mudança linguística é um fenômeno natural e inevitável. Dentre os fatores internos que impulsionam essa transformação, qual deles se refere à tendência de regularizar formas irregulares, baseando-se em padrões existentes na língua?\"",
+        "A) Reanálise",
+        "B) Simplificação",
+        "C) Analogia",
+        "D) Contato Linguístico",
+        "Gabarito: C",
+        "Comentário: A analogia busca regularizar formas irregulares."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 276.7,
+      "topicos": [
+        "Enunciado: \"A palavra 'vilão', que antes significava 'morador da vila', hoje significa 'malvado' ou 'antagonista'. Esse é um exemplo clássico de qual tipo de mudança linguística?\"",
+        "A) Mudança Fonética",
+        "B) Mudança Morfológica",
+        "C) Mudança Semântica",
+        "D) Mudança Lexical",
+        "Gabarito: C",
+        "Comentário: Mudança no significado da palavra."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 316.01,
+      "topicos": [
+        "Língua: sistema vivo e dinâmico",
+        "Fatores de Mudança: Internos (Analogia, Reanálise, Simplificação) e Externos (Contato, Sociais, Culturais)",
+        "Tipos de Mudança: Fonéticas, Morfológicas, Sintáticas, Semânticas, Lexicais",
+        "Consequências: Variação, Dialetos, Evolução",
+        "Tensão: Norma Culta vs. Uso Real"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor",
+      "tempo_inicio_segundos": 356.23,
+      "topicos": [
+        "Para concursos: domine a norma culta!",
+        "Mas compreenda a língua como um sistema dinâmico.",
+        "A mudança é natural e constante.",
+        "Fique atento aos exemplos!"
+      ]
+    }
+  ]
+}

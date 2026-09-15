@@ -1,0 +1,111 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Pontuação: Ponto e Vírgula, Aspas, Travessão e Dois-Pontos",
+  "duracao_total_segundos": 457.43,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Pontuação: Ponto e Vírgula, Aspas, Travessão e Dois-Pontos",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Sintaxe da Oração e do Período",
+        "A importância da pontuação",
+        "Clareza, sentido e ritmo no texto",
+        "Evitando ambiguidades"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Ponto e Vírgula (;)",
+      "tempo_inicio_segundos": 37.03,
+      "topicos": [
+        "Pausa intermediária",
+        "Mais longa que a vírgula, mais curta que o ponto",
+        "Separa itens de enumeração complexa",
+        "Separa orações coordenadas extensas ou com vírgulas"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Aspas (\" \")",
+      "tempo_inicio_segundos": 101.77,
+      "topicos": [
+        "Citar diretamente falas ou textos",
+        "Realçar palavras ou expressões (estrangeirismos, gírias, neologismos)",
+        "Indicar ironia ou sentido figurado"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Travessão (—)",
+      "tempo_inicio_segundos": 159.34,
+      "topicos": [
+        "Introduzir a fala de personagens em diálogos",
+        "Isolar termos ou orações explicativas (substitui vírgulas/parênteses)",
+        "Enfatizar uma ideia ou informação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Dois-Pontos (:)",
+      "tempo_inicio_segundos": 216.17,
+      "topicos": [
+        "Introduzir citação ou fala direta",
+        "Introduzir enumeração (lista de itens)",
+        "Introduzir explicação ou esclarecimento",
+        "Introduzir resumo ou conclusão"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 274.48,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que o uso do ponto e vírgula está CORRETO:",
+        "A) Ele comprou pão, leite, ovos; e frutas.",
+        "B) Os alunos estudaram muito; mas não passaram na prova.",
+        "C) Na feira, encontramos: maçãs, vermelhas; peras, doces; e uvas, roxas.",
+        "D) Choveu muito; por isso, a rua ficou alagada.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 328.62,
+      "topicos": [
+        "Enunciado: Em qual das frases as aspas foram empregadas para indicar ironia?",
+        "A) O professor disse: \"A persistência é o caminho do êxito\".",
+        "B) Ele se considera um \"gênio\" por ter esquecido a carteira em casa.",
+        "C) Li o artigo \"A Importância da Leitura\" na revista.",
+        "D) Aquele \"influencer\" digital tem milhões de seguidores.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 376.28,
+      "topicos": [
+        "Pontuação: clareza, sentido e organização",
+        "Ponto e vírgula (;): pausa intermediária, enumerações complexas, orações coordenadas extensas",
+        "Aspas (\" \"): citação, realce, ironia",
+        "Travessão (—): diálogo, explicação, ênfase",
+        "Dois-pontos (:): introdução (citação, lista, explicação, conclusão)"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor!",
+      "tempo_inicio_segundos": 418.97,
+      "topicos": [
+        "Ponto e vírgula (;): 'pausa estratégica'",
+        "Aspas (\" \"): 'marcar território'",
+        "Travessão (—): 'coringa' da pontuação",
+        "Dois-pontos (:): 'sinal de introdução'"
+      ]
+    }
+  ]
+}

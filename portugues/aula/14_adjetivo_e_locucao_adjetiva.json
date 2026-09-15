@@ -1,0 +1,133 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Adjetivo e Locução Adjetiva",
+  "duracao_total_segundos": 420.25,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Adjetivo e Locução Adjetiva: Qualificando o Mundo!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "O adjetivo qualifica ou caracteriza o substantivo.",
+        "Atribui qualidades, estados, modos de ser ou aspectos.",
+        "A locução adjetiva é uma expressão com função de adjetivo.",
+        "Essencial para frases claras e expressivas."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Adjetivo: A Palavra que Qualifica",
+      "tempo_inicio_segundos": 39.76,
+      "topicos": [
+        "Classe de palavras que qualifica ou caracteriza o substantivo.",
+        "Atribui qualidade, estado, modo de ser ou aspecto.",
+        "Concorda em gênero e número com o substantivo.",
+        "Pode vir antes ou depois do substantivo.",
+        "Exemplos: Casa bonita, Homem inteligente, Dia ensolarado."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipos de Adjetivos: Simples, Compostos, Primitivos, Derivados e Pátrios",
+      "tempo_inicio_segundos": 79.07,
+      "topicos": [
+        "Simples: Um radical (Ex: Azul, Feliz).",
+        "Compostos: Dois ou mais radicais, geralmente com hífen (Ex: Luso-brasileiro, Verde-claro).",
+        "Primitivos: Não derivam de outras palavras (Ex: Bom, Belo, Frio).",
+        "Derivados: Derivam de substantivos, verbos ou outros adjetivos (Ex: Estudantil, Amável, Tristonho).",
+        "Pátrios: Indicam origem ou nacionalidade (Ex: Brasileiro, Paulista, Europeu)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexão do Adjetivo: Gênero e Número",
+      "tempo_inicio_segundos": 123.8,
+      "topicos": [
+        "Flexão de Gênero: Masculino e Feminino.",
+        "Biformes: Duas formas (Ex: Ativo/Ativa, Belo/Bela).",
+        "Uniformes: Uma forma para ambos os gêneros (Ex: Feliz, Simples, Jovem).",
+        "Flexão de Número: Singular e Plural.",
+        "Regras do substantivo (Ex: Carro novo/Carros novos, Mulher feliz/Mulheres felizes).",
+        "Adjetivos compostos: Apenas o último elemento flexiona (Ex: Livro azul-claro/Livros azul-claros)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Flexão do Adjetivo: Grau Comparativo e Superlativo",
+      "tempo_inicio_segundos": 165.7,
+      "topicos": [
+        "Grau Comparativo: Compara qualidades.",
+        "Igualdade: tão... quanto (Ex: Ele é tão inteligente quanto o irmão).",
+        "Superioridade: mais... que (Ex: Ela é mais alta que a irmã).",
+        "Inferioridade: menos... que (Ex: O filme foi menos interessante que o livro).",
+        "Grau Superlativo: Qualidade em grau máximo.",
+        "Absoluto Analítico: Advérbio de intensidade (Ex: Muito feliz, extremamente rápido).",
+        "Absoluto Sintético: Sufixo (Ex: Felicíssimo, rapidíssimo).",
+        "Relativo: Em relação a um grupo (Ex: o mais inteligente da turma, a menos experiente do grupo)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Locução Adjetiva: Expressões com Função de Adjetivo",
+      "tempo_inicio_segundos": 215.99,
+      "topicos": [
+        "Expressão com duas ou mais palavras.",
+        "Exerce a função de um adjetivo.",
+        "Geralmente: preposição + substantivo ou advérbio.",
+        "Pode ser substituída por um adjetivo correspondente.",
+        "Exemplos: Amor de mãe (materno), Água do rio (fluvial), Luz do sol (solar)."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática: Classificação de Adjetivos",
+      "tempo_inicio_segundos": 254.6,
+      "topicos": [
+        "Questão 1: Assinale a alternativa em que o adjetivo em destaque é classificado corretamente:",
+        "A) 'O aluno estudantil participou do evento.' (Adjetivo Primitivo)",
+        "B) 'A bandeira verde-amarela tremulava.' (Adjetivo Simples)",
+        "C) 'Ele é um cidadão brasileiro.' (Adjetivo Pátrio)",
+        "D) 'Aquele é um homem bom.' (Adjetivo Derivado)",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática: Grau do Adjetivo",
+      "tempo_inicio_segundos": 290.53,
+      "topicos": [
+        "Questão 2: Analise as frases e identifique aquela em que o adjetivo está no grau superlativo absoluto sintético:",
+        "A) Ele é muito inteligente.",
+        "B) Ela é a mais dedicada da equipe.",
+        "C) O filme foi menos interessante que o livro.",
+        "D) A paisagem era belíssima.",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Revisão Essencial: Adjetivo e Locução Adjetiva",
+      "tempo_inicio_segundos": 329.26,
+      "topicos": [
+        "Adjetivo: qualifica o substantivo, concorda em gênero e número.",
+        "Classificação: simples, compostos, primitivos, derivados, pátrios.",
+        "Flexão: gênero (biformes/uniformes), número (singular/plural), grau (comparativo/superlativo).",
+        "Grau Comparativo: igualdade, superioridade, inferioridade.",
+        "Grau Superlativo: absoluto (analítico/sintético) ou relativo.",
+        "Locução Adjetiva: expressão com função de adjetivo (preposição + substantivo), substituível por adjetivo."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Como Não Errar!",
+      "tempo_inicio_segundos": 380.18,
+      "topicos": [
+        "Teste de Substituição: Troque a palavra/expressão por um adjetivo.",
+        "Se qualificar um substantivo, é adjetivo ou locução adjetiva.",
+        "Ex: 'Mulher de fibra' = 'Mulher forte'.",
+        "Atenção à concordância: Gênero e número são cruciais!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Período Composto por Subordinação: Orações Adjetivas e Adverbiais",
+  "duracao_total_segundos": 373.43,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Período Composto por Subordinação: Orações Adjetivas e Adverbiais",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português - Gramática",
+        "Sintaxe da Oração e do Período",
+        "Desvendando a Subordinação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Período Composto por Subordinação",
+      "tempo_inicio_segundos": 26.54,
+      "topicos": [
+        "Oração Principal e Subordinada",
+        "Relação de Dependência Sintática",
+        "Orações Adjetivas: Função de Adjunto Adnominal",
+        "Introduzidas por Pronomes Relativos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Adjetivas: Restritivas vs. Explicativas",
+      "tempo_inicio_segundos": 62.12,
+      "topicos": [
+        "Restritivas: Especificam, SEM VÍRGULA",
+        "Ex: Os alunos que estudam passam de ano.",
+        "Explicativas: Generalizam/Adicionam, COM VÍRGULA",
+        "Ex: O homem, que é um ser racional, comete erros."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Subordinadas Adverbiais: As Circunstâncias",
+      "tempo_inicio_segundos": 111.03,
+      "topicos": [
+        "Função de Adjunto Adverbial",
+        "Expressam Circunstâncias (tempo, causa, condição...)",
+        "Introduzidas por Conjunções Adverbiais",
+        "Causais: motivo (porque, já que)",
+        "Comparativas: comparação (como, mais... do que)",
+        "Concessivas: oposição sem impedir (embora, mesmo que)",
+        "Condicionais: condição (se, caso)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Orações Adverbiais: Mais Circunstâncias",
+      "tempo_inicio_segundos": 159.31,
+      "topicos": [
+        "Conformativas: conformidade (conforme, segundo)",
+        "Consecutivas: consequência (tão... que, de modo que)",
+        "Finais: objetivo (para que, a fim de que)",
+        "Proporcionais: proporção (à medida que, quanto mais...)",
+        "Temporais: tempo (quando, enquanto, depois que)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1: Orações Adjetivas",
+      "tempo_inicio_segundos": 203.08,
+      "topicos": [
+        "Assinale a alternativa em que a oração subordinada adjetiva está corretamente classificada e pontuada.",
+        "A) Os alunos, que estudam, passam de ano. (Adjetiva Restritiva)",
+        "B) O Brasil que é um país tropical tem belas praias. (Adjetiva Explicativa)",
+        "C) Meu irmão, que mora em São Paulo, virá nos visitar. (Adjetiva Explicativa)",
+        "D) Comprei o livro, que você me indicou. (Adjetiva Restritiva)",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2: Orações Adverbiais",
+      "tempo_inicio_segundos": 256.69,
+      "topicos": [
+        "Em 'Embora estivesse cansado, continuou trabalhando.', a oração subordinada adverbial expressa uma ideia de:",
+        "A) Causa",
+        "B) Condição",
+        "C) Concessão",
+        "D) Consequência",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais para Memorizar",
+      "tempo_inicio_segundos": 291.01,
+      "topicos": [
+        "Subordinação: Dependência entre orações",
+        "Adjetivas: Qualificam, pronomes relativos",
+        "Restritivas (sem vírgula, especificam)",
+        "Explicativas (com vírgula, generalizam)",
+        "Adverbiais: Circunstâncias, conjunções adverbiais",
+        "Classificação pela circunstância (causa, tempo, condição...)"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu Final: Dicas de Ouro para Provas!",
+      "tempo_inicio_segundos": 332.4,
+      "topicos": [
+        "Adjetivas: Vírgula = Explicação; Sem Vírgula = Restrição",
+        "Adverbiais: Conjunção + Pergunta (quando? por quê?)",
+        "Pontuação: Crucial para a clareza e correção",
+        "Pratique a identificação de conjunções e pronomes!"
+      ]
+    }
+  ]
+}

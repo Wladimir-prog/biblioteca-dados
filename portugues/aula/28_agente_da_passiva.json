@@ -1,0 +1,111 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SINTAXE DA ORAÇÃO E DO PERÍODO",
+  "tema": "Agente da Passiva",
+  "duracao_total_segundos": 357.11,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Agente da Passiva: Quem pratica a ação na voz passiva?",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Agente da Passiva"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Agente da Passiva: Conceito e Identificação",
+      "tempo_inicio_segundos": 46.7,
+      "topicos": [
+        "O que é?",
+        "Pratica a ação do verbo na voz passiva",
+        "Sempre introduzido por preposição (por, de)",
+        "Ex: O livro foi lido PELO ALUNO."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Agente da Passiva e Voz Passiva Analítica",
+      "tempo_inicio_segundos": 88.31,
+      "topicos": [
+        "Exclusivo da voz passiva analítica",
+        "Formada por verbo auxiliar + particípio",
+        "Não ocorre na voz passiva sintética (verbo + se)",
+        "Ex: A carta foi escrita POR MIM."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Transformação: Voz Ativa para Voz Passiva",
+      "tempo_inicio_segundos": 128.91,
+      "topicos": [
+        "Sujeito da ativa vira Agente da Passiva",
+        "Objeto direto da ativa vira Sujeito da passiva",
+        "Ex: O vento derrubou a árvore. (Ativa)",
+        "Ex: A árvore foi derrubada PELO VENTO. (Passiva)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Preposições do Agente da Passiva",
+      "tempo_inicio_segundos": 166.73,
+      "topicos": [
+        "Mais comuns: \"por\" e \"de\"",
+        "\"Por\" (pelo, pela, pelos, pelas) é mais frequente",
+        "\"De\" em casos específicos (sentimentos/estados)",
+        "Ex: A cidade foi destruída PELO INCÊNDIO.",
+        "Ex: Ele era respeitado DE TODOS."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Agente da Passiva vs. Adjunto Adverbial",
+      "tempo_inicio_segundos": 203.35,
+      "topicos": [
+        "Agente da Passiva: executor da ação verbal passiva",
+        "Adjunto Adverbial: expressa circunstância (tempo, lugar, modo, causa)",
+        "Ambos introduzidos por preposição",
+        "Atenção! O Agente da Passiva pratica a ação. O adjunto adverbial indica uma circunstância.",
+        "Ex: A casa foi construída PELO ENGENHEIRO. (Agente)",
+        "Ex: A casa foi construída COM ESFORÇO. (Adjunto)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 256.57,
+      "topicos": [
+        "Enunciado: Em qual das frases abaixo o termo em destaque funciona como Agente da Passiva?",
+        "A) O trabalho foi entregue **com atraso**.",
+        "B) A notícia se espalhou **rapidamente**.",
+        "C) O livro foi escrito **por um renomado autor**.",
+        "D) Ele saiu **de casa** cedo.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo: Pontos Essenciais",
+      "tempo_inicio_segundos": 298.45,
+      "topicos": [
+        "Agente da Passiva pratica a ação do verbo na voz passiva.",
+        "É sempre introduzido por preposição, geralmente \"por\" ou \"de\".",
+        "Ocorre exclusivamente na voz passiva analítica.",
+        "Na transformação da voz ativa para a passiva, o sujeito da ativa torna-se o Agente da Passiva.",
+        "Não deve ser confundido com adjunto adverbial."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu de Concurso: Transformação!",
+      "tempo_inicio_segundos": 331.54,
+      "topicos": [
+        "Ao transformar da voz ativa para a passiva:",
+        "O sujeito da ativa vira Agente da Passiva!",
+        "O objeto direto da ativa vira Sujeito da Passiva!"
+      ]
+    }
+  ]
+}

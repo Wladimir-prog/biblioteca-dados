@@ -1,0 +1,138 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Morfologia (Estrutura e Classes de Palavras)",
+  "tema": "Advérbio e Locução Adverbial",
+  "duracao_total_segundos": 397.09,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Advérbio e Locução Adverbial: Modificando Sentidos!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Morfologia",
+        "Advérbio e Locução Adverbial",
+        "Entenda como essas classes de palavras enriquecem suas frases!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que são Advérbios e Locuções Adverbiais?",
+      "tempo_inicio_segundos": 22.19,
+      "topicos": [
+        "Advérbio: palavra invariável que modifica verbo, adjetivo ou outro advérbio.",
+        "Indica uma circunstância (tempo, lugar, modo, intensidade, etc.).",
+        "Locução Adverbial: duas ou mais palavras com função de advérbio.",
+        "Geralmente: preposição + substantivo/adjetivo/advérbio."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação dos Advérbios: Lugar, Tempo e Modo",
+      "tempo_inicio_segundos": 64.69,
+      "topicos": [
+        "Lugar: aqui, ali, lá, perto, longe, dentro, fora.",
+        "Ex.: O livro está aqui.",
+        "Tempo: hoje, ontem, amanhã, agora, cedo, tarde, sempre, nunca.",
+        "Ex.: Chegarei cedo.",
+        "Modo: bem, mal, assim, depressa, devagar, calmamente, rapidamente.",
+        "Ex.: Ela canta bem."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação dos Advérbios: Intensidade, Dúvida, Afirmação e Negação",
+      "tempo_inicio_segundos": 104.48,
+      "topicos": [
+        "Intensidade: muito, pouco, bastante, mais, menos, tão.",
+        "Ex.: Ele estuda muito.",
+        "Dúvida: talvez, provavelmente, possivelmente, acaso.",
+        "Ex.: Talvez ele venha.",
+        "Afirmação: sim, certamente, realmente, efetivamente.",
+        "Ex.: Sim, eu irei.",
+        "Negação: não, nunca, jamais, tampouco.",
+        "Ex.: Não quero ir."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação das Locuções Adverbiais",
+      "tempo_inicio_segundos": 143.14,
+      "topicos": [
+        "Lugar: em cima, à direita, de longe.",
+        "Ex.: O carro está à direita.",
+        "Tempo: à noite, de repente, de vez em quando.",
+        "Ex.: À noite, a cidade dorme.",
+        "Modo: às claras, em silêncio, de cor.",
+        "Ex.: Ele falou às claras.",
+        "Causa: por causa de, em virtude de.",
+        "Finalidade: a fim de, para que.",
+        "Instrumento: com a faca, a martelo."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Grau dos Advérbios e Função Sintática",
+      "tempo_inicio_segundos": 183.86,
+      "topicos": [
+        "Grau Comparativo: igualdade (tão...quanto), superioridade (mais...que), inferioridade (menos...que).",
+        "Ex.: Ele fala tão bem quanto ela.",
+        "Grau Superlativo: analítico (muito bem), sintético (cedíssimo, otimamente).",
+        "Ex.: Ele fala muito bem. Chegou cedíssimo.",
+        "Função Sintática: Advérbios e locuções adverbiais são ADJUNTOS ADVERBIAIS.",
+        "Modificam verbos, adjetivos ou outros advérbios.",
+        "Ex.: Eles viajaram ontem. (Adjunto Adverbial de Tempo)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 234.06,
+      "topicos": [
+        "Em qual das frases abaixo o termo em destaque NÃO funciona como advérbio?",
+        "A) Ele chegou muito cedo.",
+        "B) Ela canta bem.",
+        "C) A casa longe era dela.",
+        "D) Nós certamente iremos.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 271.37,
+      "topicos": [
+        "Assinale a alternativa em que a locução adverbial sublinhada expressa ideia de MODO.",
+        "A) À noite, todos dormem.",
+        "B) Ele agiu com calma.",
+        "C) Faltou por causa da chuva.",
+        "D) O livro está em cima da mesa.",
+        "Gabarito: B"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Advérbio e Locução Adverbial",
+      "tempo_inicio_segundos": 307.63,
+      "topicos": [
+        "Advérbio: palavra invariável que modifica verbo, adjetivo ou outro advérbio, indicando circunstância.",
+        "Locução Adverbial: conjunto de palavras com função de advérbio.",
+        "Classificação: por circunstância (tempo, lugar, modo, intensidade, etc.).",
+        "Grau: comparativo (igualdade, superioridade, inferioridade) e superlativo (analítico, sintético).",
+        "Função Sintática: sempre atuam como Adjuntos Adverbiais."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Como identificar?",
+      "tempo_inicio_segundos": 348.26,
+      "topicos": [
+        "Pergunte ao verbo, adjetivo ou advérbio: 'Quando?', 'Onde?', 'Como?', 'Com que intensidade?'",
+        "A resposta será o advérbio ou a locução adverbial!",
+        "Ex.: 'Ele chegou cedo.' (Chegou QUANDO? Cedo!)",
+        "Ex.: 'Ela é muito inteligente.' (Inteligente COM QUE INTENSIDADE? Muito!)",
+        "Fique atento à invariabilidade!"
+      ]
+    }
+  ]
+}

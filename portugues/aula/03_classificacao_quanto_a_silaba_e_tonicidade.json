@@ -1,0 +1,107 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Classificação quanto à Sílaba e Tonicidade",
+  "duracao_total_segundos": 317.68,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Classificação quanto à Sílaba e Tonicidade",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+        "Sílaba e Tonicidade: A Base da Escrita Correta"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sílaba e Tonicidade: Conceitos Fundamentais",
+      "tempo_inicio_segundos": 27.62,
+      "topicos": [
+        "Sílaba: Unidade fonológica",
+        "Um impulso de voz",
+        "Tonicidade: Intensidade da pronúncia",
+        "Sílaba Tônica (mais forte)",
+        "Sílaba Átona (mais fraca)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação quanto ao Número de Sílabas",
+      "tempo_inicio_segundos": 61.33,
+      "topicos": [
+        "Monossílabas: 1 sílaba (Ex.: sol, mar, pé)",
+        "Dissílabas: 2 sílabas (Ex.: ca-sa, li-vro, a-mor)",
+        "Trissílabas: 3 sílabas (Ex.: ca-dei-ra, me-ni-no, es-co-la)",
+        "Polissílabas: 4 ou + sílabas (Ex.: pa-ra-le-le-pí-pe-do, a-ma-re-lo)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação quanto à Posição da Sílaba Tônica",
+      "tempo_inicio_segundos": 97.11,
+      "topicos": [
+        "Oxítonas: Última sílaba tônica (Ex.: ca-FÉ, a-VÔ, vo-CÊ)",
+        "Paroxítonas: Penúltima sílaba tônica (Ex.: ME-sa, CA-sa, FÁ-cil)",
+        "Proparoxítonas: Antepenúltima sílaba tônica (Ex.: MÉ-di-co, LÁ-gri-ma, ÚL-ti-mo)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Regras Gerais de Acentuação (Revisão)",
+      "tempo_inicio_segundos": 135.05,
+      "topicos": [
+        "Proparoxítonas: TODAS são acentuadas.",
+        "Oxítonas: Acentuadas se terminadas em A(S), E(S), O(S), EM, ENS.",
+        "Paroxítonas: Acentuadas em diversas terminações (L, N, R, X, PS, Ã(S), ÃO(S), UM, UNS, I(S), US), EXCETO as que terminam em A(S), E(S), O(S), EM, ENS."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 193.67,
+      "topicos": [
+        "Assinale a alternativa em que todas as palavras são classificadas como polissílabas.",
+        "A) casa, livro, amor",
+        "B) computador, paralepípedo, amarelo",
+        "C) sol, mar, pé",
+        "D) cadeira, menino, escola"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 221.53,
+      "topicos": [
+        "Qual das palavras abaixo é classificada como oxítona?",
+        "A) médico",
+        "B) mesa",
+        "C) café",
+        "D) lágrima"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave para Memorização",
+      "tempo_inicio_segundos": 248.29,
+      "topicos": [
+        "Sílaba: Unidade de som em um impulso de voz.",
+        "Classificação por número de sílabas: Monossílabas (1), Dissílabas (2), Trissílabas (3), Polissílabas (4+).",
+        "Tonicidade: Sílaba tônica (mais forte) e átonas (mais fracas).",
+        "Classificação por tonicidade: Oxítonas (última tônica), Paroxítonas (penúltima tônica), Proparoxítonas (antepenúltima tônica).",
+        "Acentuação: Todas as proparoxítonas são acentuadas. Oxítonas terminadas em A(S), E(S), O(S), EM, ENS. Paroxítonas acentuadas em diversas terminações, exceto as de oxítonas acentuadas."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizú para Concursos e Encerramento",
+      "tempo_inicio_segundos": 286.54,
+      "topicos": [
+        "Bizú: A identificação da sílaba tônica é o primeiro e mais crucial passo para a acentuação!",
+        "Pratique a divisão silábica e a identificação da tônica.",
+        "Continue estudando com o e-Biblio Digital!"
+      ]
+    }
+  ]
+}

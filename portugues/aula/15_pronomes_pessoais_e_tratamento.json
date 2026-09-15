@@ -1,0 +1,130 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Pronomes Pessoais e de Tratamento",
+  "duracao_total_segundos": 383.96,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Bem-vindos à aula de Português - Gramática!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Morfologia",
+        "Tema: Pronomes Pessoais e de Tratamento",
+        "Essenciais para a coesão e fluidez textual"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O que são Pronomes?",
+      "tempo_inicio_segundos": 27.02,
+      "topicos": [
+        "Substituem ou acompanham substantivos",
+        "Indicam as pessoas do discurso",
+        "Situam termos no tempo e espaço",
+        "Garantem coesão e coerência textual"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Pessoais: Quem, Com Quem, De Quem",
+      "tempo_inicio_segundos": 61.84,
+      "topicos": [
+        "Indicam as pessoas do discurso",
+        "1ª pessoa: quem fala (eu, nós)",
+        "2ª pessoa: com quem se fala (tu, vós)",
+        "3ª pessoa: de quem/do que se fala (ele, ela, eles, elas)",
+        "Dividem-se em Caso Reto e Caso Oblíquo"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Caso Reto e Oblíquo Átono",
+      "tempo_inicio_segundos": 87.25,
+      "topicos": [
+        "**Caso Reto:** Sujeito ou Predicativo do Sujeito",
+        "Eu, tu, ele, ela, nós, vós, eles, elas",
+        "Ex: *Eu* estudei para a prova.",
+        "**Oblíquos Átonos:** Complemento verbal (OD/OI)",
+        "Me, te, o, a, lhe, nos, vos, os, as, lhes",
+        "Não precedidos de preposição",
+        "Ex: Ele *me* chamou. Entreguei-*lhe* o livro."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes Oblíquos Tônicos",
+      "tempo_inicio_segundos": 126.82,
+      "topicos": [
+        "Sempre precedidos de preposição",
+        "Função: Objeto Indireto ou Complemento Nominal",
+        "Mim, ti, ele, ela, nós, vós, eles, elas",
+        "Ex: Ela conversou *comigo* sobre o projeto.",
+        "Ex: Trouxe um presente *para ti*."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Pronomes de Tratamento: Respeito e Formalidade",
+      "tempo_inicio_segundos": 162.31,
+      "topicos": [
+        "Usados para formalidade ou respeito",
+        "Referem-se à 2ª pessoa (com quem se fala)",
+        "Concordância verbal e nominal: SEMPRE na 3ª pessoa!",
+        "Ex: *Vossa Excelência está* atrasado/a.",
+        "Principais: Você, Senhor(a), V. Ex.ª, V. S.ª, V. M., V. S., V. A., V. Em.ª, V. Rev.ma"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Vossa ou Sua? Entenda a Diferença!",
+      "tempo_inicio_segundos": 206.7,
+      "topicos": [
+        "**Vossa:** Quando se fala DIRETAMENTE com a pessoa (2ª pessoa)",
+        "Ex: *Vossa Majestade* deseja algo?",
+        "**Sua:** Quando se fala DA pessoa (3ª pessoa)",
+        "Ex: *Sua Majestade* está em seu trono."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Hora da Prática! Questão 1",
+      "tempo_inicio_segundos": 238.25,
+      "topicos": [
+        "Leia a questão e as alternativas com atenção.",
+        "Assinale a alternativa em que o pronome pessoal do caso reto está empregado corretamente, exercendo a função de sujeito da oração.",
+        "A) Para mim, fazer a prova foi fácil.",
+        "B) Entre eu e você, não há segredos.",
+        "C) Ele pediu para mim resolver o problema.",
+        "D) Eu e ela estudamos juntos para o concurso.",
+        "Gabarito: D"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo: Pontos Chave dos Pronomes",
+      "tempo_inicio_segundos": 291.1,
+      "topicos": [
+        "Pronomes: substituem/acompanham substantivos, coesão textual.",
+        "Pessoais: indicam pessoas do discurso (reto: sujeito; oblíquo: complemento).",
+        "Oblíquos Átonos: sem preposição (me, te, o, a, lhe...); OD/OI.",
+        "Oblíquos Tônicos: com preposição (mim, ti, ele, ela...); OI/CN.",
+        "Tratamento: formalidade, 2ª pessoa, concordância na 3ª pessoa.",
+        "Vossa (direto) vs. Sua (indireto)."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: A Dica de Ouro!",
+      "tempo_inicio_segundos": 342.91,
+      "topicos": [
+        "**Dica:** 'Para EU fazer' vs. 'Para MIM'.",
+        "Se o pronome for sujeito do infinitivo, use 'EU'.",
+        "Se for apenas complemento preposicionado, use 'MIM'.",
+        "Ex: É para *eu* estudar. / Ele trouxe um presente para *mim*.",
+        "Continue praticando e bons estudos!"
+      ]
+    }
+  ]
+}

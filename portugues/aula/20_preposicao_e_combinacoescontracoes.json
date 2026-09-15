@@ -1,0 +1,123 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Morfologia (Estrutura e Classes de Palavras)",
+  "tema": "Preposição e Combinações/Contrações",
+  "duracao_total_segundos": 509.08,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Preposição e Combinações/Contrações",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "A preposição: elo fundamental na frase.",
+        "Conecta termos e atribui sentido.",
+        "Essencial para a coesão textual."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "O Que É Preposição",
+      "tempo_inicio_segundos": 40.91,
+      "topicos": [
+        "Palavra invariável.",
+        "Liga dois termos da oração.",
+        "Subordina o segundo ao primeiro.",
+        "Estabelece relação de sentido.",
+        "Exemplos: DE, PARA, COM."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação: Preposições Essenciais",
+      "tempo_inicio_segundos": 89.12,
+      "topicos": [
+        "Sempre funcionam como preposição.",
+        "Não pertencem a outras classes gramaticais.",
+        "Exemplos: a, ante, após, até, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Classificação: Preposições Acidentais",
+      "tempo_inicio_segundos": 133.95,
+      "topicos": [
+        "Pertencem a outras classes gramaticais.",
+        "Assumem função de preposição em contexto.",
+        "Exemplos: durante, mediante, conforme, segundo, consoante, exceto, fora, salvo, visto."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Combinação e Contração",
+      "tempo_inicio_segundos": 176.16,
+      "topicos": [
+        "Preposições se unem a outras palavras.",
+        "Combinação: sem perda fonética (a + onde = aonde).",
+        "Contração: com perda fonética (de + a = da)."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Principais Combinações e Contrações",
+      "tempo_inicio_segundos": 223.03,
+      "topicos": [
+        "Preposição 'A': ao, aos, aonde; à, às, àquele(s), àquela(s), àquilo.",
+        "Preposição 'DE': da, do, das, dos, deste, desta, disto, desse, dessa, disso, daquele, daquela, daquilo.",
+        "Preposição 'EM': na, no, nas, nos, neste, nesta, nisto, nesse, nessa, nisso, naquele, naquela, naquilo.",
+        "Preposição 'POR' (ou PER): pela, pelo, pelas, pelos."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 298.74,
+      "topicos": [
+        "Enunciado: Em qual alternativa a palavra destacada é uma preposição essencial?",
+        "A) Ele agiu **conforme** as instruções.",
+        "B) Todos, **exceto** Maria, compareceram.",
+        "C) O livro **de** português está na mesa.",
+        "D) **Durante** a aula, o professor explicou.",
+        "Gabarito: C",
+        "Comentário: 'De' é sempre preposição."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 352.76,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que a união da preposição com outra palavra configura uma **combinação**.",
+        "A) Fomos **à** praia.",
+        "B) A casa **do** vizinho é grande.",
+        "C) Chegamos **aonde** você mora.",
+        "D) Moramos **na** cidade.",
+        "Gabarito: C",
+        "Comentário: 'Aonde' (a + onde) não tem perda fonética."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 406.18,
+      "topicos": [
+        "Preposições: invariáveis, conectam termos, estabelecem sentido.",
+        "Essenciais: sempre preposições (de, em, para).",
+        "Acidentais: outras classes com função preposicional (durante, segundo).",
+        "Combinação: união sem perda fonética (a + onde = aonde).",
+        "Contração: união com perda fonética (de + a = da, em + o = no).",
+        "Uso correto: regência verbal e nominal, crase."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor",
+      "tempo_inicio_segundos": 464.15,
+      "topicos": [
+        "Para identificar: teste a invariabilidade.",
+        "Combinação: 'a' + 'o' = 'ao' (sem perda).",
+        "Contração: 'de' + 'a' = 'da' (com perda).",
+        "Atenção à regência para o uso correto!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "MORFOLOGIA (ESTRUTURA E CLASSES DE PALAVRAS)",
+  "tema": "Verbos: Vozes Verbais",
+  "duracao_total_segundos": 494.34,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Vozes Verbais: Desvendando a Ação!",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "MORFOLOGIA",
+        "Verbos: Vozes Verbais",
+        "A relação entre o sujeito e a ação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Voz Ativa: O Sujeito Agente",
+      "tempo_inicio_segundos": 38.11,
+      "topicos": [
+        "Voz Ativa: Sujeito Agente",
+        "O sujeito pratica a ação",
+        "É o protagonista da ação",
+        "Estrutura: Sujeito + Verbo + Objeto",
+        "Exemplos: O aluno leu o livro. A criança comeu o bolo."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Voz Passiva Analítica: O Sujeito Paciente",
+      "tempo_inicio_segundos": 75.9,
+      "topicos": [
+        "Voz Passiva: Sujeito Paciente",
+        "O sujeito sofre ou recebe a ação",
+        "Ênfase na ação ou no objeto",
+        "Voz Passiva Analítica:",
+        "Verbo auxiliar (ser, estar, ficar) + Particípio",
+        "Agente da Passiva (por/de)",
+        "Exemplos: O livro foi lido pelo aluno. A matéria foi explicada pelo professor."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Voz Passiva Sintética: O 'Se' Apassivador",
+      "tempo_inicio_segundos": 136.18,
+      "topicos": [
+        "Voz Passiva Sintética (Pronominal)",
+        "Verbo Transitivo (3ª pessoa) + Pronome 'se'",
+        "O 'se' é pronome apassivador",
+        "Agente da ação não é explícito",
+        "Exemplos: Leu-se o livro. Comeu-se o bolo. Explicou-se a matéria."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Voz Reflexiva e Recíproca: Ação que Volta",
+      "tempo_inicio_segundos": 178.46,
+      "topicos": [
+        "Voz Reflexiva: Sujeito pratica e sofre a ação",
+        "A ação 'reflete' sobre o próprio sujeito",
+        "Pronome oblíquo átono (me, te, se, nos, vos)",
+        "Exemplos: Ele se cortou. Eu me vesti.",
+        "Voz Reflexiva Recíproca: Ação mútua",
+        "Dois ou mais sujeitos praticam e sofrem a ação entre si",
+        "Exemplos: Os alunos se cumprimentaram. Eles se abraçaram."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Transformação entre Vozes Verbais",
+      "tempo_inicio_segundos": 235.46,
+      "topicos": [
+        "Transformação entre as Vozes",
+        "Ativa para Passiva Analítica:",
+        "Objeto Direto (Ativa) -> Sujeito Paciente (Passiva)",
+        "Sujeito Agente (Ativa) -> Agente da Passiva (por/de)",
+        "Verbo auxiliar 'ser' + Particípio",
+        "Ex: O menino quebrou o copo. -> O copo foi quebrado pelo menino.",
+        "Passiva Analítica para Ativa:",
+        "Sujeito Paciente (Passiva) -> Objeto Direto (Ativa)",
+        "Agente da Passiva -> Sujeito Agente (Ativa)",
+        "Verbo principal na forma ativa",
+        "Ex: A carta foi escrita por Maria. -> Maria escreveu a carta."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 303.32,
+      "topicos": [
+        "Questão de Fixação 1",
+        "Em qual das alternativas a frase está na voz passiva sintética?",
+        "A) O livro foi lido pelos alunos.",
+        "B) Os alunos leram o livro.",
+        "C) Leu-se o livro rapidamente.",
+        "D) Os alunos se cumprimentaram.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 347.79,
+      "topicos": [
+        "Questão de Fixação 2",
+        "Transformando a frase 'O vento derrubou a árvore' para a voz passiva analítica, teremos:",
+        "A) A árvore derrubou o vento.",
+        "B) Derrubou-se a árvore pelo vento.",
+        "C) A árvore foi derrubada pelo vento.",
+        "D) O vento se derrubou na árvore.",
+        "Gabarito: C"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: As Vozes Verbais",
+      "tempo_inicio_segundos": 395.26,
+      "topicos": [
+        "Síntese: As Vozes Verbais",
+        "Ativa: Sujeito pratica a ação",
+        "Passiva: Sujeito sofre a ação (Analítica ou Sintética)",
+        "Reflexiva: Sujeito pratica e sofre a ação",
+        "Reflexiva Recíproca: Ação mútua entre sujeitos",
+        "Transformação entre Ativa e Passiva Analítica"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 446.63,
+      "topicos": [
+        "Bizu do Professor: Dica de Ouro!",
+        "1. Identifique o sujeito e a ação.",
+        "2. Voz Ativa: Sujeito FAZ a ação.",
+        "3. Voz Passiva: Sujeito SOFRE a ação.",
+        "4. Voz Reflexiva: Sujeito FAZ E SOFRE a ação (com pronome).",
+        "5. Atenção ao 'SE': apassivador ou reflexivo?",
+        "6. Pratique a transformação entre as vozes!",
+        "Até a próxima aula!"
+      ]
+    }
+  ]
+}

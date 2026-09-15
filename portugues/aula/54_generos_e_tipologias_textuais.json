@@ -1,0 +1,129 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Gêneros e Tipologias Textuais",
+  "duracao_total_segundos": 331.84,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Gêneros e Tipologias Textuais",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Gramática do Texto e Linguística Aplicada",
+        "Compreensão e Produção Textual",
+        "Desvendando a Estrutura da Comunicação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Tipologias Textuais: A Estrutura Fundamental",
+      "tempo_inicio_segundos": 25.87,
+      "topicos": [
+        "A 'estrutura' fundamental do texto",
+        "Classificações fixas e abrangentes",
+        "Definem a forma linguística predominante",
+        "Organização e recursos verbais",
+        "Base para diversos gêneros"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Conheça as 5 Tipologias Textuais",
+      "tempo_inicio_segundos": 56.1,
+      "topicos": [
+        "1. Narração: Relatar fatos e eventos",
+        "2. Descrição: Apresentar características",
+        "3. Dissertação: Expor ideias ou argumentar",
+        "4. Injunção: Instruir, orientar ou persuadir",
+        "5. Exposição: Informar de forma objetiva"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Gêneros Textuais: As Roupagens Sociais",
+      "tempo_inicio_segundos": 94.95,
+      "topicos": [
+        "As 'roupagens' sociais do texto",
+        "Manifestações concretas em situações comunicativas",
+        "Flexíveis e variados",
+        "Moldados por necessidades sociais e culturais",
+        "Características de conteúdo, estilo e função social"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Exemplos de Gêneros Textuais",
+      "tempo_inicio_segundos": 125.35,
+      "topicos": [
+        "Narrativos: Conto, Crônica, Romance",
+        "Descritivos: Relato de viagem, Cardápio, Retrato",
+        "Dissertativos: Artigo de opinião, Editorial, Resenha crítica",
+        "Injuntivos: Receita culinária, Manual de instruções, Bula de remédio",
+        "Expositivos: Notícia, Verbete de enciclopédia, Seminário"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Gêneros e Tipologias: Uma Relação Essencial",
+      "tempo_inicio_segundos": 157.65,
+      "topicos": [
+        "Um gênero raramente é 'puro'",
+        "Sempre há uma tipologia predominante",
+        "Tipologias: ferramentas linguísticas ('modos de dizer')",
+        "Gêneros: construções sociais ('formas de usar o discurso')",
+        "Exemplo: Notícia (expositiva, mas com narração e descrição)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 194.99,
+      "topicos": [
+        "Qual alternativa apresenta a correta distinção entre tipologia textual e gênero textual?",
+        "A) Tipologia textual é a forma como o texto se estrutura linguisticamente, enquanto gênero textual é a manifestação concreta do texto em uma situação comunicativa.",
+        "B) Gênero textual é a estrutura fixa e abrangente do texto, e tipologia textual é a sua manifestação flexível e social.",
+        "C) Ambos os termos são sinônimos e podem ser usados indistintamente para classificar qualquer tipo de texto.",
+        "D) Tipologia textual refere-se apenas a textos literários, e gênero textual, a textos não literários."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 227.09,
+      "topicos": [
+        "Um manual de instruções, uma receita culinária e uma bula de remédio são exemplos de gêneros textuais que têm como tipologia predominante a:",
+        "A) Narração",
+        "B) Descrição",
+        "C) Dissertação",
+        "D) Injunção"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Chave para Memorizar",
+      "tempo_inicio_segundos": 261.36,
+      "topicos": [
+        "Tipologias: Estrutura linguística predominante (fixa)",
+        "Gêneros: Manifestações concretas (flexíveis)",
+        "Narração: relata fatos",
+        "Descrição: detalha características",
+        "Dissertação: expõe/argumenta",
+        "Injunção: instrui/orienta",
+        "Exposição: informa objetivamente",
+        "Um gênero pode ter várias tipologias, mas uma é predominante."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 297.88,
+      "topicos": [
+        "Tipologia = O QUE o texto FAZ?",
+        "Gênero = ONDE o texto APARECE?",
+        "Foque na INTENÇÃO COMUNICATIVA!",
+        "Pratique a identificação em seu dia a dia!"
+      ]
+    }
+  ]
+}

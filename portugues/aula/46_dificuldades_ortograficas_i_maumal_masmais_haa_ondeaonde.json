@@ -1,0 +1,145 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Dificuldades Ortográficas I: Mau/Mal, Mas/Mais, Há/A, Onde/Aonde",
+  "duracao_total_segundos": 441.76,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Dificuldades Ortográficas I",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Comunicação clara e eficaz",
+        "Diferenças entre termos semelhantes",
+        "Mau/Mal, Mas/Mais, Há/A, Onde/Aonde",
+        "Aprimore sua escrita!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mau e Mal: Opostos de Bom e Bem",
+      "tempo_inicio_segundos": 45.88,
+      "topicos": [
+        "Mau: Adjetivo (oposto de BOM)",
+        "Concorda com o substantivo",
+        "Ex: Mau aluno, mau pressentimento",
+        "Mal: Advérbio (oposto de BEM)",
+        "Modifica verbos, adjetivos, advérbios",
+        "Ex: Comportou mal, comida mal temperada",
+        "Mal: Substantivo (doença, problema)",
+        "Ex: O mal do século, um mal-estar",
+        "Mal: Conjunção temporal (assim que)",
+        "Ex: Mal chegou, já foi embora"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Mas e Mais: Oposição vs. Adição",
+      "tempo_inicio_segundos": 95.34,
+      "topicos": [
+        "Mas: Conjunção adversativa",
+        "Indica oposição, contraste",
+        "Substituível por 'porém', 'contudo'",
+        "Ex: Estudou muito, mas não passou",
+        "Mais: Advérbio de intensidade",
+        "Indica adição, quantidade, intensidade",
+        "Oposto de 'menos'",
+        "Ex: Quero mais café, aluna mais inteligente"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Há e A: Tempo Passado vs. Futuro/Distância",
+      "tempo_inicio_segundos": 142.88,
+      "topicos": [
+        "Há: Verbo 'haver' (3ª pessoa singular)",
+        "Indica tempo passado (equivalente a 'faz')",
+        "Ex: Há dois anos não o vejo",
+        "Indica existência (equivalente a 'existe')",
+        "Ex: Há muitos livros na biblioteca",
+        "A: Preposição, artigo ou pronome",
+        "Como preposição: tempo futuro, distância, direção",
+        "Ex: Daqui a pouco, foi a Paris",
+        "Como artigo: acompanha substantivos femininos",
+        "Ex: A casa é grande",
+        "Como pronome oblíquo: substitui substantivo feminino",
+        "Ex: Vi-a na rua"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Onde e Aonde: Permanência vs. Movimento",
+      "tempo_inicio_segundos": 195.34,
+      "topicos": [
+        "Onde: Advérbio de lugar",
+        "Indica permanência, lugar fixo",
+        "Usado com verbos que não expressam movimento",
+        "Ex: Onde você mora? A casa onde nasci",
+        "Aonde: Preposição 'a' + advérbio 'onde'",
+        "Indica movimento para um lugar",
+        "Usado com verbos que expressam movimento e regem 'a'",
+        "Ex: Aonde você vai? Aonde ele quer chegar?"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Mau ou Mal?",
+      "tempo_inicio_segundos": 243.71,
+      "topicos": [
+        "Enunciado: Assinale a alternativa em que o uso de 'mau' ou 'mal' está INCORRETO.",
+        "A) Ele é um mau pagador.",
+        "B) O time jogou mal ontem.",
+        "C) Mal chegou em casa, adormeceu.",
+        "D) Ela teve um mal pressentimento.",
+        "Gabarito: D",
+        "Explicação: 'Pressentimento' é substantivo. O correto é 'mau pressentimento' (oposto de 'bom')."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Mas ou Mais?",
+      "tempo_inicio_segundos": 298.52,
+      "topicos": [
+        "Enunciado: Complete as lacunas corretamente: 'Ele estudou muito, _______ não conseguiu a vaga. Precisamos de _______ dedicação para alcançar nossos objetivos.'",
+        "A) mais / mas",
+        "B) mas / mais",
+        "C) mas / mas",
+        "D) mais / mais",
+        "Gabarito: B",
+        "Explicação: 1ª lacuna: oposição ('porém') = MAS. 2ª lacuna: adição ('menos') = MAIS."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 352.78,
+      "topicos": [
+        "Mau: Adjetivo (oposto de bom)",
+        "Mal: Advérbio (oposto de bem), substantivo ou conjunção",
+        "Mas: Conjunção adversativa (oposição)",
+        "Mais: Advérbio de intensidade (adição)",
+        "Há: Verbo haver (tempo passado ou existência)",
+        "A: Preposição (tempo futuro, distância), artigo ou pronome",
+        "Onde: Lugar fixo (permanência)",
+        "Aonde: Movimento para um lugar"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 398.5,
+      "topicos": [
+        "Teste de substituição: a melhor ferramenta!",
+        "Mau ↔ Bom",
+        "Mal ↔ Bem",
+        "Mas ↔ Porém",
+        "Mais ↔ Menos",
+        "Há ↔ Faz (passado)",
+        "A ↔ Para (futuro/distância)",
+        "Onde ↔ Em que lugar (fixo)",
+        "Aonde ↔ Para que lugar (movimento)",
+        "Pratique sempre e preste atenção ao contexto!"
+      ]
+    }
+  ]
+}

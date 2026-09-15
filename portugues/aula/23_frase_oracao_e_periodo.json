@@ -1,0 +1,145 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "Sintaxe da Oração e do Período",
+  "tema": "Frase, Oração e Período",
+  "duracao_total_segundos": 328.09,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Frase, Oração e Período",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Sintaxe da Oração e do Período",
+        "Tema: Frase, Oração e Período",
+        "e-Biblio Digital"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Sintaxe: A Organização da Língua",
+      "tempo_inicio_segundos": 21.31,
+      "topicos": [
+        "O que é Sintaxe?",
+        "Disposição das palavras e frases",
+        "Relação lógica e de dependência",
+        "Função dos termos na construção do sentido",
+        "Conceitos Fundamentais: Frase, Oração, Período"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "1. Frase: A Unidade de Comunicação",
+      "tempo_inicio_segundos": 46.02,
+      "topicos": [
+        "Enunciado de sentido completo",
+        "Capaz de estabelecer comunicação",
+        "Pode ser uma única palavra ou um conjunto",
+        "Pode ter ou não verbo em sua estrutura",
+        "Classificação: Frase Nominal e Frase Verbal"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "1.1. Frase Nominal e 1.2. Frase Verbal",
+      "tempo_inicio_segundos": 70.47,
+      "topicos": [
+        "Frase Nominal: Não possui verbo",
+        "Expressa ideias, ordens, emoções",
+        "Ex: Que dia lindo! Silêncio, por favor. Fogo! Bom dia a todos.",
+        "Frase Verbal: Possui verbo ou locução verbal",
+        "Verbo é o elemento central",
+        "Ex: Os alunos estudaram muito. Choveu a noite toda. Ele chegou cedo."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "2. Oração: O Núcleo Verbal",
+      "tempo_inicio_segundos": 99.07,
+      "topicos": [
+        "Enunciado estruturado em torno de um verbo",
+        "Verbo ou locução verbal é o núcleo",
+        "Cada verbo/locução = uma oração",
+        "Não precisa ter sentido completo isoladamente",
+        "Ex: O sol brilha. Os pássaros cantam. Eu estou lendo um livro."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "3. Período: A Frase Organizada",
+      "tempo_inicio_segundos": 135.57,
+      "topicos": [
+        "Frase organizada em uma ou mais orações",
+        "Inicia com letra maiúscula",
+        "Encerra com pontuação final (ponto, interrogação, exclamação, reticências)",
+        "Classificação: Período Simples e Período Composto"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "3.1. Período Simples e 3.2. Período Composto",
+      "tempo_inicio_segundos": 158.96,
+      "topicos": [
+        "Período Simples: Apenas uma oração",
+        "Um único verbo ou locução verbal",
+        "Oração Absoluta",
+        "Ex: Os estudantes leram o livro. A chuva parou.",
+        "Período Composto: Duas ou mais orações",
+        "Dois ou mais verbos ou locuções verbais",
+        "Relação: Coordenação ou Subordinação"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Período Composto: Coordenação e Subordinação",
+      "tempo_inicio_segundos": 189.75,
+      "topicos": [
+        "Coordenação: Orações sintaticamente independentes",
+        "Unidas por sentido, conjunção ou pontuação",
+        "Ex: Ele estudou muito, mas não passou. Cheguei, vi e venci.",
+        "Subordinação: Orações com relação de dependência sintática",
+        "Uma oração (subordinada) exerce função na outra (principal)",
+        "Ex: Espero que você venha. É necessário que todos participem."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Contagem de Orações",
+      "tempo_inicio_segundos": 225.84,
+      "topicos": [
+        "No período \"Quando cheguei em casa, percebi que havia esquecido as chaves.\", quantas orações há?",
+        "A) Uma oração.",
+        "B) Duas orações.",
+        "C) Três orações.",
+        "D) Quatro orações.",
+        "Gabarito: C",
+        "Comentário: 3 verbos/locuções: \"cheguei\", \"percebi\", \"havia esquecido\"."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 259.0,
+      "topicos": [
+        "Frase: Unidade comunicativa de sentido completo.",
+        "Oração: Unidade estruturada em torno de um verbo.",
+        "Período: Unidade sintática com uma ou mais orações.",
+        "Toda oração com sentido completo é frase, mas nem toda frase é oração.",
+        "Todo período é uma frase.",
+        "Toda oração integra um período."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Dica de Ouro!",
+      "tempo_inicio_segundos": 293.15,
+      "topicos": [
+        "Para identificar: O VERBO é a chave da ORAÇÃO!",
+        "Conte os verbos para saber o número de orações.",
+        "Período = do início à pontuação final.",
+        "Frase = sentido completo, mesmo sem verbo.",
+        "Pratique com exemplos do dia a dia!"
+      ]
+    }
+  ]
+}

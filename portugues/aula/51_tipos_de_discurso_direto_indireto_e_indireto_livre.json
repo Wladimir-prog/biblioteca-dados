@@ -1,0 +1,116 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Tipos de Discurso: Direto, Indireto e Indireto Livre",
+  "duracao_total_segundos": 379.03,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Tipos de Discurso: Direto, Indireto e Indireto Livre",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+        "Reprodução da fala e pensamento em textos",
+        "Essencial para interpretação e produção textual"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Discurso Direto: A Fala Fiel",
+      "tempo_inicio_segundos": 33.26,
+      "topicos": [
+        "Reprodução fiel da fala original",
+        "Marcadores claros: aspas, travessão, dois-pontos",
+        "Verbos de elocução: dizer, perguntar, responder",
+        "Ex.: A professora perguntou: \"Quem fez a lição?\""
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Discurso Indireto: O Narrador Conta",
+      "tempo_inicio_segundos": 69.85,
+      "topicos": [
+        "O narrador 'conta' o que a personagem disse",
+        "Sem reprodução literal da fala",
+        "Subordinação da fala: conjunções 'que' ou 'se'",
+        "Adaptação de tempos verbais, pronomes e advérbios",
+        "Ex.: A professora perguntou quem havia feito a lição."
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Discurso Indireto Livre: A Fusão de Vozes",
+      "tempo_inicio_segundos": 110.05,
+      "topicos": [
+        "Fusão sutil das vozes do narrador e da personagem",
+        "Sem marcadores explícitos (aspas, travessão, conjunções)",
+        "Pensamentos e falas inseridos na narrativa",
+        "Mantém características da fala original (interjeições, tom)",
+        "Gera ambiguidade, imersão e subjetividade",
+        "Ex.: A professora olhou para a turma. Quem havia feito a lição de casa?"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Características e Diferenças Essenciais",
+      "tempo_inicio_segundos": 159.05,
+      "topicos": [
+        "Direto: Reprodução exata, aspas/travessão, verbos de elocução. Voz da personagem clara.",
+        "Indireto: Narrador reproduz, conjunções 'que'/'se', adaptação de tempos/pronomes. Voz do narrador predominante.",
+        "Indireto Livre: Fusão de vozes, sem marcadores ou conjunções. Mantém tom da personagem. Maior subjetividade."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 206.68,
+      "topicos": [
+        "Em qual das frases abaixo o discurso direto está empregado corretamente?",
+        "A) Ele disse que não iria à festa.",
+        "B) A professora perguntou quem havia feito a lição.",
+        "C) \"Não irei à festa\", disse ele.",
+        "D) Ela estava cansada. Não aguentava mais.",
+        "Gabarito: C",
+        "Explicação: Reprodução exata da fala com travessão e verbo de elocução."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 255.47,
+      "topicos": [
+        "A frase 'O aluno perguntou: \"Posso sair mais cedo hoje?\"' está em discurso direto. Qual a forma correta no discurso indireto?",
+        "A) O aluno perguntou se podia sair mais cedo hoje.",
+        "B) O aluno perguntou se podia sair mais cedo naquele dia.",
+        "C) O aluno perguntou que podia sair mais cedo hoje.",
+        "D) O aluno perguntou: ele podia sair mais cedo naquele dia?",
+        "Gabarito: B",
+        "Explicação: Adaptação de tempo verbal (Posso -> podia) e advérbio (hoje -> naquele dia)."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo: Pontos Essenciais",
+      "tempo_inicio_segundos": 304.71,
+      "topicos": [
+        "Direto: Fala exata, aspas/travessão, verbos de elocução.",
+        "Indireto: Narrador reproduz, conjunções 'que'/'se', adaptação de tempos/pronomes.",
+        "Indireto Livre: Fusão de vozes, sem marcadores, fluidez e subjetividade.",
+        "Pontuação e conjunções são cruciais para a diferenciação.",
+        "A escolha do discurso impacta a vivacidade e profundidade da narrativa."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor!",
+      "tempo_inicio_segundos": 347.09,
+      "topicos": [
+        "Direto: Tem 'cara de fala'! (Aspas/Travessão)",
+        "Indireto: Tem 'que' ou 'se' e muda tudo!",
+        "Indireto Livre: É a voz da personagem na cabeça do narrador!",
+        "Pratique a transformação entre eles!"
+      ]
+    }
+  ]
+}

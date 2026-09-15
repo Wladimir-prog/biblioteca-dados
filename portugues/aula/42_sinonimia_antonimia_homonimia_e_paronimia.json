@@ -1,0 +1,136 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "SEMÂNTICA, ESTILÍSTICA E USO DAS PALAVRAS",
+  "tema": "Sinonímia, Antonímia, Homonímia e Paronímia",
+  "duracao_total_segundos": 484.84,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Semântica: Desvendando o Sentido das Palavras",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Português — Gramática",
+        "Semântica, Estilística e Uso das Palavras",
+        "Sinonímia, Antonímia, Homonímia e Paronímia",
+        "Aprimore sua comunicação e interpretação textual!"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "1. Sinonímia: A Força da Semelhança",
+      "tempo_inicio_segundos": 47.51,
+      "topicos": [
+        "Palavras com significados semelhantes ou idênticos.",
+        "Permite substituição em muitos contextos.",
+        "Sinonímia perfeita é rara: atente-se às nuances!",
+        "Ex: esperto / inteligente",
+        "Ex: início / começo",
+        "Ex: feliz / alegre"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "2. Antonímia: Os Polos Opostos do Sentido",
+      "tempo_inicio_segundos": 103.5,
+      "topicos": [
+        "Palavras com significados opostos ou contrários.",
+        "Oposição de qualidade, estado, ação ou quantidade.",
+        "Fundamental para contrastes e ideias opostas.",
+        "Formação: radicais diferentes (bom/mau) ou prefixos de negação (feliz/infeliz).",
+        "Ex: claro / escuro",
+        "Ex: bom / mau",
+        "Ex: aberta / fechada"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "3. Homonímia: Palavras Iguais, Sentidos Diferentes",
+      "tempo_inicio_segundos": 147.46,
+      "topicos": [
+        "Palavras com mesma pronúncia e/ou grafia, mas significados distintos.",
+        "Principal fonte de ambiguidade na língua.",
+        "O contexto é seu maior aliado!",
+        "Homonímia Perfeita: mesma grafia e pronúncia, significados diferentes.",
+        "Ex: Eu 'rio' de suas piadas. (verbo rir) / O 'rio' Amazonas é imenso. (substantivo)",
+        "Ex: Ele 'cedo' o lugar. (verbo ceder) / Ele chegou 'cedo'. (advérbio)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "3. Homonímia: Homofonia e Homografia",
+      "tempo_inicio_segundos": 206.09,
+      "topicos": [
+        "Homofonia: mesma pronúncia, grafia e significados diferentes.",
+        "Ex: 'acendeu' (verbo acender) / 'ascendeu' (verbo ascender)",
+        "Ex: 'concerto' (espetáculo) / 'conserto' (reparação)",
+        "Homografia: mesma grafia, pronúncia e significados diferentes.",
+        "Ex: 'gosto' (verbo gostar, /gɔstu/) / 'gosto' (substantivo, /gostu/)",
+        "Ex: 'sede' (local, /sɛdʒi/) / 'sede' (vontade de beber, /sedʒi/)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "4. Paronímia: A Armadilha da Semelhança",
+      "tempo_inicio_segundos": 255.14,
+      "topicos": [
+        "Palavras muito semelhantes na grafia e pronúncia.",
+        "Significados completamente diferentes.",
+        "Principal causa de confusão e erros.",
+        "Atenção ao contexto e significado exato.",
+        "Cuidado: prato cheio para pegadinhas em concursos!",
+        "Ex: ratificar (confirmar) / retificar (corrigir)",
+        "Ex: eminente (ilustre) / iminente (prestes a acontecer)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 311.32,
+      "topicos": [
+        "Assinale a alternativa em que o par de palavras apresenta uma relação de antonímia.",
+        "A) Censo / Senso",
+        "B) Comprimento / Cumprimento",
+        "C) Mal / Bem",
+        "D) Sessão / Seção"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 353.31,
+      "topicos": [
+        "Identifique a alternativa em que o par de palavras é classificado como parônimo.",
+        "A) Casa / Lar",
+        "B) Acender / Ascender",
+        "C) Bom / Mau",
+        "D) Manga (fruta) / Manga (roupa)"
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: Pontos Essenciais",
+      "tempo_inicio_segundos": 398.02,
+      "topicos": [
+        "Semântica: estudo do significado das palavras.",
+        "Sinonímia: palavras com significados semelhantes (ex: feliz/alegre).",
+        "Antonímia: palavras com significados opostos (ex: claro/escuro).",
+        "Homonímia: palavras com mesma pronúncia e/ou grafia, mas sentidos diferentes.",
+        "Tipos de Homonímia: Perfeita, Homofonia e Homografia.",
+        "Paronímia: palavras semelhantes na grafia e pronúncia, mas com significados distintos (ex: ratificar/retificar).",
+        "Domínio dessas relações: aprimora vocabulário, interpretação e precisão textual."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu Final: Contexto é Tudo!",
+      "tempo_inicio_segundos": 453.28,
+      "topicos": [
+        "Contexto é seu maior aliado!",
+        "Analise a frase e o sentido desejado.",
+        "Pratique a leitura e a escrita.",
+        "Amplie seu vocabulário.",
+        "Comunicação eficaz e sem ruídos!"
+      ]
+    }
+  ]
+}

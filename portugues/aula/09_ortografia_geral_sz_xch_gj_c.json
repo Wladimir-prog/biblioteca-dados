@@ -1,0 +1,132 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "FONOLOGIA, ORTOGRAFIA E ACENTUAÇÃO",
+  "tema": "Ortografia Geral (S/Z, X/CH, G/J, Ç)",
+  "duracao_total_segundos": 500.92,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Ortografia Geral: S/Z, X/CH, G/J, Ç",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Ortografia: A base da comunicação escrita",
+        "Clareza, Credibilidade e Eficácia",
+        "Indispensável em concursos e vida profissional"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso do S e Z",
+      "tempo_inicio_segundos": 43.67,
+      "topicos": [
+        "S ou Z: Dúvida comum",
+        "Etimologia e Posição do Som",
+        "Uso do S: Derivados de -nder, -ndir, -verter, -pelir (pretensão, expansão, expulsão)",
+        "Uso do S: Derivados de -er, -ir, -ar com som de Z (análise, pesquisa, defesa)",
+        "Uso do S: Sufixos -ês, -esa (português, marquesa)",
+        "Uso do S: Sufixos -oso, -osa (gostoso, poderoso)",
+        "Uso do S: Após ditongos (coisa, lousa)",
+        "Uso do Z: Derivados de adjetivos com -eza (beleza, riqueza, pobreza)",
+        "Uso do Z: Verbos em -izar sem S no radical (civilizar, realizar)",
+        "Uso do Z: Palavras de origem tupi-guarani, africana ou árabe (buzina, azar, vazio)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso do X e CH",
+      "tempo_inicio_segundos": 114.4,
+      "topicos": [
+        "X ou CH: Erros frequentes",
+        "Origem e Convenções",
+        "Uso do X: Após ditongos (caixa, baixo, peixe)",
+        "Uso do X: Após sílaba inicial 'en-' (enxame, enxugar)",
+        "Uso do X: Após sílaba inicial 'me-' (mexer, México)",
+        "Uso do X: Palavras de origem indígena ou africana (xavante, abacaxi)",
+        "Uso do X: Com som de Z, S ou SS (exato, texto, próximo)",
+        "Uso do CH: Palavras de origem francesa ou aportuguesadas (chique, cachê, champanhe)",
+        "Uso do CH: Palavras que não se encaixam nas regras do X (chave, chuva, mochila)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso do G e J",
+      "tempo_inicio_segundos": 168.65,
+      "topicos": [
+        "G ou J: Sonoridade idêntica (E ou I)",
+        "Etimologia como guia",
+        "Uso do G: Terminações -agem, -igem, -ugem (viagem, origem, ferrugem)",
+        "Uso do G: Terminações -ágio, -égio, -ígio, -ógio, -úgio (estágio, colégio, refúgio)",
+        "Uso do G: Palavras de origem grega ou latina (gesso, gíria)",
+        "Uso do J: Palavras de origem tupi, africana, árabe ou exótica (pajé, canjica, manjericão)",
+        "Uso do J: Verbos terminados em -jar ou -jear (viajar, gorjear)",
+        "Uso do J: Derivadas de palavras com J (laranjeira, lojista, sujeira)"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Uso do Ç (Cedilha)",
+      "tempo_inicio_segundos": 222.41,
+      "topicos": [
+        "Ç: Grafema exclusivo do português",
+        "Sempre antes de A, O, U",
+        "Nunca no início de palavras",
+        "ATENÇÃO: C antes de E ou I já tem som de /s/ (cena, cinco)",
+        "Uso do Ç: Derivados de verbos em -ter, -tir, -tor, -tivo (detenção, ação, redação)",
+        "Uso do Ç: Palavras de origem árabe ou tupi-guarani (açúcar, caçula)",
+        "Uso do Ç: Sufixos -aça, -aço, -iço, -uça (barcaça, ricaço, feitiço)"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 1",
+      "tempo_inicio_segundos": 281.8,
+      "topicos": [
+        "Assinale a alternativa em que todas as palavras estão grafadas corretamente, de acordo com as regras de uso do S e Z.",
+        "A) Análise, beleza, pretensão, buzina.",
+        "B) Pesquiza, riqueza, expulsão, vazio.",
+        "C) Defeza, pobreza, expansão, azár.",
+        "D) Português, marquesa, civilisar, gostoso."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação 2",
+      "tempo_inicio_segundos": 339.71,
+      "topicos": [
+        "Qual das alternativas apresenta uma palavra com Ç grafada incorretamente?",
+        "A) Detenção.",
+        "B) Ação.",
+        "C) Redação.",
+        "D) Expansão."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese do Conteúdo",
+      "tempo_inicio_segundos": 387.17,
+      "topicos": [
+        "Ortografia: Clareza e Credibilidade",
+        "S/Z, X/CH, G/J, Ç: Etimologia e Regras Específicas",
+        "Uso do S: Sufixos -ês, -esa, -oso, -osa; após ditongos; derivados de -nder, -ndir, etc.",
+        "Uso do Z: Substantivos abstratos (-eza); verbos em -izar (sem S no radical); origens diversas.",
+        "Uso do X: Após ditongos, 'en-', 'me-'; origens indígenas/africanas.",
+        "Uso do CH: Origem francesa; palavras sem regras do X.",
+        "Uso do G: Terminações -agem, -igem, -ugem, -ágio; origem grega/latina.",
+        "Uso do J: Origens tupi/africana/árabe; verbos em -jar/-jear; derivadas com J.",
+        "Uso do Ç: Som de /s/ antes de A, O, U; nunca no início; derivados de -ter, -tir, -tor, -tivo; sufixos -aça, -aço, -iço, -uça."
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor",
+      "tempo_inicio_segundos": 460.51,
+      "topicos": [
+        "Dica de Ouro: Leia e Escreva Constantemente!",
+        "Consulte o dicionário sem hesitar.",
+        "Pratique com exercícios e revise as regras.",
+        "A ortografia é um hábito que se constrói.",
+        "Sua comunicação mais clara e profissional!"
+      ]
+    }
+  ]
+}

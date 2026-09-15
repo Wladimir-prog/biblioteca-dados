@@ -1,0 +1,146 @@
+{
+  "disciplina": "Português — Gramática",
+  "bloco": "GRAMÁTICA DO TEXTO E LINGUÍSTICA APLICADA",
+  "tema": "Funções da Linguagem",
+  "duracao_total_segundos": 440.27,
+  "cenas": [
+    {
+      "tipo": "capa",
+      "titulo": "Funções da Linguagem: Como a Linguagem nos Conecta e Expressa",
+      "tempo_inicio_segundos": 0.0,
+      "topicos": [
+        "Disciplina: Português — Gramática",
+        "Bloco: Gramática do Texto e Linguística Aplicada",
+        "Tema: Funções da Linguagem",
+        "A linguagem como ferramenta de interação",
+        "Diferentes propósitos comunicativos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Desvendando as Funções da Linguagem",
+      "tempo_inicio_segundos": 46.65,
+      "topicos": [
+        "Sistematizadas por Roman Jakobson",
+        "Relacionadas aos elementos da comunicação:",
+        "Emissor, Receptor, Mensagem, Código, Canal, Contexto",
+        "Cada função destaca um elemento",
+        "Revela a intenção comunicativa principal",
+        "Várias funções podem coexistir, mas uma se sobressai"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Função Referencial e Emotiva: Foco no Contexto e no Emissor",
+      "tempo_inicio_segundos": 93.56,
+      "topicos": [
+        "Função Referencial (Denotativa):",
+        "Foco no CONTEXTO (referente)",
+        "Objetividade e informação pura",
+        "Linguagem denotativa (sentido literal)",
+        "Predomínio da 3ª pessoa",
+        "Ex: Notícias, textos científicos",
+        "Função Emotiva (Expressiva):",
+        "Foco no EMISSOR",
+        "Expressão de sentimentos e opiniões",
+        "Linguagem subjetiva",
+        "Uso da 1ª pessoa, interjeições, exclamações",
+        "Ex: Diários, poemas líricos"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Função Conativa e Fática: Persuasão e Manutenção do Contato",
+      "tempo_inicio_segundos": 155.77,
+      "topicos": [
+        "Função Conativa (Apelativa):",
+        "Foco no RECEPTOR",
+        "Persuasão e influência",
+        "Uso de vocativos, imperativos",
+        "2ª pessoa (tu/você)",
+        "Ex: Anúncios publicitários, discursos políticos",
+        "Função Fática:",
+        "Foco no CANAL",
+        "Testar e manter o contato",
+        "Frases curtas, perguntas retóricas",
+        "Expressões de cumprimento",
+        "Ex: 'Alô?', 'Entendeu?', 'Certo?'"
+      ]
+    },
+    {
+      "tipo": "explicacao",
+      "titulo": "Função Metalinguística e Poética: A Linguagem sobre a Linguagem e a Estética",
+      "tempo_inicio_segundos": 209.66,
+      "topicos": [
+        "Função Metalinguística:",
+        "Foco no CÓDIGO",
+        "A linguagem explicando a própria linguagem",
+        "Comum em definições, gramática, dicionários",
+        "Ex: 'A palavra 'casa' é um substantivo.'",
+        "Função Poética:",
+        "Foco na MENSAGEM",
+        "Valorização da forma e estética",
+        "Linguagem conotativa (sentido figurado)",
+        "Figuras de linguagem, rimas, ritmo",
+        "Ex: Poemas, letras de música"
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Foco no Emissor",
+      "tempo_inicio_segundos": 270.52,
+      "topicos": [
+        "Enunciado: Em qual função da linguagem o foco principal está na expressão dos sentimentos e emoções do emissor?",
+        "A) Referencial",
+        "B) Conativa",
+        "C) Emotiva",
+        "D) Fática",
+        "Gabarito: C",
+        "Comentário: A Função Emotiva (ou Expressiva) tem como foco o emissor e sua subjetividade, expressando sentimentos e opiniões."
+      ]
+    },
+    {
+      "tipo": "questao",
+      "titulo": "Questão de Fixação: Persuasão e Ação",
+      "tempo_inicio_segundos": 309.3,
+      "topicos": [
+        "Enunciado: Em um anúncio publicitário que diz 'Não perca essa chance! Ligue agora e garanta seu desconto!', a função da linguagem predominante é a:",
+        "A) Referencial",
+        "B) Conativa",
+        "C) Fática",
+        "D) Poética",
+        "Gabarito: B",
+        "Comentário: A Função Conativa (ou Apelativa) tem como objetivo influenciar ou persuadir o receptor a realizar uma ação, utilizando imperativos e vocativos, como é comum em publicidade."
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Síntese: As Funções da Linguagem em Destaque",
+      "tempo_inicio_segundos": 344.53,
+      "topicos": [
+        "Funções de Jakobson: intenção comunicativa",
+        "Referencial: Foco no CONTEXTO (objetividade, informação)",
+        "Emotiva: Foco no EMISSOR (sentimentos, subjetividade)",
+        "Conativa: Foco no RECEPTOR (persuasão, influência)",
+        "Fática: Foco no CANAL (manter contato)",
+        "Metalinguística: Foco no CÓDIGO (linguagem explicando a linguagem)",
+        "Poética: Foco na MENSAGEM (forma, estética, conotação)"
+      ]
+    },
+    {
+      "tipo": "bizu",
+      "titulo": "Bizu do Professor: Como Identificar as Funções na Prática!",
+      "tempo_inicio_segundos": 391.78,
+      "topicos": [
+        "Identifique o FOCO principal da mensagem!",
+        "Contexto? -> Referencial (notícia, manual)",
+        "Emissor? -> Emotiva (eu sinto, eu acho)",
+        "Receptor? -> Conativa (você, faça, compre)",
+        "Canal? -> Fática (alô, entendeu?)",
+        "Código? -> Metalinguística (o que é, significa)",
+        "Mensagem (forma)? -> Poética (poema, metáfora)",
+        "Pratique com diferentes tipos de texto!"
+      ]
+    }
+  ]
+}
