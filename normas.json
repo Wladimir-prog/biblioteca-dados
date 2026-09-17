@@ -1,0 +1,63 @@
+{
+  "sucesso": true,
+  "disciplina": "Leis, Decretos e Regulamentos",
+  "dados": [
+    {
+      "bloco": "Normas e Leis I",
+      "normas": [
+        {
+          "norma_id": 1,
+          "titulo_norma": "Constituição Federal - Parte I: Dos Direitos e Garantias Fundamentais",
+          "arquivo_txt_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/cf_direitos_fundamentais.txt",
+          "audio_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/cf_direitos_fundamentais.mp3",
+          "descricao": "Artigos 1º ao 5º da CF/88 focados nos princípios fundamentais, direitos individuais e coletivos."
+        },
+        {
+          "norma_id": 2,
+          "titulo_norma": "Constituição Federal - Parte II: Da Administração Pública (Art. 37 a 41)",
+          "arquivo_txt_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/cf_admin_publica.txt",
+          "audio_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/cf_admin_publica.mp3",
+          "descricao": "Princípios, deveres, estabilidade e regras aplicáveis aos servidores públicos."
+        },
+        {
+          "norma_id": 3,
+          "titulo_norma": "Constituição Federal - Parte III: Da Educação, da Cultura e do Desporto (Art. 205 a 214)",
+          "arquivo_txt_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/cf_educacao.txt",
+          "audio_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/cf_educacao.mp3",
+          "descricao": "Diretrizes constitucionais obrigatórias da educação nacional e deveres do Estado."
+        },
+        {
+          "norma_id": 4,
+          "titulo_norma": "Lei Orgânica do Distrito Federal (LODF) - Tópicos Essenciais",
+          "arquivo_txt_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/lodf_resumo.txt",
+          "audio_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/lodf_narracao.mp3",
+          "descricao": "Principais artigos da LODF cobrados em concursos da área educacional e administrativa."
+        }
+      ]
+    },
+    {
+      "bloco": "Normas e Leis II",
+      "normas": [
+        {
+          "norma_id": 5,
+          "titulo_norma": "Estatuto dos Servidores Públicos do DF (Lei Complementar nº 840/2011)",
+          "arquivo_txt_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/lc840_resumo.txt",
+          "audio_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/lc840_narracao.mp3",
+          "descricao": "Regime jurídico dos servidores públicos civis do DF, das autarquias e das fundações públicas."
+        }
+      ]
+    },
+    {
+      "bloco": "Normas e Leis III",
+      "normas": [
+        {
+          "norma_id": 6,
+          "titulo_norma": "Regimento Escolar e Diretrizes Específicas",
+          "arquivo_txt_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/regimento_resumo.txt",
+          "audio_url": "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/normas/regimento_narracao.mp3",
+          "descricao": "Normas de organização e funcionamento aplicadas às unidades de ensino."
+        }
+      ]
+    }
+  ]
+}
