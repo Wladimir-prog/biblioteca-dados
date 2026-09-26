@@ -55,12 +55,7 @@
           "icone": "gavel",
           "descricao": "Do séc. XIX aos dias atuais. Críticas à razão, linguagem e sociedade."
         },
-        {
-          "tag": "Religiao_Teologia",
-          "titulo": "Religião e Teologia",
-          "icone": "church",
-          "descricao": "Estudos teológicos, obras de espiritualidade e grandes tradições de fé."
-        }
+       
       ]
     }
   ]
