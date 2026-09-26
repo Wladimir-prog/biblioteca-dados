@@ -11,7 +11,7 @@
   {
     "id": 2,
     "titulo": "O Cortiço",
-    "autor": "Aluísio Azevedo",
+    autor: "Aluísio Azevedo",
     "sinopse": "1890. Obra máxima do Naturalismo brasileiro, onde a própria estalagem fluminense atua como um personagem vivo e implacável. O ambiente molda, transforma e degrada os indivíduos e os instintos humanos ao seu redor.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_cortico_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_cortico.txt",
@@ -21,7 +21,7 @@
     "id": 3,
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
-    "sinopse": "1899. O clássico absoluto da nossa literature. Apresenta as memórias psychological de Bento Santiago que reconstrói sua juventude, atormentado pela dúvida eterna sobre a fidelidade de Capitu.",
+    "sinopse": "1899. O clássico absoluto da nossa literatura. Apresenta as memórias psicológicas de Bento Santiago que reconstrói sua juventude, atormentado pela dúvida eterna sobre a fidelidade de Capitu.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro.txt",
     "categorias": ["Literatura_BR", "Realismo"]
@@ -120,7 +120,7 @@
     "id": 14,
     "titulo": "Lógica Elementar e Argumentação",
     "autor": "Estudos Complementares",
-    "sinopse": "Século VI a.C. Filosofia Clássica: Foco na origem do pensamento racional. Uma introdução teórica e prática aos princípios da estruturação silogística aristotélica e identification de falácias cotidianas.",
+    "sinopse": "Século VI a.C. Filosofia Clássica: Foco na origem do pensamento racional. Uma introdução teórica e prática aos princípios da estruturação silogística aristotélica e identificação de falácias cotidianas.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/logicaargumentacao.txt",
     "categorias": ["Filosofia_Classica"]
@@ -279,21 +279,21 @@
     "categorias": ["EU_OC_EST", "Literatura_EST"]
   },
   {
-  "id": 32,
-  "titulo": "Prosopopeia",
-  "autor": "Bento Teixeira",
-  "sinopse": "1601. Marco inicial do Barroco brasileiro. Este poema épico em oitava rima exalta as façanhas de Jorge de Albuquerque Coelho, terceiro donatário da capitania de Pernambuco, utilizando elementos da mitologia clássica.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia_capa.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia.txt",
-  "categorias": ["Literatura_BR", "Barroco_BR"]
-},
+    "id": 32,
+    "titulo": "Prosopopeia",
+    "autor": "Bento Teixeira",
+    "sinopse": "1601. Marco inicial do Barroco brasileiro. Este poema épico em oitava rima exalta as façanhas de Jorge de Albuquerque Coelho, terceiro donatário da capitania de Pernambuco, utilizando elementos da mitologia clássica.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia.txt",
+    "categorias": ["Literatura_BR", "Barroco_BR"]
+  },
   {
-  "id": 33,
-  "titulo": "A Morte de Ivan Ilitch",
-  "autor": "Liev Tolstói",
-  "sinopse": "1886. A história começa com a morte de Ivan Ilitch, um juiz de alto escalão, e explora as reações superficiais de seus colegas e família. A narrativa então mergulha em sua vida, desde sua existência convencional e vazia até sua agonizante doença final, criticando a sociedade russa do século XIX e examinando temas de mortalidade e autenticidade.",
-  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch_capa.png",
-  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch.txt",
-  "categorias": ["RUS_EST", "Literatura_EST"]
-}
+    "id": 33,
+    "titulo": "A Morte de Ivan Ilitch",
+    "autor": "Liev Tolstói",
+    "sinopse": "1886. A história começa com a morte de Ivan Ilitch, um juiz de alto escalão, e explora as reações superficiais de seus colegas e família. A narrativa então mergulha em sua vida, desde sua existência convencional e vazia até sua agonizante doença final, criticando a sociedade russa do século XIX e examinando temas de mortalidade e autenticidade.",
+    "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch_capa.png",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch.txt",
+    "categorias": ["RUS_EST", "Literatura_EST"]
+  }
 ]
