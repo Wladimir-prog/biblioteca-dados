@@ -15,6 +15,18 @@
       ]
     },
     {
+      "tag_macro": "Literatura_EST",
+      "titulo_macro": "Literatura Estrangeira",
+      "icone_macro": "public",
+      "subcategorias": [
+        {"titulo": "Anglo-Americana", "tag": "ANG_EST", "icone": "flag"},
+        {"titulo": "Literatura Russa", "tag": "RUS_EST", "icone": "ac_unit"},
+        {"titulo": "Francesa e Ocidental", "tag": "EU_OC_EST", "icone": "euro"},
+        {"titulo": "Hispano-Portuguesa", "tag": "HISP_PT_EST", "icone": "language"},
+        {"titulo": "Oriental e Africana", "tag": "OUTRAS_EST", "icone": "terrain"}
+      ]
+    },
+    {
       "tag_macro": "Filosofia",
       "titulo_macro": "Filosofia",
       "icone_macro": "psychology",
@@ -49,18 +61,6 @@
           "icone": "church",
           "descricao": "Estudos teológicos, obras de espiritualidade e grandes tradições de fé."
         }
-      ]
-    },
-    {
-      "tag_macro": "Literatura_EST",
-      "titulo_macro": "Literatura Estrangeira",
-      "icone_macro": "public",
-      "subcategorias": [
-        {"titulo": "Anglo-Americana", "tag": "ANG_EST", "icone": "flag"},
-        {"titulo": "Literatura Russa", "tag": "RUS_EST", "icone": "ac_unit"},
-        {"titulo": "Francesa e Ocidental", "tag": "EU_OC_EST", "icone": "euro"},
-        {"titulo": "Hispano-Portuguesa", "tag": "HISP_PT_EST", "icone": "language"},
-        {"titulo": "Oriental e Africana", "tag": "OUTRAS_EST", "icone": "terrain"}
       ]
     }
   ]
