@@ -8,7 +8,7 @@
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.json",
     "categorias": ["Literatura_BR", "Romantismo"]
   },
-  {
+{
     "id": 2,
     "titulo": "O Cortiço",
     "autor": "Aluísio Azevedo",
