@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "titulo": "O Cortiço",
+  "autor": "Aluísio Azevedo",
+  "sinopse": "1890. Aluísio Azevedo publica O Cortiço, ápice do Naturalismo brasileiro. A obra disseca as tensões sociais do Rio de Janeiro oitocentista, onde o avarento João Romão constrói um cortiço. Este se torna um organismo vivo de instintos e choques morais, revelando a luta pela sobrevivência na sociedade burguesa.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico_capa.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.txt",
+  "categorias": [
+    "Naturalismo"
+  ],
+  "prompt_capa_sugerido": "Brazilian naturalist novel cover, 19th century Rio de Janeiro slum, crowded, vibrant, sensual, with a subtle contrast to a nearby elegant mansion. Focus on human figures, diverse ethnicities, strong light and shadow, tropical vegetation. Realistic, detailed, oil painting style. --ar 5:7"
+}
