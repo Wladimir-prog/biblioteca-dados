@@ -5,7 +5,7 @@
     "autor": "José de Alencar",
     "sinopse": "1857. Este clássico romance urbano narra a história de Jorge, um jovem que simula a própria morte na véspera do casamento após descobrir-se falido. Sua noiva, Carolina, passa a vestir luto eterno, enquanto ele trabalha sob nova identidade.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/aviuvinha.json",
     "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
@@ -14,7 +14,7 @@
     "autor": "Aluísio Azevedo",
     "sinopse": "1890. Obra máxima do Naturalismo brasileiro, onde a própria estalagem fluminense atua como um personagem vivo e implacável. O ambiente molda, transforma e degrada os indivíduos e os instintos humanos ao seu redor.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_cortico_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_cortico.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocortico.json",
     "categorias": ["Literatura_BR", "Naturalismo"]
   },
   {
@@ -23,7 +23,7 @@
     "autor": "Machado de Assis",
     "sinopse": "1899. O clássico absoluto da nossa literatura. Apresenta as memórias psicológicas de Bento Santiago que reconstrói sua juventude, atormentado pela dúvida eterna sobre a fidelidade de Capitu.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/dom_casmurro.json",
     "categorias": ["Literatura_BR", "Realismo"]
   },
   {
@@ -32,7 +32,7 @@
     "autor": "Machado de Assis",
     "sinopse": "1881. Um defunto autor que, já no além-túmulo, decide narrar suas memórias com uma ironia implacável e pessimista. A obra critica a elite carioca da época e inaugura oficialmente o Realismo no cenário nacional.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/brascubas_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/brascubas.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/brascubas.json",
     "categorias": ["Literatura_BR", "Realismo"]
   },
   {
@@ -41,7 +41,7 @@
     "autor": "Graciliano Ramos",
     "sinopse": "1938. Romance fundamental da Geração de 30 do Modernismo. Retrata a fuga dolorosa de Fabiano, Sinhá Vitória, os meninos e a cachorra Baleia contra a seca impiedosa do sertão nordestino.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas_capas.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/vidas_secas.json",
     "categorias": ["Literatura_BR", "Modernismo"]
   },
   {
@@ -50,7 +50,7 @@
     "autor": "Corpo Docente Pedagógico",
     "sinopse": "Século XXI. Diretrizes práticas organizadas e comentadas para orientação da conduta dos estudantes, direitos, deveres e ritos de convivência escolar, servindo como um manual de apoio ético e institucional diário.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/guiaorientacao.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/guiaorientacao.json",
     "categorias": ["Inst_Guias"]
   },
   {
@@ -59,7 +59,7 @@
     "autor": "José de Alencar",
     "sinopse": "1865. A virgem dos lábios de mel é a representação poética e mítica da fundação da identidade brasileira. Retrata o encontro trágico entre a cultura indígena nativa e o colonizador europeu Martim.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/iracema.json",
     "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
@@ -68,7 +68,7 @@
     "autor": "José de Alencar",
     "sinopse": "1857. Romance histórico que exalta a figura mítica do índio Peri como o autêntico herói nacional idealizado. Ambientado nas florestas coloniais, retrata o amor irredutível do guerreiro pela jovem Ceci.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_guarani.json",
     "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
@@ -77,7 +77,7 @@
     "autor": "Coelho Neto",
     "sinopse": "1908. Uma narrativa densa e sofisticada que retrata o ambiente acadêmico, intelectual e as transformações dos costumes urbanos na virada do século XX, flertando com debates sobre a modernidade nacional.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/a_esfinge.json",
     "categorias": ["Literatura_BR", "Modernismo"]
   },
   {
@@ -86,7 +86,7 @@
     "autor": "Platão",
     "sinopse": "c. 380 a.C. Filosofia Clássica: Foco na origem do pensamento racional, englobando Platão e Sócrates neste diálogo fundamental que debate a justiça, a organização política ideal e apresenta a célebre alegoria da caverna.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/arepublica.json",
     "categorias": ["Filosofia_Classica"]
   },
   {
@@ -95,7 +95,7 @@
     "autor": "René Descartes",
     "sinopse": "1641. Filosofia Moderna: O nascimento da ciência moderna focado na razão humana e no Racionalismo. A obra institui a dúvida metódica como rito rigoroso para a validação do conhecimento seguro.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/meditacoes.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/meditacoes.json",
     "categorias": ["Filosofia_Moderna"]
   },
   {
@@ -104,7 +104,7 @@
     "autor": "Núcleo de Apoio ao Estudante",
     "sinopse": "Século XXI. Um panorama didático abordando os principais ciclos estruturais do país, do período colonial até a consolidação republicana. Focado na preparação de exames e roteiros de estudos nacionais.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/compendiohistoria.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/compendiohistoria.json",
     "categorias": ["Didatico_Humanas"]
   },
   {
@@ -113,7 +113,7 @@
     "autor": "Suporte de Estudos e Instrução",
     "sinopse": "Século XXI. Manual analítico focado na compreensão das bacias hidrográficas, relevo nacional, biomas e a organização do espaço demográfico, oferecendo mapas conceituais de rápida fixação.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/geografiaclima.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/geografiaclima.json",
     "categorias": ["Didatico_Humanas"]
   },
   {
@@ -122,7 +122,7 @@
     "autor": "Estudos Complementares",
     "sinopse": "Século VI a.C. Filosofia Clássica: Foco na origem do pensamento racional. Uma introdução teórica e prática aos princípios da estruturação silogística aristotélica e identificação de falácias cotidianas.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/logicaargumentacao.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/logicaargumentacao.json",
     "categorias": ["Filosofia_Classica"]
   },
   {
@@ -131,7 +131,7 @@
     "autor": "Suporte de Gramática e Texto",
     "sinopse": "Século XXI. Guia prático abordando os pilares da concordância, regência, crase e os principais ritos da redação dissertativa para exames nacionais, com exemplos resolvidos de forma didática.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/praticaslingua.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/praticaslingua.json",
     "categorias": ["Didatico_Humanas"]
   },
   {
@@ -140,7 +140,7 @@
     "autor": "Círculos de Leitura Integrada",
     "sinopse": "Século VI a.C. Filosofia Clássica: Investigação sobre a transição do pensamento mítico para a razão grega (Logos), destacando a busca pelo princípio fundamental do cosmos nas escolas pré-socráticas.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/fundamentosfilosofia.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/fundamentosfilosofia.json",
     "categorias": ["Filosofia_Classica"]
   },
   {
@@ -149,7 +149,7 @@
     "autor": "Estudos Modernos",
     "sinopse": "Século XVII. Filosofia Moderna: Foco na experiência e na razão humana. Abordagem didática simplificada sobre as engrenagens intelectuais que compõem o desenvolvimento das teorias do conhecimento moderno.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/tratadorazao.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/tratadorazao.json",
     "categorias": ["Filosofia_Moderna"]
   },
   {
@@ -158,7 +158,7 @@
     "autor": "Santo Agostinho",
     "sinopse": "c. 397 d.C. Religião e Teologia: Fusão marcante entre a razão e a fé cristã. Uma jornada profunda que une memórias pessoais, reflexão espiritual e busca sobre a natureza do tempo e a verdade de Deus.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/asconfissoes.json",
     "categorias": ["Religiao_Teologia", "Filosofia_Medieval"]
   },
   {
@@ -167,7 +167,7 @@
     "autor": "Heródoto de Halicarnasso",
     "sinopse": "c. 440 a.C. Esta é a obra pioneira que fundou a própria noção de investigação e tempo histórico da humanidade, organizando memórias coletivas e as relações geográficas das civilizações antigas.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/historias.json",
     "categorias": ["Didatico_Humanas"]
   },
   {
@@ -176,7 +176,7 @@
     "autor": "Corpo Docente e Direção",
     "sinopse": "Século XXI. Manual prático contendo as normas de conduta, deveres, ritos institucionais e diretrizes éticas para os estudantes, promovendo o exercício maduro da disciplina e o respeito mútuo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/regulamento.json",
     "categorias": ["Inst_Normas"]
   },
   {
@@ -185,7 +185,7 @@
     "autor": "Evangelho Segundo Lucas",
     "sinopse": "O Evangelho de Lucas narra a história de Jesus Cristo com rigor histórico e sensibilidade humana, apresentando-o como o Salvador de toda a humanidade.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/saolucas_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/Evangelho_Lucas.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/Evangelho_Lucas.json",
     "categorias": ["Religiao_Teologia"]
   },
   {
@@ -194,7 +194,7 @@
     "autor": "Lima Barreto",
     "sinopse": "1911. O romance narra a saga de Policarpo Quaresma, patriota idealista que propõe a oficialização do tupi-guarani. Diante da burocracia e da tirania militar, ele ruma para um fim trágico que expõe o autoritarismo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/policarpo_quaresma.json",
     "categorias": ["Literatura_BR", "Modernismo"]
   },
   {
@@ -203,7 +203,7 @@
     "autor": "Raul Pompéia",
     "sinopse": "1888. Obra-prima do Impressionismo e Realismo brasileiro. Uma crítica feroz e psicológica aos ritos internos e corrupções morais de um colégio interno sob a direção do severo Aristarco.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_ateneu.json",
     "categorias": ["Literatura_BR", "Realismo"]
   },
   {
@@ -212,7 +212,7 @@
     "autor": "Manuel Antônio de Almeida",
     "sinopse": "1852. Romance que foge ao idealismo romântico tradicional para retratar o cotidiano das classes populares e malandros do Rio de Janeiro colonial, acompanhando as traquinagens e a evolução do anti-herói Leonardo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/sargento_de_milicias.json",
     "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
@@ -221,7 +221,7 @@
     "autor": "Monteiro Lobato",
     "sinopse": "1914. O conto que chocou o cenário literário nacional ao inaugurar a figura do Jeca Tatu, criticando com ironia e crueza o abandono do caboclo do interior e desmistificando a visão romântica da vida no campo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/urupes.json",
     "categorias": ["Literatura_BR", "Modernismo"]
   },
   {
@@ -230,7 +230,7 @@
     "autor": "Álvares de Azevedo",
     "sinopse": "1855. Publicado postumamente, este livro reúne contos góticos e românticos narrados por jovens boêmios em uma taverna. As histórias exploram temas como amor, morte, loucura e o sobrenatural, refletindo o ultrarromantismo brasileiro.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noite_na_taverna.json",
     "categorias": ["Literatura_BR", "Romantismo"]
   },
   {
@@ -239,7 +239,7 @@
     "autor": "Fiódor Dostoiévski",
     "sinopse": "1848. Um jovem sonhador e solitário vaga pelas noites de São Petersburgo até encontrar Nástenka. Ao longo de quatro noites, estabelece-se um sensível e doloroso debate sobre a solidão, o amor idealizado e as ilusões da juventude.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noites_brancas_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noites_brancas.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/noites_brancas.json",
     "categorias": ["Literatura_EST", "RUS_EST"]
   },
   {
@@ -248,7 +248,7 @@
     "autor": "Edgar Allan Poe",
     "sinopse": "1845. Obra-prima da poesia gótica e fantástica. Em uma noite sombria, um amante tomado pelo luto e pela melancolia recebe a visita de um corvo misterioso, cujas respostas repetitivas o conduzem ao limiar da loucura.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_corvo_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_corvo.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/o_corvo.json",
     "categorias": ["Literatura_EST", "ANG_EST"]
   },
   {
@@ -257,7 +257,7 @@
     "autor": "William Shakespeare",
     "sinopse": "c. 1601. A tragédia definitiva da literatura ocidental. O príncipe da Dinamarca busca vingar a morte de seu pai, o rei, enfrentando dilemas existenciais profundos sobre a vida, a morte, a traição e a loucura simulada.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa1.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/hamlet.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/hamlet.json",
     "categorias": ["Literatura_EST", "ANG_EST"]
   },
   {
@@ -266,7 +266,7 @@
     "autor": "Nikolai Gogol",
     "sinopse": "1842. Obra fundadora do Realismo russo. A narrativa acompanha a história de Akaki Akakievitch, um modesto copista de repartição pública que economiza obsessivamente para comprar um novo capote, expondo a frieza da burocracia social.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocapote.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ocapote.json",
     "categorias": ["Literatura_EST", "RUS_EST"]
   },
   {
@@ -275,7 +275,7 @@
     "autor": "Júlio Verne",
     "sinopse": "1872. O clássico imortal da aventura e engenhosidade. O metódico cavalheiro inglês Phileas Fogg aposta toda a sua fortuna de que é capaz de circundar o globo terrestre em apenas 80 dias, partindo em uma jornada frenética repleta de perigos, trens, navios e perseguições pelo mundo.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/volta_mundo_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/volta_mundo.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/volta_mundo.json",
     "categorias": ["EU_OC_EST", "Literatura_EST"]
   },
   {
@@ -284,7 +284,7 @@
     "autor": "Bento Teixeira",
     "sinopse": "1601. Marco inicial do Barroco brasileiro. Este poema épico em oitava rima exalta as façanhas de Jorge de Albuquerque Coelho, terceiro donatário da capitania de Pernambuco, utilizando elementos da mitologia clássica.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/prosopopeia.json",
     "categorias": ["Literatura_BR", "Barroco_BR"]
   },
   {
@@ -293,7 +293,7 @@
     "autor": "Liev Tolstói",
     "sinopse": "1886. A história começa com a morte de Ivan Ilitch, um juiz de alto escalão, e explora as reações superficiais de seus colegas e família. A narrative então mergulha em sua vida, desde sua existência convencional e vazia até sua agonizante doença final, criticando a sociedade russa do século XIX e examinando temas de mortalidade e autenticidade.",
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch_capa.png",
-    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch.txt",
+    "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch.json",
     "categorias": ["RUS_EST", "Literatura_EST"]
   }
 ]
