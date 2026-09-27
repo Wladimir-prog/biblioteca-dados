@@ -57,5 +57,40 @@
         }
       ]
     }
+  ],
+  "raias_home": [
+    {
+      "id": "br_classicos_1",
+      "titulo": "🇧🇷 Literatura Brasileira - Clássicos I",
+      "criterio": "tag_unica",
+      "valor": "Literatura_BR",
+      "dividir_metade": true,
+      "bloco": 1
+    },
+    {
+      "id": "br_classicos_2",
+      "titulo": "🇧🇷 Literatura Brasileira - Clássicos II",
+      "criterio": "tag_unica",
+      "valor": "Literatura_BR",
+      "dividir_metade": true,
+      "bloco": 2
+    },
+    {
+      "id": "literatura_estrangeira",
+      "titulo": "🌎 Literatura Estrangeira",
+      "criterio": "tag_unica",
+      "valor": "Literatura_EST"
+    },
+    {
+      "id": "filosofia_geral",
+      "titulo": "🏛️ Filosofia",
+      "criterio": "multiplas_tags",
+      "valores_tags": [
+        "Filosofia_Classica",
+        "Filosofia_Medieval",
+        "Filosofia_Moderna",
+        "Filosofia_Contemporanea"
+      ]
+    }
   ]
 }
