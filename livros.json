@@ -295,5 +295,17 @@
     "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch_capa.png",
     "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/ivan_ilitch.json",
     "categorias": ["RUS_EST", "Literatura_EST"]
+  },
+  {
+  "id": 100,
+  "titulo": "Filosofia do Tempo Presente",
+  "autor": "Wladimir & Gemini",
+  "sinopse": "2026. Ensaio filosófico contemporâneo que investiga os labirintos da sociedade hiperconectada, a mercantilização da atenção humana, a solidão algorítmica e os novos dilemas éticos da era digital.",
+  "capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
+  "arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/filosofia_tempo_presente.json",
+  "categorias": [
+    "Filosofia",
+    "Filosofia_Contemporanea"
+  ]
   }
 ]
