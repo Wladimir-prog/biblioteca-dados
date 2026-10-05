@@ -1,0 +1,44 @@
+{
+"id": 100,
+"titulo": "Filosofia do Tempo Presente",
+"autor": "Gemini",
+"sinopse": "2026. Ensaio filosófico contemporâneo que investiga os labirintos da sociedade hiperconectada, a mercantilização da atenção humana, a solidão algorítmica e os novos dilemas éticos da era digital.",
+"capaUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/capa2.png",
+"arquivoUrl": "https://raw.githubusercontent.com/Wladimir-prog/biblioteca-dados/refs/heads/main/livros-txt/filosofia_tempo_presente.json",
+"categorias": [
+"Filosofia",
+"Filosofia_Contemporanea"
+],
+"capitulos": [
+{
+"numero": 1,
+"titulo": "Capítulo 1 | Aceleração, Cansaço e a Tirania do Desempenho",
+"paragrafos": [
+"Vivramos sob o império de uma aceleração sem precedentes na história da civilização ocidental. O tempo deixou de ser o fluir cíclico das estações ou a duração reflexiva de Bergson para transformar-se em mercadoria escassa, implacável e tirânica. Na sociedade do desempenho, descrita pelos pensadores contemporâneos, o indivíduo moderno autoproclama-se patrão de si mesmo, incorrendo numa forma de autoexploração infinitamente mais eficiente e destrutiva do que qualquer subjugação externa do passado.",
+"Essa ânsia incessante por produtividade gera uma patologia generalizada do espírito: o esgotamento crônico. A exaustão não é mais um subproduto acidental do trabalho, mas a condição estrutural de quem tenta corresponder a um imperativo impossível de total otimização. Quando tudo se torna útil e mensurável, a contemplação, o ócio criativo e o silêncio filosófico são sumariamente banidos como formas de ineficiência.",
+"O cansaço contemporâneo é solitário e silencioso. Ele isola o sujeito em sua própria couraça de performance, destruindo os laços comunitários que outrora davam sentido à existência compartilhada. Ao transformar cada cidadão em concorrente de si mesmo, o sistema econômico global corrói a capacidade de resistência crítica, substituindo o pensamento profundo pela reação imediata aos estímulos visuais e informacionais.",
+"Reaver a soberania sobre o próprio tempo exige, portanto, um ato de coragem subversiva: reaprender a arte de demorar-se nas coisas. Só através da recusa lúcida ao ritmo frenético da máquina produtiva é que o ser humano pode resgatar a dignidade do pensamento livre e a profundidade da experiência autêntica."
+]
+},
+{
+"numero": 2,
+"titulo": "Capítulo 2 | A Solidão Algorítmica e o Fim do Outro",
+"paragrafos": [
+"A promessa fundadora das redes digitais era a de aproximar a humanidade numa grande praça global de sinas e afetos desimpedidos. Contudo, o paradoxo da hiperconectividade revelou-se profundamente melancólico: nunca estivemos tão conectados tecnicamente e, simultaneamente, tão isolados existencialmente. O outro — aquele que nos desafia, nos interroga e nos confronta com a alteridade — foi transformado em mero estímulo de consumo.",
+"Os algoritmos de recomendação operam como espelhos complacentes, alimentando o sujeito com validações contínuas de suas próprias crenças, preferências e preconceitos. Ao eliminar o atrito do encontro com o pensamento divergente, constroem-se bolhas epistemológicas onde a verdade cede lugar à autocomplacência coletiva. O diálogo genuíno desaparece, substituído por monólogos simultâneos que ecoam no vazio digital.",
+"Nesse cenário de mercantilização dos afetos, as relações humanas sofrem uma erosão mercantil. Os vínculos são tratados com a mesma lógica descartável dos bens de consumo: se falham em proporcionar gratificação instantânea imediata, são descartados sem o luto do término. A amizade e o amor perdem o seu caráter de compromisso ético e transformam-se em transações de desempenho emocional.",
+"Resgatar a alteridade implica aceitar o risco do encontro real, com todas as suas asperezas, contradições e belezas imprevisíveis. A verdadeira comunidade não nasce do consenso algorítmico, mas da coragem de olhar nos olhos daquele que é radicalmente diferente de nós, reconhecendo nele um igual digno de respeito e escuta atenta."
+]
+},
+{
+"numero": 3,
+"titulo": "Capítulo 3 | A Crise da Verdade na Era da Pós-Verdade",
+"paragrafos": [
+"A filosofia contemporânea defronta-se com um sintoma alarmante: o enfraquecimento institucional e epistemológico do conceito de verdade. Na chamada era da pós-verdade, os fatos objetivos e verificáveis perderam o seu poder de convencimento público frente aos apelos emocionais, às crenças identitárias e às narrativas fabricadas para inflamar as massas nas plataformas digitais.",
+"Este fenômeno não representa apenas uma vitória passageira da desinformação, mas o colapso de uma estrutura de sentido compartilhada. Quando a opinião vale tanto quanto o conhecimento rigoroso e quando a dúvida metódica é sequestrada pelo cinismo conspiratório, a própria democracia delibera no escuro. A liberdade de expressão é pervertida em direito à fabricação industrial de inverdades sem responsabilização ética.",
+"O papel do pensamento filosófico diante dessa crise não é o de ceder ao niilismo estéril de que 'tudo é mentira', mas o de reatar os laços entre o saber, a responsabilidade e o bem comum. A razão crítica continua a ser a ferramenta mais potente de emancipação de que dispomos para iluminar as sombras da manipulação ideológica e tecnológica.",
+"Construir um futuro ético exige resgatar a coragem de buscar a verdade com rigor e honestidade intelectual, compreendendo que a liberdade sem compromisso com a realidade objetiva conduz invariavelmente à barbárie e à servidão voluntária. O pensamento livre é, em última análise, a trincheira intransigente contra a tirania da ilusão."
+]
+}
+]
+}
